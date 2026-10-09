@@ -11,7 +11,7 @@ page.on("console", (m) => m.type() === "error" && console.log("CONSOLE", m.text(
 await page.clock.install({ time: new Date(time) });
 for (const r of routes) {
   const [hash, scroll = "0"] = r.split("@");
-  await page.goto("http://localhost:5180/" + hash);
+  await page.goto((process.env.BASE ?? "http://localhost:5180/") + hash);
   await page.waitForTimeout(900);
   await page.evaluate((y) => window.scrollTo(0, Number(y)), scroll);
   await page.waitForTimeout(700);

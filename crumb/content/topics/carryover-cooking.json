@@ -47,7 +47,7 @@
       "supports": "מנגנון החום שממשיך לנדוד פנימה, טווח העלייה, השפעת גודל הנתח ותכולת המים, המחקר על מנוחה ועסיסיות"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -70,5 +70,9 @@
     "correct": 1,
     "explanation": "בנתח גדול ודחוס יש הרבה מסה ביחס לשטח הפנים, ולכן הוא מאבד חום לאט ואוגר יותר ממנו בשכבות החיצוניות. החום הזה ממשיך לנדוד פנימה, והמרכז מתחמם עוד אחרי ההוצאה מהתנור."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Wikipedia source loads and supports mechanism, 3-14 C range, size and water-content effects, and resting research; quiz index correct; safety deferral to thermometer and official guidelines is sound; no edits."
+  }
 }

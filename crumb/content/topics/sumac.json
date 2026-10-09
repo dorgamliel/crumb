@@ -18,19 +18,52 @@
   ],
   "takeaway": "פרסו בצל סגול דק, ערבבו עם כפית סומק וקורט מלח, והניחו לרבע שעה. תקבלו תוספת אדמדמה וחמצמצה לבשר צלוי, לפיתה או לחביתה.",
   "related": [
-    { "target": "acidity", "kind": "explains", "why": "סומק הוא דרך להוסיף חומציות למנה בלי להוסיף לה נוזל." },
-    { "target": "spices", "kind": "relative", "why": "כמו תבלינים טחונים אחרים, גם סומק מאבד מהטעם שלו כשהוא עומד זמן רב פתוח." },
-    { "target": "zaatar", "kind": "relative", "why": "הסומק הוא חלק מתערובת הזעתר ונותן לה את החמיצות ואת הצבע." },
-    { "target": "lemon", "kind": "relative", "why": "גם לימון וגם סומק מחמיצים, אבל הלימון מביא איתו נוזל, והסומק נשאר יבש." },
-    { "target": "onion", "kind": "example", "why": "בצל עם סומק ומלח הוא אחד השימושים הנפוצים בתבלין." }
+    {
+      "target": "acidity",
+      "kind": "explains",
+      "why": "סומק הוא דרך להוסיף חומציות למנה בלי להוסיף לה נוזל."
+    },
+    {
+      "target": "spices",
+      "kind": "relative",
+      "why": "כמו תבלינים טחונים אחרים, גם סומק מאבד מהטעם שלו כשהוא עומד זמן רב פתוח."
+    },
+    {
+      "target": "zaatar",
+      "kind": "relative",
+      "why": "הסומק הוא חלק מתערובת הזעתר ונותן לה את החמיצות ואת הצבע."
+    },
+    {
+      "target": "lemon",
+      "kind": "relative",
+      "why": "גם לימון וגם סומק מחמיצים, אבל הלימון מביא איתו נוזל, והסומק נשאר יבש."
+    },
+    {
+      "target": "onion",
+      "kind": "example",
+      "why": "בצל עם סומק ומלח הוא אחד השימושים הנפוצים בתבלין."
+    }
   ],
   "sources": [
-    { "title": "Sumac", "publisher": "Wikipedia (באנגלית)", "url": "https://en.wikipedia.org/wiki/Sumac", "supports": "המין המשמש כתבלין, משפחת הצמח, מקור השם, חומצה מאלית, טאנינים ושימושים במטבח" }
+    {
+      "title": "Sumac",
+      "publisher": "Wikipedia (באנגלית)",
+      "url": "https://en.wikipedia.org/wiki/Sumac",
+      "supports": "המין המשמש כתבלין, משפחת הצמח, מקור השם, חומצה מאלית, טאנינים ושימושים במטבח"
+    }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
-  "keywords": ["סומאק", "אוג", "אוג הבורסקאים", "תבלין חמוץ", "בצל בסומק", "מוסחן", "תבלין אדום"],
+  "keywords": [
+    "סומאק",
+    "אוג",
+    "אוג הבורסקאים",
+    "תבלין חמוץ",
+    "בצל בסומק",
+    "מוסחן",
+    "תבלין אדום"
+  ],
   "quiz": {
     "question": "מה נותן לסומק את הטעם החמוץ?",
     "options": [
@@ -42,5 +75,9 @@
     "correct": 1,
     "explanation": "החמיצות של סומק טבעית. היא באה בעיקר מחומצה מאלית שבפירות עצמם, אותה חומצה שיש גם בתפוחים."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Checked against en.wikipedia Sumac; replaced unsupported stuffed-falafel claim with the sourced 'commonly added to falafel', two small Hebrew fixes; quiz correct."
+  }
 }

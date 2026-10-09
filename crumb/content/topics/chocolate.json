@@ -47,7 +47,7 @@
       "supports": "תסיסה וקלייה, טחינה דקה, שש צורות הגבישים וטמפרור, הלבנה של שוקולד ותנאי אחסון"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -70,5 +70,9 @@
     "correct": 1,
     "explanation": "חמאת קקאו יכולה להתגבש בשש צורות, ורק אחת נותנת ברק, יציבות ושבירה נקייה. החימום והקירור המבוקרים בטמפרור מסלקים את הגבישים האחרים ומעודדים את הצורה הרצויה."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Fermentation up to 7 days, conching, six crystal forms/tempering, bloom thresholds (24/15 C), safety of bloom and 15-17 C storage verified on en.wikipedia Chocolate; photo removed (embossed brand lettering, dark vs milk not verifiable)."
+  }
 }

@@ -63,7 +63,7 @@
       "supports": "סולם סקוביל וערכי החריפות של חלפיניו"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -87,5 +87,9 @@
     "correct": 1,
     "explanation": "הזרעים עצמם לא מייצרים קפסאיצין. הריכוז הגבוה ביותר נמצא בציפה הלבנה שבתוך הפרי, ולכן כדי להפחית חריפות צריך לגרד החוצה אותה, ולא רק את הזרעים."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Both Wikipedia sources load and support TRPV1, birds, placenta vs seeds, solubility, casein in milk and jalapeno 2,500-10,000 SHU; photo matches alt; softened unsupported 'water spreads it around' line."
+  }
 }

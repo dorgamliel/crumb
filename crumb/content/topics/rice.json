@@ -70,7 +70,7 @@
       "supports": "שיטות בישול: סינון לעומת ספיגה, השארה מכוסה בחום שנשאר"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -108,5 +108,9 @@
       ]
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All three sources load and support amylose/amylopectin, grain types, glutinous rice gluten-free, draining vs absorption method; quiz correct; photo matches."
+  }
 }

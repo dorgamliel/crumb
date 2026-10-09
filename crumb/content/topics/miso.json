@@ -58,7 +58,7 @@
       "supports": "רכיבים, הקוג׳י והאנזימים, מיסו לבן ואדום, תגובת מייאר, הוספה בסוף הבישול"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -82,5 +82,9 @@
     "correct": 2,
     "explanation": "מיסו אדום מתיישן זמן רב יותר, לפעמים יותר משנה. במהלך הזמן הזה תגובת מייאר בין חומצות אמינו לסוכרים מכהה אותו בהדרגה. גם כמות גדולה יותר של סויה תורמת לצבע כהה."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Koji enzymes, glutamate, Maillard darkening, white vs red, 5 days to years, add at end all supported by Wikipedia; photo matches; fixed repetitive phrasing."
+  }
 }

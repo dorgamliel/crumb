@@ -64,7 +64,7 @@
       "supports": "גרגרים מושרים וטחונים כבסיס לפלאפל"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -102,5 +102,9 @@
     "correct": 1,
     "explanation": "גרגר מבושל כבר ספג מים והתרכך, והעיסה ממנו רטובה מדי ומתפרקת בשמן. גרגר שרק הושרה נטחן לעיסה יציבה יותר, והעמילן שבו מתבשל רק בטיגון."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Source supports ta'ameya name, fava vs chickpea by region, uncertain origin, soaked-not-cooked rule with flour binder, herbs/spices, green vs tan interior, sesame, sumac-onion filling, frying or baking. Fixed alt text (rows on a tray, not a pile). Photo matches."
+  }
 }

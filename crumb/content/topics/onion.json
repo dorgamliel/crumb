@@ -70,7 +70,7 @@
       "supports": "קרמול בצל לוקח 30 עד 45 דקות; מרק בצל צרפתי"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -92,5 +92,9 @@
     "correct": 2,
     "explanation": "בבסיס הבצל, באזור השורשים, תרכובות הגופרית מרוכזות יותר מבשאר הבצל. כשמשאירים אותו שלם עד הסוף, משתחרר פחות מהגז שמגרה את העיניים."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All 3 sources load and support the tear mechanism, root-end tip, cutting under water, 89% water, 30-45 min caramelizing; dropped an unsupported line on pungent varieties and fixed the photo alt (one onion is halved); quiz index correct."
+  }
 }

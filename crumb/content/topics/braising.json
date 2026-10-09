@@ -53,7 +53,7 @@
       "supports": "קולגן שמתפרק לג׳לטין בבישול ממושך של רקמת חיבור"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -91,5 +91,9 @@
       ]
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All claims (two-thirds liquid, sear then low simmer, meat loses moisture, collagen to gelatin) supported by Wikipedia Braising and Gelatin; quiz correct; Hebrew fine; no edits."
+  }
 }

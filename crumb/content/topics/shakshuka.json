@@ -58,7 +58,7 @@
       "supports": "הרכב המנה, מקור השם, ההשערות על מקורה והגרסאות השונות"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -80,5 +80,9 @@
     "correct": 1,
     "explanation": "הרוטב מבשל את הביצה מלמטה, אבל החלק העליון שלה רחוק מהחום. האדים שנלכדים מתחת למכסה מבשלים גם אותו, כך שהחלבון מתייצב בלי שהרוטב בתחתית יישרף."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Source supports ingredients, Maghrebi 'mixture' etymology, Ottoman and Mediterranean-stew hypotheses, cheese/olives/harissa/merguez variants; lid and thick-sauce technique is standard cookbook knowledge. Removed unsupported Shabbat-leftovers tradition claim. Photo matches."
+  }
 }

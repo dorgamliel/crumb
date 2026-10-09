@@ -63,7 +63,7 @@
       "supports": "גילוי האומאמי, מקורות גלוטמט, הסינרגיה עם אינוזינאט וגואנילאט, דאשי"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -87,5 +87,9 @@
     "correct": 1,
     "explanation": "קומבו עשירה בגלוטמט, ובוניטו מיובש עשיר באינוזינאט. כששני החומרים נפגשים, טעם האומאמי חזק יותר ממה שהיה מתקבל מכל אחד מהם לבד."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Umami page supports Ikeda 1908 kombu, glutamate sources, IMP/GMP synergy, dashi, protein breakdown; photo matches alt; fixed Hebrew for glutamic acid."
+  }
 }

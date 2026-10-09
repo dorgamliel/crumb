@@ -130,14 +130,20 @@ test("Hebrew search ignores niqqud and prefixes, and combines with categories", 
   await search.fill("הקפה");
   await expect(results.first()).toHaveText("קפה");
   await search.fill("מיונז");
-  await expect(results).toHaveText(["תחליבים"]);
+  await expect(results.filter({ hasText: /^תחליבים$/ })).toHaveCount(1);
   await search.fill("ג'לטיניזציה");
   await expect(results.first()).toBeVisible();
 
   await search.fill("חלב");
   await page.getByRole("button", { name: "חומרי גלם" }).click();
   await expect(results.first()).toBeVisible();
-  for (const name of await results.allTextContents()) expect(["יוגורט", "חמאה", "גבינה", "ביצים"]).toContain(name);
+  // Every result must be an ingredient; the library grows, so check the rule rather than a fixed list.
+  const kinds: Record<string, string> = Object.fromEntries(
+    ((await (await page.request.get("/content/index.json")).json()).topics as { name: string; kind: string }[]).map((t) => [t.name, t.kind]),
+  );
+  const names = await results.allTextContents();
+  expect(names).toContain("יוגורט");
+  for (const name of names) expect(kinds[name], name).toBe("ingredients");
 
   await search.fill("זזזז");
   await expect(page.getByText("לא מצאנו נושא כזה.")).toBeVisible();

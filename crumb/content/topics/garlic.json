@@ -70,7 +70,7 @@
       "supports": "סכנת בוטוליזם בשמן עם שום טרי; שום מיובש כדרך הבטוחה"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -99,5 +99,9 @@
       "text": "שום שנכבש בחומץ הופך לפעמים לכחול או לירוק. תרכובות הגופרית שבו מגיבות עם חומצות אמינו ויוצרות פיגמנטים. הצבע מפתיע, אבל הוא בטוח לאכילה."
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All 3 sources load and support allicin chemistry, 10-20 cloves, cooking mellowing, toum/aioli, blue-green pickling and the botulism warning; softened the 'whole clove has no smell' claims (Wikipedia says the bulb has a strong odor); quiz and photo OK."
+  }
 }

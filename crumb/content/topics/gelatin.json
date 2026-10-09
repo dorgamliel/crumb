@@ -64,7 +64,7 @@
       "supports": "אנזימים בפירות טריים, השבתתם בבישול, השריית הג׳לטין לפני החימום"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -94,5 +94,9 @@
       "text": "ציר עוף שהתקרש במקרר הוא סימן טוב. זה ג׳לטין שהשתחרר מהעצמות ומהעור בזמן הבישול, והוא מה שנותן לציר גוף ומרקם עשיר."
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Both Wikipedia sources load and support collagen origin, 5-10x water absorption, sub-body-temp melting, fish gelatin, enzyme fruits, canning and blooming; quiz correct; fixed alt text (photo shows panna cotta, not visibly trembling)."
+  }
 }

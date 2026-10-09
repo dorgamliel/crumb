@@ -53,7 +53,7 @@
       "supports": "צורת הגבישים של מלח גס ומשקלו בכפית לעומת מלח דק"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -92,5 +92,9 @@
       ]
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Both sources load and support composition, bitterness suppression, sea-salt flavour and coarse-salt density; softened 'almost always' claim about salt in cakes."
+  }
 }

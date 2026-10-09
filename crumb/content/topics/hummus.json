@@ -69,7 +69,7 @@
       "supports": "החומוס כקטנייה ושימושיו במטבח"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -92,5 +92,9 @@
     "correct": 1,
     "explanation": "הסודה הופכת את המים לבסיסיים, ובסביבה כזאת הקליפה והגרגר מתרככים מהר יותר. גרגר רך מאוד נטחן לחומוס חלק יותר."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Sources load and support name, composition, origin dispute, 13th-14th c. recipes, warm Levantine serving, Israeli tahini use; baking-soda and texture points are standard cookbook knowledge. Fixed ambiguous 'שום' (garlic/none) phrasing and narrowed falafel relation to the Levant. Photo matches."
+  }
 }

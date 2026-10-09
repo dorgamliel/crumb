@@ -58,7 +58,7 @@
       "supports": "שקדים חלוטים והסרת הקליפה"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -81,5 +81,9 @@
     "correct": 1,
     "explanation": "אנזימים בירק ממשיכים לפעול גם במקפיא, וגורמים להשחמה, לריכוך ולטעמי לוואי. החום של החליטה מנטרל אותם. הוא לא הורג את כל המיקרואורגניזמים, ולכן החליטה היא רק שלב הכנה."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Enzyme inactivation, air removal, peeling, under/over-blanching and no sterilization all supported by Wikipedia; quiz correct; changed first fact to 'preheating, blanching, cooling' to match source."
+  }
 }

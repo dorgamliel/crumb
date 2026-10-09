@@ -47,7 +47,7 @@
       "supports": "הסוק, הנוזלים המתאימים, מוצרי חלב, הסמכת הרוטב, שימוש בירקות ובבצל מקורמל"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -70,5 +70,9 @@
     "correct": 1,
     "explanation": "הדגלזה נעשית במחבת חמה מאוד, מיד אחרי הצריבה. בחום כזה מוצרי חלב עלולים להיקרש. ציר, יין או משקה חריף ממיסים את השכבה החומה בלי הבעיה הזו."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All claims supported by Wikipedia Deglazing (fat poured off, stock/wine/spirit, dairy curdles, butter/starch/reduction, onions); quiz OK; fixed 'משמש כממס'; photo showed a plated dish, not deglazing, so image set to null and webps deleted."
+  }
 }

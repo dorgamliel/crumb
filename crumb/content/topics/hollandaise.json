@@ -65,7 +65,7 @@
       "supports": "ביצים מפוסטרות במנות עם ביצה לא מבושלת עד הסוף, וקבוצות בסיכון"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -88,5 +88,9 @@
     "correct": 1,
     "explanation": "בהולנדז החלמון אמור רק להתחמם ולהסמיך, לא להיקרש כמו ברפרפת. בחום מוגזם חלבוני החלמון נקרשים לגושים קטנים, והרוטב החלק נעשה גרגרי."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All claims checked against Wikipedia and FDA egg safety page (pasteurized eggs advised); quiz correct; photo matches. Fixed alt text, hedged double-boiler as 'sometimes', clarified cayenne pepper."
+  }
 }

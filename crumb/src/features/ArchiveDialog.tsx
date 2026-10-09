@@ -36,6 +36,12 @@ export function ArchiveDialog({ open, onClose, onChoose, now, current }: Props) 
       onClose={() => {
         document.documentElement.classList.remove("no-scroll");
         onClose();
+        // The trigger can be re-rendered while the dialog is open (the cover finishes loading),
+        // so the browser's own focus return may point at a detached node. Return it explicitly.
+        requestAnimationFrame(() => {
+          const trigger = Array.from(document.querySelectorAll<HTMLElement>("[data-archive-trigger]")).find((e) => e.offsetParent !== null);
+          if (trigger && (!document.activeElement || document.activeElement === document.body)) trigger.focus();
+        });
       }}
       onClick={(e) => {
         // A click on the backdrop lands on the dialog element itself.

@@ -19,8 +19,8 @@ async function strayLatin(page: import("@playwright/test").Page) {
     while ((n = walker.nextNode())) {
       const el = n.parentElement;
       if (!el || allowed(el) || el.closest("[hidden]")) continue;
-      // The botanical name of black pepper is the one Latin term the content uses on purpose.
-      const text = (n.textContent ?? "").replace("Piper nigrum", "");
+      // Botanical names are the one Latin the content uses on purpose: "(Genus species)" or "בשם Genus species".
+      const text = (n.textContent ?? "").replace(/\(?[A-Z][a-z]+ [a-z]+\)?/g, "");
       if (/[A-Za-z]{2,}/.test(text)) found.push((n.textContent ?? "").trim().slice(0, 60));
     }
     // Accessible names too.

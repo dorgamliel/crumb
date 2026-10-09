@@ -63,7 +63,7 @@
       "supports": "זני האורז, איסור השטיפה, שלבי הבישול, הבחישה ושחרור העמילן, המתכון מ־1809"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -98,5 +98,9 @@
       ]
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All claims (varieties, no rinsing, tostatura, stirring, mantecatura, 1809 recipe, Lombardy) match Wikipedia; photo matches; replaced calqued 'מקציפים' with 'מערבבים במרץ'."
+  }
 }

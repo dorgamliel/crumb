@@ -58,7 +58,7 @@
       "supports": "מבנה הפקטין, פירות עשירים ודלים בו, תנאי הג׳ל, פקטין דל־מתוקסיל, מקורות מסחריים"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -81,5 +81,9 @@
     "correct": 1,
     "explanation": "תותים דלים בפקטין, ולכן ריבה מהם מתקשה להתייצב. תפוחים עשירים בפקטין, ובישול שלהם יחד עם התותים מוסיף לריבה את מה שחסר לה כדי לבנות ג׳ל."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Wikipedia Pectin supports cell-wall role, high/low pectin fruits, >60% soluble solids with acid, LM pectin with calcium, citrus peel and apple pomace as commercial sources; wrinkle test and apple-with-strawberry are standard; canning caveat present; quiz correct; photo of strawberry jam matches alt."
+  }
 }

@@ -64,7 +64,7 @@
       "supports": "קימצ׳י ותיק כבסיס לתבשיל"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -93,5 +93,9 @@
       "text": "הקימצ׳י המוקדם לא היה חריף. פלפל הצ׳ילי הגיע לקוריאה רק בתחילת המאה ה־17, ונעשה רכיב נפוץ בקימצ׳י רק במאה ה־19."
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Ingredients, spontaneous LAB fermentation, Leuconostoc-to-Lactobacillus succession, CO2, onggi storage, chili history and aged kimchi for jjigae verified; no home-fermentation instructions; alt text corrected to stir-fried kimchi with tofu; 'קבוצה' to 'צנצנת'."
+  }
 }

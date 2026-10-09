@@ -168,7 +168,7 @@ export function Today({ now, visible }: { now: Date; visible: boolean }) {
                 </p>
                 <p className="masthead__tag">משהו טעים לגלות.</p>
               </div>
-              <button type="button" className="icon-button masthead__archive" onClick={() => setArchiveOpen(true)} aria-haspopup="dialog">
+              <button type="button" className="icon-button masthead__archive" onClick={() => setArchiveOpen(true)} aria-haspopup="dialog" data-archive-trigger>
                 <Archive size={20} aria-hidden="true" />
                 <span className="sr-only">ארכיון מהדורות</span>
               </button>

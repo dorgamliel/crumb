@@ -58,7 +58,7 @@
       "supports": "הצמח והתערובת, הגרסאות האזוריות, הזיהוי עם האזוב המקראי והשימושים במטבח"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -96,5 +96,9 @@
     "correct": 1,
     "explanation": "בגרסאות הלבנוניות שמים כמות גדולה של סומק, תבלין אדום וחמצמץ, והוא צובע את כל התערובת."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All claims (species, regional blends, Saadia/Maimonides hyssop identification, manakish, uses, quiz) supported by en.wikipedia Za'atar; photo matches alt; no edits needed."
+  }
 }

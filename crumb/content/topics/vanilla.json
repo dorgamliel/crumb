@@ -58,7 +58,7 @@
       "supports": "האבקה ידנית, אדמונד אלביוס, שלבי ההבשלה, ונילין סינתטי, מספר חומרי הריח, מחיר ושרידי ונילין בירושלים"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -86,5 +86,9 @@
       "text": "בכדי יין מירושלים, מהתקופה שלפני חורבן הבית הראשון, נמצאו שרידי ונילין. הם הגיעו כנראה ממין וניל של העולם הישן, הרבה לפני שהווניל האמריקאי הגיע לכאן."
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All claims (hand pollination, Albius 1841, glucovanillin and curing stages, 95% synthetic, 171 aroma compounds, saffron, Jerusalem vanillin) verified on en.wikipedia Vanilla; fixed Albius spelling, hedged the killing step, minor Hebrew and alt-text tweaks; photo OK."
+  }
 }

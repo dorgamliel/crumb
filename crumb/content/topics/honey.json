@@ -58,7 +58,7 @@
       "supports": "תכולת המים, הרכב הסוכרים, התגבשות, נקודת ההמסה, עמידות לקלקול, ספיגת לחות והשחמה"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -87,5 +87,9 @@
     "correct": 2,
     "explanation": "בדבש יש יותר סוכר ממה שהמים בו יכולים להמיס, והגלוקוז מתגבש עם הזמן, במיוחד במקום קריר. זה תהליך טבעי, וחימום עדין מחזיר את הדבש לנוזל."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All claims (water %, glucose crystallization, 13-17C, 40-50C melt, hygroscopy/fermentation, caramel/Maillard) verified on Wikipedia; fixed 'על־רוויה' term and alt text to match photo (two jars, dipper)."
+  }
 }

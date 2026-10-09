@@ -63,7 +63,7 @@
       "supports": "מבנה הפרח, מספר הפרחים לגרם, קרוצין, פיקרוקרוצין וספרנל, מרירות בכמות גדולה, זיופים ודרגות איכות"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -85,5 +85,9 @@
     "correct": 1,
     "explanation": "הצבע של זעפרן מגיע מקרוצין, פיגמנט שמתמוסס היטב במים. כשמשרים את החוטים, הנוזל נצבע, והאורז שסופג אותו מקבל גוון זהוב אחיד."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Source supports 150 flowers per gram, same-day wilting, crocin/picrocrocin/safranal, bitterness, adulteration, red-vs-yellow grading; vanilla claim verified; reworded a misleading spices relation line."
+  }
 }
