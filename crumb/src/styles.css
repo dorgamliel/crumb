@@ -1,9 +1,10 @@
 /* ───────────────────────── Tokens ───────────────────────── */
 
 :root {
-  --serif: "Frank Ruhl Libre", "David Libre", "Times New Roman", serif;
+  /* Headings: Rubik, a modern Hebrew sans. Body: Heebo. The token keeps its old name. */
+  --serif: "Rubik Variable", "Rubik", "Heebo Variable", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
   --sans: "Heebo Variable", "Heebo", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
-  --mark: "DM Serif Display", Georgia, serif;
+  --mark: "Rubik Variable", "Rubik", system-ui, sans-serif;
 
   --paper: #f5ede0;
   --paper-2: #ece1cd;
@@ -201,7 +202,7 @@ a {
 
 .section-title {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.5rem;
   line-height: 1.2;
 }
@@ -468,9 +469,10 @@ a {
 
 .wordmark {
   font-family: var(--mark);
-  font-size: 2.1rem;
-  line-height: 1;
-  letter-spacing: -0.02em;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 1.12;
+  letter-spacing: -0.04em;
   text-align: right;
 }
 
@@ -505,9 +507,9 @@ a {
 .front__title {
   margin-block-start: 4px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(2.2rem, 10vw, 3.4rem);
-  line-height: 1.02;
+  line-height: 1.12;
   text-wrap: balance;
 }
 
@@ -672,7 +674,7 @@ a {
 
 .minibar__title {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1rem;
 }
 
@@ -743,9 +745,9 @@ a {
 
 .cover__title {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(2.2rem, 10.5vw, 3.4rem);
-  line-height: 1.04;
+  line-height: 1.12;
   text-wrap: balance;
 }
 
@@ -882,7 +884,7 @@ a {
 
 .card__title {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.22rem;
   line-height: 1.2;
   text-wrap: balance;
@@ -907,7 +909,7 @@ a {
 .feature__title {
   margin-block-start: 6px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(1.7rem, 7vw, 2.3rem);
   line-height: 1.1;
   text-wrap: balance;
@@ -943,7 +945,7 @@ a {
   inset-inline-end: 12px;
   font-family: var(--serif);
   font-size: 11rem;
-  line-height: 1;
+  line-height: 1.12;
   opacity: 0.16;
 }
 
@@ -983,9 +985,9 @@ a {
 .spotlight__name {
   margin-block-start: 4px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(2.6rem, 13vw, 3.4rem);
-  line-height: 1;
+  line-height: 1.12;
 }
 
 .spotlight__headline {
@@ -1014,7 +1016,7 @@ a {
 .spotlight__facts li::before {
   content: counter(fact, hebrew);
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   color: var(--accent);
 }
 
@@ -1081,7 +1083,7 @@ a {
 
 .strip__title {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.3rem;
   line-height: 1.15;
   text-wrap: balance;
@@ -1095,7 +1097,7 @@ a {
 .compare__title {
   margin-block: 4px 16px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(1.6rem, 7vw, 2.1rem);
   line-height: 1.12;
 }
@@ -1124,7 +1126,7 @@ a {
 .compare__label {
   margin-block-end: 6px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.3rem;
   color: var(--ink);
 }
@@ -1171,7 +1173,7 @@ a {
 .steps__title {
   margin-block: 4px 12px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.6rem;
   line-height: 1.15;
 }
@@ -1194,9 +1196,9 @@ a {
 .steps__list li::before {
   content: counter(step);
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.8rem;
-  line-height: 1;
+  line-height: 1.12;
   color: var(--accent);
 }
 
@@ -1212,7 +1214,7 @@ a {
 .quiz__question {
   margin-block: 6px 16px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(1.4rem, 6vw, 1.75rem);
   line-height: 1.2;
   text-wrap: balance;
@@ -1261,7 +1263,7 @@ h3.quiz__question {
   border-radius: 50%;
   background: var(--paper-2);
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .quiz__mark {
@@ -1360,7 +1362,7 @@ h3.quiz__question {
 .lab__title {
   margin-block: 4px 4px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(1.45rem, 6vw, 1.8rem);
   line-height: 1.15;
 }
@@ -1465,7 +1467,7 @@ h3.lab__title {
 
 .lab__stage-name {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.2rem;
   color: var(--accent);
 }
@@ -1498,7 +1500,7 @@ h3.lab__title {
 
 .slider__value {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.3rem;
   color: var(--accent);
 }
@@ -1659,9 +1661,9 @@ h3.lab__title {
 
 .ending__title {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(2.4rem, 11vw, 3.4rem);
-  line-height: 1.05;
+  line-height: 1.12;
 }
 
 .ending__sub {
@@ -1698,7 +1700,7 @@ h3.lab__title {
 
 .ending__onward-name {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.4rem;
 }
 
@@ -1743,9 +1745,9 @@ h3.lab__title {
 
 .page-head__title {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(2.5rem, 12vw, 3.4rem);
-  line-height: 1;
+  line-height: 1.12;
 }
 
 .page-head__sub {
@@ -1904,7 +1906,7 @@ h3.lab__title {
 
 .atlas__center-name {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.6rem;
 }
 
@@ -2026,7 +2028,7 @@ h3.lab__title {
 
 .map__node--center .map__name {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(0.95rem, 4.4cqw, 1.1rem);
 }
 
@@ -2074,7 +2076,7 @@ h3.lab__title {
 
 .row__name {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.2rem;
   line-height: 1.2;
 }
@@ -2118,7 +2120,7 @@ h3.lab__title {
 
 .empty__title {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.35rem;
   color: var(--ink);
 }
@@ -2280,9 +2282,9 @@ h3.lab__title {
 .article__title {
   margin-block-start: 2px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(2.1rem, 9.5vw, 3rem);
-  line-height: 1.06;
+  line-height: 1.12;
   text-wrap: balance;
   outline: none;
 }
@@ -2304,8 +2306,8 @@ h3.lab__title {
 }
 
 .article__body .lede {
-  font-family: var(--serif);
-  font-size: 1.28rem;
+  font-size: 1.22rem;
+  font-weight: 450;
   line-height: 1.7;
 }
 
@@ -2345,7 +2347,7 @@ h3.lab__title {
   align-items: center;
   gap: 8px;
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.3rem;
 }
 
@@ -2410,7 +2412,7 @@ h3.lab__title {
 
 .related__name {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.15rem;
 }
 
@@ -2642,7 +2644,7 @@ html[data-period="evening"] .toast {
 
 .sheet__head h2 {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.6rem;
 }
 
@@ -2672,7 +2674,7 @@ html[data-period="evening"] .toast {
 
 .archive__date {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.1rem;
 }
 
@@ -2844,9 +2846,9 @@ html[data-period="evening"] .toast {
 
 .pic__letter {
   font-family: var(--serif);
-  font-weight: 700;
+  font-weight: 600;
   font-size: clamp(2.4rem, 22cqw, 7rem);
-  line-height: 1;
+  line-height: 1.12;
   opacity: 0.85;
 }
 
