@@ -63,7 +63,7 @@
       "supports": "יחס קמח ושומן, סדר הפעולות, צמצום הגלוטן, שומן קר וכיסי אדים, סוגי הבצק הצרפתיים"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -86,5 +86,9 @@
     "correct": 1,
     "explanation": "שומן שמצפה את גרגרי הקמח מפריע לחלבונים לפגוש מים ולהתחבר לגלוטן. כך הבצק נשאר רך ומתפורר בפה במקום להיות קפיצי וקשה."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Ratio, rubbing-in order, gluten, steam pockets, sablee/sucree and low-protein flour verified on Wikipedia; removed unsupported 'in Britain', named pate sablee, corrected sucree texture to snappy not crumbly; photo matches alt."
+  }
 }

@@ -63,7 +63,7 @@
       "supports": "רכיבים, תפיחה מאדים, בישול הקמח וג׳לטיניזציה, מקור השם והמיתוס, שימושים"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -97,5 +97,9 @@
     "correct": 2,
     "explanation": "אין בבצק רבוכה שום חומר תפיחה. בישול הקמח בסיר מאפשר לבצק להחזיק הרבה מים, ובתנור המים הופכים לאדים שמנפחים אותו מבפנים, בזמן שהביצים מתקשות סביבו."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All claims (ingredients, steam rise, starch gelling, pate a chaud, 1890s Popelini myth, churros) verified on Wikipedia; fixed ungrammatical frying sentence and narrowed churros fact; photo matches alt."
+  }
 }

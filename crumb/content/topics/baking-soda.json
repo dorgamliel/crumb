@@ -64,7 +64,7 @@
       "supports": "טבילה בתמיסה בסיסית נותנת לבייגלה את הקליפה והטעם"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -86,5 +86,9 @@
     "correct": 1,
     "explanation": "בלי חומצה, החום מפרק את הסודה ומשחרר רק חצי מהגז. השאר הופך לנתרן קרבונט, שבסיסי יותר ונותן טעם מר וסבוני וצבע צהוב."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All 3 Wikipedia sources load and support acid reaction, half-CO2 without acid, soapy/yellow carbonate, alkaline Maillard and lye pretzels; fixed dek wording."
+  }
 }

@@ -58,7 +58,7 @@
       "supports": "הכימיה של הקצף, תפקיד החומצה והסוכר, טמפרטורות אפייה, הזעה ולחות, ההיסטוריה"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -92,5 +92,9 @@
     "correct": 2,
     "explanation": "סוכר וחלבון ביצה הם שניהם חומרים שמושכים מים. באוויר הלח של המקרר המרנג סופג לחות ומאבד את הפריכות. קופסה אטומה במקום יבש שומרת עליו."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Wikipedia supports protein chemistry, 6-8x volume, 80-90C up to 2h, 1692 Massialot, hygroscopic sweating; replaced unsupported storage times in takeaway with sourced ~2 weeks airtight/cool; alt text 'white' -> 'light'."
+  }
 }

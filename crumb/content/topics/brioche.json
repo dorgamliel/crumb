@@ -63,7 +63,7 @@
       "supports": "רכיבים, יחסי קמח וחמאה, התפיחה במקרר, טמפרטורת האפייה, בוסטוק והציטוט של רוסו"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -91,5 +91,9 @@
     "correct": 1,
     "explanation": "בבצק עשיר כל כך בחמאה, הקור מקשה את השומן והבצק מפסיק להיות דביק. השמרים לא נעצרים, הם רק עובדים לאט יותר, וזמן ההתססה הארוך תורם לטעם."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "All ratios, Roux 700 g, 90 C core, cold retard, bostock and Rousseau note verified on Wikipedia; quiz correct; fixed alt text (no visible topknots, unbaked braids shown)."
+  }
 }

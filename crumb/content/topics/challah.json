@@ -63,7 +63,7 @@
       "supports": "מקור השם, הפרשת חלה, רכיבים, פרווה, מקור הצמה, לחם משנה ושתים־עשרה הרצועות"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -86,5 +86,9 @@
     "correct": 1,
     "explanation": "חלה מוגשת בסעודות שבת וחג, שהן לרוב בשריות. לפי דיני הכשרות אי אפשר לשלב בהן חלב, ולכן החלה נשארת פרווה, וזה ההבדל המרכזי בינה לבין בריוש."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Etymology, dough offering, ingredients, pareve, braid-origin theories, double loaf and twelve strands verified; softened 'always pareve' and honey relation, fixed gender agreement; photo good."
+  }
 }

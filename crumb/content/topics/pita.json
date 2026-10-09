@@ -63,7 +63,7 @@
       "supports": "רכיבים, היווצרות הכיס מאדים, טמפרטורות אפייה, היסטוריה ומקור השם"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -85,5 +85,9 @@
     "correct": 1,
     "explanation": "בתנור לוהט המים שבבצק הופכים לאדים במהירות ודוחפים את שתי הדפנות זו מזו. השכבות נאפות בנפרד, וגם אחרי שהפיתה שוקעת נשאר ביניהן כיס."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Steam pocket, 230-245 C, 430-480 C commercial one-minute bake, 14,500-year flatbread, Babylon and etymology verified; softened Greek-usage line, fixed alt text (wicker basket); quiz correct."
+  }
 }

@@ -63,7 +63,7 @@
       "supports": "סודה היא בסיס ומגיבה עם החומצות שבאבקה"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -100,5 +100,9 @@
     "correct": 1,
     "explanation": "החומצה והסודה מגיבות ברגע שיש לחות. העמילן סופג את הלחות מהאוויר ושומר על שניהם יבשים עד שמוסיפים אותם לבלילה. הוא גם מקל על המדידה."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-09",
+    "notes": "Sources support composition, starch role, double-acting and 1842 Borwick date; photo matches alt; fixed Hebrew gender agreement in takeaway."
+  }
 }

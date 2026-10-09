@@ -2523,5 +2523,73 @@
       "width": 4080,
       "height": 2295
     }
+  ],
+  "sumac spice": [
+    {
+      "id": "a41c50be-096b-4ce0-91bf-550c286de356",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/%D0%A1%D1%83%D0%BC%D0%B0%D1%85_%D0%BE%D0%BB%D0%B5%D0%BD%D0%B5%D1%80%D0%BE%D0%B3%D0%B8%D0%B9_%28%D0%A1%D1%83%D0%BC%D0%B0%D1%85_%D0%BF%D1%83%D1%88%D0%B8%D1%81%D1%82%D1%8B%D0%B9%2C_%D0%A3%D0%BA%D1%81%D1%83%D1%81%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%29_-_Rhus_typhina_-_Staghorn_sumac_-_%D0%92%D0%BB%D0%B0%D0%BA%D0%BD%D0%B5%D1%81%D1%82_%D1%88%D0%BC%D0%B0%D0%BA_-_Essigbaum_%2823408707041%29.jpg",
+      "title": "Сумах оленерогий (Сумах пушистый, Уксусное дерево) - Rhus typhina - Staghorn sumac - Влакнест шмак - Essigbaum (23408707041)",
+      "creator": "Katya from Moscow, Russia",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=45504388",
+      "width": 2800,
+      "height": 2156
+    },
+    {
+      "id": "f4e0c70c-747b-462b-a01f-21e5e070eeb8",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Roasted_carrots_with_spiced_labneh%2C_sumac%2C_and_mint_-_Cambridge%2C_MA.jpg",
+      "title": "Roasted carrots with spiced labneh, sumac, and mint - Cambridge, MA",
+      "creator": "Daderot",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=162202584",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "id": "10bd0756-17b2-4fca-8703-c9cfc1c3581f",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pyramid_of_Za%27atar_%2810805714486%29.jpg",
+      "title": "Pyramid of Za'atar (10805714486)",
+      "creator": "Jorge Láscar from Australia",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=31947858",
+      "width": 4288,
+      "height": 2848
+    },
+    {
+      "id": "13e97932-e250-4cc4-851f-dcbe9b95ffa7",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Manti_and_spices.jpg",
+      "title": "Manti and spices",
+      "creator": "E4024",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=47583908",
+      "width": 2560,
+      "height": 1920
+    },
+    {
+      "id": "4cb99425-78ff-4f6e-8663-0aa43dd7a3bf",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Post-Medieval_Bag_Seal_%28FindID_803906%29.jpg",
+      "title": "File:Post-Medieval Bag Seal (FindID 803906).jpg",
+      "creator": "Derby Museums Trust, Phil Hughes, 2018-02-27 16:26:59",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=74852090",
+      "width": 2926,
+      "height": 1890
+    },
+    {
+      "id": "05d37c81-12b5-4ead-a4f2-1231063702bf",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Modern_bag_seal_%28FindID_744858%29.jpg",
+      "title": "<div class='fn'> Modern bag seal</div>",
+      "creator": "West Yorkshire Archaeology Advisory Service, Amy Downes, 2015-10-12 14:58:55",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=76693592",
+      "width": 2195,
+      "height": 1172
+    }
   ]
 }
