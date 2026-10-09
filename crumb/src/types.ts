@@ -9,13 +9,17 @@ export interface ImageCredit {
   url?: string;
 }
 
-export interface ImageAsset {
+/** What cards need to draw a photo. */
+export interface ImageRef {
   key: string;
   alt: string;
   width: number;
   height: number;
   /** CSS object-position for deliberate crops. */
   focus?: string;
+}
+
+export interface ImageAsset extends ImageRef {
   credit: ImageCredit;
 }
 
@@ -43,68 +47,75 @@ export interface Relation {
   why: string;
 }
 
-export type EditorialStatus = "draft" | "source-linked";
+export interface QuizData {
+  question: string;
+  options: string[];
+  correct: number;
+  explanation: string;
+}
 
-export interface Topic {
+export interface Angles {
+  note?: { kicker: string; text: string };
+  compare?: { title: string; sides: [{ label: string; text: string }, { label: string; text: string }] };
+  steps?: { title: string; steps: string[] };
+}
+
+export type EditorialStatus = "draft" | "source-linked" | "auto-checked";
+
+/** The light record every topic has in the index: enough for search, lists and the map. */
+export interface TopicCard {
   id: string;
   /** The subject's name – used in breadcrumbs, maps and lists. */
   name: string;
   /** Editorial headline for cards and the article. */
   headline: string;
-  /** One- or two-sentence introduction. */
-  dek: string;
   kind: Kind;
-  image: string;
   minutes: number;
+  /** Null while a photo has not been found yet; cards then show drawn artwork. */
+  image: ImageRef | null;
+  keywords: string[];
+  related: { target: string; kind: RelationKind }[];
+  hasQuiz: boolean;
+  status: EditorialStatus;
+}
+
+/** The full topic, loaded on demand from content/t/<id>.json. */
+export interface Topic extends Omit<TopicCard, "image" | "hasQuiz" | "related"> {
+  dek: string;
+  image: ImageAsset | null;
   body: string[];
-  facts?: string[];
+  facts: string[];
   takeaway: string;
   related: Relation[];
   sources: Source[];
-  status: EditorialStatus;
   updatedAt: string;
-  /** Extra search terms (synonyms, related words). Never displayed. */
-  keywords?: string[];
-}
-
-export interface Quiz {
-  id: string;
-  question: string;
-  options: string[];
-  correct: number;
-  explanation: string;
-  topic: string;
+  quiz?: QuizData;
+  angles?: Angles;
+  review?: { checkedAt: string; notes?: string };
 }
 
 export type LabId = "hydration" | "emulsion" | "browning";
 
 export type Period = "morning" | "afternoon" | "evening";
 
-export type Placement =
-  | { type: "cover"; topic: string }
-  | { type: "pair"; topics: [string, string] }
-  | { type: "feature"; topic: string; kicker: string }
-  | { type: "note"; topic: string; kicker: string; text: string }
-  | { type: "spotlight"; topic: string }
-  | { type: "quiz"; quiz: string }
-  | { type: "lab"; lab: LabId }
-  | { type: "strip"; title: string; topics: string[] }
-  | {
-      type: "compare";
-      topic: string;
-      title: string;
-      sides: [{ label: string; text: string }, { label: string; text: string }];
-    }
-  | { type: "steps"; topic: string; title: string; steps: string[] };
-
-export interface Edition {
+/** Period metadata that does not change between days. */
+export interface EditionMeta {
   period: Period;
   name: string;
+  hour: number;
+  closing: string;
+  /** Used when a day has no published schedule. */
+  fallbackTitle: string;
+  fallbackSubtitle: string;
+}
+
+/** One day's edition, as published in content/schedule/<YYYY-MM>.json. */
+export interface EditionData {
   title: string;
   subtitle: string;
-  hour: number;
-  placements: Placement[];
-  closing: string;
+  topics: string[];
+  /** Topic id whose quiz appears in this edition. */
+  quiz?: string;
 }
 
 export type Tab = "today" | "atlas" | "learn" | "saved";

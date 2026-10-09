@@ -1,12 +1,12 @@
 import { useEffect, useRef, useState } from "react";
 import { Archive, ArrowLeft, Bookmark, Compass, Lock, X } from "lucide-react";
-import { editions, editionQuiz, editionTopics, periods } from "../data/editions";
-import { getTopic } from "../data/topics";
+import { editions, periods } from "../data/editions";
+import { getTopic, useEdition, useTopics } from "../lib/content";
 import { formatDate, formatHour } from "../lib/hebrew";
 import { nav, parseHash } from "../lib/router";
 import { currentSlot, isAvailable, isPublished, parseDateKey, parseSlot, sameSlot, slotKey, type Slot } from "../lib/schedule";
 import { session, useStore } from "../lib/storage";
-import type { Edition, Placement } from "../types";
+import type { EditionData, EditionMeta, LabId, Topic } from "../types";
 import {
   CompareCard,
   CoverCard,
@@ -64,12 +64,55 @@ export function useEditionSlot(now: Date) {
   return { slot, auto, isManual: !!manual, pending, choose, dismissPending: () => setPending(null) };
 }
 
-function progressFor(edition: Edition, read: string[], answers: Record<string, number>) {
-  const ids = editionTopics(edition);
-  const quiz = editionQuiz(edition);
-  const total = ids.length + (quiz ? 1 : 0);
-  const done = ids.filter((id) => read.includes(id)).length + (quiz && answers[quiz] !== undefined ? 1 : 0);
+function progressFor(edition: EditionData | undefined, read: string[], answers: Record<string, number>) {
+  if (!edition) return { done: 0, total: 9 };
+  const total = edition.topics.length + (edition.quiz ? 1 : 0);
+  const done = edition.topics.filter((id) => read.includes(id)).length + (edition.quiz && answers[edition.quiz] !== undefined ? 1 : 0);
   return { done, total };
+}
+
+const labFor: Record<string, LabId> = { hydration: "hydration", emulsions: "emulsion", browning: "browning" };
+
+type Module =
+  | { type: "pair"; topics: [Topic, Topic] }
+  | { type: "feature"; topic: Topic; kicker: string }
+  | { type: "note"; topic: Topic }
+  | { type: "spotlight"; topic: Topic }
+  | { type: "quiz"; topic: Topic }
+  | { type: "lab"; lab: LabId; topic: string }
+  | { type: "strip"; topics: Topic[] }
+  | { type: "compare"; topic: Topic }
+  | { type: "steps"; topic: Topic };
+
+/**
+ * Turns an edition's topics into an editorial sequence. Topics that carry a special angle
+ * (steps, a note, a comparison) get their own module; one ingredient gets the spotlight;
+ * the rest become a pair, a horizontal strip or a closing feature.
+ */
+function layout(topics: Topic[], quizId?: string): Module[] {
+  const rest = topics.slice(1);
+  const take = (pred: (t: Topic) => boolean) => {
+    const i = rest.findIndex(pred);
+    return i >= 0 ? rest.splice(i, 1)[0] : undefined;
+  };
+  const steps = take((t) => !!t.angles?.steps);
+  const note = take((t) => !!t.angles?.note);
+  const compare = take((t) => !!t.angles?.compare);
+  const spotlight = take((t) => t.kind === "ingredients" && t.facts.length >= 2);
+  const quiz = topics.find((t) => t.id === quizId && t.quiz);
+  const labTopic = topics.find((t) => labFor[t.id]);
+  const out: Module[] = [];
+  if (rest.length >= 2) out.push({ type: "pair", topics: [rest.shift()!, rest.shift()!] });
+  if (steps) out.push({ type: "steps", topic: steps });
+  if (note) out.push({ type: "note", topic: note });
+  if (quiz) out.push({ type: "quiz", topic: quiz });
+  if (spotlight) out.push({ type: "spotlight", topic: spotlight });
+  if (compare) out.push({ type: "compare", topic: compare });
+  if (labTopic) out.push({ type: "lab", lab: labFor[labTopic.id], topic: labTopic.id });
+  if (rest.length >= 3) out.push({ type: "strip", topics: rest.splice(0) });
+  else if (rest.length === 2) out.push({ type: "pair", topics: [rest[0], rest[1]] });
+  else if (rest.length === 1) out.push({ type: "feature", topic: rest[0], kicker: "לקינוח" });
+  return out;
 }
 
 const themeColors = { morning: "#f5ede0", afternoon: "#f3efe4", evening: "#1d1714" } as const;
@@ -77,7 +120,9 @@ const themeColors = { morning: "#f5ede0", afternoon: "#f3efe4", evening: "#1d171
 export function Today({ now, visible }: { now: Date; visible: boolean }) {
   const { slot, auto, isManual, pending, choose, dismissPending } = useEditionSlot(now);
   const { read, answers, saved } = useStore();
-  const edition = editions[slot.period];
+  const meta = editions[slot.period];
+  const edition = useEdition(slot);
+  const { data: topics, error, retry } = useTopics(edition?.topics ?? []);
   const { done, total } = progressFor(edition, read, answers);
   const [archiveOpen, setArchiveOpen] = useState(false);
   const [compact, setCompact] = useState(false);
@@ -99,24 +144,22 @@ export function Today({ now, visible }: { now: Date; visible: boolean }) {
   }, [visible, slot.period]);
 
   const isCurrent = sameSlot(slot, auto);
-  const [cover, ...rest] = edition.placements as [Extract<Placement, { type: "cover" }>, ...Placement[]];
+  const ready = edition && topics && topics.length > 0;
+  const modules = ready ? layout(topics, edition.quiz) : [];
   const date = parseDateKey(slot.date);
 
   return (
     <div className="today" data-period={slot.period}>
       <div className={`minibar ${compact ? "minibar--show" : ""}`} aria-hidden={!compact}>
-        <span className="minibar__title">מהדורת {edition.name}</span>
+        <span className="minibar__title">מהדורת {meta.name}</span>
         <span className="minibar__count">
           <bdi>{done}</bdi> מתוך <bdi>{total}</bdi>
         </span>
         <span className="minibar__bar" style={{ "--p": `${(done / total) * 100}%` } as React.CSSProperties} />
       </div>
 
-      <CoverCard
-        id={cover.topic}
-        from="today"
-        eager
-        top={
+      {(() => {
+        const top = (
           <>
             <div className="masthead">
               <div>
@@ -131,15 +174,35 @@ export function Today({ now, visible }: { now: Date; visible: boolean }) {
               </button>
             </div>
             <p className="front__date">
-              {formatDate(date)} · מהדורת {edition.name}
+              {formatDate(date)} · מהדורת {meta.name}
             </p>
             <h1 className="front__title" id="edition-title">
-              {edition.title}
+              {edition?.title ?? meta.fallbackTitle}
             </h1>
-            <p className="front__sub">{edition.subtitle}</p>
+            <p className="front__sub">{edition?.subtitle ?? meta.fallbackSubtitle}</p>
           </>
-        }
-      />
+        );
+        if (ready) return <CoverCard topic={topics[0]} from="today" eager top={top} />;
+        return (
+          <div className="cover cover--front cover--loading">
+            <div className="cover__top">{top}</div>
+            <div className="cover__body">
+              {error ? (
+                <div className="load-error" role="alert">
+                  <p>לא הצלחנו לטעון את המהדורה. אולי החיבור לאינטרנט נותק.</p>
+                  <button type="button" className="pill-button" onClick={retry}>
+                    לנסות שוב
+                  </button>
+                </div>
+              ) : (
+                <p className="cover__loading" role="status">
+                  טוענים את המהדורה…
+                </p>
+              )}
+            </div>
+          </div>
+        );
+      })()}
 
       {pending && (
         <div className="notice" role="status">
@@ -203,12 +266,12 @@ export function Today({ now, visible }: { now: Date; visible: boolean }) {
       </section>
 
       <div className="feed">
-        {rest.map((p, i) => (
-          <PlacementView key={`${slot.period}-${i}`} placement={p} />
+        {modules.map((m, i) => (
+          <ModuleView key={`${slot.date}-${slot.period}-${i}`} module={m} />
         ))}
       </div>
 
-      <Ending edition={edition} done={done} total={total} savedCount={saved.length} />
+      {ready && <Ending meta={meta} topics={topics} done={done} total={total} savedCount={saved.length} />}
 
       <ArchiveDialog
         open={archiveOpen}
@@ -224,40 +287,38 @@ export function Today({ now, visible }: { now: Date; visible: boolean }) {
   );
 }
 
-function PlacementView({ placement: p }: { placement: Placement }) {
-  switch (p.type) {
-    case "cover":
-      return <CoverCard id={p.topic} from="today" />;
+function ModuleView({ module: m }: { module: Module }) {
+  switch (m.type) {
     case "pair":
       return (
         <div className="pair">
-          <SmallCard id={p.topics[0]} from="today" />
-          <SmallCard id={p.topics[1]} from="today" />
+          <SmallCard topic={m.topics[0]} from="today" />
+          <SmallCard topic={m.topics[1]} from="today" />
         </div>
       );
     case "feature":
-      return <FeatureCard id={p.topic} from="today" kicker={p.kicker} />;
+      return <FeatureCard topic={m.topic} from="today" kicker={m.kicker} />;
     case "note":
-      return <NoteCard id={p.topic} from="today" kicker={p.kicker} text={p.text} />;
+      return <NoteCard topic={m.topic} from="today" kicker={m.topic.angles!.note!.kicker} text={m.topic.angles!.note!.text} />;
     case "spotlight":
-      return <SpotlightCard id={p.topic} from="today" />;
+      return <SpotlightCard topic={m.topic} from="today" />;
     case "quiz":
-      return <Quiz id={p.quiz} from="today" />;
+      return <Quiz topic={m.topic} from="today" />;
     case "lab":
-      return <Lab id={p.lab} from="today" />;
+      return <Lab id={m.lab} from="today" />;
     case "strip":
-      return <Strip title={p.title} ids={p.topics} from="today" />;
+      return <Strip title="עוד במהדורה" topics={m.topics} from="today" />;
     case "compare":
-      return <CompareCard id={p.topic} from="today" title={p.title} sides={p.sides} />;
+      return <CompareCard topic={m.topic} from="today" title={m.topic.angles!.compare!.title} sides={m.topic.angles!.compare!.sides} />;
     case "steps":
-      return <StepsCard id={p.topic} from="today" title={p.title} steps={p.steps} />;
+      return <StepsCard topic={m.topic} from="today" title={m.topic.angles!.steps!.title} steps={m.topic.angles!.steps!.steps} />;
   }
 }
 
-function Ending({ edition, done, total, savedCount }: { edition: Edition; done: number; total: number; savedCount: number }) {
-  const ids = editionTopics(edition);
+function Ending({ meta, topics, done, total, savedCount }: { meta: EditionMeta; topics: Topic[]; done: number; total: number; savedCount: number }) {
+  const ids = topics.map((t) => t.id);
   // Suggest one connection that leads outside this edition.
-  const onward = ids.flatMap((id) => getTopic(id)!.related).find((r) => !ids.includes(r.target));
+  const onward = topics.flatMap((t) => t.related).find((r) => !ids.includes(r.target) && getTopic(r.target));
   const onwardTopic = onward && getTopic(onward.target);
   return (
     <section className="ending" aria-labelledby="ending-title">
@@ -289,7 +350,7 @@ function Ending({ edition, done, total, savedCount }: { edition: Edition; done: 
           </button>
         </div>
       </div>
-      <p className="ending__next">{edition.closing} ועד אז, אפשר גם פשוט לסגור את האפליקציה.</p>
+      <p className="ending__next">{meta.closing} ועד אז, אפשר גם פשוט לסגור את האפליקציה.</p>
     </section>
   );
 }

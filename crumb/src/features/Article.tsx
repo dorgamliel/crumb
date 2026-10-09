@@ -1,14 +1,12 @@
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { ArrowLeft, ArrowRight, ChevronLeft, ExternalLink, Lightbulb, X } from "lucide-react";
-import { getTopic } from "../data/topics";
-import { images } from "../data/images";
-import { quizzes } from "../data/quizzes";
+import { getTopic, useTopic } from "../lib/content";
 import { kindLabels, relationLabels } from "../data/relations";
 import { HERO_NAME, nav } from "../lib/router";
 import { minutesLabel } from "../lib/hebrew";
 import { parseDateKey } from "../lib/schedule";
 import { store } from "../lib/storage";
-import type { Route, Tab } from "../types";
+import type { Route, Tab, Topic } from "../types";
 import { Picture } from "../components/Picture";
 import { SaveButton } from "../components/SaveButton";
 import { ConnectionMap } from "../components/ConnectionMap";
@@ -32,6 +30,10 @@ const statusText = {
   "source-linked": {
     label: "טיוטה עם מקורות",
     text: "חלק מהטענות נשענות על המקורות שלמטה, אבל הכתבה כולה עדיין לא עברה בדיקה מקצועית מלאה.",
+  },
+  "auto-checked": {
+    label: "נבדק אוטומטית",
+    text: "הכתבה נכתבה בעזרת בינה מלאכותית ונבדקה מול המקורות שלמטה על ידי בודק אוטומטי נפרד. זו בדיקה טובה, אבל לא בדיקה של עורך אנושי.",
   },
 };
 
@@ -61,8 +63,7 @@ export function Article({ route }: { route: Route }) {
   const topic = getTopic(id)!;
   const titleRef = useRef<HTMLHeadingElement>(null);
   const progress = useReadingProgress();
-  const image = images[topic.image];
-  const quiz = quizzes.find((q) => q.topic === id);
+  const { data: full, error, retry } = useTopic(id);
   const origin = tabLabels[route.tab];
 
   useLayoutEffect(() => {
@@ -115,7 +116,7 @@ export function Article({ route }: { route: Route }) {
       </div>
 
       <div className="article__hero" style={{ viewTransitionName: HERO_NAME }}>
-        <Picture image={topic.image} eager sizes="(min-width: 760px) 760px, 100vw" />
+        <Picture image={topic.image} name={topic.name} kind={topic.kind} eager sizes="(min-width: 760px) 760px, 100vw" />
       </div>
 
       <header className="article__head">
@@ -128,8 +129,43 @@ export function Article({ route }: { route: Route }) {
         <h1 className="article__title" id="article-title" tabIndex={-1} ref={titleRef}>
           {topic.headline}
         </h1>
-        <p className="article__dek">{topic.dek}</p>
+        {full && <p className="article__dek">{full.dek}</p>}
       </header>
+
+      {!full && (
+        <div className="article__loading">
+          {error ? (
+            <div className="load-error" role="alert">
+              <p>לא הצלחנו לטעון את הכתבה. אולי החיבור לאינטרנט נותק.</p>
+              <button type="button" className="pill-button" onClick={retry}>
+                לנסות שוב
+              </button>
+            </div>
+          ) : (
+            <p role="status" className="muted">
+              טוענים את הכתבה…
+            </p>
+          )}
+        </div>
+      )}
+
+      {full && <ArticleBody topic={full} route={route} />}
+
+      <footer className="article__foot">
+        <button type="button" className="pill-button" onClick={() => nav.close()}>
+          <ArrowRight size={16} aria-hidden="true" />
+          {returnLabels[route.tab]}
+        </button>
+      </footer>
+    </article>
+  );
+}
+
+function ArticleBody({ topic, route }: { topic: Topic; route: Route }) {
+  const id = topic.id;
+  const image = topic.image;
+  return (
+    <>
 
       <div className="article__body">
         {topic.body.map((para, i) => (
@@ -139,7 +175,7 @@ export function Article({ route }: { route: Route }) {
         ))}
       </div>
 
-      {topic.facts && (
+      {topic.facts.length > 0 && (
         <aside className="facts" aria-labelledby="facts-title">
           <h2 id="facts-title" className="eyebrow">
             במבט מהיר
@@ -160,9 +196,9 @@ export function Article({ route }: { route: Route }) {
         <p>{topic.takeaway}</p>
       </aside>
 
-      {quiz && (
+      {topic.quiz && (
         <div className="article__quiz">
-          <Quiz id={quiz.id} from={route.tab} kicker="לבדוק את עצמכם" showLink={false} />
+          <Quiz topic={topic} from={route.tab} kicker="לבדוק את עצמכם" showLink={false} />
         </div>
       )}
 
@@ -178,7 +214,7 @@ export function Article({ route }: { route: Route }) {
             return (
               <li key={r.target}>
                 <button type="button" className="related__item" onClick={() => nav.openTopic(r.target)} data-focus-key={`topic-${r.target}`}>
-                  <Picture image={t.image} sizes="72px" className="related__pic" decorative />
+                  <Picture image={t.image} name={t.name} kind={t.kind} sizes="72px" className="related__pic" decorative />
                   <span className="related__text">
                     <span className="related__kind">{relationLabels[r.kind]}</span>
                     <span className="related__name">{t.name}</span>
@@ -216,7 +252,7 @@ export function Article({ route }: { route: Route }) {
         ) : (
           <p className="sources__none">עדיין לא צורפו מקורות לכתבה הזאת.</p>
         )}
-        <p className="sources__credit">
+        {image && <p className="sources__credit">
           צילום: {image.credit.author ? <bdi>{image.credit.author}</bdi> : "צלם לא צוין"} · {image.credit.source} ·{" "}
           {image.credit.url ? (
             <a href={image.credit.url} target="_blank" rel="noreferrer">
@@ -225,16 +261,9 @@ export function Article({ route }: { route: Route }) {
           ) : (
             <bdi>{image.credit.license}</bdi>
           )}
-        </p>
+        </p>}
         <p className="sources__updated">עודכן לאחרונה: {updatedFmt.format(parseDateKey(topic.updatedAt))}</p>
       </section>
-
-      <footer className="article__foot">
-        <button type="button" className="pill-button" onClick={() => nav.close()}>
-          <ArrowRight size={16} aria-hidden="true" />
-          {returnLabels[route.tab]}
-        </button>
-      </footer>
-    </article>
+    </>
   );
 }

@@ -1,4 +1,4 @@
-import { getTopic } from "../data/topics";
+import { getTopic } from "../lib/content";
 import { relationLabels } from "../data/relations";
 import { Picture } from "./Picture";
 
@@ -42,7 +42,7 @@ export function ConnectionMap({ center, onPick, onOpenCenter, centerHint, branch
         onClick={() => onOpenCenter?.(center)}
         aria-label={`${topic.name}${centerHint ? ` — ${centerHint}` : ""}`}
       >
-        <Picture image={topic.image} sizes="120px" className="map__img" decorative />
+        <Picture image={topic.image} name={topic.name} kind={topic.kind} sizes="120px" className="map__img" decorative />
         <span className="map__name">{topic.name}</span>
         {centerHint && <span className="map__hint">{centerHint}</span>}
       </button>
@@ -57,7 +57,7 @@ export function ConnectionMap({ center, onPick, onOpenCenter, centerHint, branch
             onClick={() => onPick(p.target)}
             aria-label={`${t.name} (${relationLabels[p.kind]}) — ${branchHint}`}
           >
-            <Picture image={t.image} sizes="80px" className="map__img" decorative />
+            <Picture image={t.image} name={t.name} kind={t.kind} sizes="80px" className="map__img" decorative />
             <span className="map__name">{t.name}</span>
             <span className="map__rel">{relationLabels[p.kind]}</span>
           </button>

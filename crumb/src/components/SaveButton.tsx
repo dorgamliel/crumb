@@ -1,5 +1,5 @@
 import { Bookmark } from "lucide-react";
-import { getTopic } from "../data/topics";
+import { getTopic } from "../lib/content";
 import { store, useStore } from "../lib/storage";
 import { useToast } from "./Toast";
 

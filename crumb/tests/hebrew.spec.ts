@@ -62,6 +62,7 @@ test("dates and times are formatted for Hebrew readers", async ({ page }) => {
 
 test("quiz options use Hebrew letters", async ({ page }) => {
   await openAt(page, MORNING, "#/learn");
+  await expect(page.locator(".learn .quiz").first()).toBeVisible();
   const letters = await page.locator(".learn .quiz").first().locator(".quiz__letter").allTextContents();
   expect(letters).toEqual(["א", "ב", "ג", "ד"]);
 });

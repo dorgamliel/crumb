@@ -1,6 +1,6 @@
 import { useSyncExternalStore } from "react";
 import { flushSync } from "react-dom";
-import { topicMap } from "../data/topics";
+import { getTopic } from "./content";
 import type { Route, Tab } from "../types";
 
 // Hash routes: #/today, #/atlas, #/learn, #/saved, and #/<tab>/<topic>/<topic>… for an
@@ -18,7 +18,7 @@ interface HistState {
 export function parseHash(hash: string): Route {
   const parts = hash.replace(/^#\/?/, "").split("/").filter(Boolean).map(decodeURIComponent);
   const tab = TABS.includes(parts[0] as Tab) ? (parts[0] as Tab) : "today";
-  const trail = parts.slice(TABS.includes(parts[0] as Tab) ? 1 : 0).filter((id) => topicMap[id]);
+  const trail = parts.slice(TABS.includes(parts[0] as Tab) ? 1 : 0).filter((id) => getTopic(id));
   return { tab, trail };
 }
 

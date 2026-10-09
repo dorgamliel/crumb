@@ -85,11 +85,24 @@ function migrateLegacy() {
 
 migrateLegacy();
 
+// Quizzes used to have their own ids; they now live on (and are keyed by) their topic.
+const RENAMED_QUIZZES: Record<string, string> = { rise: "fermentation", mayo: "emulsions" };
+function migrateQuizIds(a: Record<string, number>) {
+  const out = { ...a };
+  for (const [from, to] of Object.entries(RENAMED_QUIZZES)) {
+    if (from in out) {
+      if (!(to in out)) out[to] = out[from];
+      delete out[from];
+    }
+  }
+  return out;
+}
+
 let state: State = {
   saved: read("saved", [], isStringArray),
   read: read("read", [], isStringArray),
   recent: read("recent", [], isStringArray),
-  answers: read("answers", {}, isAnswers),
+  answers: migrateQuizIds(read("answers", {}, isAnswers)),
 };
 
 const listeners = new Set<() => void>();

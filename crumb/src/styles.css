@@ -2818,3 +2818,80 @@ html[data-period="evening"] .toast {
     opacity: 0.6;
   }
 }
+
+/* ───────────────────────── Artwork, loading and errors ───────────────────────── */
+
+/* Drawn artwork for topics whose photo has not been sourced yet. */
+.pic--art {
+  --art-a: #e9b44c;
+  --art-b: #a83b17;
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 78% 22%, color-mix(in srgb, var(--art-a) 70%, transparent) 0 22%, transparent 23%),
+    radial-gradient(circle at 18% 88%, color-mix(in srgb, var(--art-b) 55%, transparent) 0 30%, transparent 31%),
+    linear-gradient(150deg, color-mix(in srgb, var(--art-a) 35%, #f5ede0), color-mix(in srgb, var(--art-b) 30%, #f5ede0));
+  color: #2a1d0b;
+}
+
+.pic--art-science { --art-a: #8fb3c9; --art-b: #3c5a73; }
+.pic--art-ingredients { --art-a: #c9d6a3; --art-b: #5c6b2e; }
+.pic--art-dishes { --art-a: #f0a35a; --art-b: #b3311b; }
+.pic--art-drinks { --art-a: #d9b48f; --art-b: #6b3f22; }
+.pic--art-techniques { --art-a: #e8c7a0; --art-b: #8a5a2b; }
+
+.pic__letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: clamp(2.4rem, 22cqw, 7rem);
+  line-height: 1;
+  opacity: 0.85;
+}
+
+.pic__word {
+  margin-block-start: 4px;
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.pic--art {
+  container-type: inline-size;
+}
+
+.map__img.pic--art .pic__word,
+.row__pic.pic--art .pic__word,
+.related__pic.pic--art .pic__word {
+  display: none;
+}
+
+.cover--loading {
+  background: linear-gradient(160deg, #2a1d14, #1d1714);
+}
+
+.cover__loading {
+  color: rgba(255, 250, 241, 0.8);
+}
+
+.load-error {
+  display: grid;
+  gap: 12px;
+  justify-items: start;
+}
+
+.article__loading {
+  padding: 26px var(--gutter);
+}
+
+.boot-error {
+  display: grid;
+  gap: 16px;
+  justify-items: center;
+  max-width: 26em;
+  margin: 30svh auto 0;
+  padding-inline: var(--gutter);
+  text-align: center;
+}

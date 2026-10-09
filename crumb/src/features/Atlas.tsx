@@ -1,6 +1,6 @@
 import { useMemo, useRef, useState } from "react";
 import { ArrowLeft, ChevronLeft, RotateCcw, Search, X } from "lucide-react";
-import { topics, getTopic } from "../data/topics";
+import { allTopics, getTopic, useTopic } from "../lib/content";
 import { kindLabels, kindOrder, relationLabels } from "../data/relations";
 import { matches, normalize } from "../lib/hebrew";
 import { nav } from "../lib/router";
@@ -9,9 +9,13 @@ import type { Kind } from "../types";
 import { ConnectionMap } from "../components/ConnectionMap";
 import { TopicRow } from "../components/Cards";
 
-const haystacks = Object.fromEntries(
-  topics.map((t) => [t.id, normalize([t.name, t.headline, t.dek, kindLabels[t.kind], ...(t.keywords ?? []), t.id].join(" "))]),
-);
+let haystacks: Record<string, string> | null = null;
+const haystack = (id: string) => {
+  haystacks ??= Object.fromEntries(
+    allTopics().map((t) => [t.id, normalize([t.name, t.headline, kindLabels[t.kind], ...t.keywords, t.id].join(" "))]),
+  );
+  return haystacks[id] ?? "";
+};
 
 const MAP_KEY = "atlas-path";
 
@@ -33,6 +37,7 @@ export function Atlas() {
 
   const center = path[path.length - 1];
   const centerTopic = getTopic(center)!;
+  const { data: centerFull } = useTopic(center);
 
   const updatePath = (next: string[]) => {
     setPath(next);
@@ -45,7 +50,7 @@ export function Atlas() {
   };
 
   const results = useMemo(
-    () => topics.filter((t) => (kind === "all" || t.kind === kind) && matches(haystacks[t.id], query)),
+    () => allTopics().filter((t) => (kind === "all" || t.kind === kind) && matches(haystack(t.id), query)),
     [query, kind],
   );
   const searching = query.trim().length > 0;
@@ -134,9 +139,9 @@ export function Atlas() {
           />
           <div className="atlas__center-card">
             <p className="atlas__center-name">{centerTopic.name}</p>
-            <p className="atlas__center-dek">{centerTopic.dek}</p>
+            <p className="atlas__center-dek">{centerFull?.dek}</p>
             <ul className="atlas__why" role="list">
-              {centerTopic.related.map((r) => (
+              {(centerFull?.related ?? []).filter((r) => getTopic(r.target)).map((r) => (
                 <li key={r.target}>
                   <strong>{getTopic(r.target)?.name}</strong> <span className="atlas__why-kind">({relationLabels[r.kind]})</span>{" "}
                   {r.why}

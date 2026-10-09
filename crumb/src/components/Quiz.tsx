@@ -1,14 +1,13 @@
 import { useId, useRef } from "react";
 import { Check, X, RotateCcw, ArrowLeft } from "lucide-react";
-import { quizMap } from "../data/quizzes";
-import { getTopic } from "../data/topics";
 import { optionLetters } from "../lib/hebrew";
 import { store, useStore } from "../lib/storage";
 import { nav } from "../lib/router";
-import type { Tab } from "../types";
+import type { Tab, Topic } from "../types";
 
 interface Props {
-  id: string;
+  /** The topic whose quiz to show; answers are stored under the topic id. */
+  topic: Topic;
   from: Tab;
   /** Compact cards on the Learn screen use a smaller heading level. */
   headingLevel?: 2 | 3;
@@ -16,15 +15,15 @@ interface Props {
   showLink?: boolean;
 }
 
-export function Quiz({ id, from, headingLevel = 2, kicker = "שאלה קטנה", showLink = true }: Props) {
-  const quiz = quizMap[id];
+export function Quiz({ topic, from, headingLevel = 2, kicker = "שאלה קטנה", showLink = true }: Props) {
+  const id = topic.id;
+  const quiz = topic.quiz!;
   const { answers } = useStore();
   const answer = answers[id];
   const answered = answer !== undefined;
   const correct = answered && answer === quiz.correct;
   const headingId = useId();
   const optionRefs = useRef<(HTMLButtonElement | null)[]>([]);
-  const topic = getTopic(quiz.topic);
   const H = headingLevel === 2 ? "h2" : "h3";
 
   return (
@@ -87,7 +86,7 @@ export function Quiz({ id, from, headingLevel = 2, kicker = "שאלה קטנה",
             </p>
             <p className="quiz__explanation">{quiz.explanation}</p>
             <div className="quiz__actions">
-              {topic && showLink && (
+              {showLink && (
                 <button type="button" className="link-button" onClick={() => nav.openTopic(topic.id, { from, fresh: true })}>
                   <span>למה זה קורה? לקריאה על {topic.name}</span>
                   <ArrowLeft size={16} aria-hidden="true" className="dir-icon" />

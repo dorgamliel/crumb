@@ -73,7 +73,7 @@ export function App() {
           <div key={tab} className="view" hidden={articleOpen || route.tab !== tab}>
             {tab === "today" && <Today now={now} visible={!articleOpen && route.tab === "today"} />}
             {tab === "atlas" && <Atlas />}
-            {tab === "learn" && <Learn />}
+            {tab === "learn" && <Learn now={now} />}
             {tab === "saved" && <Saved />}
           </div>
         ))}

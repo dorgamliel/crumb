@@ -1,5 +1,5 @@
 import { Bookmark, Compass, Newspaper, X } from "lucide-react";
-import { getTopic } from "../data/topics";
+import { getTopic } from "../lib/content";
 import { nav } from "../lib/router";
 import { store, useStore } from "../lib/storage";
 import { TopicRow } from "../components/Cards";

@@ -1,6 +1,6 @@
 import { useId, type ReactNode } from "react";
 import { ArrowLeft, Info } from "lucide-react";
-import { getTopic } from "../data/topics";
+import { getTopic } from "../lib/content";
 import { nav } from "../lib/router";
 import type { Tab } from "../types";
 
