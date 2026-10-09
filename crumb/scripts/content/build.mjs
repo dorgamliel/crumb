@@ -13,10 +13,13 @@ const writeJson = (p, data) => {
 const OUT = join(ROOT, "public", "content");
 rmSync(OUT, { recursive: true, force: true });
 
-const topics = loadTopics();
+// Pipeline drafts that have not passed the independent check are never published.
+const topics = loadTopics().filter((t) => !(t.origin === "pipeline" && t.status === "draft"));
 const ids = new Set(topics.map((t) => t.id));
 
-const index = topics.map((t) => ({
+// Oldest first, so tests and tools can sample "the newest" from the end.
+const ordered = [...topics].sort((a, b) => (a.addedAt ?? a.updatedAt).localeCompare(b.addedAt ?? b.updatedAt) || a.id.localeCompare(b.id));
+const index = ordered.map((t) => ({
   id: t.id,
   name: t.name,
   headline: t.headline,

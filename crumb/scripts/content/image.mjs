@@ -67,12 +67,12 @@ async function search(query) {
   if (!results) {
     const url =
       "https://api.openverse.org/v1/images/?" +
-      new URLSearchParams({ q: query, page_size: "12", license: "cc0,pdm,by,by-sa", mature: "false", size: "large" });
+      new URLSearchParams({ q: query, page_size: "8", license: "cc0,pdm,by,by-sa", mature: "false", size: "large" });
     const data = await (await politeFetch(url)).json();
     results = data.results.map((r) => ({
       id: r.id,
       url: r.url,
-      title: r.title,
+      title: r.title ?? "",
       creator: r.creator ?? null,
       license: `${r.license === "pdm" ? "Public Domain" : r.license === "cc0" ? "CC0" : "CC " + r.license.toUpperCase()}${r.license_version && !["cc0", "pdm"].includes(r.license) ? " " + r.license_version : ""}`,
       source: r.source === "wikimedia" ? "Wikimedia Commons" : r.source === "flickr" ? "Flickr" : r.source,
@@ -122,7 +122,7 @@ async function search(query) {
       .toFile(sheet);
     console.log(`contact sheet: ${sheet}`);
   }
-  for (const t of tiles) console.log(`${t.key}\t${t.r.width}x${t.r.height}\t${t.r.license}\t${t.r.source}\t${t.r.title.slice(0, 60)}`);
+  for (const t of tiles) console.log(`${t.key}\t${t.r.width}x${t.r.height}\t${t.r.license}\t${t.r.source}\t${(t.r.title ?? "").slice(0, 60)}`);
   if (!tiles.length) console.log("no usable candidates");
 }
 

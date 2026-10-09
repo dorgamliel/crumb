@@ -1,0 +1,722 @@
+[
+ {
+  "id": "bagel",
+  "name": "בייגל",
+  "kind": "baking"
+ },
+ {
+  "id": "focaccia",
+  "name": "פוקאצ׳ה",
+  "kind": "baking"
+ },
+ {
+  "id": "rye-bread",
+  "name": "לחם שיפון",
+  "kind": "baking"
+ },
+ {
+  "id": "cookies-spread",
+  "name": "למה עוגיות מתפשטות",
+  "kind": "baking"
+ },
+ {
+  "id": "creaming",
+  "name": "הקצפת חמאה וסוכר",
+  "kind": "baking"
+ },
+ {
+  "id": "sponge-cake",
+  "name": "עוגת ספוג",
+  "kind": "baking"
+ },
+ {
+  "id": "yeast",
+  "name": "שמרים",
+  "kind": "baking"
+ },
+ {
+  "id": "oven-spring",
+  "name": "קפיצת תנור",
+  "kind": "baking"
+ },
+ {
+  "id": "scoring-bread",
+  "name": "חריצה בלחם",
+  "kind": "baking"
+ },
+ {
+  "id": "bread-staling",
+  "name": "התיישנות לחם",
+  "kind": "baking"
+ },
+ {
+  "id": "cheesecake",
+  "name": "עוגת גבינה",
+  "kind": "baking"
+ },
+ {
+  "id": "phyllo",
+  "name": "בצק פילו",
+  "kind": "baking"
+ },
+ {
+  "id": "kubaneh",
+  "name": "כובאנה",
+  "kind": "baking"
+ },
+ {
+  "id": "babka",
+  "name": "בבקה",
+  "kind": "baking"
+ },
+ {
+  "id": "sufganiyot",
+  "name": "סופגניות",
+  "kind": "baking"
+ },
+ {
+  "id": "matzah",
+  "name": "מצה",
+  "kind": "baking"
+ },
+ {
+  "id": "crackers",
+  "name": "קרקרים",
+  "kind": "baking"
+ },
+ {
+  "id": "pastry-cream",
+  "name": "קרם פטיסייר",
+  "kind": "baking"
+ },
+ {
+  "id": "osmosis",
+  "name": "אוסמוזה במטבח",
+  "kind": "science"
+ },
+ {
+  "id": "denaturation",
+  "name": "חלבונים בחום",
+  "kind": "science"
+ },
+ {
+  "id": "sugar-science",
+  "name": "סוכר",
+  "kind": "science"
+ },
+ {
+  "id": "water-activity",
+  "name": "מים זמינים במזון",
+  "kind": "science"
+ },
+ {
+  "id": "smell-and-taste",
+  "name": "ריח וטעם",
+  "kind": "science"
+ },
+ {
+  "id": "bitterness",
+  "name": "מרירות",
+  "kind": "science"
+ },
+ {
+  "id": "sweetness",
+  "name": "מתיקות",
+  "kind": "science"
+ },
+ {
+  "id": "heat-transfer",
+  "name": "העברת חום",
+  "kind": "science"
+ },
+ {
+  "id": "boiling-point",
+  "name": "נקודת רתיחה",
+  "kind": "science"
+ },
+ {
+  "id": "altitude-cooking",
+  "name": "בישול בגובה",
+  "kind": "science"
+ },
+ {
+  "id": "crispiness",
+  "name": "פריכות",
+  "kind": "science"
+ },
+ {
+  "id": "foams",
+  "name": "קצפים",
+  "kind": "science"
+ },
+ {
+  "id": "gels",
+  "name": "ג׳לים",
+  "kind": "science"
+ },
+ {
+  "id": "collagen",
+  "name": "קולגן",
+  "kind": "science"
+ },
+ {
+  "id": "freezing",
+  "name": "הקפאה",
+  "kind": "science"
+ },
+ {
+  "id": "lactic-acid-bacteria",
+  "name": "חיידקי חומצה לקטית",
+  "kind": "science"
+ },
+ {
+  "id": "retrogradation",
+  "name": "למה לחם מתיישן",
+  "kind": "science"
+ },
+ {
+  "id": "chlorophyll",
+  "name": "למה ירקות ירוקים מאפירים",
+  "kind": "science"
+ },
+ {
+  "id": "anthocyanins",
+  "name": "כרוב סגול שמשנה צבע",
+  "kind": "science"
+ },
+ {
+  "id": "vinegar",
+  "name": "חומץ",
+  "kind": "science"
+ },
+ {
+  "id": "ginger",
+  "name": "ג׳ינג׳ר",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cumin",
+  "name": "כמון",
+  "kind": "ingredients"
+ },
+ {
+  "id": "turmeric",
+  "name": "כורכום",
+  "kind": "ingredients"
+ },
+ {
+  "id": "paprika",
+  "name": "פפריקה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "coriander",
+  "name": "כוסברה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "parsley",
+  "name": "פטרוזיליה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "mint",
+  "name": "נענע",
+  "kind": "ingredients"
+ },
+ {
+  "id": "basil",
+  "name": "בזיליקום",
+  "kind": "ingredients"
+ },
+ {
+  "id": "dates",
+  "name": "תמרים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "pomegranate",
+  "name": "רימון",
+  "kind": "ingredients"
+ },
+ {
+  "id": "figs",
+  "name": "תאנים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "olives",
+  "name": "זיתים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "chickpeas",
+  "name": "גרגירי חומוס",
+  "kind": "ingredients"
+ },
+ {
+  "id": "lentils",
+  "name": "עדשים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "bulgur",
+  "name": "בורגול",
+  "kind": "ingredients"
+ },
+ {
+  "id": "freekeh",
+  "name": "פריקה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "couscous",
+  "name": "קוסקוס",
+  "kind": "ingredients"
+ },
+ {
+  "id": "quinoa",
+  "name": "קינואה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "potatoes",
+  "name": "תפוחי אדמה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "sweet-potato",
+  "name": "בטטה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cauliflower",
+  "name": "כרובית",
+  "kind": "ingredients"
+ },
+ {
+  "id": "carrots",
+  "name": "גזר",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cabbage",
+  "name": "כרוב",
+  "kind": "ingredients"
+ },
+ {
+  "id": "leeks",
+  "name": "כרישה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "zucchini",
+  "name": "קישוא",
+  "kind": "ingredients"
+ },
+ {
+  "id": "bell-peppers",
+  "name": "פלפלים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "avocado",
+  "name": "אבוקדו",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cream",
+  "name": "שמנת",
+  "kind": "ingredients"
+ },
+ {
+  "id": "ghee",
+  "name": "חמאה מזוקקת",
+  "kind": "ingredients"
+ },
+ {
+  "id": "labneh",
+  "name": "לבנה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "feta",
+  "name": "פטה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "halloumi",
+  "name": "חלומי",
+  "kind": "ingredients"
+ },
+ {
+  "id": "parmesan",
+  "name": "פרמזן",
+  "kind": "ingredients"
+ },
+ {
+  "id": "anchovies",
+  "name": "אנשובי",
+  "kind": "ingredients"
+ },
+ {
+  "id": "soy-sauce",
+  "name": "רוטב סויה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "fish-sauce",
+  "name": "רוטב דגים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "silan",
+  "name": "סילאן",
+  "kind": "ingredients"
+ },
+ {
+  "id": "maple-syrup",
+  "name": "סירופ מייפל",
+  "kind": "ingredients"
+ },
+ {
+  "id": "brown-sugar",
+  "name": "סוכר חום",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cocoa",
+  "name": "קקאו",
+  "kind": "ingredients"
+ },
+ {
+  "id": "almonds",
+  "name": "שקדים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "pistachios",
+  "name": "פיסטוקים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "sesame",
+  "name": "שומשום",
+  "kind": "ingredients"
+ },
+ {
+  "id": "nutmeg",
+  "name": "אגוז מוסקט",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cloves",
+  "name": "ציפורן",
+  "kind": "ingredients"
+ },
+ {
+  "id": "star-anise",
+  "name": "כוכב אניס",
+  "kind": "ingredients"
+ },
+ {
+  "id": "bay-leaves",
+  "name": "עלי דפנה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "harissa",
+  "name": "הריסה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "amba",
+  "name": "עמבה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "preserved-lemons",
+  "name": "לימון כבוש",
+  "kind": "ingredients"
+ },
+ {
+  "id": "sabich",
+  "name": "סביח",
+  "kind": "dishes"
+ },
+ {
+  "id": "jachnun",
+  "name": "ג׳חנון",
+  "kind": "dishes"
+ },
+ {
+  "id": "malawach",
+  "name": "מלאווח",
+  "kind": "dishes"
+ },
+ {
+  "id": "majadra",
+  "name": "מג׳דרה",
+  "kind": "dishes"
+ },
+ {
+  "id": "shawarma",
+  "name": "שווארמה",
+  "kind": "dishes"
+ },
+ {
+  "id": "schnitzel",
+  "name": "שניצל",
+  "kind": "dishes"
+ },
+ {
+  "id": "stuffed-vegetables",
+  "name": "ממולאים",
+  "kind": "dishes"
+ },
+ {
+  "id": "cholent",
+  "name": "חמין",
+  "kind": "dishes"
+ },
+ {
+  "id": "kubbeh",
+  "name": "קובה",
+  "kind": "dishes"
+ },
+ {
+  "id": "tabbouleh",
+  "name": "טבולה",
+  "kind": "dishes"
+ },
+ {
+  "id": "carbonara",
+  "name": "קרבונרה",
+  "kind": "dishes"
+ },
+ {
+  "id": "cacio-e-pepe",
+  "name": "קאצ׳ו א פפה",
+  "kind": "dishes"
+ },
+ {
+  "id": "ramen",
+  "name": "ראמן",
+  "kind": "dishes"
+ },
+ {
+  "id": "paella",
+  "name": "פאייה",
+  "kind": "dishes"
+ },
+ {
+  "id": "pho",
+  "name": "פו",
+  "kind": "dishes"
+ },
+ {
+  "id": "tortillas",
+  "name": "טורטיות",
+  "kind": "dishes"
+ },
+ {
+  "id": "gnocchi",
+  "name": "ניוקי",
+  "kind": "dishes"
+ },
+ {
+  "id": "polenta",
+  "name": "פולנטה",
+  "kind": "dishes"
+ },
+ {
+  "id": "dumplings",
+  "name": "כיסונים",
+  "kind": "dishes"
+ },
+ {
+  "id": "curry",
+  "name": "קארי",
+  "kind": "dishes"
+ },
+ {
+  "id": "ratatouille",
+  "name": "רטטוי",
+  "kind": "dishes"
+ },
+ {
+  "id": "french-onion-soup",
+  "name": "מרק בצל",
+  "kind": "dishes"
+ },
+ {
+  "id": "tarte-tatin",
+  "name": "טארט טאטן",
+  "kind": "dishes"
+ },
+ {
+  "id": "tiramisu",
+  "name": "טירמיסו",
+  "kind": "dishes"
+ },
+ {
+  "id": "ice-cream",
+  "name": "גלידה",
+  "kind": "dishes"
+ },
+ {
+  "id": "sorbet",
+  "name": "סורבה",
+  "kind": "dishes"
+ },
+ {
+  "id": "cold-brew",
+  "name": "קפה קר בחליטה",
+  "kind": "drinks"
+ },
+ {
+  "id": "turkish-coffee",
+  "name": "קפה טורקי",
+  "kind": "drinks"
+ },
+ {
+  "id": "matcha",
+  "name": "מאצ׳ה",
+  "kind": "drinks"
+ },
+ {
+  "id": "herbal-infusions",
+  "name": "חליטות צמחים",
+  "kind": "drinks"
+ },
+ {
+  "id": "lemonade",
+  "name": "לימונדה",
+  "kind": "drinks"
+ },
+ {
+  "id": "hot-chocolate",
+  "name": "שוקו חם",
+  "kind": "drinks"
+ },
+ {
+  "id": "kombucha",
+  "name": "קומבוצ׳ה",
+  "kind": "drinks"
+ },
+ {
+  "id": "water-for-coffee",
+  "name": "מים לקפה",
+  "kind": "drinks"
+ },
+ {
+  "id": "limonana",
+  "name": "לימונענע",
+  "kind": "drinks"
+ },
+ {
+  "id": "knife-skills",
+  "name": "עבודה עם סכין",
+  "kind": "techniques"
+ },
+ {
+  "id": "sauteing",
+  "name": "הקפצה",
+  "kind": "techniques"
+ },
+ {
+  "id": "roasting-vegetables",
+  "name": "צליית ירקות",
+  "kind": "techniques"
+ },
+ {
+  "id": "frying",
+  "name": "טיגון עמוק",
+  "kind": "techniques"
+ },
+ {
+  "id": "poaching",
+  "name": "בישול עדין",
+  "kind": "techniques"
+ },
+ {
+  "id": "steaming",
+  "name": "אידוי",
+  "kind": "techniques"
+ },
+ {
+  "id": "grilling",
+  "name": "צלייה על האש",
+  "kind": "techniques"
+ },
+ {
+  "id": "smoking",
+  "name": "עישון",
+  "kind": "techniques"
+ },
+ {
+  "id": "reduction",
+  "name": "צמצום",
+  "kind": "techniques"
+ },
+ {
+  "id": "roux",
+  "name": "רו",
+  "kind": "techniques"
+ },
+ {
+  "id": "tempering-chocolate",
+  "name": "טמפרור שוקולד",
+  "kind": "techniques"
+ },
+ {
+  "id": "mise-en-place",
+  "name": "מיז אן פלאס",
+  "kind": "techniques"
+ },
+ {
+  "id": "tasting-and-seasoning",
+  "name": "לטעום ולתבל",
+  "kind": "techniques"
+ },
+ {
+  "id": "resting-dough",
+  "name": "מנוחה לבצק",
+  "kind": "techniques"
+ },
+ {
+  "id": "marinating",
+  "name": "השריה בתיבול",
+  "kind": "techniques"
+ },
+ {
+  "id": "confit",
+  "name": "קונפי",
+  "kind": "techniques"
+ },
+ {
+  "id": "sous-vide",
+  "name": "סו ויד",
+  "kind": "techniques"
+ },
+ {
+  "id": "whipping-cream",
+  "name": "הקצפת שמנת",
+  "kind": "techniques"
+ },
+ {
+  "id": "cast-iron",
+  "name": "מחבת ברזל",
+  "kind": "techniques"
+ },
+ {
+  "id": "nonstick-pans",
+  "name": "מחבת נון סטיק",
+  "kind": "techniques"
+ },
+ {
+  "id": "pressure-cooking",
+  "name": "סיר לחץ",
+  "kind": "techniques"
+ }
+]

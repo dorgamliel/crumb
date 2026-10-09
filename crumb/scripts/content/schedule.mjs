@@ -17,7 +17,8 @@ const FROM = arg("from", israelToday());
 const MIN_GAP = 45;
 const MAX_PER_KIND = 3;
 
-const topics = loadTopics();
+// Only published topics: pipeline drafts wait until the independent check passes them.
+const topics = loadTopics().filter((t) => !(t.origin === "pipeline" && t.status === "draft"));
 
 const days = loadSchedule();
 const titles = readJson(join(CONTENT, "titles.json"));

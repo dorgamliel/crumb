@@ -33,6 +33,23 @@ npx playwright install chromium   # once, if no Chromium matching @playwright/te
 npm test
 ```
 
+## Content that keeps coming
+
+New topics are written, independently checked and published automatically every night by a
+scheduled Claude routine. See **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** for how it works
+(with diagrams), and `pipeline/` for the playbook, the content guide and the checker's brief.
+
+Content commands:
+
+```sh
+npm run content                                   # compile content/ into public/content/
+node scripts/content/validate.mjs [ids…]          # structural and Hebrew checks
+node scripts/content/schedule.mjs --days 21       # extend the edition schedule
+node scripts/content/image.mjs search "<query>"   # find openly licensed photos (cached)
+node scripts/content/source.mjs <url> --grep …    # read a source page (cached)
+node scripts/content/finalize.mjs                 # apply the checker's verdicts
+```
+
 ## What is in it
 
 - **היום (Today)**: three finite editions a day (08:00, 13:00, 19:00, local time).
@@ -91,9 +108,7 @@ are imported once. Malformed or blocked storage falls back to memory.
   or "draft with sources". Linked sources (mostly English Wikipedia, plus King Arthur
   Baking and the National Center for Home Food Preservation) support particular claims.
   They do not certify an article, and nothing has been professionally fact-checked.
-- **The archive repeats** the same three editions every day. There is no publishing pipeline.
-- Each edition has 9 counted discoveries (8 topics + 1 quiz). That is far from the
-  long-term 40–60 placements a day.
+- Each edition has 9 counted discoveries (8 topics + 1 quiz), so a day has 27.
 - **Photos** are stored locally (no remote image dependency). Wikimedia Commons and
   rawpixel credits come from the files' own pages. For the Unsplash photos, the
   photographer was not verified, so the credit says so rather than guessing. Licensing

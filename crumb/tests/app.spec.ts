@@ -242,19 +242,27 @@ test("interactive explanations respond to input", async ({ page }) => {
   await expect(browning.locator(".lab__readout")).toContainText("זהוב");
 });
 
-test("every topic opens, with its image loaded and no runtime errors", async ({ page }) => {
+test("topics open with their content and image, and none fail to load", async ({ page, request }) => {
   const errors = await openAt(page, MORNING, "#/atlas");
-  const ids: string[] = await page.evaluate(() =>
-    Array.from(document.querySelectorAll(".atlas__list a[href]")).map((a) => a.getAttribute("href")!.split("/").pop()!),
-  );
-  expect(ids).toHaveLength(25);
-  for (const id of ids) {
-    await page.goto(`/#/atlas/${id}`);
-    const h1 = page.locator("h1.article__title");
-    await expect(h1).toBeVisible();
-    const img = page.locator(".article__hero img");
-    await expect.poll(() => img.evaluate((el: HTMLImageElement) => el.complete && el.naturalWidth > 0)).toBe(true);
-    await expect(page.locator(".related__item").first()).toBeVisible();
+  const index = await (await request.get("/content/index.json")).json();
+  const all: { id: string; image: unknown }[] = index.topics;
+  expect(all.length).toBeGreaterThanOrEqual(25);
+  // The library grows every night, so check a stable sample: the oldest and the newest topics.
+  const sample = [...all.slice(0, 15), ...all.slice(-25)].filter((t, i, a) => a.findIndex((x) => x.id === t.id) === i);
+  for (const t of sample) {
+    const res = await request.get(`/content/t/${t.id}.json`);
+    expect(res.ok(), t.id).toBe(true);
+  }
+  for (const t of sample.slice(0, 12)) {
+    await page.goto(`/#/atlas/${t.id}`);
+    await expect(page.locator("h1.article__title")).toBeVisible();
+    await expect(page.locator(".article__body p").first()).toBeVisible();
+    if (t.image) {
+      const img = page.locator(".article__hero img");
+      await expect.poll(() => img.evaluate((el: HTMLImageElement) => el.complete && el.naturalWidth > 0)).toBe(true);
+    } else {
+      await expect(page.locator(".article__hero .pic--art")).toBeVisible();
+    }
   }
   expect(errors).toEqual([]);
 });

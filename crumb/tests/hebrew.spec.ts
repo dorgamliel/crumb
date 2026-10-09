@@ -38,11 +38,11 @@ for (const hash of ["#/today", "#/atlas", "#/learn", "#/saved", "#/today/pepper"
   });
 }
 
-test("every article: no English outside names, sources and credits", async ({ page }) => {
+test("articles: no English outside names, sources and credits", async ({ page, request }) => {
   await openAt(page, MORNING, "#/atlas");
-  const ids = await page.evaluate(() =>
-    Array.from(document.querySelectorAll(".atlas__list a[href]")).map((a) => a.getAttribute("href")!.split("/").pop()!),
-  );
+  const all: { id: string }[] = (await (await request.get("/content/index.json")).json()).topics;
+  // Oldest and newest topics: a stable sample as the library grows.
+  const ids = [...new Set([...all.slice(0, 10), ...all.slice(-20)].map((t) => t.id))];
   for (const id of ids) {
     await page.goto(`/#/atlas/${id}`);
     await expect(page.locator("h1.article__title")).toBeVisible();
