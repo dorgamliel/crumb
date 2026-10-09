@@ -7,7 +7,11 @@ export interface Slot {
   period: Period;
 }
 
-export const ARCHIVE_DAYS = 7;
+/** The magazine's first day. Nothing exists before it, so the archive starts here. */
+export const LAUNCH_DATE = "2026-10-09";
+
+/** How many recent days the archive lists. */
+export const ARCHIVE_DAYS = 60;
 
 export function dateKey(d: Date): string {
   const y = d.getFullYear();
@@ -43,7 +47,12 @@ export const sameSlot = (a: Slot, b: Slot) => a.date === b.date && a.period === 
 export function currentSlot(now: Date): Slot {
   const hour = now.getHours();
   const today = dateKey(now);
-  if (hour < editions.morning.hour) return { date: addDays(today, -1), period: "evening" };
+  if (hour < editions.morning.hour) {
+    const yesterday = addDays(today, -1);
+    // On launch day there is no "previous evening" yet; the first edition is the launch morning.
+    return yesterday < LAUNCH_DATE ? { date: LAUNCH_DATE, period: "morning" } : { date: yesterday, period: "evening" };
+  }
+  if (today < LAUNCH_DATE) return { date: LAUNCH_DATE, period: "morning" };
   const period = [...periods].reverse().find((p) => hour >= editions[p].hour)!;
   return { date: today, period };
 }
@@ -56,17 +65,18 @@ export function isPublished(s: Slot, now: Date): boolean {
   return order(s) <= order(currentSlot(now));
 }
 
-/** True when the slot is within the demo archive window and already published. */
+/** True when the slot is published, on or after launch, and within the archive window. */
 export function isAvailable(s: Slot, now: Date): boolean {
-  if (!isPublished(s, now)) return false;
+  if (!isPublished(s, now) || s.date < LAUNCH_DATE) return false;
   const oldest = addDays(dateKey(now), -(ARCHIVE_DAYS - 1));
   return s.date >= oldest;
 }
 
 /** Archive days, newest first, each with its three dayparts. */
 export function archiveDays(now: Date): { date: string; slots: { slot: Slot; published: boolean }[] }[] {
-  const today = dateKey(now);
-  return Array.from({ length: ARCHIVE_DAYS }, (_, i) => {
+  const today = currentSlot(now).date;
+  const days = Math.max(1, Math.min(ARCHIVE_DAYS, daysSinceLaunch(today) + 1));
+  return Array.from({ length: days }, (_, i) => {
     const date = addDays(today, -i);
     return {
       date,
@@ -83,4 +93,8 @@ export function relativeDayLabel(date: string, now: Date): string | null {
   if (date === today) return "היום";
   if (date === addDays(today, -1)) return "אתמול";
   return null;
+}
+
+function daysSinceLaunch(date: string): number {
+  return Math.round((parseDateKey(date).getTime() - parseDateKey(LAUNCH_DATE).getTime()) / 86400000);
 }

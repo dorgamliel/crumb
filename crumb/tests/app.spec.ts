@@ -167,7 +167,7 @@ test("the connection map recenters and opens the center article", async ({ page 
   await expect(page).toHaveURL(/#\/atlas\/sourdough$/);
 });
 
-test("future editions are locked and the archive switches editions", async ({ page }) => {
+test("future editions are locked; on launch day the archive holds only that day", async ({ page }) => {
   await openAt(page, MORNING);
   const parts = page.getByRole("group", { name: "בחירת מהדורה" });
   await expect(parts.getByRole("button", { name: /צהריים/ })).toBeDisabled();
@@ -176,12 +176,23 @@ test("future editions are locked and the archive switches editions", async ({ pa
   await archiveButton.click();
   const dialog = page.getByRole("dialog", { name: "ארכיון מהדורות" });
   await expect(dialog).toBeVisible();
-  await expect(dialog).toContainText("ארכיון להדגמה");
+  await expect(dialog).toContainText("מאז שהמגזין יצא לדרך, ב־9 באוקטובר 2026");
+  await expect(dialog).not.toContainText("הדגמה");
+  await expect(dialog.locator(".archive__day")).toHaveCount(1);
   await page.keyboard.press("Escape");
   await expect(dialog).toBeHidden();
   await expect(archiveButton).toBeFocused();
+});
 
-  await archiveButton.click();
+test("the archive switches to an earlier edition and back", async ({ page }) => {
+  await openAt(page, "2026-10-10T09:30:00");
+  const title = page.getByRole("heading", { level: 1 });
+  await expect(page.locator(".cover__title")).toBeVisible();
+  const current = await title.first().textContent();
+
+  await page.getByRole("button", { name: "ארכיון מהדורות" }).click();
+  const dialog = page.getByRole("dialog", { name: "ארכיון מהדורות" });
+  await expect(dialog.locator(".archive__day")).toHaveCount(2);
   await dialog.locator(".archive__day", { hasText: "אתמול" }).getByRole("button", { name: /ערב/ }).click();
   await expect(dialog).toBeHidden();
   await expect(page.getByRole("heading", { level: 1, name: "משהו טוב לסוף היום." })).toBeVisible();
@@ -189,13 +200,18 @@ test("future editions are locked and the archive switches editions", async ({ pa
   await page.reload();
   await expect(page.getByRole("heading", { level: 1, name: "משהו טוב לסוף היום." })).toBeVisible();
   await page.getByRole("button", { name: "חזרה למהדורה העדכנית" }).click();
-  await expect(page.getByRole("heading", { level: 1, name: "בוקר בלי למהר." })).toBeVisible();
+  await expect(page.getByRole("heading", { level: 1, name: current! })).toBeVisible();
 });
 
 test("before 08:00 the previous evening is shown", async ({ page }) => {
-  await openAt(page, "2026-10-09T06:10:00");
+  await openAt(page, "2026-10-10T06:10:00");
   await expect(page.getByRole("heading", { level: 1, name: "משהו טוב לסוף היום." })).toBeVisible();
-  await expect(page.getByText("יום חמישי, 8 באוקטובר · מהדורת ערב")).toBeVisible();
+  await expect(page.getByText("יום שישי, 9 באוקטובר · מהדורת ערב")).toBeVisible();
+});
+
+test("before 08:00 on launch day the first edition is the launch morning", async ({ page }) => {
+  await openAt(page, "2026-10-09T06:10:00");
+  await expect(page.getByRole("heading", { level: 1, name: "בוקר בלי למהר." })).toBeVisible();
 });
 
 test("a new edition replaces an idle feed but waits for an active reader", async ({ page }) => {
