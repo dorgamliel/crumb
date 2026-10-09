@@ -50,7 +50,7 @@ export function BrowningLab({ from, headingLevel }: { from: Tab; headingLevel?: 
   return (
     <LabFrame
       title="מאיפה מגיע הקרום?"
-      intro="הזיזו את הזמן על המחבת החמה, ונסו גם משטח רטוב."
+      intro="הזיזו את המחוון כדי להאריך את הזמן על המחבת, ונסו גם משטח רטוב."
       topic="browning"
       from={from}
       headingLevel={headingLevel}

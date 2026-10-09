@@ -209,7 +209,7 @@ export function Article({ route }: { route: Route }) {
                   <span className="sr-only">(נפתח בחלון חדש)</span>
                 </a>
                 <span className="sources__pub">{s.publisher}</span>
-                {s.supports && <span className="sources__supports">תומך ב: {s.supports}</span>}
+                {s.supports && <span className="sources__supports">מתייחס ל: {s.supports}</span>}
               </li>
             ))}
           </ul>

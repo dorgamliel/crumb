@@ -102,11 +102,11 @@ export function Atlas() {
             {path.length > 1 && (
               <button type="button" className="text-button" onClick={() => updatePath([path[0]])}>
                 <RotateCcw size={14} aria-hidden="true" />
-                מההתחלה
+                להתחיל מחדש
               </button>
             )}
           </div>
-          <p className="atlas__map-hint">בחרו ענף כדי להזיז אותו למרכז. במרכז — פתיחת הכתבה.</p>
+          <p className="atlas__map-hint">לחיצה על ענף מעבירה אותו למרכז. לחיצה על המרכז פותחת את הכתבה.</p>
           {path.length > 1 && (
             <nav className="trail" aria-label="המסלול שלכם במפה">
               <ol>
