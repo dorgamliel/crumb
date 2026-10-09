@@ -2433,5 +2433,95 @@
       "width": 3216,
       "height": 2136
     }
+  ],
+  "za'atar": [
+    {
+      "id": "1be93050-8562-47c9-a5fe-6c2c8fd1a664",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Za%27atar_bread.jpg",
+      "title": "Za'atar bread",
+      "creator": null,
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=859389",
+      "width": 2560,
+      "height": 1920
+    },
+    {
+      "id": "d0c0b38c-b933-4f56-a776-1c14e04e80bf",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Sambusak_filled_with_bulgarit_cheese_and_pesto%2C_covered_with_za%27atar.jpg",
+      "title": "Sambusak filled with bulgarit cheese and pesto, covered with za'atar",
+      "creator": "Maor X",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=56680376",
+      "width": 3888,
+      "height": 2341
+    },
+    {
+      "id": "11f1e467-7fe0-4811-8163-060c4e188591",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Closeup_image_of_za%27atar%2C_a_blend_of_origanum_syriacum_%28hyssop%2C_sumac%2C_sesame_seeds_and_salt.jpg",
+      "title": "Closeup image of za'atar, a blend of origanum syriacum (hyssop, sumac, sesame seeds and salt",
+      "creator": "Fshadid",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=95908503",
+      "width": 3438,
+      "height": 2647
+    },
+    {
+      "id": "10bd0756-17b2-4fca-8703-c9cfc1c3581f",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pyramid_of_Za%27atar_%2810805714486%29.jpg",
+      "title": "Pyramid of Za'atar (10805714486)",
+      "creator": "Jorge Láscar from Australia",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=31947858",
+      "width": 4288,
+      "height": 2848
+    },
+    {
+      "id": "2375e597-3c2a-450d-89bd-d1ba7d319b78",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Za%27atar_and_Aleppo_Pepper_%288629560957%29.jpg",
+      "title": "Za'atar and Aleppo Pepper (8629560957)",
+      "creator": "Veganbaking.net from USA",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=35716520",
+      "width": 5184,
+      "height": 3456
+    },
+    {
+      "id": "b0c81127-5d0f-45f5-a837-4041bff5ad0b",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Za%27atar_with_cheese_manakish_at_Agasi%2C_Lajpat_Nagar%2C_Delhi_%282025-10-04%29.jpg",
+      "title": "Za'atar with cheese manakish at Agasi, Lajpat Nagar, Delhi (2025-10-04)",
+      "creator": "Contrapunctus-1",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=176166975",
+      "width": 4096,
+      "height": 3072
+    },
+    {
+      "id": "4014b7d3-71ed-4b09-8e7f-9c2693a815b8",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Za%27atar.jpg",
+      "title": "Za'atar",
+      "creator": "Donama",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=78178500",
+      "width": 2691,
+      "height": 3786
+    },
+    {
+      "id": "0885d97d-f492-4a3d-906d-8b43bb06fc5c",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Au_Za%27atar_%2852525795647%29.jpg",
+      "title": "Au Za'atar (52525795647)",
+      "creator": "Eden, Janine and Jim from New York City",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=126028609",
+      "width": 4080,
+      "height": 2295
+    }
   ]
 }
