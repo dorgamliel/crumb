@@ -1,0 +1,10 @@
+{
+  "id": "tahini",
+  "verdict": "reject",
+  "notes": "The headline asks why tahini seizes, and the only source does not support the explanation the body, takeaway and quiz are built on.",
+  "issues": [
+    "Central claim unsupported: the mechanism (a little liquid is absorbed by the sesame particles and they stick into a lump, then more water disperses them) appears nowhere in the sole source (Wikipedia Tahini), which only says consistency is adjusted with water.",
+    "Headline, body paragraph 2, takeaway and quiz all depend on this unsourced explanation, so fixing it would mean rewriting the topic, not editing it.",
+    "Minor: the body says hulled sesame gives light tahini, but the source ties light color to untoasted sesame."
+  ]
+}

@@ -80,14 +80,14 @@ async function search(query) {
       width: r.width,
       height: r.height,
     }));
-    cache[query] = results;
-    writeJson(CACHE, cache);
+    // Re-read before writing: several searches may run at once, and none may drop another's entry.
+    writeJson(CACHE, { ...readJson(CACHE, {}), [query]: results });
   }
   mkdirSync(CANDIDATES, { recursive: true });
   const tiles = [];
   for (const [i, r] of results.entries()) {
     const key = `${slug(query)}-${i}`;
-    const file = join(CANDIDATES, `${key}.jpg`);
+    const file = join(CANDIDATES, `${r.id}.jpg`); // stable even if a search is repeated
     try {
       if (!existsSync(file)) {
         const buf = Buffer.from(await (await politeFetch(thumbUrl(r.url, 330), { tries: 3 })).arrayBuffer());
