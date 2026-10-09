@@ -25,7 +25,7 @@ const updatedFmt = new Intl.DateTimeFormat("he-IL", { day: "numeric", month: "lo
 const statusText = {
   draft: {
     label: "טיוטה עריכתית",
-    text: "הכתבה נכתבה כתוכן הדגמה ועדיין לא נבדקה מול מקורות. היא לא מהווה מקור מאומת.",
+    text: "הכתבה נכתבה בעזרת בינה מלאכותית ועדיין לא נבדקה מול מקורות, ולכן אין לראות בה מקור מאומת.",
   },
   "source-linked": {
     label: "טיוטה עם מקורות",

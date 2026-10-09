@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { periods } from "../data/editions";
 import { loadEdition, useTopics } from "../lib/content";
-import { addDays, currentSlot, isPublished, type Slot } from "../lib/schedule";
+import { addDays, currentSlot, isAvailable, type Slot } from "../lib/schedule";
 import { useStore } from "../lib/storage";
 import { Quiz } from "../components/Quiz";
 import { Lab } from "../labs";
@@ -17,7 +17,7 @@ function useWeekQuizzes(now: Date) {
     const slots: Slot[] = [];
     for (let d = 0; d < WEEK; d++) {
       const date = addDays(today, -d);
-      for (const period of [...periods].reverse()) if (isPublished({ date, period }, now)) slots.push({ date, period });
+      for (const period of [...periods].reverse()) if (isAvailable({ date, period }, now)) slots.push({ date, period });
     }
     Promise.all(slots.map(loadEdition)).then((eds) => {
       if (!alive) return;

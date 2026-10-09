@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { X } from "lucide-react";
 import { editions } from "../data/editions";
 import { formatHour, formatShortDate } from "../lib/hebrew";
-import { archiveDays, parseDateKey, relativeDayLabel, sameSlot, type Slot } from "../lib/schedule";
+import { LAUNCH_DATE, archiveDays, parseDateKey, relativeDayLabel, sameSlot, type Slot } from "../lib/schedule";
 
 interface Props {
   open: boolean;
@@ -13,6 +13,7 @@ interface Props {
 }
 
 const weekday = new Intl.DateTimeFormat("he-IL", { weekday: "long" });
+const launchLabel = new Intl.DateTimeFormat("he-IL", { day: "numeric", month: "long", year: "numeric" }).format(parseDateKey(LAUNCH_DATE));
 
 export function ArchiveDialog({ open, onClose, onChoose, now, current }: Props) {
   const ref = useRef<HTMLDialogElement>(null);
@@ -56,9 +57,7 @@ export function ArchiveDialog({ open, onClose, onChoose, now, current }: Props) 
             <X size={20} aria-hidden="true" />
           </button>
         </header>
-        <p className="sheet__note">
-          זהו ארכיון להדגמה: באב־טיפוס הזה אותן שלוש מהדורות חוזרות בכל יום, ואין עדיין מערכת פרסום יומית.
-        </p>
+        <p className="sheet__note">כל המהדורות מאז שהמגזין יצא לדרך, ב־{launchLabel}.</p>
         <button type="button" className="pill-button sheet__now" onClick={() => onChoose(null)}>
           למהדורה העדכנית
         </button>

@@ -59,8 +59,8 @@ node scripts/content/finalize.mjs                 # apply the checker's verdicts
   comparison, a short technique, a quiz, an interactive explanation, a horizontal
   collection, and an ending that suggests one connection and then lets you stop.
   Future editions are locked until they are published. If a new edition arrives while
-  you are reading, it is offered rather than swapped in. A 7-day archive is clearly
-  labeled as a demo.
+  you are reading, it is offered rather than swapped in. The archive lists every edition
+  since launch (9 October 2026), up to the last 60 days.
 - **אטלס (Atlas)**: Hebrew search that ignores niqqud, punctuation and common prefixes
   (ה, ו, ב, ל, מ, ש, כ). Category filters, a connection map that recenters on the
   branch you pick, with a breadcrumb of where you've been, and a list of every topic.
@@ -104,8 +104,9 @@ are imported once. Malformed or blocked storage falls back to memory.
 
 ## Honest limitations
 
-- **Content is demonstration content.** Articles are marked either "editorial draft"
-  or "draft with sources". Linked sources (mostly English Wikipedia, plus King Arthur
+- **Content is AI-written.** Pipeline topics are marked "automatically checked" once an
+  independent checker has verified them against their sources; the launch topics are marked
+  "editorial draft" or "draft with sources". Linked sources (mostly English Wikipedia, plus King Arthur
   Baking and the National Center for Home Food Preservation) support particular claims.
   They do not certify an article, and nothing has been professionally fact-checked.
 - Each edition has 9 counted discoveries (8 topics + 1 quiz), so a day has 27.
