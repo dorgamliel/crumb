@@ -96,7 +96,9 @@ not about content (or you cannot tell), do not deploy; commit only `content/` an
 ## 8. Deploy
 
 ```sh
-rm -rf ../crumb-app && cp -r dist ../crumb-app
+# Keep old files in crumb-app/assets: phones that cached the previous page (GitHub caches it
+# for 10 minutes) still request the old JS/CSS, and deleting them shows a broken page or 404.
+rm -rf ../crumb-app/content && mkdir -p ../crumb-app && cp -r dist/. ../crumb-app/
 cd .. && git add crumb crumb-app
 git commit -m "Crumb content run <date>: <n> new topics"
 git push origin main     # on rejection: git pull --rebase origin main, rebuild if crumb/ changed, push again
