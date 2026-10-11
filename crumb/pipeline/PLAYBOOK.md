@@ -13,6 +13,12 @@ Budget: aim for about 15 new topics per run. Prefer fewer, better topics over mo
 
 ## 0. Set up
 
+**First, before anything else:** call the `add_repo` tool (claude-code-remote) with
+`owner: "dorgamliel"`, `repo: "ra"`, `access: "push"`. Without this the session can clone but
+GitHub refuses the final push, and the whole run is lost. If `add_repo` says the repository is
+already attached, carry on. If it reports an access problem, stop and write that in your reply;
+there is no point generating content that cannot be published.
+
 ```sh
 cd /home/user/ra   # or wherever the repo is cloned
 git checkout main && git pull --ff-only origin main
@@ -96,7 +102,10 @@ git commit -m "Crumb content run <date>: <n> new topics"
 git push origin main     # on rejection: git pull --rebase origin main, rebuild if crumb/ changed, push again
 ```
 
-Retry a failed push up to 4 times with backoff (2, 4, 8, 16 seconds).
+Retry a failed push up to 4 times with backoff (2, 4, 8, 16 seconds). If GitHub refuses the push
+for authorization (403), call `add_repo` again with `access: "push"` and retry once. If it still
+fails, push the same commit to a new branch `crumb-run-<date>` instead so the work is not lost,
+and say so in your reply.
 
 ## 9. Log
 

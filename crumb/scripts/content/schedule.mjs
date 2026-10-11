@@ -13,14 +13,19 @@ const arg = (name, fallback) => {
 };
 const AHEAD = Number(arg("days", 21));
 const FROM = arg("from", israelToday());
+// --rebuild-from YYYY-MM-DD discards already-scheduled days from that date on (used to apply a fix).
+const REBUILD_FROM = arg("rebuild-from", null);
 // A topic is not shown again for this many days once the library is large enough.
 const MIN_GAP = 45;
 const MAX_PER_KIND = 3;
+// Topics still waiting for a photo show drawn artwork; an edition may hold only a couple of them.
+const MAX_WITHOUT_PHOTO = 2;
 
 // Only published topics: pipeline drafts wait until the independent check passes them.
 const topics = loadTopics().filter((t) => !(t.origin === "pipeline" && t.status === "draft"));
 
 const days = loadSchedule();
+if (REBUILD_FROM) for (const date of Object.keys(days)) if (date >= REBUILD_FROM) delete days[date];
 const titles = readJson(join(CONTENT, "titles.json"));
 
 // Last date each topic appeared, and last date it carried an edition's quiz.
@@ -48,7 +53,10 @@ function pickEdition(date, period, usedToday) {
     const age = last ? daysBetween(last, date) : 10000; // never shown = most wanted
     let s = Math.min(age, 400);
     if (last && age < MIN_GAP) s -= 1000; // recently shown: only if nothing else is left
-    if (!t.image) s -= 50; // photo still pending: usable, but not first choice
+    if (!t.image) {
+      s -= 150; // photo still pending: usable, but not first choice
+      if (picked.filter((p) => !p.image).length >= MAX_WITHOUT_PHOTO) s -= 5000;
+    }
     // Prefer topics connected to what is already in this edition, for a coherent read.
     if (picked.some((p) => p.related.some((r) => r.target === t.id) || t.related.some((r) => r.target === p.id))) s += 30;
     if (picked.filter((p) => p.kind === t.kind).length >= MAX_PER_KIND) s -= 500;
