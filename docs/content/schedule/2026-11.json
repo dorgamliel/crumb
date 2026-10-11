@@ -1,0 +1,49 @@
+{
+  "2026-11-01": {
+    "morning": {
+      "title": "לאט ובטעם.",
+      "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
+      "topics": [
+        "gelatin",
+        "pectin",
+        "braising",
+        "lemon",
+        "pickles",
+        "salt",
+        "fermentation",
+        "hollandaise"
+      ],
+      "quiz": "braising"
+    },
+    "afternoon": {
+      "title": "רגע לנשום.",
+      "subtitle": "קריאה קצרה, שאלה טובה, ובחזרה לעניינים.",
+      "topics": [
+        "pizza",
+        "pita",
+        "tomatoes",
+        "pasta",
+        "pasta-water",
+        "cheese",
+        "yogurt",
+        "risotto"
+      ],
+      "quiz": "pasta-water"
+    },
+    "evening": {
+      "title": "אור נמוך, סיר חם.",
+      "subtitle": "גילויים קטנים לסוף היום.",
+      "topics": [
+        "honey",
+        "challah",
+        "gluten",
+        "hydration",
+        "choux-pastry",
+        "caramel",
+        "butter",
+        "emulsions"
+      ],
+      "quiz": "honey"
+    }
+  }
+}
