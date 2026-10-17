@@ -45,5 +45,287 @@
       ],
       "quiz": "honey"
     }
+  },
+  "2026-11-02": {
+    "morning": {
+      "title": "פותחים את המזווה.",
+      "subtitle": "חומרי גלם, טכניקות, וקצת מדע לבוקר.",
+      "topics": [
+        "milk-foam",
+        "espresso",
+        "turkish-coffee",
+        "cold-brew",
+        "cardamom",
+        "cinnamon",
+        "paprika",
+        "majadra"
+      ],
+      "quiz": "milk-foam"
+    },
+    "afternoon": {
+      "title": "באמצע היום.",
+      "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
+      "topics": [
+        "cumin",
+        "roasting-vegetables",
+        "sugar-crystals",
+        "flour",
+        "ginger",
+        "tea",
+        "bagel",
+        "rye-bread"
+      ],
+      "quiz": "cumin"
+    },
+    "evening": {
+      "title": "לסיים בטעם טוב.",
+      "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
+      "topics": [
+        "focaccia",
+        "jachnun",
+        "enzymatic-browning",
+        "denaturation",
+        "eggs",
+        "vanilla",
+        "chocolate",
+        "brioche"
+      ],
+      "quiz": "focaccia"
+    }
+  },
+  "2026-11-03": {
+    "morning": {
+      "title": "בוקר של סקרנות.",
+      "subtitle": "כמה דקות, כמה תשובות, ואולי שאלה חדשה.",
+      "topics": [
+        "browning",
+        "osmosis",
+        "sabich",
+        "mushrooms",
+        "onion",
+        "falafel",
+        "starch",
+        "tangzhong"
+      ],
+      "quiz": "osmosis"
+    },
+    "afternoon": {
+      "title": "באמצע היום.",
+      "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
+      "topics": [
+        "smoke-point",
+        "sauteing",
+        "butter",
+        "shortcrust",
+        "risotto",
+        "rice",
+        "majadra",
+        "yogurt"
+      ],
+      "quiz": "sauteing"
+    },
+    "evening": {
+      "title": "משהו טוב לסוף היום.",
+      "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
+      "topics": [
+        "sourdough",
+        "gluten",
+        "challah",
+        "pita",
+        "honey",
+        "caramel",
+        "sugar-crystals",
+        "lemon"
+      ],
+      "quiz": "sugar-crystals"
+    }
+  },
+  "2026-11-04": {
+    "morning": {
+      "title": "לאט ובטעם.",
+      "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
+      "topics": [
+        "saffron",
+        "extraction",
+        "coffee",
+        "acidity",
+        "kimchi",
+        "capsaicin",
+        "shakshuka",
+        "pickles"
+      ],
+      "quiz": "capsaicin"
+    },
+    "afternoon": {
+      "title": "צהריים במטבח.",
+      "subtitle": "מה קורה בסיר, ולמה זה עובד.",
+      "topics": [
+        "garlic",
+        "olive-oil",
+        "spices",
+        "browning",
+        "lamination",
+        "fermentation",
+        "umami",
+        "sourdough"
+      ],
+      "quiz": "fermentation"
+    },
+    "evening": {
+      "title": "הערב במטבח.",
+      "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
+      "topics": [
+        "meringue",
+        "eggs",
+        "pasta",
+        "tomatoes",
+        "eggplant",
+        "challah",
+        "gluten",
+        "bagel"
+      ],
+      "quiz": "bagel"
+    }
+  },
+  "2026-11-05": {
+    "morning": {
+      "title": "בוקר טוב, מטבח.",
+      "subtitle": "משהו מעניין לקרוא עם הכוס הראשונה.",
+      "topics": [
+        "baking-powder",
+        "starch",
+        "hummus",
+        "gelatin",
+        "braising",
+        "pasta-water",
+        "emulsions",
+        "pepper"
+      ],
+      "quiz": "emulsions"
+    },
+    "afternoon": {
+      "title": "כמה דקות של אוכל.",
+      "subtitle": "בלי מתכון חובה. רק סקרנות.",
+      "topics": [
+        "zaatar",
+        "yogurt",
+        "cheese",
+        "majadra",
+        "pizza",
+        "hydration",
+        "choux-pastry",
+        "flour"
+      ],
+      "quiz": "majadra"
+    },
+    "evening": {
+      "title": "ערב רגוע.",
+      "subtitle": "כמה סיפורים מהמטבח לפני שנגמר היום.",
+      "topics": [
+        "hollandaise",
+        "butter",
+        "brioche",
+        "jachnun",
+        "risotto",
+        "rice",
+        "eggs",
+        "caramel"
+      ],
+      "quiz": "jachnun"
+    }
+  },
+  "2026-11-06": {
+    "morning": {
+      "title": "בוקר טוב, מטבח.",
+      "subtitle": "משהו מעניין לקרוא עם הכוס הראשונה.",
+      "topics": [
+        "salt",
+        "focaccia",
+        "pickles",
+        "lemon",
+        "cinnamon",
+        "pectin",
+        "starch",
+        "rye-bread"
+      ],
+      "quiz": "cinnamon"
+    },
+    "afternoon": {
+      "title": "צהריים במטבח.",
+      "subtitle": "מה קורה בסיר, ולמה זה עובד.",
+      "topics": [
+        "cold-brew",
+        "acidity",
+        "sourdough",
+        "yogurt",
+        "zaatar",
+        "olive-oil",
+        "roasting-vegetables",
+        "hummus"
+      ],
+      "quiz": "cold-brew"
+    },
+    "evening": {
+      "title": "לסיים בטעם טוב.",
+      "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
+      "topics": [
+        "miso",
+        "mushrooms",
+        "fermentation",
+        "chocolate",
+        "lamination",
+        "shortcrust",
+        "browning",
+        "extraction"
+      ],
+      "quiz": "chocolate"
+    }
+  },
+  "2026-11-07": {
+    "morning": {
+      "title": "לאט ובטעם.",
+      "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
+      "topics": [
+        "cardamom",
+        "turkish-coffee",
+        "tea",
+        "espresso",
+        "milk-foam",
+        "spices",
+        "cumin",
+        "capsaicin"
+      ],
+      "quiz": "cardamom"
+    },
+    "afternoon": {
+      "title": "צהריים במטבח.",
+      "subtitle": "מה קורה בסיר, ולמה זה עובד.",
+      "topics": [
+        "tangzhong",
+        "starch",
+        "falafel",
+        "pita",
+        "smoke-point",
+        "butter",
+        "hollandaise",
+        "caramel"
+      ],
+      "quiz": "smoke-point"
+    },
+    "evening": {
+      "title": "אור נמוך, סיר חם.",
+      "subtitle": "גילויים קטנים לסוף היום.",
+      "topics": [
+        "vanilla",
+        "saffron",
+        "challah",
+        "paprika",
+        "extraction",
+        "cold-brew",
+        "shakshuka",
+        "brioche"
+      ],
+      "quiz": "paprika"
+    }
   }
 }

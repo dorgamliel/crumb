@@ -9,7 +9,7 @@
     "key": "flour",
     "width": 1280,
     "height": 853,
-    "alt": "קמח לבן בשק עם כף מתכת",
+    "alt": "כף מתכת חופנת קמח מתוך מיכל",
     "credit": {
       "author": "Margaret Hoogstrate",
       "source": "Wikimedia Commons",
@@ -56,15 +56,9 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Flour",
       "supports": "קמח מלא ולבן, אחוזי חלבון לפי סוג, סיבים וגלוטן, הנבט והתחמצנות"
-    },
-    {
-      "title": "Handling Flour Safely: What You Need to Know",
-      "publisher": "FDA, מנהל המזון והתרופות האמריקאי",
-      "url": "https://www.fda.gov/food/buy-store-serve-safe-food/handling-flour-safely-what-you-need-know",
-      "supports": "קמח הוא מוצר גולמי ואין לאכול בצק לא אפוי"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-10-09",
   "addedAt": "2026-10-09",
   "keywords": [
@@ -88,11 +82,9 @@
     "correct": 1,
     "explanation": "בקמח לחם יש יותר חלבון, ולכן נבנה בצק חזק שלוכד את הגז של השמרים. בקמח לעוגות יש מעט חלבון, ובקמח מלא הסיבים מפריעים לגלוטן, כך שהלחם יוצא דחוס יותר."
   },
-  "angles": {
-    "note": {
-      "kicker": "בטיחות מזון",
-      "text": "קמח הוא מוצר גולמי. לפי מנהל המזון והתרופות האמריקאי, הטחינה לא הורגת חיידקים, ולכן לא טועמים בצק או בלילה לפני האפייה. הבישול הוא מה שהופך אותם לבטוחים."
-    }
-  },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-17",
+    "notes": "Wikipedia supports whole vs refined, protein ranges, fiber vs gluten, germ rancidity and degermination, 00 for pizza; FDA source returned HTTP 401 twice, so removed it and the safety note attributed to it; alt text corrected (scoop in container, no sack visible)."
+  }
 }

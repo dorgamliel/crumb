@@ -49,7 +49,7 @@
   },
   "https://en.wikipedia.org/wiki/Maillard_reaction": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Salt": {
     "ok": true,
@@ -61,7 +61,7 @@
   },
   "https://en.wikipedia.org/wiki/Espresso": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Miso": {
     "ok": true,
@@ -125,7 +125,7 @@
   },
   "https://en.wikipedia.org/wiki/Tea": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Caramelized_onions": {
     "ok": true,
@@ -141,7 +141,7 @@
   },
   "https://en.wikipedia.org/wiki/Caramelization": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Tahini": {
     "ok": true,
@@ -157,11 +157,11 @@
   },
   "https://en.wikipedia.org/wiki/Green_tea": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Polyphenol_oxidase": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Gelatin_dessert": {
     "ok": true,
@@ -173,7 +173,7 @@
   },
   "https://en.wikipedia.org/wiki/Food_browning": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Smoke_point": {
     "ok": true,
@@ -211,7 +211,7 @@
   },
   "https://en.wikipedia.org/wiki/Microfoam": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://nchfp.uga.edu/how/freeze/blanching.html": {
     "ok": true,
@@ -251,7 +251,7 @@
   },
   "https://en.wikipedia.org/wiki/Fudge": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Candy_making": {
     "ok": true,
@@ -271,15 +271,15 @@
   },
   "https://en.wikipedia.org/wiki/Roasting": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Candy": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Inverted_sugar_syrup": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Saffron": {
     "ok": true,
@@ -291,7 +291,7 @@
   },
   "https://en.wikipedia.org/wiki/Flour": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://en.wikipedia.org/wiki/Vanilla": {
     "ok": true,
@@ -312,7 +312,7 @@
   },
   "https://en.wikipedia.org/wiki/Cardamom": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://extension.umaine.edu/publications/4385e/": {
     "ok": true,
@@ -320,7 +320,7 @@
   },
   "https://en.wikipedia.org/wiki/Cinnamon": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://www.efsa.europa.eu/en/news/efsa-coumarin-cinnamon-and-other-foods": {
     "ok": false,
@@ -329,7 +329,7 @@
   },
   "https://en.wikipedia.org/wiki/Coumarin": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-17"
   },
   "https://www.bfr.bund.de/cm/349/frequently_asked_questions_about_coumarin_in_cinnamon_and_other_foods.pdf": {
     "ok": false,
@@ -339,5 +339,89 @@
   "https://en.wikipedia.org/wiki/Scoville_scale": {
     "ok": true,
     "checkedAt": "2026-10-09"
+  },
+  "https://en.wikipedia.org/wiki/Ginger": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Mujaddara": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Bagel": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Ginger_milk_curd": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Cumin": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Turkish_coffee": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Cold_brew_coffee": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Focaccia": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Rye_bread": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Tempering_(spices)": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Sautéing": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Paprika": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Osmosis": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Maceration_(food)": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Capsanthin": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Sabich": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Denaturation_(biochemistry)": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Jachnun": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Haminados": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Amba_(condiment)": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/New_York%E2%80%93style_bagel": {
+    "ok": true,
+    "checkedAt": "2026-10-17"
   }
 }

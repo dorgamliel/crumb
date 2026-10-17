@@ -87,5 +87,9 @@
       "text": "כשגאג׳יה הציג בסוף שנות הארבעים את המכונה שלו, הוא שיווק את המשקה בשם ׳קפה קרמה׳. הקצף, שלא היה במכונות שלפניה, היה נקודת המכירה."
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-17",
+    "notes": "Wikipedia confirms 9 bar, 25-30 s, any-roast myth, crema from CO2 and oils, early ~1.5 bar machines without crema, Gaggia 'crema caffe', tamping, ristretto/lungo with grind changes, 14 g double, lower caffeine per serving; photo is an espresso cup on saucer on wood, matches alt."
+  }
 }

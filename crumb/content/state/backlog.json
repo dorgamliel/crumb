@@ -1,20 +1,5 @@
 [
  {
-  "id": "bagel",
-  "name": "בייגל",
-  "kind": "baking"
- },
- {
-  "id": "focaccia",
-  "name": "פוקאצ׳ה",
-  "kind": "baking"
- },
- {
-  "id": "rye-bread",
-  "name": "לחם שיפון",
-  "kind": "baking"
- },
- {
   "id": "cookies-spread",
   "name": "למה עוגיות מתפשטות",
   "kind": "baking"
@@ -88,16 +73,6 @@
   "id": "pastry-cream",
   "name": "קרם פטיסייר",
   "kind": "baking"
- },
- {
-  "id": "osmosis",
-  "name": "אוסמוזה במטבח",
-  "kind": "science"
- },
- {
-  "id": "denaturation",
-  "name": "חלבונים בחום",
-  "kind": "science"
  },
  {
   "id": "sugar-science",
@@ -190,23 +165,8 @@
   "kind": "science"
  },
  {
-  "id": "ginger",
-  "name": "ג׳ינג׳ר",
-  "kind": "ingredients"
- },
- {
-  "id": "cumin",
-  "name": "כמון",
-  "kind": "ingredients"
- },
- {
   "id": "turmeric",
   "name": "כורכום",
-  "kind": "ingredients"
- },
- {
-  "id": "paprika",
-  "name": "פפריקה",
   "kind": "ingredients"
  },
  {
@@ -440,23 +400,8 @@
   "kind": "ingredients"
  },
  {
-  "id": "sabich",
-  "name": "סביח",
-  "kind": "dishes"
- },
- {
-  "id": "jachnun",
-  "name": "ג׳חנון",
-  "kind": "dishes"
- },
- {
   "id": "malawach",
   "name": "מלאווח",
-  "kind": "dishes"
- },
- {
-  "id": "majadra",
-  "name": "מג׳דרה",
   "kind": "dishes"
  },
  {
@@ -570,16 +515,6 @@
   "kind": "dishes"
  },
  {
-  "id": "cold-brew",
-  "name": "קפה קר בחליטה",
-  "kind": "drinks"
- },
- {
-  "id": "turkish-coffee",
-  "name": "קפה טורקי",
-  "kind": "drinks"
- },
- {
   "id": "matcha",
   "name": "מאצ׳ה",
   "kind": "drinks"
@@ -617,16 +552,6 @@
  {
   "id": "knife-skills",
   "name": "עבודה עם סכין",
-  "kind": "techniques"
- },
- {
-  "id": "sauteing",
-  "name": "הקפצה",
-  "kind": "techniques"
- },
- {
-  "id": "roasting-vegetables",
-  "name": "צליית ירקות",
   "kind": "techniques"
  },
  {

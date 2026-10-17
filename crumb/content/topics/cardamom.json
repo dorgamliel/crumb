@@ -81,5 +81,9 @@
     "correct": 1,
     "explanation": "הניחוח של ההל נמצא בשמנים נדיפים בזרעים. התרמיל מגן עליהם, וברגע שהזרעים נחשפים או נטחנים הם מתחילים לאבד את הריח."
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-10-17",
+    "notes": "Wikipedia confirms the plant, green and black cardamom, third most expensive spice, storage in the pod, 10 pods = 1.5 tsp, up to 40% in coffee, hawaij, chai, basmati and Nordic baking. Quiz correct. Photo shows green pods. No edits."
+  }
 }
