@@ -126,9 +126,11 @@ test("Hebrew search ignores niqqud and prefixes, and combines with categories", 
   const results = page.locator(".atlas__list .row__name");
 
   await search.fill("קָפֶה");
-  await expect(results).toHaveText(["קפה", "מיצוי קפה"]);
+  // The library grows, so check that the expected topics are found rather than a fixed list.
+  await expect(results.filter({ hasText: /^קפה$/ })).toHaveCount(1);
+  await expect(results.filter({ hasText: /^מיצוי קפה$/ })).toHaveCount(1);
   await search.fill("הקפה");
-  await expect(results.first()).toHaveText("קפה");
+  await expect(results.filter({ hasText: /^קפה$/ })).toHaveCount(1);
   await search.fill("מיונז");
   await expect(results.filter({ hasText: /^תחליבים$/ })).toHaveCount(1);
   await search.fill("ג'לטיניזציה");

@@ -13,11 +13,11 @@ Budget: aim for about 15 new topics per run. Prefer fewer, better topics over mo
 
 ## 0. Set up
 
-**First, before anything else:** call the `add_repo` tool (claude-code-remote) with
-`owner: "dorgamliel"`, `repo: "ra"`, `access: "push"`. Without this the session can clone but
-GitHub refuses the final push, and the whole run is lost. If `add_repo` says the repository is
-already attached, carry on. If it reports an access problem, stop and write that in your reply;
-there is no point generating content that cannot be published.
+If the repository is already checked out at `/home/user/ra`, do not request access: the session
+already has it, and pushes from it work. Only when there is no checkout, call the `add_repo` tool
+(claude-code-remote) with `owner: "dorgamliel"`, `repo: "ra"`, `access: "push"`. If that call is
+refused or reports an access problem, do not stop: do the whole run, and at step 8 a refused push
+falls back to the `crumb-run-<date>` branch, so nothing is lost.
 
 ```sh
 cd /home/user/ra   # or wherever the repo is cloned
