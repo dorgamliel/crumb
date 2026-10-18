@@ -1,22 +1,7 @@
 [
  {
-  "id": "cookies-spread",
-  "name": "למה עוגיות מתפשטות",
-  "kind": "baking"
- },
- {
-  "id": "creaming",
-  "name": "הקצפת חמאה וסוכר",
-  "kind": "baking"
- },
- {
   "id": "sponge-cake",
   "name": "עוגת ספוג",
-  "kind": "baking"
- },
- {
-  "id": "yeast",
-  "name": "שמרים",
   "kind": "baking"
  },
  {
@@ -85,23 +70,8 @@
   "kind": "science"
  },
  {
-  "id": "smell-and-taste",
-  "name": "ריח וטעם",
-  "kind": "science"
- },
- {
-  "id": "bitterness",
-  "name": "מרירות",
-  "kind": "science"
- },
- {
   "id": "sweetness",
   "name": "מתיקות",
-  "kind": "science"
- },
- {
-  "id": "heat-transfer",
-  "name": "העברת חום",
   "kind": "science"
  },
  {
@@ -170,28 +140,13 @@
   "kind": "ingredients"
  },
  {
-  "id": "coriander",
-  "name": "כוסברה",
-  "kind": "ingredients"
- },
- {
   "id": "parsley",
   "name": "פטרוזיליה",
   "kind": "ingredients"
  },
  {
-  "id": "mint",
-  "name": "נענע",
-  "kind": "ingredients"
- },
- {
   "id": "basil",
   "name": "בזיליקום",
-  "kind": "ingredients"
- },
- {
-  "id": "dates",
-  "name": "תמרים",
   "kind": "ingredients"
  },
  {
@@ -400,11 +355,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "malawach",
-  "name": "מלאווח",
-  "kind": "dishes"
- },
- {
   "id": "shawarma",
   "name": "שווארמה",
   "kind": "dishes"
@@ -415,18 +365,8 @@
   "kind": "dishes"
  },
  {
-  "id": "stuffed-vegetables",
-  "name": "ממולאים",
-  "kind": "dishes"
- },
- {
   "id": "cholent",
   "name": "חמין",
-  "kind": "dishes"
- },
- {
-  "id": "kubbeh",
-  "name": "קובה",
   "kind": "dishes"
  },
  {
@@ -515,11 +455,6 @@
   "kind": "dishes"
  },
  {
-  "id": "matcha",
-  "name": "מאצ׳ה",
-  "kind": "drinks"
- },
- {
   "id": "herbal-infusions",
   "name": "חליטות צמחים",
   "kind": "drinks"
@@ -527,11 +462,6 @@
  {
   "id": "lemonade",
   "name": "לימונדה",
-  "kind": "drinks"
- },
- {
-  "id": "hot-chocolate",
-  "name": "שוקו חם",
   "kind": "drinks"
  },
  {
@@ -562,11 +492,6 @@
  {
   "id": "poaching",
   "name": "בישול עדין",
-  "kind": "techniques"
- },
- {
-  "id": "steaming",
-  "name": "אידוי",
   "kind": "techniques"
  },
  {

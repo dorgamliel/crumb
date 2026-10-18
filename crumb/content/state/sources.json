@@ -202,7 +202,7 @@
   },
   "https://en.wikipedia.org/wiki/Eggplant": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-18"
   },
   "https://en.wikipedia.org/wiki/Steamed_milk": {
     "ok": false,
@@ -423,5 +423,144 @@
   "https://en.wikipedia.org/wiki/New_York%E2%80%93style_bagel": {
     "ok": true,
     "checkedAt": "2026-10-17"
+  },
+  "https://en.wikipedia.org/wiki/Heat_transfer": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Cookie": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Dolma": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Kibbeh": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Convection_oven": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Chocolate_chip_cookie": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/04/26/why-are-my-cookies-spreading": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Creaming_(food)": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Matcha": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Hot_chocolate": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Steaming": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Thermal_conductivity_and_resistivity": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://www.kingarthurbaking.com/blog/2015/04/27/creaming-butter-and-sugar": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Butter": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Baker%27s_yeast": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Latent_heat": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://he.wikipedia.org/wiki/ממולאים": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Yeast": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Proofing_(baking_technique)": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://www.kingarthurbaking.com/blog/2023/02/22/cold-butter-cookies": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Coriander": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Flavor": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Retronasal_smell": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Taste": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Menthol": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Mentha": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Spearmint": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Maghrebi_mint_tea": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Date_palm": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://he.wikipedia.org/wiki/תמר_מצוי": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Table_olive": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Phenylthiocarbamide": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Malawach": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
+  },
+  "https://he.wikipedia.org/wiki/מלאווח": {
+    "ok": true,
+    "checkedAt": "2026-10-18"
   }
 }

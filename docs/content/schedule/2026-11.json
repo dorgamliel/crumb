@@ -327,5 +327,52 @@
       ],
       "quiz": "paprika"
     }
+  },
+  "2026-11-08": {
+    "morning": {
+      "title": "מתחילים את היום בטעם.",
+      "subtitle": "כמה גילויים קטנים לפני שהיום נפתח.",
+      "topics": [
+        "malawach",
+        "cookies-spread",
+        "coriander",
+        "mint",
+        "hot-chocolate",
+        "matcha",
+        "steaming",
+        "stuffed-vegetables"
+      ],
+      "quiz": "malawach"
+    },
+    "afternoon": {
+      "title": "הפסקת צהריים מתוקה.",
+      "subtitle": "גילוי קטן בין משימה למשימה.",
+      "topics": [
+        "kubbeh",
+        "smell-and-taste",
+        "bitterness",
+        "umami",
+        "coffee",
+        "tomatoes",
+        "eggplant",
+        "pizza"
+      ],
+      "quiz": "kubbeh"
+    },
+    "evening": {
+      "title": "משהו טוב לסוף היום.",
+      "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
+      "topics": [
+        "sugar-crystals",
+        "yeast",
+        "creaming",
+        "honey",
+        "meringue",
+        "gluten",
+        "pasta",
+        "pasta-water"
+      ],
+      "quiz": "yeast"
+    }
   }
 }
