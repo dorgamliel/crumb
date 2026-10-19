@@ -374,5 +374,52 @@
       ],
       "quiz": "yeast"
     }
+  },
+  "2026-11-09": {
+    "morning": {
+      "title": "פותחים את המזווה.",
+      "subtitle": "חומרי גלם, טכניקות, וקצת מדע לבוקר.",
+      "topics": [
+        "limonana",
+        "boiling-point",
+        "bread-staling",
+        "phyllo",
+        "parsley",
+        "cacio-e-pepe",
+        "pomegranate",
+        "schnitzel"
+      ],
+      "quiz": "limonana"
+    },
+    "afternoon": {
+      "title": "צהריים במטבח.",
+      "subtitle": "מה קורה בסיר, ולמה זה עובד.",
+      "topics": [
+        "emulsions",
+        "oven-spring",
+        "foams",
+        "garlic",
+        "onion",
+        "majadra",
+        "yogurt",
+        "browning"
+      ],
+      "quiz": "oven-spring"
+    },
+    "evening": {
+      "title": "הערב במטבח.",
+      "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
+      "topics": [
+        "falafel",
+        "chickpeas",
+        "heat-transfer",
+        "cumin",
+        "olive-oil",
+        "steaming",
+        "matcha",
+        "extraction"
+      ],
+      "quiz": "chickpeas"
+    }
   }
 }

@@ -5,28 +5,13 @@
   "kind": "baking"
  },
  {
-  "id": "oven-spring",
-  "name": "קפיצת תנור",
-  "kind": "baking"
- },
- {
   "id": "scoring-bread",
   "name": "חריצה בלחם",
   "kind": "baking"
  },
  {
-  "id": "bread-staling",
-  "name": "התיישנות לחם",
-  "kind": "baking"
- },
- {
   "id": "cheesecake",
   "name": "עוגת גבינה",
-  "kind": "baking"
- },
- {
-  "id": "phyllo",
-  "name": "בצק פילו",
   "kind": "baking"
  },
  {
@@ -75,23 +60,8 @@
   "kind": "science"
  },
  {
-  "id": "boiling-point",
-  "name": "נקודת רתיחה",
-  "kind": "science"
- },
- {
   "id": "altitude-cooking",
   "name": "בישול בגובה",
-  "kind": "science"
- },
- {
-  "id": "crispiness",
-  "name": "פריכות",
-  "kind": "science"
- },
- {
-  "id": "foams",
-  "name": "קצפים",
   "kind": "science"
  },
  {
@@ -140,18 +110,8 @@
   "kind": "ingredients"
  },
  {
-  "id": "parsley",
-  "name": "פטרוזיליה",
-  "kind": "ingredients"
- },
- {
   "id": "basil",
   "name": "בזיליקום",
-  "kind": "ingredients"
- },
- {
-  "id": "pomegranate",
-  "name": "רימון",
   "kind": "ingredients"
  },
  {
@@ -162,11 +122,6 @@
  {
   "id": "olives",
   "name": "זיתים",
-  "kind": "ingredients"
- },
- {
-  "id": "chickpeas",
-  "name": "גרגירי חומוס",
   "kind": "ingredients"
  },
  {
@@ -360,28 +315,13 @@
   "kind": "dishes"
  },
  {
-  "id": "schnitzel",
-  "name": "שניצל",
-  "kind": "dishes"
- },
- {
   "id": "cholent",
   "name": "חמין",
   "kind": "dishes"
  },
  {
-  "id": "tabbouleh",
-  "name": "טבולה",
-  "kind": "dishes"
- },
- {
   "id": "carbonara",
   "name": "קרבונרה",
-  "kind": "dishes"
- },
- {
-  "id": "cacio-e-pepe",
-  "name": "קאצ׳ו א פפה",
   "kind": "dishes"
  },
  {
@@ -470,16 +410,6 @@
   "kind": "drinks"
  },
  {
-  "id": "water-for-coffee",
-  "name": "מים לקפה",
-  "kind": "drinks"
- },
- {
-  "id": "limonana",
-  "name": "לימונענע",
-  "kind": "drinks"
- },
- {
   "id": "knife-skills",
   "name": "עבודה עם סכין",
   "kind": "techniques"
@@ -502,11 +432,6 @@
  {
   "id": "smoking",
   "name": "עישון",
-  "kind": "techniques"
- },
- {
-  "id": "reduction",
-  "name": "צמצום",
   "kind": "techniques"
  },
  {

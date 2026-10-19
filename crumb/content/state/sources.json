@@ -29,7 +29,7 @@
   },
   "https://en.wikipedia.org/wiki/Meringue": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-19"
   },
   "https://en.wikipedia.org/wiki/Choux_pastry": {
     "ok": true,
@@ -45,7 +45,7 @@
   },
   "https://en.wikipedia.org/wiki/Chickpea": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-19"
   },
   "https://en.wikipedia.org/wiki/Maillard_reaction": {
     "ok": true,
@@ -562,5 +562,192 @@
   "https://he.wikipedia.org/wiki/מלאווח": {
     "ok": true,
     "checkedAt": "2026-10-18"
+  },
+  "https://en.wikipedia.org/wiki/Oven_spring": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Cacio_e_pepe": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Bread": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Schnitzel": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Foam": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Whipped_cream": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Baking": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Staling": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Aquafaba": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Limonana": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Bread_crust": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Steam_injection_oven": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Parsley": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Tabbouleh": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Lame_(kitchen_tool)": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Dutch_oven": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Mint_lemonade": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Reduction_(cooking)": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Filo": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Boiling_point": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/High-altitude_cooking": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://extension.illinois.edu/blogs/simply-nutritious-quick-and-delicious/2019-05-08-parsley-more-garnish": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Bulgur": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Coffee_extraction": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Brewed_coffee": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Pomegranate": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Hard_water": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Boiling-point_elevation": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://sca.coffee/research/coffee-standards": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Pressure_cooking": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Pomegranate_molasses": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Coffee_preparation": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Coffee": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/?term=role+of+dissolved+cations+in+coffee+extraction": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Crispiness": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Crispness": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Mouthfeel": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Glass_transition": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Tempura": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Potato_chip": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://www.bath.ac.uk/announcements/hard-water-makes-better-coffee/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Pecorino_romano": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Espresso_machine": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Water_softening": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Limescale": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Kettle": {
+    "ok": true,
+    "checkedAt": "2026-10-19"
   }
 }
