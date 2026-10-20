@@ -113,7 +113,7 @@
   },
   "https://en.wikipedia.org/wiki/Gelatin": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-20"
   },
   "https://en.wikipedia.org/wiki/Pectin": {
     "ok": true,
@@ -145,7 +145,7 @@
   },
   "https://en.wikipedia.org/wiki/Tahini": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-20"
   },
   "https://en.wikipedia.org/wiki/Agaricus_bisporus": {
     "ok": true,
@@ -169,7 +169,7 @@
   },
   "https://en.wikipedia.org/wiki/Braising": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-20"
   },
   "https://en.wikipedia.org/wiki/Food_browning": {
     "ok": true,
@@ -227,7 +227,7 @@
   },
   "https://en.wikipedia.org/wiki/Zest_(ingredient)": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-20"
   },
   "https://en.wikipedia.org/wiki/Capsaicin": {
     "ok": true,
@@ -308,7 +308,7 @@
   },
   "https://en.wikipedia.org/wiki/Chocolate": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-20"
   },
   "https://en.wikipedia.org/wiki/Cardamom": {
     "ok": true,
@@ -749,5 +749,102 @@
   "https://en.wikipedia.org/wiki/Kettle": {
     "ok": true,
     "checkedAt": "2026-10-19"
+  },
+  "https://en.wikipedia.org/wiki/Red_cabbage": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Sponge_cake": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Anthocyanin": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Paella": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Babka_(cake)": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Cracker_(food)": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Docking_(dough)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Olive": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Bomba_rice": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Gnocchi": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Fermentation_and_curing_of_olives": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Gel": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Collagen": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Agar": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Lentil": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://he.wikipedia.org/wiki/בורגול": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://bakerpedia.com/processes/crackers/": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Sesame": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Potato": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Ratatouille": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Lemonade": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Syrup": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Chocolate_tempering": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Cocoa_butter": {
+    "ok": true,
+    "checkedAt": "2026-10-20"
   }
 }

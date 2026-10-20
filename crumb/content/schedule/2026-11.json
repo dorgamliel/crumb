@@ -421,5 +421,52 @@
       ],
       "quiz": "chickpeas"
     }
+  },
+  "2026-11-10": {
+    "morning": {
+      "title": "עוד לפני הקפה השני.",
+      "subtitle": "שאלה, הסבר, ואולי רעיון לארוחת הערב.",
+      "topics": [
+        "gnocchi",
+        "sponge-cake",
+        "bulgur",
+        "tempering-chocolate",
+        "olives",
+        "anthocyanins",
+        "lentils",
+        "babka"
+      ],
+      "quiz": "gnocchi"
+    },
+    "afternoon": {
+      "title": "הפסקה עם טעם.",
+      "subtitle": "כמה דקות פנויות? יש מה לגלות.",
+      "topics": [
+        "lemonade",
+        "paella",
+        "sesame",
+        "ratatouille",
+        "reduction",
+        "crispiness",
+        "nuts",
+        "roasting-vegetables"
+      ],
+      "quiz": "lemonade"
+    },
+    "evening": {
+      "title": "אור נמוך, סיר חם.",
+      "subtitle": "גילויים קטנים לסוף היום.",
+      "topics": [
+        "tea",
+        "water-for-coffee",
+        "dates",
+        "ginger",
+        "cheese",
+        "fermentation",
+        "kimchi",
+        "pickles"
+      ],
+      "quiz": "tea"
+    }
   }
 }

@@ -1,10 +1,5 @@
 [
  {
-  "id": "sponge-cake",
-  "name": "עוגת ספוג",
-  "kind": "baking"
- },
- {
   "id": "scoring-bread",
   "name": "חריצה בלחם",
   "kind": "baking"
@@ -20,11 +15,6 @@
   "kind": "baking"
  },
  {
-  "id": "babka",
-  "name": "בבקה",
-  "kind": "baking"
- },
- {
   "id": "sufganiyot",
   "name": "סופגניות",
   "kind": "baking"
@@ -32,11 +22,6 @@
  {
   "id": "matzah",
   "name": "מצה",
-  "kind": "baking"
- },
- {
-  "id": "crackers",
-  "name": "קרקרים",
   "kind": "baking"
  },
  {
@@ -65,16 +50,6 @@
   "kind": "science"
  },
  {
-  "id": "gels",
-  "name": "ג׳לים",
-  "kind": "science"
- },
- {
-  "id": "collagen",
-  "name": "קולגן",
-  "kind": "science"
- },
- {
   "id": "freezing",
   "name": "הקפאה",
   "kind": "science"
@@ -85,18 +60,8 @@
   "kind": "science"
  },
  {
-  "id": "retrogradation",
-  "name": "למה לחם מתיישן",
-  "kind": "science"
- },
- {
   "id": "chlorophyll",
   "name": "למה ירקות ירוקים מאפירים",
-  "kind": "science"
- },
- {
-  "id": "anthocyanins",
-  "name": "כרוב סגול שמשנה צבע",
   "kind": "science"
  },
  {
@@ -117,21 +82,6 @@
  {
   "id": "figs",
   "name": "תאנים",
-  "kind": "ingredients"
- },
- {
-  "id": "olives",
-  "name": "זיתים",
-  "kind": "ingredients"
- },
- {
-  "id": "lentils",
-  "name": "עדשים",
-  "kind": "ingredients"
- },
- {
-  "id": "bulgur",
-  "name": "בורגול",
   "kind": "ingredients"
  },
  {
@@ -270,11 +220,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "sesame",
-  "name": "שומשום",
-  "kind": "ingredients"
- },
- {
   "id": "nutmeg",
   "name": "אגוז מוסקט",
   "kind": "ingredients"
@@ -330,11 +275,6 @@
   "kind": "dishes"
  },
  {
-  "id": "paella",
-  "name": "פאייה",
-  "kind": "dishes"
- },
- {
   "id": "pho",
   "name": "פו",
   "kind": "dishes"
@@ -342,11 +282,6 @@
  {
   "id": "tortillas",
   "name": "טורטיות",
-  "kind": "dishes"
- },
- {
-  "id": "gnocchi",
-  "name": "ניוקי",
   "kind": "dishes"
  },
  {
@@ -362,11 +297,6 @@
  {
   "id": "curry",
   "name": "קארי",
-  "kind": "dishes"
- },
- {
-  "id": "ratatouille",
-  "name": "רטטוי",
   "kind": "dishes"
  },
  {
@@ -397,11 +327,6 @@
  {
   "id": "herbal-infusions",
   "name": "חליטות צמחים",
-  "kind": "drinks"
- },
- {
-  "id": "lemonade",
-  "name": "לימונדה",
   "kind": "drinks"
  },
  {
@@ -437,11 +362,6 @@
  {
   "id": "roux",
   "name": "רו",
-  "kind": "techniques"
- },
- {
-  "id": "tempering-chocolate",
-  "name": "טמפרור שוקולד",
   "kind": "techniques"
  },
  {
