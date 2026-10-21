@@ -1,20 +1,5 @@
 [
  {
-  "id": "scoring-bread",
-  "name": "חריצה בלחם",
-  "kind": "baking"
- },
- {
-  "id": "cheesecake",
-  "name": "עוגת גבינה",
-  "kind": "baking"
- },
- {
-  "id": "kubaneh",
-  "name": "כובאנה",
-  "kind": "baking"
- },
- {
   "id": "sufganiyot",
   "name": "סופגניות",
   "kind": "baking"
@@ -40,16 +25,6 @@
   "kind": "science"
  },
  {
-  "id": "sweetness",
-  "name": "מתיקות",
-  "kind": "science"
- },
- {
-  "id": "altitude-cooking",
-  "name": "בישול בגובה",
-  "kind": "science"
- },
- {
   "id": "freezing",
   "name": "הקפאה",
   "kind": "science"
@@ -57,11 +32,6 @@
  {
   "id": "lactic-acid-bacteria",
   "name": "חיידקי חומצה לקטית",
-  "kind": "science"
- },
- {
-  "id": "chlorophyll",
-  "name": "למה ירקות ירוקים מאפירים",
   "kind": "science"
  },
  {
@@ -75,23 +45,8 @@
   "kind": "ingredients"
  },
  {
-  "id": "basil",
-  "name": "בזיליקום",
-  "kind": "ingredients"
- },
- {
-  "id": "figs",
-  "name": "תאנים",
-  "kind": "ingredients"
- },
- {
   "id": "freekeh",
   "name": "פריקה",
-  "kind": "ingredients"
- },
- {
-  "id": "couscous",
-  "name": "קוסקוס",
   "kind": "ingredients"
  },
  {
@@ -165,11 +120,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "halloumi",
-  "name": "חלומי",
-  "kind": "ingredients"
- },
- {
   "id": "parmesan",
   "name": "פרמזן",
   "kind": "ingredients"
@@ -187,11 +137,6 @@
  {
   "id": "fish-sauce",
   "name": "רוטב דגים",
-  "kind": "ingredients"
- },
- {
-  "id": "silan",
-  "name": "סילאן",
   "kind": "ingredients"
  },
  {
@@ -285,11 +230,6 @@
   "kind": "dishes"
  },
  {
-  "id": "polenta",
-  "name": "פולנטה",
-  "kind": "dishes"
- },
- {
   "id": "dumplings",
   "name": "כיסונים",
   "kind": "dishes"
@@ -297,16 +237,6 @@
  {
   "id": "curry",
   "name": "קארי",
-  "kind": "dishes"
- },
- {
-  "id": "french-onion-soup",
-  "name": "מרק בצל",
-  "kind": "dishes"
- },
- {
-  "id": "tarte-tatin",
-  "name": "טארט טאטן",
   "kind": "dishes"
  },
  {
@@ -392,11 +322,6 @@
  {
   "id": "sous-vide",
   "name": "סו ויד",
-  "kind": "techniques"
- },
- {
-  "id": "whipping-cream",
-  "name": "הקצפת שמנת",
   "kind": "techniques"
  },
  {

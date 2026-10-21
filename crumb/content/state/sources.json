@@ -17,7 +17,7 @@
   },
   "https://en.wikipedia.org/wiki/Sodium_bicarbonate": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-21"
   },
   "https://en.wikipedia.org/wiki/Baking_powder": {
     "ok": true,
@@ -193,7 +193,7 @@
   },
   "https://en.wikipedia.org/wiki/Blanching_(cooking)": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-21"
   },
   "https://en.wikipedia.org/wiki/Milk_froth": {
     "ok": false,
@@ -777,7 +777,7 @@
   "https://en.wikipedia.org/wiki/Docking_(dough)": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-10-20"
+    "checkedAt": "2026-10-21"
   },
   "https://en.wikipedia.org/wiki/Olive": {
     "ok": true,
@@ -846,5 +846,252 @@
   "https://en.wikipedia.org/wiki/Cocoa_butter": {
     "ok": true,
     "checkedAt": "2026-10-20"
+  },
+  "https://en.wikipedia.org/wiki/Chlorophyll": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Date_honey": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Pheophytin": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Scoring_(bread)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Baguette": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://he.wikipedia.org/wiki/סילאן": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Docker_(baking)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.kingarthurbaking.com/blog/2017/12/26/how-to-score-bread": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/06/12/how-to-score-bread": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Green_bean": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Bread_scoring": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Vegetable": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Pain_d%27%C3%A9pi": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Food_coloring": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Sourdough": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Docker_(cooking)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Hardtack": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Chlorophyllin": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Cooking": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.kingarthurbaking.com/blog/2017/10/20/bread-scoring-patterns-and-techniques": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Pea": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Broccoli": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Chlorophyllase": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://fr.wikipedia.org/wiki/Grigne": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.kingarthurbaking.com/blog/2017/10/20/bread-scoring-patterns-techniques": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://he.wikipedia.org/wiki/כלורופיל": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Grigne": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Spinach": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Cheesecake": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.americastestkitchen.com/articles/why-green-vegetables-turn-drab": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Custard": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Bain-marie": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Basque_cheesecake": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Kubaneh": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%91%D7%90%D7%A0%D7%94": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Sweetness": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Fructose": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/TRPM5": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.kingarthurbaking.com/learn/resources/high-altitude-baking": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://extension.colostate.edu/resource/high-altitude-baking/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://extension.colostate.edu/topic-areas/nutrition-food-safety-health/high-altitude-baking-p-61/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Whipped_Cream": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Basil": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Pesto": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Common_fig": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Couscous": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Ptitim": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Halloumi": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.compoundchem.com/2014/10/16/vegetablecolours/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Polenta": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Magnesium_in_biology": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Tarte_Tatin": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Okra": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Brussels_sprout": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Kale": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/French_onion_soup": {
+    "ok": true,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.scienceofcooking.com/vegetables_cooking_science.htm": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
+  },
+  "https://www.scienceofcooking.com/chemistry/vegetable_color.htm": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-21"
   }
 }

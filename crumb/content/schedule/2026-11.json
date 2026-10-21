@@ -468,5 +468,52 @@
       ],
       "quiz": "tea"
     }
+  },
+  "2026-11-11": {
+    "morning": {
+      "title": "בוקר טוב, מטבח.",
+      "subtitle": "משהו מעניין לקרוא עם הכוס הראשונה.",
+      "topics": [
+        "figs",
+        "kubaneh",
+        "silan",
+        "cheesecake",
+        "whipping-cream",
+        "tarte-tatin",
+        "couscous",
+        "polenta"
+      ],
+      "quiz": "figs"
+    },
+    "afternoon": {
+      "title": "באמצע היום.",
+      "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
+      "topics": [
+        "french-onion-soup",
+        "basil",
+        "halloumi",
+        "chlorophyll",
+        "crackers",
+        "acidity",
+        "lemon",
+        "pectin"
+      ],
+      "quiz": "french-onion-soup"
+    },
+    "evening": {
+      "title": "משהו טוב לסוף היום.",
+      "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
+      "topics": [
+        "braising",
+        "gels",
+        "collagen",
+        "gelatin",
+        "starch",
+        "flour",
+        "rye-bread",
+        "sourdough"
+      ],
+      "quiz": "gels"
+    }
   }
 }
