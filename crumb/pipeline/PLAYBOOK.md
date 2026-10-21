@@ -77,8 +77,10 @@ logged; unchecked ones stay drafts (never published) and are checked next run.
 
 ## 6. Schedule
 
-`node scripts/content/schedule.mjs --days 21` — fills any missing day from today to three weeks
-ahead. Already-scheduled days never change.
+`node scripts/content/schedule.mjs --days 21 --rebuild-from <tomorrow>` (tomorrow's date in Israel,
+YYYY-MM-DD). It keeps today and every past day exactly as they were, and rebuilds every future day
+from the current library, so tonight's new topics appear in tomorrow's editions instead of three
+weeks later. Future editions are locked in the app, so readers never see them change.
 
 ## 7. Build and test
 
