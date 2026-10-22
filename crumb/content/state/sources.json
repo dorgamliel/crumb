@@ -1093,5 +1093,73 @@
     "ok": false,
     "status": 404,
     "checkedAt": "2026-10-21"
+  },
+  "https://en.wikipedia.org/wiki/Cauliflower": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Sufganiyah": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Tortilla": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Nixtamalization": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Avocado": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Pastry_cream": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Feta": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Pistachio": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Matzo": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Matzah": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Roux": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Mise_en_place": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Shawarma": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Vinegar": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Cast-iron_cookware": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Seasoning_(cookware)": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
+  },
+  "https://www.npr.org/sections/thesalt/2014/08/11/338850091/for-a-more-ordered-life-organize-like-a-chef": {
+    "ok": true,
+    "checkedAt": "2026-10-22"
   }
 }

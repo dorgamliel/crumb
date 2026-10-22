@@ -1,20 +1,5 @@
 [
  {
-  "id": "sufganiyot",
-  "name": "סופגניות",
-  "kind": "baking"
- },
- {
-  "id": "matzah",
-  "name": "מצה",
-  "kind": "baking"
- },
- {
-  "id": "pastry-cream",
-  "name": "קרם פטיסייר",
-  "kind": "baking"
- },
- {
   "id": "sugar-science",
   "name": "סוכר",
   "kind": "science"
@@ -35,11 +20,6 @@
   "kind": "science"
  },
  {
-  "id": "vinegar",
-  "name": "חומץ",
-  "kind": "science"
- },
- {
   "id": "turmeric",
   "name": "כורכום",
   "kind": "ingredients"
@@ -55,18 +35,8 @@
   "kind": "ingredients"
  },
  {
-  "id": "potatoes",
-  "name": "תפוחי אדמה",
-  "kind": "ingredients"
- },
- {
   "id": "sweet-potato",
   "name": "בטטה",
-  "kind": "ingredients"
- },
- {
-  "id": "cauliflower",
-  "name": "כרובית",
   "kind": "ingredients"
  },
  {
@@ -95,11 +65,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "avocado",
-  "name": "אבוקדו",
-  "kind": "ingredients"
- },
- {
   "id": "cream",
   "name": "שמנת",
   "kind": "ingredients"
@@ -112,11 +77,6 @@
  {
   "id": "labneh",
   "name": "לבנה",
-  "kind": "ingredients"
- },
- {
-  "id": "feta",
-  "name": "פטה",
   "kind": "ingredients"
  },
  {
@@ -160,11 +120,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "pistachios",
-  "name": "פיסטוקים",
-  "kind": "ingredients"
- },
- {
   "id": "nutmeg",
   "name": "אגוז מוסקט",
   "kind": "ingredients"
@@ -200,11 +155,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "shawarma",
-  "name": "שווארמה",
-  "kind": "dishes"
- },
- {
   "id": "cholent",
   "name": "חמין",
   "kind": "dishes"
@@ -215,18 +165,8 @@
   "kind": "dishes"
  },
  {
-  "id": "ramen",
-  "name": "ראמן",
-  "kind": "dishes"
- },
- {
   "id": "pho",
   "name": "פו",
-  "kind": "dishes"
- },
- {
-  "id": "tortillas",
-  "name": "טורטיות",
   "kind": "dishes"
  },
  {
@@ -290,16 +230,6 @@
   "kind": "techniques"
  },
  {
-  "id": "roux",
-  "name": "רו",
-  "kind": "techniques"
- },
- {
-  "id": "mise-en-place",
-  "name": "מיז אן פלאס",
-  "kind": "techniques"
- },
- {
   "id": "tasting-and-seasoning",
   "name": "לטעום ולתבל",
   "kind": "techniques"
@@ -322,11 +252,6 @@
  {
   "id": "sous-vide",
   "name": "סו ויד",
-  "kind": "techniques"
- },
- {
-  "id": "cast-iron",
-  "name": "מחבת ברזל",
   "kind": "techniques"
  },
  {

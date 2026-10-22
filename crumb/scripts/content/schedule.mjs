@@ -52,6 +52,8 @@ function pickEdition(date, period, usedToday) {
     const last = lastShown[t.id];
     const age = last ? daysBetween(last, date) : 10000; // never shown = most wanted
     let s = Math.min(age, 400);
+    // Among topics never shown, the newest go first, so last night's topics lead the next day.
+    if (!last && t.addedAt) s += Math.max(0, 60 - 10 * daysBetween(t.addedAt, date));
     if (last && age < MIN_GAP) s -= 1000; // recently shown: only if nothing else is left
     if (!t.image) {
       s -= 150; // photo still pending: usable, but not first choice
