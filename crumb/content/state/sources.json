@@ -219,7 +219,7 @@
   },
   "https://en.wikipedia.org/wiki/Baba_ghanoush": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-23"
   },
   "https://en.wikipedia.org/wiki/Za%27atar": {
     "ok": true,
@@ -1161,5 +1161,105 @@
   "https://www.npr.org/sections/thesalt/2014/08/11/338850091/for-a-more-ordered-life-organize-like-a-chef": {
     "ok": true,
     "checkedAt": "2026-10-22"
+  },
+  "https://en.wikipedia.org/wiki/Rugelach": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Moka_pot": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://he.wikipedia.org/wiki/רוגלך": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Mozzarella": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Croissant": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Lecithin": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Pasta_filata": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Chocolate_brownie": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Meat_tenderizer": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Muhallebi": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Bromelain": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Papain": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Actinidain": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Starch_gelatinization": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Salep": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Meat_tenderness": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Masala_chai": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Rose_water": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Etymology_of_tea": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Gazpacho": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Pine_nut": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Pinus_pinea": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Spice": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Garam_masala": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Pyrazine": {
+    "ok": true,
+    "checkedAt": "2026-10-23"
   }
 }

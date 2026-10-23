@@ -7,5 +7,13 @@
       "Headline, body paragraph 2, takeaway and quiz all depend on this unsourced explanation, so fixing it would mean rewriting the topic, not editing it.",
       "Minor: the body says hulled sesame gives light tahini, but the source ties light color to untoasted sesame."
     ]
+  },
+  "toasting-spices": {
+    "date": "2026-10-23",
+    "name": "קליית תבלינים",
+    "reasons": [
+      "The Cumin source only lists substituted (methoxy/ethoxy) pyrazines among aroma compounds of toasted cumin; it does not say they are formed by toasting, absent from raw cumin, or roast and nutty smelling. These alkoxypyrazines are typically natural green and earthy compounds. The dek, paragraph 2, a fact, the quiz answer and the cumin relation all rest on this claim, so fixing it would mean a rewrite.",
+      "Garam masala being toasted before grinding, and briefly toasting already-ground blends, are not in any listed source (Tempering page mentions only dry-roasting whole spices)."
+    ]
   }
 }

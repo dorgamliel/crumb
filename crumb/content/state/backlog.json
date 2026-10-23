@@ -263,5 +263,240 @@
   "id": "pressure-cooking",
   "name": "סיר לחץ",
   "kind": "techniques"
+ },
+ {
+  "id": "hamantaschen",
+  "name": "אוזני המן",
+  "kind": "baking"
+ },
+ {
+  "id": "bourekas",
+  "name": "בורקס",
+  "kind": "baking"
+ },
+ {
+  "id": "puff-pastry",
+  "name": "בצק עלים",
+  "kind": "baking"
+ },
+ {
+  "id": "macarons",
+  "name": "מקרונים",
+  "kind": "baking"
+ },
+ {
+  "id": "madeleines",
+  "name": "מדלן",
+  "kind": "baking"
+ },
+ {
+  "id": "banana-bread",
+  "name": "לחם בננות",
+  "kind": "baking"
+ },
+ {
+  "id": "scones",
+  "name": "סקונס",
+  "kind": "baking"
+ },
+ {
+  "id": "biscotti",
+  "name": "ביסקוטי",
+  "kind": "baking"
+ },
+ {
+  "id": "muffins",
+  "name": "מאפינס",
+  "kind": "baking"
+ },
+ {
+  "id": "maamoul",
+  "name": "מעמול",
+  "kind": "baking"
+ },
+ {
+  "id": "baklava",
+  "name": "בקלאווה",
+  "kind": "baking"
+ },
+ {
+  "id": "lassi",
+  "name": "לאסי",
+  "kind": "drinks"
+ },
+ {
+  "id": "mint-tea",
+  "name": "תה נענע",
+  "kind": "drinks"
+ },
+ {
+  "id": "horchata",
+  "name": "אורצ׳טה",
+  "kind": "drinks"
+ },
+ {
+  "id": "pour-over",
+  "name": "חליטת פילטר",
+  "kind": "drinks"
+ },
+ {
+  "id": "sparkling-water",
+  "name": "מים מוגזים",
+  "kind": "drinks"
+ },
+ {
+  "id": "orange-juice",
+  "name": "מיץ תפוזים",
+  "kind": "drinks"
+ },
+ {
+  "id": "iced-tea",
+  "name": "תה קר",
+  "kind": "drinks"
+ },
+ {
+  "id": "spherification",
+  "name": "ספריפיקציה",
+  "kind": "science"
+ },
+ {
+  "id": "oxidation",
+  "name": "חמצון שומנים",
+  "kind": "science"
+ },
+ {
+  "id": "evaporation",
+  "name": "אידוי נוזלים",
+  "kind": "science"
+ },
+ {
+  "id": "fat-crystals",
+  "name": "גבישי שומן",
+  "kind": "science"
+ },
+ {
+  "id": "viscosity",
+  "name": "צמיגות",
+  "kind": "science"
+ },
+ {
+  "id": "lasagna",
+  "name": "לזניה",
+  "kind": "dishes"
+ },
+ {
+  "id": "jerusalem-kugel",
+  "name": "קוגל ירושלמי",
+  "kind": "dishes"
+ },
+ {
+  "id": "chraime",
+  "name": "חריימה",
+  "kind": "dishes"
+ },
+ {
+  "id": "fattoush",
+  "name": "פטוש",
+  "kind": "dishes"
+ },
+ {
+  "id": "moussaka",
+  "name": "מוסקה",
+  "kind": "dishes"
+ },
+ {
+  "id": "crepes",
+  "name": "קרפים",
+  "kind": "dishes"
+ },
+ {
+  "id": "pancakes",
+  "name": "פנקייקים",
+  "kind": "dishes"
+ },
+ {
+  "id": "omelette",
+  "name": "חביתה",
+  "kind": "dishes"
+ },
+ {
+  "id": "souffle",
+  "name": "סופלה",
+  "kind": "dishes"
+ },
+ {
+  "id": "empanadas",
+  "name": "אמפנדס",
+  "kind": "dishes"
+ },
+ {
+  "id": "pad-thai",
+  "name": "פאד תאי",
+  "kind": "dishes"
+ },
+ {
+  "id": "folding",
+  "name": "קיפול עדין",
+  "kind": "techniques"
+ },
+ {
+  "id": "zesting",
+  "name": "גרידת קליפת הדר",
+  "kind": "techniques"
+ },
+ {
+  "id": "kneading",
+  "name": "לישה",
+  "kind": "techniques"
+ },
+ {
+  "id": "sifting",
+  "name": "ניפוי קמח",
+  "kind": "techniques"
+ },
+ {
+  "id": "stir-frying",
+  "name": "הקפצה בווק",
+  "kind": "techniques"
+ },
+ {
+  "id": "seasoning-salads",
+  "name": "תיבול סלטים",
+  "kind": "techniques"
+ },
+ {
+  "id": "orange-blossom-water",
+  "name": "מי זהר",
+  "kind": "ingredients"
+ },
+ {
+  "id": "tamarind",
+  "name": "תמרהינדי",
+  "kind": "ingredients"
+ },
+ {
+  "id": "walnuts",
+  "name": "אגוזי מלך",
+  "kind": "ingredients"
+ },
+ {
+  "id": "buckwheat",
+  "name": "כוסמת",
+  "kind": "ingredients"
+ },
+ {
+  "id": "semolina",
+  "name": "סולת",
+  "kind": "ingredients"
+ },
+ {
+  "id": "capers",
+  "name": "צלפים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "mustard",
+  "name": "חרדל",
+  "kind": "ingredients"
  }
 ]
