@@ -121,7 +121,7 @@
   },
   "https://en.wikipedia.org/wiki/Honey": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-24"
   },
   "https://en.wikipedia.org/wiki/Tea": {
     "ok": true,
@@ -1261,5 +1261,148 @@
   "https://en.wikipedia.org/wiki/Pyrazine": {
     "ok": true,
     "checkedAt": "2026-10-23"
+  },
+  "https://en.wikipedia.org/wiki/Bourekas": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Crêpe": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Macaron": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Galette": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Strained_yogurt": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Macaronage": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Tamarind": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Walnut": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Muhammara": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Rancidification": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Harissa": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Fattoush": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Batter_(cooking)": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Chraime": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Banana_bread": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://he.wikipedia.org/wiki/חריימה": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Banana": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Quick_bread": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Viscosity": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Non-Newtonian_fluid": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Fat_crystal": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Polymorphism_of_fats": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Shortening": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Margarine": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Lard": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Polymorphism_(materials_science)": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Fat": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Winterization_of_oil": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Olive_oil": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Horchata": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Cyperus_esculentus": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Kneading": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/No-knead_bread": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
+  },
+  "https://www.kingarthurbaking.com/blog/2023/03/07/windowpane-test": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-24"
+  },
+  "https://he.wikipedia.org/wiki/גומא_הפקעים": {
+    "ok": true,
+    "checkedAt": "2026-10-24"
   }
 }

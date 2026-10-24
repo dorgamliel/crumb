@@ -75,11 +75,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "labneh",
-  "name": "לבנה",
-  "kind": "ingredients"
- },
- {
   "id": "parmesan",
   "name": "פרמזן",
   "kind": "ingredients"
@@ -137,11 +132,6 @@
  {
   "id": "bay-leaves",
   "name": "עלי דפנה",
-  "kind": "ingredients"
- },
- {
-  "id": "harissa",
-  "name": "הריסה",
   "kind": "ingredients"
  },
  {
@@ -270,28 +260,13 @@
   "kind": "baking"
  },
  {
-  "id": "bourekas",
-  "name": "בורקס",
-  "kind": "baking"
- },
- {
   "id": "puff-pastry",
   "name": "בצק עלים",
   "kind": "baking"
  },
  {
-  "id": "macarons",
-  "name": "מקרונים",
-  "kind": "baking"
- },
- {
   "id": "madeleines",
   "name": "מדלן",
-  "kind": "baking"
- },
- {
-  "id": "banana-bread",
-  "name": "לחם בננות",
   "kind": "baking"
  },
  {
@@ -322,16 +297,6 @@
  {
   "id": "lassi",
   "name": "לאסי",
-  "kind": "drinks"
- },
- {
-  "id": "mint-tea",
-  "name": "תה נענע",
-  "kind": "drinks"
- },
- {
-  "id": "horchata",
-  "name": "אורצ׳טה",
   "kind": "drinks"
  },
  {
@@ -370,16 +335,6 @@
   "kind": "science"
  },
  {
-  "id": "fat-crystals",
-  "name": "גבישי שומן",
-  "kind": "science"
- },
- {
-  "id": "viscosity",
-  "name": "צמיגות",
-  "kind": "science"
- },
- {
   "id": "lasagna",
   "name": "לזניה",
   "kind": "dishes"
@@ -390,23 +345,8 @@
   "kind": "dishes"
  },
  {
-  "id": "chraime",
-  "name": "חריימה",
-  "kind": "dishes"
- },
- {
-  "id": "fattoush",
-  "name": "פטוש",
-  "kind": "dishes"
- },
- {
   "id": "moussaka",
   "name": "מוסקה",
-  "kind": "dishes"
- },
- {
-  "id": "crepes",
-  "name": "קרפים",
   "kind": "dishes"
  },
  {
@@ -445,11 +385,6 @@
   "kind": "techniques"
  },
  {
-  "id": "kneading",
-  "name": "לישה",
-  "kind": "techniques"
- },
- {
   "id": "sifting",
   "name": "ניפוי קמח",
   "kind": "techniques"
@@ -467,16 +402,6 @@
  {
   "id": "orange-blossom-water",
   "name": "מי זהר",
-  "kind": "ingredients"
- },
- {
-  "id": "tamarind",
-  "name": "תמרהינדי",
-  "kind": "ingredients"
- },
- {
-  "id": "walnuts",
-  "name": "אגוזי מלך",
   "kind": "ingredients"
  },
  {
