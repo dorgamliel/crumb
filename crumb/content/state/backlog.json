@@ -110,11 +110,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "almonds",
-  "name": "שקדים",
-  "kind": "ingredients"
- },
- {
   "id": "nutmeg",
   "name": "אגוז מוסקט",
   "kind": "ingredients"
@@ -122,11 +117,6 @@
  {
   "id": "cloves",
   "name": "ציפורן",
-  "kind": "ingredients"
- },
- {
-  "id": "star-anise",
-  "name": "כוכב אניס",
   "kind": "ingredients"
  },
  {
@@ -255,16 +245,6 @@
   "kind": "techniques"
  },
  {
-  "id": "hamantaschen",
-  "name": "אוזני המן",
-  "kind": "baking"
- },
- {
-  "id": "puff-pastry",
-  "name": "בצק עלים",
-  "kind": "baking"
- },
- {
   "id": "madeleines",
   "name": "מדלן",
   "kind": "baking"
@@ -290,21 +270,6 @@
   "kind": "baking"
  },
  {
-  "id": "baklava",
-  "name": "בקלאווה",
-  "kind": "baking"
- },
- {
-  "id": "lassi",
-  "name": "לאסי",
-  "kind": "drinks"
- },
- {
-  "id": "pour-over",
-  "name": "חליטת פילטר",
-  "kind": "drinks"
- },
- {
   "id": "sparkling-water",
   "name": "מים מוגזים",
   "kind": "drinks"
@@ -320,29 +285,9 @@
   "kind": "drinks"
  },
  {
-  "id": "spherification",
-  "name": "ספריפיקציה",
-  "kind": "science"
- },
- {
-  "id": "oxidation",
-  "name": "חמצון שומנים",
-  "kind": "science"
- },
- {
   "id": "evaporation",
   "name": "אידוי נוזלים",
   "kind": "science"
- },
- {
-  "id": "lasagna",
-  "name": "לזניה",
-  "kind": "dishes"
- },
- {
-  "id": "jerusalem-kugel",
-  "name": "קוגל ירושלמי",
-  "kind": "dishes"
  },
  {
   "id": "moussaka",
@@ -370,18 +315,8 @@
   "kind": "dishes"
  },
  {
-  "id": "pad-thai",
-  "name": "פאד תאי",
-  "kind": "dishes"
- },
- {
   "id": "folding",
   "name": "קיפול עדין",
-  "kind": "techniques"
- },
- {
-  "id": "zesting",
-  "name": "גרידת קליפת הדר",
   "kind": "techniques"
  },
  {
@@ -407,16 +342,6 @@
  {
   "id": "buckwheat",
   "name": "כוסמת",
-  "kind": "ingredients"
- },
- {
-  "id": "semolina",
-  "name": "סולת",
-  "kind": "ingredients"
- },
- {
-  "id": "capers",
-  "name": "צלפים",
   "kind": "ingredients"
  },
  {

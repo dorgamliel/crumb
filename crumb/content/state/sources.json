@@ -287,7 +287,7 @@
   },
   "https://en.wikipedia.org/wiki/Almond": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-25"
   },
   "https://en.wikipedia.org/wiki/Flour": {
     "ok": true,
@@ -1404,5 +1404,93 @@
   "https://he.wikipedia.org/wiki/גומא_הפקעים": {
     "ok": true,
     "checkedAt": "2026-10-24"
+  },
+  "https://en.wikipedia.org/wiki/Kugel": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Yerushalmi_Kugel": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Benzaldehyde": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Pad_thai": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Illicium_verum": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Hamantash": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Rice_noodles": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Anethole": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Caper": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Puff_pastry": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Pour-over_coffee": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Baklava": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Semolina": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Lassi": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Lasagna": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Ayran": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Warmed-over_flavor": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Spherification": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Zester": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Oleo_saccharum": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Alginic_acid": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Arak_(drink)": {
+    "ok": true,
+    "checkedAt": "2026-10-25"
   }
 }
