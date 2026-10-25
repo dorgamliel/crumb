@@ -4,6 +4,7 @@ import "@fontsource-variable/heebo/index.css";
 import "@fontsource-variable/rubik/index.css";
 import "./styles.css";
 import { loadIndex } from "./lib/content";
+import { reportVisit } from "./lib/visit";
 
 const root = createRoot(document.getElementById("root")!);
 
@@ -33,4 +34,5 @@ async function start() {
   );
 }
 
+reportVisit();
 start();
