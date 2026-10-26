@@ -1492,5 +1492,194 @@
   "https://en.wikipedia.org/wiki/Arak_(drink)": {
     "ok": true,
     "checkedAt": "2026-10-25"
+  },
+  "https://en.wikipedia.org/wiki/Madeleine_(cake)": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Soy_sauce": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Sorbet": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Sweet_potato": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Freezing-point_depression": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Granita": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Sweet_potato_storage": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Ice_cream_maker": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Iced_tea": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Cold_brew_tea": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4252450/": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Tea_cream": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Sweet_tea": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Cocoa_solids": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Dutch_process_chocolate": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Carbonated_water": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Stir_frying": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Wok": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Folding_(cooking)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Fold_(cooking)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Souffl%C3%A9": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Chocolate_mousse": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wiktionary.org/wiki/fold_in": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Angel_food_cake": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Genoise": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Outline_of_food_preparation": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://www.kingarthurbaking.com/blog/2016/11/14/dutch-process-vs-natural-cocoa": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Maamoul": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Cocoa_bean": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Frozen_food": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Individually_quick_frozen": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Red_velvet_cake": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Devil%27s_food_cake": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Freezer_burn": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Ghee": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Moussaka": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Clarified_butter": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Pancake": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Parmigiano_Reggiano": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://en.wikipedia.org/wiki/Tyrosine": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/02/03/how-to-make-madeleines": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://fr.wikipedia.org/wiki/Madeleine_(gâteau)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://fr.wikipedia.org/wiki/Madeleine_(g%C3%A2teau)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-26"
+  },
+  "https://fr.wikipedia.org/wiki/Madeleine_(p%C3%A2tisserie)": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
+  },
+  "https://www.tastingtable.com/1143513/the-reason-french-madeleines-have-their-unique-shell-design/": {
+    "ok": true,
+    "checkedAt": "2026-10-26"
   }
 }

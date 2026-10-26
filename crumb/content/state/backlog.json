@@ -10,11 +10,6 @@
   "kind": "science"
  },
  {
-  "id": "freezing",
-  "name": "הקפאה",
-  "kind": "science"
- },
- {
   "id": "lactic-acid-bacteria",
   "name": "חיידקי חומצה לקטית",
   "kind": "science"
@@ -32,11 +27,6 @@
  {
   "id": "quinoa",
   "name": "קינואה",
-  "kind": "ingredients"
- },
- {
-  "id": "sweet-potato",
-  "name": "בטטה",
   "kind": "ingredients"
  },
  {
@@ -70,23 +60,8 @@
   "kind": "ingredients"
  },
  {
-  "id": "ghee",
-  "name": "חמאה מזוקקת",
-  "kind": "ingredients"
- },
- {
-  "id": "parmesan",
-  "name": "פרמזן",
-  "kind": "ingredients"
- },
- {
   "id": "anchovies",
   "name": "אנשובי",
-  "kind": "ingredients"
- },
- {
-  "id": "soy-sauce",
-  "name": "רוטב סויה",
   "kind": "ingredients"
  },
  {
@@ -102,11 +77,6 @@
  {
   "id": "brown-sugar",
   "name": "סוכר חום",
-  "kind": "ingredients"
- },
- {
-  "id": "cocoa",
-  "name": "קקאו",
   "kind": "ingredients"
  },
  {
@@ -167,11 +137,6 @@
  {
   "id": "ice-cream",
   "name": "גלידה",
-  "kind": "dishes"
- },
- {
-  "id": "sorbet",
-  "name": "סורבה",
   "kind": "dishes"
  },
  {
@@ -245,11 +210,6 @@
   "kind": "techniques"
  },
  {
-  "id": "madeleines",
-  "name": "מדלן",
-  "kind": "baking"
- },
- {
   "id": "scones",
   "name": "סקונס",
   "kind": "baking"
@@ -265,39 +225,14 @@
   "kind": "baking"
  },
  {
-  "id": "maamoul",
-  "name": "מעמול",
-  "kind": "baking"
- },
- {
-  "id": "sparkling-water",
-  "name": "מים מוגזים",
-  "kind": "drinks"
- },
- {
   "id": "orange-juice",
   "name": "מיץ תפוזים",
-  "kind": "drinks"
- },
- {
-  "id": "iced-tea",
-  "name": "תה קר",
   "kind": "drinks"
  },
  {
   "id": "evaporation",
   "name": "אידוי נוזלים",
   "kind": "science"
- },
- {
-  "id": "moussaka",
-  "name": "מוסקה",
-  "kind": "dishes"
- },
- {
-  "id": "pancakes",
-  "name": "פנקייקים",
-  "kind": "dishes"
  },
  {
   "id": "omelette",
@@ -315,18 +250,8 @@
   "kind": "dishes"
  },
  {
-  "id": "folding",
-  "name": "קיפול עדין",
-  "kind": "techniques"
- },
- {
   "id": "sifting",
   "name": "ניפוי קמח",
-  "kind": "techniques"
- },
- {
-  "id": "stir-frying",
-  "name": "הקפצה בווק",
   "kind": "techniques"
  },
  {
