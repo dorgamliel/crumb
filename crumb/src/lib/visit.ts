@@ -5,12 +5,14 @@
 // Who the visitor is comes from, in order: Bishulim's own session cookie, when the browser
 // sends it across sites; the token on the link from Bishulim, kept here after the first
 // click; otherwise only this browser's random visitor id.
-
-/** The Bishulim API origin. Empty turns reporting off. */
-const BISHULIM_API = "";
+//
+// Crumb has no configuration of its own: the link from Bishulim also carries Bishulim's
+// address ("api"), kept like the token. Until a browser has followed that link once,
+// nothing is reported from it.
 
 const VISITOR_KEY = "crumb:v2:visitor";
 const TOKEN_KEY = "crumb:v2:bishulim";
+const API_KEY = "crumb:v2:bishulim-api";
 
 function storageGet(key: string): string | null {
   try {
@@ -36,21 +38,34 @@ function visitorId(): string {
   return id;
 }
 
-/** Keeps the link token and removes it from the address bar, so a copied link does not carry it. */
-function takeLinkToken(): string | null {
+/** Only an https origin (or a local one, for development) is accepted as the report address. */
+function apiOrigin(raw: string | null): string | null {
+  if (!raw) return null;
+  try {
+    const u = new URL(raw);
+    const local = u.hostname === "localhost" || u.hostname === "127.0.0.1";
+    return u.protocol === "https:" || (local && u.protocol === "http:") ? u.origin : null;
+  } catch {
+    return null;
+  }
+}
+
+/** Keeps the link's token and address and removes them from the address bar, so a copied link does not carry them. */
+function takeLinkParams(): { k: string | null; api: string | null } {
   const url = new URL(location.href);
   const token = url.searchParams.get("k");
-  if (url.searchParams.get("from") === "bishulim" || token) {
-    url.searchParams.delete("k");
-    url.searchParams.delete("from");
+  const api = apiOrigin(url.searchParams.get("api"));
+  if (url.searchParams.get("from") === "bishulim" || token || url.searchParams.has("api")) {
+    for (const p of ["from", "k", "api"]) url.searchParams.delete(p);
     history.replaceState(history.state, "", url.pathname + url.search + url.hash);
   }
   if (token) storageSet(TOKEN_KEY, token);
-  return token ?? storageGet(TOKEN_KEY);
+  if (api) storageSet(API_KEY, api);
+  return { k: token ?? storageGet(TOKEN_KEY), api: api ?? apiOrigin(storageGet(API_KEY)) };
 }
 
-export function reportVisit(api: string = BISHULIM_API) {
-  const k = takeLinkToken();
+export function reportVisit() {
+  const { k, api } = takeLinkParams();
   if (!api) return;
   fetch(`${api}/api/crumb/visit`, {
     method: "POST",
