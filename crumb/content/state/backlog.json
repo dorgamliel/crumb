@@ -10,16 +10,6 @@
   "kind": "science"
  },
  {
-  "id": "lactic-acid-bacteria",
-  "name": "חיידקי חומצה לקטית",
-  "kind": "science"
- },
- {
-  "id": "turmeric",
-  "name": "כורכום",
-  "kind": "ingredients"
- },
- {
   "id": "freekeh",
   "name": "פריקה",
   "kind": "ingredients"
@@ -65,16 +55,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "fish-sauce",
-  "name": "רוטב דגים",
-  "kind": "ingredients"
- },
- {
-  "id": "maple-syrup",
-  "name": "סירופ מייפל",
-  "kind": "ingredients"
- },
- {
   "id": "brown-sugar",
   "name": "סוכר חום",
   "kind": "ingredients"
@@ -100,11 +80,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "preserved-lemons",
-  "name": "לימון כבוש",
-  "kind": "ingredients"
- },
- {
   "id": "cholent",
   "name": "חמין",
   "kind": "dishes"
@@ -120,18 +95,8 @@
   "kind": "dishes"
  },
  {
-  "id": "dumplings",
-  "name": "כיסונים",
-  "kind": "dishes"
- },
- {
   "id": "curry",
   "name": "קארי",
-  "kind": "dishes"
- },
- {
-  "id": "tiramisu",
-  "name": "טירמיסו",
   "kind": "dishes"
  },
  {
@@ -180,11 +145,6 @@
   "kind": "techniques"
  },
  {
-  "id": "resting-dough",
-  "name": "מנוחה לבצק",
-  "kind": "techniques"
- },
- {
   "id": "marinating",
   "name": "השריה בתיבול",
   "kind": "techniques"
@@ -210,34 +170,9 @@
   "kind": "techniques"
  },
  {
-  "id": "scones",
-  "name": "סקונס",
-  "kind": "baking"
- },
- {
-  "id": "biscotti",
-  "name": "ביסקוטי",
-  "kind": "baking"
- },
- {
   "id": "muffins",
   "name": "מאפינס",
   "kind": "baking"
- },
- {
-  "id": "orange-juice",
-  "name": "מיץ תפוזים",
-  "kind": "drinks"
- },
- {
-  "id": "evaporation",
-  "name": "אידוי נוזלים",
-  "kind": "science"
- },
- {
-  "id": "omelette",
-  "name": "חביתה",
-  "kind": "dishes"
  },
  {
   "id": "souffle",
@@ -250,21 +185,6 @@
   "kind": "dishes"
  },
  {
-  "id": "sifting",
-  "name": "ניפוי קמח",
-  "kind": "techniques"
- },
- {
-  "id": "seasoning-salads",
-  "name": "תיבול סלטים",
-  "kind": "techniques"
- },
- {
-  "id": "orange-blossom-water",
-  "name": "מי זהר",
-  "kind": "ingredients"
- },
- {
   "id": "buckwheat",
   "name": "כוסמת",
   "kind": "ingredients"
@@ -272,6 +192,11 @@
  {
   "id": "mustard",
   "name": "חרדל",
+  "kind": "ingredients"
+ },
+ {
+  "id": "preserved-lemons",
+  "name": "לימון כבוש",
   "kind": "ingredients"
  }
 ]
