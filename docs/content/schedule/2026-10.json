@@ -944,46 +944,46 @@
       "title": "פותחים את המזווה.",
       "subtitle": "חומרי גלם, טכניקות, וקצת מדע לבוקר.",
       "topics": [
-        "flour",
-        "sifting",
-        "seasoning-salads",
-        "pizza",
-        "hydration",
-        "pita",
-        "hummus",
-        "falafel"
+        "muffins",
+        "nutmeg",
+        "cholent",
+        "spices",
+        "nuts",
+        "extraction",
+        "mushrooms",
+        "coffee"
       ],
-      "quiz": "flour"
+      "quiz": "muffins"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
       "subtitle": "בלי מתכון חובה. רק סקרנות.",
       "topics": [
-        "lemon",
-        "zesting",
-        "bitterness",
-        "kubbeh",
-        "nuts",
-        "spices",
-        "zaatar",
-        "coffee"
+        "cumin",
+        "curry",
+        "brown-sugar",
+        "hummus",
+        "pita",
+        "hydration",
+        "pizza",
+        "chickpeas"
       ],
-      "quiz": "zesting"
+      "quiz": "cumin"
     },
     "evening": {
       "title": "אחרי ארוחת הערב.",
       "subtitle": "קצת מדע, קצת היסטוריה, הרבה תיאבון.",
       "topics": [
         "sugar-crystals",
-        "almonds",
-        "fat-crystals",
+        "water-activity",
+        "sugar-science",
+        "lemon",
+        "kubbeh",
         "tempering-chocolate",
-        "pistachios",
-        "phyllo",
-        "malabi",
-        "sahlab"
+        "pickles",
+        "kimchi"
       ],
-      "quiz": "almonds"
+      "quiz": "water-activity"
     }
   },
   "2026-10-30": {
@@ -991,46 +991,46 @@
       "title": "בוקר של סקרנות.",
       "subtitle": "כמה דקות, כמה תשובות, ואולי שאלה חדשה.",
       "topics": [
-        "mushrooms",
-        "reduction",
-        "sauteing",
-        "miso",
+        "basil",
+        "carrots",
+        "knife-skills",
+        "olive-oil",
         "smoke-point",
-        "extraction",
-        "saffron",
-        "matcha"
+        "cast-iron",
+        "stuffed-vegetables",
+        "falafel"
       ],
-      "quiz": "reduction"
+      "quiz": "basil"
     },
     "afternoon": {
       "title": "פינה שקטה בצהריים.",
       "subtitle": "משהו לקרוא, ואולי משהו לנסות הערב.",
       "topics": [
-        "basil",
-        "smell-and-taste",
-        "sweetness",
-        "olive-oil",
+        "anthocyanins",
+        "herbal-infusions",
+        "cabbage",
         "eggplant",
-        "stuffed-vegetables",
+        "olives",
         "roasting-vegetables",
-        "anthocyanins"
+        "tea",
+        "matcha"
       ],
-      "quiz": "basil"
+      "quiz": "anthocyanins"
     },
     "evening": {
       "title": "אחרי ארוחת הערב.",
       "subtitle": "קצת מדע, קצת היסטוריה, הרבה תיאבון.",
       "topics": [
-        "challah",
-        "lecithin",
-        "yeast",
-        "brioche",
-        "hot-chocolate",
+        "bulgur",
+        "frying",
+        "freekeh",
         "cinnamon",
-        "pickles",
-        "kimchi"
+        "babka",
+        "challah",
+        "brioche",
+        "hot-chocolate"
       ],
-      "quiz": "lecithin"
+      "quiz": "bulgur"
     }
   },
   "2026-10-31": {
@@ -1038,46 +1038,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "steaming",
-        "scoring-bread",
-        "oven-spring",
-        "boiling-point",
+        "milk-foam",
+        "souffle",
+        "foams",
+        "macarons",
+        "sponge-cake",
+        "emulsions",
         "pasta-water",
-        "couscous",
-        "rye-bread",
-        "coriander"
+        "hollandaise"
       ],
-      "quiz": "steaming"
+      "quiz": "milk-foam"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
       "subtitle": "בלי מתכון חובה. רק סקרנות.",
       "topics": [
-        "sufganiyot",
-        "pastry-cream",
-        "denaturation",
-        "starch",
-        "bulgur",
-        "polenta",
-        "pectin",
-        "lentils"
+        "mint",
+        "tasting-and-seasoning",
+        "smell-and-taste",
+        "limonana",
+        "lemonade",
+        "halloumi",
+        "feta",
+        "phyllo"
       ],
-      "quiz": "sufganiyot"
+      "quiz": "mint"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
       "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
       "topics": [
-        "mise-en-place",
-        "roux",
-        "chlorophyll",
+        "salt",
+        "sifting",
+        "seasoning-salads",
+        "baking-powder",
+        "banana-bread",
+        "starch",
         "risotto",
-        "paella",
-        "browning",
-        "cauliflower",
-        "shawarma"
+        "polenta"
       ],
-      "quiz": "roux"
+      "quiz": "sifting"
     }
   }
 }

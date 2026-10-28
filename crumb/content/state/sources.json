@@ -101,11 +101,11 @@
   },
   "https://en.wikipedia.org/wiki/Syn-Propanethial-S-oxide": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-28"
   },
   "https://en.wikipedia.org/wiki/Onion": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-28"
   },
   "https://en.wikipedia.org/wiki/Hollandaise_sauce": {
     "ok": true,
@@ -1909,5 +1909,243 @@
   "https://en.wikipedia.org/wiki/Sodium_chloride": {
     "ok": true,
     "checkedAt": "2026-10-27"
+  },
+  "https://en.wikipedia.org/wiki/Muffin": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Carrot": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Beta-Carotene": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://www.kingarthurbaking.com/blog/2017/04/25/muffin-tips": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://extension.usu.edu/preserve-the-harvest/research/muffin-method": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Carotene": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Cabbage": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://www.scienceofcooking.com/eggs/souffle.htm": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://www.compoundchem.com/2016/04/08/eggs/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://www.scientificamerican.com/article/the-science-of-souffles/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Muffin_method": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/03/23/how-to-make-muffins": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Glucosinolate": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Egg_white": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Culinary_foam": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A4%D7%9C%D7%94": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Nutmeg": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Leavening_agent": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Cholent": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Herbal_tea": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Infusion": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Hamin": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Huevos_haminados": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Aloysia_citrodora": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Essential_oil": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Chamomile": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Curry": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Curry_powder": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Salvia_officinalis": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/List_of_culinary_knife_cuts": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Dicing": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Chef%27s_knife": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Chiffonade": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Knife_sharpening": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Honing_steel": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Deep_frying": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/French_fries": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Seasoning": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Salt_(chemistry)": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Cake_mixing_techniques": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://www.kingarthurbaking.com/blog/2015/08/17/muffin-tops": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Chemical_leavener": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://www.bakerpedia.com/processes/muffin-method/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://bakerpedia.com/processes/muffins/": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Sucrose": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Hygroscopy": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://bakerpedia.com/ingredients/sucrose/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://bakerpedia.com/ingredients/sugar/": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://bakerpedia.com/ingredients/granulated-sugar/": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Water_activity": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Fruit_preserves": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Intermediate_moisture_food": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Freekeh": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://he.wikipedia.org/wiki/פריקה": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://he.wikipedia.org/wiki/פריקה_(מזון)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Brown_sugar": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Molasses": {
+    "ok": true,
+    "checkedAt": "2026-10-28"
   }
 }

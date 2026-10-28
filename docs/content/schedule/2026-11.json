@@ -4,46 +4,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "schnitzel",
-        "potatoes",
-        "crispiness",
-        "gnocchi",
-        "paprika",
-        "shakshuka",
+        "steaming",
+        "oven-spring",
+        "scoring-bread",
+        "couscous",
+        "boiling-point",
+        "moka-pot",
         "harissa",
-        "capsaicin"
+        "shakshuka"
       ],
-      "quiz": "schnitzel"
+      "quiz": "steaming"
     },
     "afternoon": {
       "title": "רגע לנשום.",
       "subtitle": "קריאה קצרה, שאלה טובה, ובחזרה לעניינים.",
       "topics": [
-        "mint",
+        "parsley",
         "tabbouleh",
         "heat-transfer",
-        "tea",
-        "parsley",
-        "halloumi",
-        "chai",
-        "cast-iron"
+        "coriander",
+        "rye-bread",
+        "garlic",
+        "sourdough",
+        "fattoush"
       ],
-      "quiz": "mint"
+      "quiz": "parsley"
     },
     "evening": {
       "title": "אור נמוך, סיר חם.",
       "subtitle": "גילויים קטנים לסוף היום.",
       "topics": [
-        "spherification",
-        "gels",
-        "collagen",
-        "braising",
-        "star-anise",
-        "spices",
-        "vanilla",
-        "extraction"
+        "umami",
+        "sweetness",
+        "bitterness",
+        "miso",
+        "ramen",
+        "figs",
+        "pomegranate",
+        "pasta"
       ],
-      "quiz": "spherification"
+      "quiz": "sweetness"
     }
   },
   "2026-11-02": {
@@ -51,44 +51,44 @@
       "title": "פותחים את המזווה.",
       "subtitle": "חומרי גלם, טכניקות, וקצת מדע לבוקר.",
       "topics": [
-        "milk-foam",
-        "foams",
-        "water-for-coffee",
-        "chickpeas",
-        "espresso",
-        "meringue",
-        "moka-pot",
-        "sponge-cake"
+        "schnitzel",
+        "crispiness",
+        "potatoes",
+        "paprika",
+        "saffron",
+        "paella",
+        "gnocchi",
+        "capsaicin"
       ],
-      "quiz": "milk-foam"
+      "quiz": "schnitzel"
     },
     "afternoon": {
       "title": "באמצע היום.",
       "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
       "topics": [
-        "figs",
+        "mise-en-place",
+        "sauteing",
         "dates",
-        "enzymatic-browning",
-        "avocado",
-        "tortillas",
-        "matzah",
-        "acidity",
-        "limonana"
+        "ratatouille",
+        "silan",
+        "sesame",
+        "bourekas",
+        "browning"
       ],
-      "quiz": "figs"
+      "quiz": "sauteing"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
       "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
       "topics": [
-        "brownies",
+        "avocado",
         "chraime",
-        "creaming",
-        "walnuts",
-        "banana-bread",
-        "pomegranate",
-        "butter",
-        "hollandaise"
+        "enzymatic-browning",
+        "tortillas",
+        "shawarma",
+        "matzah",
+        "gluten",
+        "sufganiyot"
       ],
       "quiz": "chraime"
     }
@@ -98,46 +98,46 @@
       "title": "בוקר של סקרנות.",
       "subtitle": "כמה דקות, כמה תשובות, ואולי שאלה חדשה.",
       "topics": [
-        "cookies-spread",
-        "osmosis",
-        "altitude-cooking",
-        "salt",
-        "feta",
-        "cheese",
-        "french-onion-soup",
-        "cacio-e-pepe"
+        "meringue",
+        "water-for-coffee",
+        "denaturation",
+        "shortcrust",
+        "flour",
+        "kneading",
+        "semolina",
+        "crepes"
       ],
-      "quiz": "cookies-spread"
+      "quiz": "meringue"
     },
     "afternoon": {
       "title": "באמצע היום.",
       "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
       "topics": [
-        "eggs",
-        "crackers",
-        "sabich",
-        "macarons",
-        "crepes",
-        "kubaneh",
-        "malawach",
-        "caramel"
+        "orange-juice",
+        "osmosis",
+        "zesting",
+        "pectin",
+        "spherification",
+        "gelatin",
+        "yogurt",
+        "majadra"
       ],
-      "quiz": "crackers"
+      "quiz": "osmosis"
     },
     "evening": {
       "title": "משהו טוב לסוף היום.",
       "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
       "topics": [
-        "gazpacho",
-        "mozzarella",
-        "vinegar",
-        "bread-staling",
-        "lasagna",
-        "moussaka",
-        "fermentation",
-        "yogurt"
+        "viscosity",
+        "fat-crystals",
+        "reduction",
+        "braising",
+        "honey",
+        "caramel",
+        "tarte-tatin",
+        "puff-pastry"
       ],
-      "quiz": "gazpacho"
+      "quiz": "fat-crystals"
     }
   },
   "2026-11-04": {
@@ -145,46 +145,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "gelatin",
-        "tenderizing-enzymes",
-        "whipping-cream",
-        "cheesecake",
-        "tiramisu",
-        "cocoa",
-        "baking-powder",
-        "hamantaschen"
+        "tangzhong",
+        "gels",
+        "collagen",
+        "bread-staling",
+        "gazpacho",
+        "tomatoes",
+        "malawach",
+        "kubaneh"
       ],
-      "quiz": "gelatin"
+      "quiz": "gels"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
       "subtitle": "מה קורה בסיר, ולמה זה עובד.",
       "topics": [
-        "cumin",
-        "baba-ganoush",
-        "majadra",
-        "lassi",
-        "onion",
-        "tarte-tatin",
-        "puff-pastry",
-        "croissant"
+        "croissant",
+        "lecithin",
+        "yeast",
+        "rugelach",
+        "fermentation",
+        "acidity",
+        "tamarind",
+        "pad-thai"
       ],
-      "quiz": "cumin"
+      "quiz": "croissant"
     },
     "evening": {
       "title": "הערב במטבח.",
       "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
       "topics": [
-        "lemonade",
-        "sorbet",
-        "iced-tea",
-        "cold-brew",
-        "honey",
-        "viscosity",
-        "silan",
-        "sesame"
+        "lasagna",
+        "mozzarella",
+        "vinegar",
+        "moussaka",
+        "pickles",
+        "cauliflower",
+        "cinnamon",
+        "sahlab"
       ],
-      "quiz": "lemonade"
+      "quiz": "lasagna"
     }
   },
   "2026-11-05": {
@@ -192,46 +192,46 @@
       "title": "בוקר טוב, מטבח.",
       "subtitle": "משהו מעניין לקרוא עם הכוס הראשונה.",
       "topics": [
-        "pepper",
-        "pasta-water",
-        "pasta",
-        "ramen",
-        "tomatoes",
-        "ratatouille",
-        "emulsions",
-        "garlic"
+        "pistachios",
+        "almonds",
+        "pastry-cream",
+        "eggs",
+        "cookies-spread",
+        "brownies",
+        "malabi",
+        "pancakes"
       ],
-      "quiz": "ramen"
+      "quiz": "pistachios"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
       "subtitle": "בלי מתכון חובה. רק סקרנות.",
       "topics": [
-        "olives",
-        "anthocyanins",
-        "pickles",
-        "kimchi",
+        "pita",
+        "crackers",
+        "sabich",
+        "hummus",
+        "baba-ganoush",
         "lemon",
         "sugar-crystals",
-        "tamarind",
-        "pad-thai"
+        "maple-syrup"
       ],
-      "quiz": "olives"
+      "quiz": "crackers"
     },
     "evening": {
       "title": "ערב רגוע.",
       "subtitle": "כמה סיפורים מהמטבח לפני שנגמר היום.",
       "topics": [
-        "babka",
-        "rugelach",
-        "chocolate",
-        "choux-pastry",
-        "tangzhong",
-        "hot-chocolate",
-        "sahlab",
-        "malabi"
+        "butter",
+        "roux",
+        "creaming",
+        "jachnun",
+        "ghee",
+        "lamination",
+        "brioche",
+        "hollandaise"
       ],
-      "quiz": "babka"
+      "quiz": "roux"
     }
   },
   "2026-11-06": {
@@ -239,46 +239,46 @@
       "title": "בוקר טוב, מטבח.",
       "subtitle": "משהו מעניין לקרוא עם הכוס הראשונה.",
       "topics": [
-        "turkish-coffee",
-        "cardamom",
-        "coffee",
-        "pour-over",
-        "browning",
-        "jachnun",
-        "soy-sauce",
-        "ghee"
+        "cheese",
+        "chlorophyll",
+        "tenderizing-enzymes",
+        "pepper",
+        "cacio-e-pepe",
+        "french-onion-soup",
+        "onion",
+        "starch"
       ],
-      "quiz": "turkish-coffee"
+      "quiz": "chlorophyll"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
       "subtitle": "מה קורה בסיר, ולמה זה עובד.",
       "topics": [
-        "horchata",
-        "nuts",
-        "pine-nuts",
-        "pistachios",
-        "baklava",
-        "rice",
-        "phyllo",
-        "bourekas"
+        "boiling-point",
+        "altitude-cooking",
+        "moka-pot",
+        "espresso",
+        "pour-over",
+        "tiramisu",
+        "cocoa",
+        "cheesecake"
       ],
-      "quiz": "horchata"
+      "quiz": "boiling-point"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
       "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
       "topics": [
-        "focaccia",
-        "pizza",
-        "semolina",
-        "pita",
-        "fattoush",
-        "maamoul",
-        "hummus",
-        "gluten"
+        "zaatar",
+        "spices",
+        "vanilla",
+        "extraction",
+        "horchata",
+        "cold-brew",
+        "nuts",
+        "kubbeh"
       ],
-      "quiz": "semolina"
+      "quiz": "horchata"
     }
   },
   "2026-11-07": {
@@ -286,46 +286,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "kneading",
-        "shortcrust",
-        "lamination",
-        "flour",
-        "starch",
-        "sweet-potato",
         "lentils",
-        "roasting-vegetables"
+        "chickpeas",
+        "rice",
+        "steaming",
+        "dumplings",
+        "matcha",
+        "roasting-vegetables",
+        "tea"
       ],
-      "quiz": "kneading"
+      "quiz": "lentils"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
       "subtitle": "מה קורה בסיר, ולמה זה עובד.",
       "topics": [
-        "umami",
-        "parmesan",
-        "matcha",
-        "extraction",
-        "saffron",
-        "paella",
-        "challah",
-        "brioche"
+        "pine-nuts",
+        "basil",
+        "mint",
+        "biscotti",
+        "limonana",
+        "lemonade",
+        "iced-tea",
+        "sorbet"
       ],
-      "quiz": "parmesan"
+      "quiz": "pine-nuts"
     },
     "evening": {
       "title": "אור נמוך, סיר חם.",
       "subtitle": "גילויים קטנים לסוף היום.",
       "topics": [
-        "ginger",
-        "turmeric",
-        "capsaicin",
-        "tea",
-        "spices",
+        "cardamom",
         "chai",
-        "shakshuka",
-        "malawach"
+        "turkish-coffee",
+        "ginger",
+        "lassi",
+        "star-anise",
+        "emulsions",
+        "pasta-water"
       ],
-      "quiz": "ginger"
+      "quiz": "cardamom"
     }
   },
   "2026-11-08": {
@@ -335,12 +335,12 @@
       "topics": [
         "bagel",
         "hydration",
-        "sourdough",
-        "fermentation",
-        "miso",
-        "mushrooms",
-        "acidity",
-        "pectin"
+        "choux-pastry",
+        "chocolate",
+        "tempering-chocolate",
+        "hot-chocolate",
+        "milk-foam",
+        "coffee"
       ],
       "quiz": "bagel"
     },
@@ -348,31 +348,31 @@
       "title": "הפסקת צהריים מתוקה.",
       "subtitle": "גילוי קטן בין משימה למשימה.",
       "topics": [
-        "stir-frying",
-        "mise-en-place",
-        "risotto",
-        "polenta",
-        "couscous",
-        "harissa",
-        "bulgur",
-        "kubbeh"
+        "walnuts",
+        "baklava",
+        "phyllo",
+        "orange-blossom-water",
+        "scones",
+        "pomegranate",
+        "smoke-point",
+        "stir-frying"
       ],
-      "quiz": "stir-frying"
+      "quiz": "walnuts"
     },
     "evening": {
       "title": "משהו טוב לסוף היום.",
       "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
       "topics": [
-        "omelette",
-        "eggs",
-        "pancakes",
-        "maple-syrup",
-        "schnitzel",
-        "vanilla",
-        "meringue",
-        "kubaneh"
+        "focaccia",
+        "pizza",
+        "salt",
+        "halloumi",
+        "olive-oil",
+        "stuffed-vegetables",
+        "gazpacho",
+        "umami"
       ],
-      "quiz": "pancakes"
+      "quiz": "halloumi"
     }
   },
   "2026-11-09": {
@@ -380,46 +380,46 @@
       "title": "פותחים את המזווה.",
       "subtitle": "חומרי גלם, טכניקות, וקצת מדע לבוקר.",
       "topics": [
-        "orange-juice",
-        "pectin",
-        "spherification",
-        "viscosity",
-        "honey",
-        "caramel",
-        "butter",
-        "scones"
+        "hamantaschen",
+        "maamoul",
+        "baking-powder",
+        "banana-bread",
+        "fermentation",
+        "soy-sauce",
+        "kimchi",
+        "browning"
       ],
-      "quiz": "scones"
+      "quiz": "hamantaschen"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
       "subtitle": "מה קורה בסיר, ולמה זה עובד.",
       "topics": [
-        "orange-blossom-water",
-        "phyllo",
-        "puff-pastry",
-        "croissant",
+        "parmesan",
+        "risotto",
+        "polenta",
+        "pasta",
         "gluten",
-        "crepes",
-        "gnocchi",
-        "pasta"
+        "challah",
+        "babka",
+        "muffins"
       ],
-      "quiz": "orange-blossom-water"
+      "quiz": "parmesan"
     },
     "evening": {
       "title": "הערב במטבח.",
       "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
       "topics": [
-        "biscotti",
-        "pine-nuts",
-        "basil",
-        "olive-oil",
-        "smoke-point",
-        "falafel",
-        "stuffed-vegetables",
-        "cast-iron"
+        "omelette",
+        "eggs",
+        "sponge-cake",
+        "macarons",
+        "crepes",
+        "viscosity",
+        "spherification",
+        "pectin"
       ],
-      "quiz": "biscotti"
+      "quiz": "macarons"
     }
   },
   "2026-11-10": {
@@ -427,46 +427,46 @@
       "title": "עוד לפני הקפה השני.",
       "subtitle": "שאלה, הסבר, ואולי רעיון לארוחת הערב.",
       "topics": [
-        "dumplings",
-        "steaming",
-        "boiling-point",
-        "moka-pot",
-        "espresso",
-        "milk-foam",
-        "tiramisu",
-        "sponge-cake"
+        "sweet-potato",
+        "starch",
+        "falafel",
+        "bulgur",
+        "parsley",
+        "gnocchi",
+        "flour",
+        "tortillas"
       ],
-      "quiz": "dumplings"
+      "quiz": "sweet-potato"
     },
     "afternoon": {
       "title": "הפסקה עם טעם.",
       "subtitle": "כמה דקות פנויות? יש מה לגלות.",
       "topics": [
+        "turmeric",
+        "saffron",
         "paprika",
+        "shakshuka",
         "capsaicin",
-        "mint",
-        "limonana",
-        "yogurt",
-        "majadra",
-        "lemonade",
-        "sorbet"
+        "schnitzel",
+        "paella",
+        "challah"
       ],
-      "quiz": "paprika"
+      "quiz": "turmeric"
     },
     "evening": {
       "title": "אור נמוך, סיר חם.",
       "subtitle": "גילויים קטנים לסוף היום.",
       "topics": [
-        "cinnamon",
-        "chocolate",
-        "tempering-chocolate",
-        "hot-chocolate",
-        "sugar-crystals",
-        "brownies",
-        "walnuts",
-        "banana-bread"
+        "whipping-cream",
+        "meringue",
+        "gelatin",
+        "figs",
+        "yogurt",
+        "majadra",
+        "pickles",
+        "anthocyanins"
       ],
-      "quiz": "cinnamon"
+      "quiz": "whipping-cream"
     }
   },
   "2026-11-11": {
@@ -474,46 +474,46 @@
       "title": "בוקר טוב, מטבח.",
       "subtitle": "משהו מעניין לקרוא עם הכוס הראשונה.",
       "topics": [
-        "zaatar",
-        "sesame",
-        "silan",
-        "bourekas",
-        "lamination",
-        "tarte-tatin",
-        "jachnun",
-        "kubaneh"
+        "cumin",
+        "shawarma",
+        "harissa",
+        "couscous",
+        "pita",
+        "matzah",
+        "fattoush",
+        "baba-ganoush"
       ],
-      "quiz": "sesame"
+      "quiz": "shawarma"
     },
     "afternoon": {
       "title": "באמצע היום.",
       "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
       "topics": [
-        "eggplant",
-        "moussaka",
-        "lasagna",
-        "baba-ganoush",
-        "cumin",
-        "coriander",
+        "cast-iron",
+        "acidity",
         "rye-bread",
-        "anthocyanins"
+        "coriander",
+        "sourdough",
+        "tamarind",
+        "lemon",
+        "pad-thai"
       ],
-      "quiz": "moussaka"
+      "quiz": "cast-iron"
     },
     "evening": {
       "title": "משהו טוב לסוף היום.",
       "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
       "topics": [
-        "shawarma",
-        "tortillas",
-        "matzah",
-        "avocado",
-        "browning",
-        "braising",
-        "onion",
-        "cauliflower"
+        "feta",
+        "bourekas",
+        "sesame",
+        "silan",
+        "hummus",
+        "lamination",
+        "puff-pastry",
+        "malawach"
       ],
-      "quiz": "shawarma"
+      "quiz": "feta"
     }
   },
   "2026-11-12": {
@@ -521,46 +521,46 @@
       "title": "מתחילים את היום בטעם.",
       "subtitle": "כמה גילויים קטנים לפני שהיום נפתח.",
       "topics": [
-        "sufganiyot",
-        "brioche",
-        "challah",
-        "saffron",
-        "rice",
-        "horchata",
-        "cardamom",
-        "lassi"
+        "olives",
+        "avocado",
+        "olive-oil",
+        "ratatouille",
+        "focaccia",
+        "emulsions",
+        "ramen",
+        "hollandaise"
       ],
-      "quiz": "rice"
+      "quiz": "olives"
     },
     "afternoon": {
       "title": "הפסקה עם טעם.",
       "subtitle": "כמה דקות פנויות? יש מה לגלות.",
       "topics": [
-        "parsley",
-        "garlic",
-        "pickles",
-        "salt",
+        "mushrooms",
+        "miso",
         "umami",
-        "emulsions",
-        "hollandaise",
-        "gazpacho"
+        "cheese",
+        "cheesecake",
+        "matcha",
+        "steaming",
+        "roasting-vegetables"
       ],
-      "quiz": "parsley"
+      "quiz": "cheesecake"
     },
     "evening": {
       "title": "ערב רגוע.",
       "subtitle": "כמה סיפורים מהמטבח לפני שנגמר היום.",
       "topics": [
-        "star-anise",
-        "chai",
-        "extraction",
-        "iced-tea",
-        "mushrooms",
-        "miso",
-        "ramen",
-        "fermentation"
+        "mise-en-place",
+        "risotto",
+        "polenta",
+        "butter",
+        "cookies-spread",
+        "caramel",
+        "tarte-tatin",
+        "honey"
       ],
-      "quiz": "star-anise"
+      "quiz": "polenta"
     }
   },
   "2026-11-13": {
@@ -568,46 +568,46 @@
       "title": "מתחילים את היום בטעם.",
       "subtitle": "כמה גילויים קטנים לפני שהיום נפתח.",
       "topics": [
-        "bread-staling",
-        "tangzhong",
-        "choux-pastry",
-        "hydration",
-        "pizza",
-        "cheese",
-        "halloumi",
-        "french-onion-soup"
+        "eggplant",
+        "tomatoes",
+        "moussaka",
+        "lasagna",
+        "semolina",
+        "jachnun",
+        "kubaneh",
+        "browning"
       ],
-      "quiz": "bread-staling"
+      "quiz": "moussaka"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
       "subtitle": "בלי מתכון חובה. רק סקרנות.",
       "topics": [
-        "chickpeas",
-        "eggs",
-        "macarons",
-        "cookies-spread",
+        "shortcrust",
+        "kneading",
+        "hamantaschen",
         "flour",
-        "semolina",
+        "pizza",
         "starch",
-        "sahlab"
+        "sahlab",
+        "cinnamon"
       ],
-      "quiz": "macarons"
+      "quiz": "kneading"
     },
     "evening": {
       "title": "הערב במטבח.",
       "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
       "topics": [
-        "figs",
-        "pomegranate",
-        "gelatin",
-        "whipping-cream",
-        "cheesecake",
-        "nuts",
-        "coffee",
-        "tea"
+        "sufganiyot",
+        "brioche",
+        "croissant",
+        "eggs",
+        "pancakes",
+        "maple-syrup",
+        "sugar-crystals",
+        "boiling-point"
       ],
-      "quiz": "whipping-cream"
+      "quiz": "sufganiyot"
     }
   },
   "2026-11-14": {
@@ -615,46 +615,46 @@
       "title": "בוקר של סקרנות.",
       "subtitle": "כמה דקות, כמה תשובות, ואולי שאלה חדשה.",
       "topics": [
-        "feta",
-        "phyllo",
-        "gluten",
-        "pita",
-        "hummus",
-        "fattoush",
-        "butter",
-        "ghee"
+        "braising",
+        "star-anise",
+        "chai",
+        "tea",
+        "cardamom",
+        "lassi",
+        "ginger",
+        "acidity"
       ],
-      "quiz": "feta"
+      "quiz": "star-anise"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
       "subtitle": "בלי מתכון חובה. רק סקרנות.",
       "topics": [
+        "garlic",
+        "onion",
+        "french-onion-soup",
+        "parsley",
+        "pickles",
+        "fermentation",
         "baking-powder",
-        "cocoa",
-        "hamantaschen",
-        "maamoul",
-        "pistachios",
-        "malabi",
-        "baklava",
-        "hot-chocolate"
+        "sponge-cake"
       ],
-      "quiz": "cocoa"
+      "quiz": "french-onion-soup"
     },
     "evening": {
       "title": "משהו טוב לסוף היום.",
       "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
       "topics": [
-        "cold-brew",
-        "acidity",
+        "orange-juice",
+        "pectin",
+        "spherification",
+        "viscosity",
+        "crepes",
         "lemon",
-        "tomatoes",
-        "ratatouille",
-        "tamarind",
-        "pad-thai",
-        "mise-en-place"
+        "limonana",
+        "mint"
       ],
-      "quiz": "cold-brew"
+      "quiz": "spherification"
     }
   },
   "2026-11-15": {
@@ -662,46 +662,46 @@
       "title": "פותחים את המזווה.",
       "subtitle": "חומרי גלם, טכניקות, וקצת מדע לבוקר.",
       "topics": [
-        "cacio-e-pepe",
-        "pasta-water",
-        "pepper",
+        "rugelach",
+        "chocolate",
+        "brownies",
+        "vanilla",
         "spices",
-        "turmeric",
-        "boiling-point",
-        "smoke-point",
-        "cast-iron"
+        "extraction",
+        "cold-brew",
+        "espresso"
       ],
-      "quiz": "cacio-e-pepe"
+      "quiz": "chocolate"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
       "subtitle": "בלי מתכון חובה. רק סקרנות.",
       "topics": [
-        "rugelach",
-        "babka",
-        "croissant",
-        "cinnamon",
-        "pickles",
-        "kimchi",
-        "olives",
-        "yogurt"
+        "bread-staling",
+        "tangzhong",
+        "hydration",
+        "bagel",
+        "gazpacho",
+        "gluten",
+        "pasta",
+        "pasta-water"
       ],
-      "quiz": "croissant"
+      "quiz": "bread-staling"
     },
     "evening": {
       "title": "ערב רגוע.",
       "subtitle": "כמה סיפורים מהמטבח לפני שנגמר היום.",
       "topics": [
-        "turkish-coffee",
-        "espresso",
+        "malabi",
+        "pistachios",
+        "nuts",
+        "coffee",
         "pour-over",
+        "turkish-coffee",
         "milk-foam",
-        "meringue",
-        "shortcrust",
-        "kneading",
-        "tiramisu"
+        "walnuts"
       ],
-      "quiz": "espresso"
+      "quiz": "malabi"
     }
   },
   "2026-11-16": {
@@ -709,46 +709,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "focaccia",
-        "olive-oil",
+        "cauliflower",
+        "anthocyanins",
         "roasting-vegetables",
         "sweet-potato",
+        "eggplant",
         "stuffed-vegetables",
-        "basil",
         "kubbeh",
-        "caramel"
+        "browning"
       ],
-      "quiz": "roasting-vegetables"
+      "quiz": "cauliflower"
     },
     "afternoon": {
       "title": "רגע לנשום.",
       "subtitle": "קריאה קצרה, שאלה טובה, ובחזרה לעניינים.",
       "topics": [
-        "soy-sauce",
-        "stir-frying",
-        "dumplings",
-        "steaming",
-        "couscous",
-        "matcha",
-        "bulgur",
-        "polenta"
+        "cocoa",
+        "tiramisu",
+        "hot-chocolate",
+        "cheesecake",
+        "whipping-cream",
+        "meringue",
+        "gelatin",
+        "figs"
       ],
-      "quiz": "soy-sauce"
+      "quiz": "cocoa"
     },
     "evening": {
       "title": "אחרי ארוחת הערב.",
       "subtitle": "קצת מדע, קצת היסטוריה, הרבה תיאבון.",
       "topics": [
-        "parmesan",
-        "risotto",
-        "paella",
-        "rice",
-        "lentils",
-        "majadra",
-        "horchata",
-        "nuts"
+        "zaatar",
+        "olive-oil",
+        "basil",
+        "smoke-point",
+        "stir-frying",
+        "ratatouille",
+        "focaccia",
+        "falafel"
       ],
-      "quiz": "paella"
+      "quiz": "stir-frying"
     }
   },
   "2026-11-17": {
@@ -756,46 +756,93 @@
       "title": "מתחילים את היום בטעם.",
       "subtitle": "כמה גילויים קטנים לפני שהיום נפתח.",
       "topics": [
-        "harissa",
-        "shakshuka",
-        "malawach",
-        "paprika",
-        "schnitzel",
-        "eggs",
-        "brownies",
-        "sponge-cake"
+        "moka-pot",
+        "boiling-point",
+        "steaming",
+        "dumplings",
+        "rice",
+        "horchata",
+        "lentils",
+        "chickpeas"
       ],
-      "quiz": "harissa"
+      "quiz": "moka-pot"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
       "subtitle": "מה קורה בסיר, ולמה זה עובד.",
       "topics": [
-        "vanilla",
-        "chocolate",
-        "browning",
-        "falafel",
-        "honey",
-        "viscosity",
-        "crepes",
-        "pancakes"
+        "ghee",
+        "emulsions",
+        "cacio-e-pepe",
+        "pepper",
+        "ramen",
+        "umami",
+        "salt",
+        "capsaicin"
       ],
-      "quiz": "chocolate"
+      "quiz": "cacio-e-pepe"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
       "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
       "topics": [
-        "ginger",
-        "capsaicin",
-        "tea",
-        "mint",
-        "limonana",
-        "coriander",
-        "rye-bread",
-        "bagel"
+        "orange-blossom-water",
+        "phyllo",
+        "baklava",
+        "scones",
+        "malawach",
+        "shakshuka",
+        "paprika",
+        "saffron"
       ],
-      "quiz": "tea"
+      "quiz": "orange-blossom-water"
+    }
+  },
+  "2026-11-18": {
+    "morning": {
+      "title": "בוקר בלי למהר.",
+      "subtitle": "קצת קפה, משהו לקרוא, ורעיון לקחת למטבח.",
+      "topics": [
+        "pine-nuts",
+        "biscotti",
+        "kubbeh",
+        "yogurt",
+        "majadra",
+        "cheese",
+        "starch",
+        "choux-pastry"
+      ],
+      "quiz": "biscotti"
+    },
+    "afternoon": {
+      "title": "הפסקה עם טעם.",
+      "subtitle": "כמה דקות פנויות? יש מה לגלות.",
+      "topics": [
+        "lemonade",
+        "sorbet",
+        "iced-tea",
+        "honey",
+        "challah",
+        "babka",
+        "caramel",
+        "lamination"
+      ],
+      "quiz": "lemonade"
+    },
+    "evening": {
+      "title": "משהו טוב לסוף היום.",
+      "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
+      "topics": [
+        "tempering-chocolate",
+        "chocolate",
+        "cinnamon",
+        "sahlab",
+        "brownies",
+        "cardamom",
+        "chai",
+        "sugar-crystals"
+      ],
+      "quiz": "tempering-chocolate"
     }
   }
 }
