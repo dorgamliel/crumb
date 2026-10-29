@@ -991,46 +991,46 @@
       "title": "בוקר של סקרנות.",
       "subtitle": "כמה דקות, כמה תשובות, ואולי שאלה חדשה.",
       "topics": [
-        "basil",
-        "carrots",
-        "knife-skills",
-        "olive-oil",
-        "smoke-point",
-        "cast-iron",
-        "stuffed-vegetables",
-        "falafel"
+        "pound-cake",
+        "surface-tension",
+        "gingerbread",
+        "cinnamon-rolls",
+        "leidenfrost-effect",
+        "coffee-roasting",
+        "viscosity",
+        "crepes"
       ],
-      "quiz": "basil"
+      "quiz": "pound-cake"
     },
     "afternoon": {
       "title": "פינה שקטה בצהריים.",
       "subtitle": "משהו לקרוא, ואולי משהו לנסות הערב.",
       "topics": [
-        "anthocyanins",
-        "herbal-infusions",
-        "cabbage",
-        "eggplant",
-        "olives",
-        "roasting-vegetables",
-        "tea",
-        "matcha"
+        "majadra",
+        "honey-crystallization",
+        "caramelizing-onions",
+        "lentils",
+        "starch",
+        "pectin",
+        "risotto",
+        "saffron"
       ],
-      "quiz": "anthocyanins"
+      "quiz": "majadra"
     },
     "evening": {
       "title": "אחרי ארוחת הערב.",
       "subtitle": "קצת מדע, קצת היסטוריה, הרבה תיאבון.",
       "topics": [
-        "bulgur",
-        "frying",
-        "freekeh",
-        "cinnamon",
-        "babka",
-        "challah",
-        "brioche",
-        "hot-chocolate"
+        "anthocyanins",
+        "okra",
+        "hibiscus-tea",
+        "eggplant",
+        "olive-oil",
+        "roasting-vegetables",
+        "steaming",
+        "boiling-point"
       ],
-      "quiz": "bulgur"
+      "quiz": "anthocyanins"
     }
   },
   "2026-10-31": {
@@ -1038,46 +1038,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "milk-foam",
-        "souffle",
-        "foams",
-        "macarons",
-        "sponge-cake",
-        "emulsions",
-        "pasta-water",
-        "hollandaise"
+        "smoke-point",
+        "maqluba",
+        "frying",
+        "pine-nuts",
+        "pistachios",
+        "basil",
+        "malabi",
+        "falafel"
       ],
-      "quiz": "milk-foam"
+      "quiz": "maqluba"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
       "subtitle": "בלי מתכון חובה. רק סקרנות.",
       "topics": [
-        "mint",
-        "tasting-and-seasoning",
-        "smell-and-taste",
-        "limonana",
-        "lemonade",
-        "halloumi",
-        "feta",
-        "phyllo"
+        "turkish-coffee",
+        "arabic-coffee",
+        "quince",
+        "espresso",
+        "milk-foam",
+        "cardamom",
+        "cinnamon",
+        "babka"
       ],
-      "quiz": "mint"
+      "quiz": "turkish-coffee"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
       "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
       "topics": [
-        "salt",
-        "sifting",
-        "seasoning-salads",
-        "baking-powder",
-        "banana-bread",
-        "starch",
-        "risotto",
-        "polenta"
+        "acidity",
+        "beets",
+        "carrots",
+        "limonana",
+        "mint",
+        "tea",
+        "matcha",
+        "cast-iron"
       ],
-      "quiz": "sifting"
+      "quiz": "beets"
     }
   }
 }

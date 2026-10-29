@@ -123,5 +123,255 @@
   "id": "preserved-lemons",
   "name": "לימון כבוש",
   "kind": "ingredients"
+ },
+ {
+  "id": "bread-crust",
+  "name": "קרום הלחם",
+  "kind": "baking"
+ },
+ {
+  "id": "cornbread",
+  "name": "לחם תירס",
+  "kind": "baking"
+ },
+ {
+  "id": "chiffon-cake",
+  "name": "עוגת שיפון",
+  "kind": "baking"
+ },
+ {
+  "id": "ciabatta",
+  "name": "צ׳יאבטה",
+  "kind": "baking"
+ },
+ {
+  "id": "shortbread",
+  "name": "שורטברד",
+  "kind": "baking"
+ },
+ {
+  "id": "blind-baking",
+  "name": "אפייה עיוורת",
+  "kind": "baking"
+ },
+ {
+  "id": "egg-wash",
+  "name": "הברשת ביצה",
+  "kind": "baking"
+ },
+ {
+  "id": "kaak",
+  "name": "כעכים",
+  "kind": "baking"
+ },
+ {
+  "id": "heat-capacity",
+  "name": "קיבול חום",
+  "kind": "science"
+ },
+ {
+  "id": "diffusion",
+  "name": "דיפוזיה במטבח",
+  "kind": "science"
+ },
+ {
+  "id": "supercooling",
+  "name": "קירור־על",
+  "kind": "science"
+ },
+ {
+  "id": "plant-cell-walls",
+  "name": "דפנות תאי הצמח",
+  "kind": "science"
+ },
+ {
+  "id": "volatile-aromas",
+  "name": "ניחוחות נדיפים",
+  "kind": "science"
+ },
+ {
+  "id": "hard-candy-glass",
+  "name": "סוכריות קשות",
+  "kind": "science"
+ },
+ {
+  "id": "freezing-point-depression",
+  "name": "הורדת נקודת הקיפאון",
+  "kind": "science"
+ },
+ {
+  "id": "smoothies",
+  "name": "שייקים",
+  "kind": "drinks"
+ },
+ {
+  "id": "milkshakes",
+  "name": "מילקשייק",
+  "kind": "drinks"
+ },
+ {
+  "id": "ayran",
+  "name": "איירן",
+  "kind": "drinks"
+ },
+ {
+  "id": "jallab",
+  "name": "ג׳לאב",
+  "kind": "drinks"
+ },
+ {
+  "id": "rooibos",
+  "name": "רויבוס",
+  "kind": "drinks"
+ },
+ {
+  "id": "yerba-mate",
+  "name": "יֶרְבָּה מָטֶה",
+  "kind": "drinks"
+ },
+ {
+  "id": "almond-milk",
+  "name": "חלב שקדים",
+  "kind": "drinks"
+ },
+ {
+  "id": "decaf-coffee",
+  "name": "קפה נטול קפאין",
+  "kind": "drinks"
+ },
+ {
+  "id": "artichokes",
+  "name": "ארטישוק",
+  "kind": "ingredients"
+ },
+ {
+  "id": "kohlrabi",
+  "name": "קולרבי",
+  "kind": "ingredients"
+ },
+ {
+  "id": "spinach",
+  "name": "תרד",
+  "kind": "ingredients"
+ },
+ {
+  "id": "fennel",
+  "name": "שומר",
+  "kind": "ingredients"
+ },
+ {
+  "id": "barley",
+  "name": "גרעיני שעורה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "oats",
+  "name": "שיבולת שועל",
+  "kind": "ingredients"
+ },
+ {
+  "id": "dried-lime",
+  "name": "לימון פרסי מיובש",
+  "kind": "ingredients"
+ },
+ {
+  "id": "pomegranate-molasses",
+  "name": "רכז רימונים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "chestnuts",
+  "name": "ערמונים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "coconut",
+  "name": "קוקוס",
+  "kind": "ingredients"
+ },
+ {
+  "id": "kofta",
+  "name": "קציצות קבב",
+  "kind": "dishes"
+ },
+ {
+  "id": "musakhan",
+  "name": "מוסח׳ן",
+  "kind": "dishes"
+ },
+ {
+  "id": "ptitim",
+  "name": "פתיתים",
+  "kind": "dishes"
+ },
+ {
+  "id": "potato-gratin",
+  "name": "גרטן תפוחי אדמה",
+  "kind": "dishes"
+ },
+ {
+  "id": "minestrone",
+  "name": "מינסטרונה",
+  "kind": "dishes"
+ },
+ {
+  "id": "borscht",
+  "name": "בורשט",
+  "kind": "dishes"
+ },
+ {
+  "id": "goulash",
+  "name": "גולאש",
+  "kind": "dishes"
+ },
+ {
+  "id": "quiche",
+  "name": "קיש",
+  "kind": "dishes"
+ },
+ {
+  "id": "panna-cotta",
+  "name": "פנה קוטה",
+  "kind": "dishes"
+ },
+ {
+  "id": "toasting-nuts",
+  "name": "קליית אגוזים",
+  "kind": "techniques"
+ },
+ {
+  "id": "proofing-dough",
+  "name": "התפחת בצק",
+  "kind": "techniques"
+ },
+ {
+  "id": "piping",
+  "name": "זילוף",
+  "kind": "techniques"
+ },
+ {
+  "id": "glazing",
+  "name": "זיגוג",
+  "kind": "techniques"
+ },
+ {
+  "id": "bain-marie",
+  "name": "בן מארי",
+  "kind": "techniques"
+ },
+ {
+  "id": "en-papillote",
+  "name": "בישול בשקית נייר",
+  "kind": "techniques"
+ },
+ {
+  "id": "grating",
+  "name": "פומפייה",
+  "kind": "techniques"
+ },
+ {
+  "id": "rolling-dough",
+  "name": "רידוד בצק",
+  "kind": "techniques"
  }
 ]

@@ -129,7 +129,7 @@
   },
   "https://en.wikipedia.org/wiki/Caramelized_onions": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-29"
   },
   "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety": {
     "ok": true,
@@ -2147,5 +2147,127 @@
   "https://en.wikipedia.org/wiki/Molasses": {
     "ok": true,
     "checkedAt": "2026-10-28"
+  },
+  "https://en.wikipedia.org/wiki/Leidenfrost_effect": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Hibiscus_tea": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Cinnamon_roll": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Pound_cake": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Gumbo": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Roselle_(plant)": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Gingerbread": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Surface_tension": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Arabic_coffee": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Coffee_roasting": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Surfactant": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Tears_of_wine": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Beetroot": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Creamed_honey": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Betanin": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Geosmin": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Betalain": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Lebkuchen": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Ginger_snap": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Mucilage": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://he.wikipedia.org/wiki/במיה": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Quince": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Proanthocyanidin": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Quince_cheese": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Maqluba": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://he.wikipedia.org/wiki/מקלובה": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Tahdig": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Crème_brûlée": {
+    "ok": true,
+    "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Caramelized_onion": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-29"
+  },
+  "https://slate.com/human-interest/2012/05/caramelize-onions-in-5-minutes-not-a-chance.html": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-29"
   }
 }
