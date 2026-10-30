@@ -117,7 +117,7 @@
   },
   "https://en.wikipedia.org/wiki/Pectin": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-30"
   },
   "https://en.wikipedia.org/wiki/Honey": {
     "ok": true,
@@ -2269,5 +2269,178 @@
     "ok": false,
     "status": 404,
     "checkedAt": "2026-10-29"
+  },
+  "https://en.wikipedia.org/wiki/Ice_cream": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Ciabatta": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Dried_lime": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Borscht": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Israeli_couscous": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Biga_(bread)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Shortbread": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Colligative_properties": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Biga_(baking)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Pre-ferment": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Doogh": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Egg_wash": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Syneresis_(chemistry)": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://www.kingarthurbaking.com/blog/2019/05/21/egg-wash": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Yogurt": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Mate_(drink)": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Ilex_paraguariensis": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Decaffeination": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Nut_(food)": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Artichoke": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Cynarin": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Hazelnut": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Peanut": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Wine_and_food_matching": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Carciofi_alla_giudia": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://www.kingarthurbaking.com/blog/2016/10/14/egg-wash": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Glaze_(cooking_technique)": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Specific_heat_capacity": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Table_of_specific_heat_capacities": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Cell_wall": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Turgor_pressure": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Firming_agent": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Calcium_chloride": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://it.wikipedia.org/wiki/Ciabatta_(pane)": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://www.kingarthurbaking.com/blog/2017/08/15/how-to-toast-nuts": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-30"
+  },
+  "https://he.wikipedia.org/wiki/פתיתים": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://he.wikipedia.org/wiki/רכז_רימונים": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://he.wikipedia.org/wiki/לימון_פרסי": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://he.wikipedia.org/wiki/בורשט": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Fesenjan": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Ghormeh_sabzi": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Fregula": {
+    "ok": true,
+    "checkedAt": "2026-10-30"
   }
 }

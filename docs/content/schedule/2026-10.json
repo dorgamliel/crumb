@@ -1038,46 +1038,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "smoke-point",
-        "maqluba",
-        "frying",
-        "pine-nuts",
-        "pistachios",
-        "basil",
-        "malabi",
-        "falafel"
+        "ptitim",
+        "borscht",
+        "beets",
+        "carrots",
+        "couscous",
+        "pasta",
+        "pasta-water",
+        "emulsions"
       ],
-      "quiz": "maqluba"
+      "quiz": "ptitim"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
       "subtitle": "בלי מתכון חובה. רק סקרנות.",
       "topics": [
-        "turkish-coffee",
-        "arabic-coffee",
-        "quince",
-        "espresso",
-        "milk-foam",
-        "cardamom",
-        "cinnamon",
-        "babka"
+        "tea",
+        "decaf-coffee",
+        "ayran",
+        "mint",
+        "basil",
+        "pine-nuts",
+        "nuts",
+        "brownies"
       ],
-      "quiz": "turkish-coffee"
+      "quiz": "tea"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
       "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
       "topics": [
-        "acidity",
-        "beets",
-        "carrots",
-        "limonana",
-        "mint",
-        "tea",
-        "matcha",
-        "cast-iron"
+        "smoke-point",
+        "toasting-nuts",
+        "maqluba",
+        "falafel",
+        "cauliflower",
+        "cast-iron",
+        "walnuts",
+        "banana-bread"
       ],
-      "quiz": "beets"
+      "quiz": "toasting-nuts"
     }
   }
 }

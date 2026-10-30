@@ -140,34 +140,14 @@
   "kind": "baking"
  },
  {
-  "id": "ciabatta",
-  "name": "צ׳יאבטה",
-  "kind": "baking"
- },
- {
-  "id": "shortbread",
-  "name": "שורטברד",
-  "kind": "baking"
- },
- {
   "id": "blind-baking",
   "name": "אפייה עיוורת",
-  "kind": "baking"
- },
- {
-  "id": "egg-wash",
-  "name": "הברשת ביצה",
   "kind": "baking"
  },
  {
   "id": "kaak",
   "name": "כעכים",
   "kind": "baking"
- },
- {
-  "id": "heat-capacity",
-  "name": "קיבול חום",
-  "kind": "science"
  },
  {
   "id": "diffusion",
@@ -177,11 +157,6 @@
  {
   "id": "supercooling",
   "name": "קירור־על",
-  "kind": "science"
- },
- {
-  "id": "plant-cell-walls",
-  "name": "דפנות תאי הצמח",
   "kind": "science"
  },
  {
@@ -195,11 +170,6 @@
   "kind": "science"
  },
  {
-  "id": "freezing-point-depression",
-  "name": "הורדת נקודת הקיפאון",
-  "kind": "science"
- },
- {
   "id": "smoothies",
   "name": "שייקים",
   "kind": "drinks"
@@ -207,11 +177,6 @@
  {
   "id": "milkshakes",
   "name": "מילקשייק",
-  "kind": "drinks"
- },
- {
-  "id": "ayran",
-  "name": "איירן",
   "kind": "drinks"
  },
  {
@@ -225,24 +190,9 @@
   "kind": "drinks"
  },
  {
-  "id": "yerba-mate",
-  "name": "יֶרְבָּה מָטֶה",
-  "kind": "drinks"
- },
- {
   "id": "almond-milk",
   "name": "חלב שקדים",
   "kind": "drinks"
- },
- {
-  "id": "decaf-coffee",
-  "name": "קפה נטול קפאין",
-  "kind": "drinks"
- },
- {
-  "id": "artichokes",
-  "name": "ארטישוק",
-  "kind": "ingredients"
  },
  {
   "id": "kohlrabi",
@@ -270,16 +220,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "dried-lime",
-  "name": "לימון פרסי מיובש",
-  "kind": "ingredients"
- },
- {
-  "id": "pomegranate-molasses",
-  "name": "רכז רימונים",
-  "kind": "ingredients"
- },
- {
   "id": "chestnuts",
   "name": "ערמונים",
   "kind": "ingredients"
@@ -300,11 +240,6 @@
   "kind": "dishes"
  },
  {
-  "id": "ptitim",
-  "name": "פתיתים",
-  "kind": "dishes"
- },
- {
   "id": "potato-gratin",
   "name": "גרטן תפוחי אדמה",
   "kind": "dishes"
@@ -312,11 +247,6 @@
  {
   "id": "minestrone",
   "name": "מינסטרונה",
-  "kind": "dishes"
- },
- {
-  "id": "borscht",
-  "name": "בורשט",
   "kind": "dishes"
  },
  {
@@ -333,11 +263,6 @@
   "id": "panna-cotta",
   "name": "פנה קוטה",
   "kind": "dishes"
- },
- {
-  "id": "toasting-nuts",
-  "name": "קליית אגוזים",
-  "kind": "techniques"
  },
  {
   "id": "proofing-dough",
