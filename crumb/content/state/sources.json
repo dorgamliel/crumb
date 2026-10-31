@@ -77,7 +77,7 @@
   },
   "https://en.wikipedia.org/wiki/Brining": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-10-31"
   },
   "https://en.wikipedia.org/wiki/Falafel": {
     "ok": true,
@@ -2442,5 +2442,186 @@
   "https://en.wikipedia.org/wiki/Fregula": {
     "ok": true,
     "checkedAt": "2026-10-30"
+  },
+  "https://en.wikipedia.org/wiki/Crust_(baking)": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Fennel": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Jallab": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Rooibos": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Almond_milk": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://www.kingarthurbaking.com/blog/2017/02/28/baking-bread-with-steam": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Aroma_compound": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Odor": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://www.kingarthurbaking.com/blog/2022/02/15/golden-brown-bread-crispy-croissant-science": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Chestnut": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://he.wikipedia.org/wiki/ג'לאב": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Julep": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Chiffon_cake": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Mint_julep": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Grape_syrup": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Carob": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://www.kingarthurbaking.com/recipes/classic-chiffon-cake-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wiktionary.org/wiki/julep": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Ka%27ak": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Roasted_chestnut": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wiktionary.org/wiki/جلاب": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://he.wikipedia.org/wiki/כעך": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Jerusalem_bagel": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Goulash": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/P%C3%B6rk%C3%B6lt": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Diffusion": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Marination": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://sarooibos.co.za/": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Panna_cotta": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://sarooibos.co.za/how-to-brew-rooibos/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-31"
+  },
+  "https://extension.usu.edu/nutrition/research/tips-on-marinating-meat": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Plant_milk": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Orgeat_syrup": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Blancmange": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Oxalic_acid": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Calcium_oxalate": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Oxalate": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://he.wikipedia.org/wiki/תרד_תרבותי": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-10-31"
+  },
+  "https://he.wikipedia.org/wiki/תרד": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Volatility_(chemistry)": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Carvone": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Fick%27s_laws_of_diffusion": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Supercooling": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Nucleation": {
+    "ok": true,
+    "checkedAt": "2026-10-31"
   }
 }

@@ -125,44 +125,14 @@
   "kind": "ingredients"
  },
  {
-  "id": "bread-crust",
-  "name": "קרום הלחם",
-  "kind": "baking"
- },
- {
   "id": "cornbread",
   "name": "לחם תירס",
-  "kind": "baking"
- },
- {
-  "id": "chiffon-cake",
-  "name": "עוגת שיפון",
   "kind": "baking"
  },
  {
   "id": "blind-baking",
   "name": "אפייה עיוורת",
   "kind": "baking"
- },
- {
-  "id": "kaak",
-  "name": "כעכים",
-  "kind": "baking"
- },
- {
-  "id": "diffusion",
-  "name": "דיפוזיה במטבח",
-  "kind": "science"
- },
- {
-  "id": "supercooling",
-  "name": "קירור־על",
-  "kind": "science"
- },
- {
-  "id": "volatile-aromas",
-  "name": "ניחוחות נדיפים",
-  "kind": "science"
  },
  {
   "id": "hard-candy-glass",
@@ -180,33 +150,8 @@
   "kind": "drinks"
  },
  {
-  "id": "jallab",
-  "name": "ג׳לאב",
-  "kind": "drinks"
- },
- {
-  "id": "rooibos",
-  "name": "רויבוס",
-  "kind": "drinks"
- },
- {
-  "id": "almond-milk",
-  "name": "חלב שקדים",
-  "kind": "drinks"
- },
- {
   "id": "kohlrabi",
   "name": "קולרבי",
-  "kind": "ingredients"
- },
- {
-  "id": "spinach",
-  "name": "תרד",
-  "kind": "ingredients"
- },
- {
-  "id": "fennel",
-  "name": "שומר",
   "kind": "ingredients"
  },
  {
@@ -217,11 +162,6 @@
  {
   "id": "oats",
   "name": "שיבולת שועל",
-  "kind": "ingredients"
- },
- {
-  "id": "chestnuts",
-  "name": "ערמונים",
   "kind": "ingredients"
  },
  {
@@ -250,18 +190,8 @@
   "kind": "dishes"
  },
  {
-  "id": "goulash",
-  "name": "גולאש",
-  "kind": "dishes"
- },
- {
   "id": "quiche",
   "name": "קיש",
-  "kind": "dishes"
- },
- {
-  "id": "panna-cotta",
-  "name": "פנה קוטה",
   "kind": "dishes"
  },
  {
@@ -277,11 +207,6 @@
  {
   "id": "glazing",
   "name": "זיגוג",
-  "kind": "techniques"
- },
- {
-  "id": "bain-marie",
-  "name": "בן מארי",
   "kind": "techniques"
  },
  {
