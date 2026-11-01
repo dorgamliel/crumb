@@ -2623,5 +2623,242 @@
   "https://en.wikipedia.org/wiki/Nucleation": {
     "ok": true,
     "checkedAt": "2026-10-31"
+  },
+  "https://en.wikipedia.org/wiki/Leek": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Zucchini": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Clove": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Coconut": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Coconut_milk": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Buckwheat": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Minestrone": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Cornbread": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Ribollita": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Blind_baking": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Pie_weights": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://www.kingarthurbaking.com/blog/2018/04/13/blind-baking-pie-crust": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Parbaking": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://he.wikipedia.org/wiki/כוסמת": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://he.wikipedia.org/wiki/כרישה": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://he.wikipedia.org/wiki/ציפורן_(תבלין)": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://he.wikipedia.org/wiki/קישוא": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Cucurbita_pepo": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://www.kingarthurbaking.com/blog/2023/09/12/how-to-blind-bake-pie-crust": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Hard_candy": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Sugar_glass": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Amorphous_solid": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Smoothie": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Milkshake": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Pie": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Blind_Baking": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Quiche": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Cream_pie": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Fondant_icing": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Glazing_(cooking)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Gratin_dauphinois": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Royal_icing": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Gratin": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Soffritto": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Pastry_bag": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Cornmeal": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Glacé_icing": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Meat_glaze": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Demi-glace": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Cream": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Carottes_Vichy": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Mirror_glaze": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Buttercream": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Glazed_carrots": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Scalloped_potatoes": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Blind-baking": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Repulgue": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Empanada_gallega": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Pasta_e_fagioli": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Mirepoix": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Potato_starch": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Cake_decorating": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://www.kingarthurbaking.com/blog/2018/03/29/piping-tips": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://www.wilton.com/how-to-use-a-piping-bag/WLPROJ-8532.html": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
+  },
+  "https://he.wikipedia.org/wiki/מינסטרונה": {
+    "ok": true,
+    "checkedAt": "2026-11-01"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/04/20/how-to-use-a-piping-bag": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-01"
   }
 }

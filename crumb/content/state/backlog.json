@@ -5,16 +5,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "leeks",
-  "name": "כרישה",
-  "kind": "ingredients"
- },
- {
-  "id": "zucchini",
-  "name": "קישוא",
-  "kind": "ingredients"
- },
- {
   "id": "bell-peppers",
   "name": "פלפלים",
   "kind": "ingredients"
@@ -27,11 +17,6 @@
  {
   "id": "anchovies",
   "name": "אנשובי",
-  "kind": "ingredients"
- },
- {
-  "id": "cloves",
-  "name": "ציפורן",
   "kind": "ingredients"
  },
  {
@@ -105,16 +90,6 @@
   "kind": "techniques"
  },
  {
-  "id": "empanadas",
-  "name": "אמפנדס",
-  "kind": "dishes"
- },
- {
-  "id": "buckwheat",
-  "name": "כוסמת",
-  "kind": "ingredients"
- },
- {
   "id": "mustard",
   "name": "חרדל",
   "kind": "ingredients"
@@ -123,31 +98,6 @@
   "id": "preserved-lemons",
   "name": "לימון כבוש",
   "kind": "ingredients"
- },
- {
-  "id": "cornbread",
-  "name": "לחם תירס",
-  "kind": "baking"
- },
- {
-  "id": "blind-baking",
-  "name": "אפייה עיוורת",
-  "kind": "baking"
- },
- {
-  "id": "hard-candy-glass",
-  "name": "סוכריות קשות",
-  "kind": "science"
- },
- {
-  "id": "smoothies",
-  "name": "שייקים",
-  "kind": "drinks"
- },
- {
-  "id": "milkshakes",
-  "name": "מילקשייק",
-  "kind": "drinks"
  },
  {
   "id": "kohlrabi",
@@ -165,11 +115,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "coconut",
-  "name": "קוקוס",
-  "kind": "ingredients"
- },
- {
   "id": "kofta",
   "name": "קציצות קבב",
   "kind": "dishes"
@@ -180,16 +125,6 @@
   "kind": "dishes"
  },
  {
-  "id": "potato-gratin",
-  "name": "גרטן תפוחי אדמה",
-  "kind": "dishes"
- },
- {
-  "id": "minestrone",
-  "name": "מינסטרונה",
-  "kind": "dishes"
- },
- {
   "id": "quiche",
   "name": "קיש",
   "kind": "dishes"
@@ -197,16 +132,6 @@
  {
   "id": "proofing-dough",
   "name": "התפחת בצק",
-  "kind": "techniques"
- },
- {
-  "id": "piping",
-  "name": "זילוף",
-  "kind": "techniques"
- },
- {
-  "id": "glazing",
-  "name": "זיגוג",
   "kind": "techniques"
  },
  {
