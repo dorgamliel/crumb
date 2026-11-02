@@ -13,7 +13,7 @@
   },
   "https://en.wikipedia.org/wiki/Pita": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-11-02"
   },
   "https://en.wikipedia.org/wiki/Sodium_bicarbonate": {
     "ok": true,
@@ -2860,5 +2860,153 @@
     "ok": false,
     "status": 404,
     "checkedAt": "2026-11-01"
+  },
+  "https://en.wikipedia.org/wiki/Asparagus": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Carrot_cake": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Olive_oil_cake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Pavlova_(cake)": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Popover": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Yorkshire_pudding": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Steam": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Cappuccino": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Oolong": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Tea_processing": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Coconut_water": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Radish": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Asparagusic_acid": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://he.wikipedia.org/wiki/אספרגוס_רפואי": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-02"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/03/12/olive-oil-cake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Cake": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://he.wikipedia.org/wiki/אספרגוס": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Asparagine": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://www.kingarthurbaking.com/recipes/olive-oil-cake-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-02"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/05/11/baking-with-olive-oil": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-02"
+  },
+  "https://it.wikipedia.org/wiki/Torta_all%27olio": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Pumpkin": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Winter_squash": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://www.iranicaonline.org/articles/fesanjan": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Khoresh": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Ful_medames": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Vicia_faba": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Torta_de_aceite": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Tortas_de_aceite": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Olive_oil_cakes": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Tannin": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Astringent": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Persimmon": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Capillary_action": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Dunking_(biscuit)": {
+    "ok": true,
+    "checkedAt": "2026-11-02"
   }
 }

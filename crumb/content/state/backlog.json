@@ -148,5 +148,225 @@
   "id": "rolling-dough",
   "name": "רידוד בצק",
   "kind": "techniques"
+ },
+ {
+  "id": "apple-strudel",
+  "name": "שטרודל תפוחים",
+  "kind": "baking"
+ },
+ {
+  "id": "honey-cake",
+  "name": "עוגת דבש",
+  "kind": "baking"
+ },
+ {
+  "id": "baguette",
+  "name": "באגט",
+  "kind": "baking"
+ },
+ {
+  "id": "basbousa",
+  "name": "בסבוסה",
+  "kind": "baking"
+ },
+ {
+  "id": "kugelhopf",
+  "name": "גוגלהופף",
+  "kind": "baking"
+ },
+ {
+  "id": "bread-pudding",
+  "name": "פודינג לחם",
+  "kind": "baking"
+ },
+ {
+  "id": "chocolate-chip-cookies",
+  "name": "עוגיות שוקולד צ׳יפס",
+  "kind": "baking"
+ },
+ {
+  "id": "rancidity",
+  "name": "ריח של שמן ישן",
+  "kind": "science"
+ },
+ {
+  "id": "convection",
+  "name": "הסעת חום",
+  "kind": "science"
+ },
+ {
+  "id": "induction-cooking",
+  "name": "בישול באינדוקציה",
+  "kind": "science"
+ },
+ {
+  "id": "microwave-cooking",
+  "name": "בישול במיקרוגל",
+  "kind": "science"
+ },
+ {
+  "id": "temperature-and-taste",
+  "name": "טמפרטורה וטעם",
+  "kind": "science"
+ },
+ {
+  "id": "ice-crystals",
+  "name": "גבישי קרח",
+  "kind": "science"
+ },
+ {
+  "id": "flavor-pairing",
+  "name": "צימודי טעמים",
+  "kind": "science"
+ },
+ {
+  "id": "affogato",
+  "name": "אפוגטו",
+  "kind": "drinks"
+ },
+ {
+  "id": "earl-grey",
+  "name": "ארל גריי",
+  "kind": "drinks"
+ },
+ {
+  "id": "white-tea",
+  "name": "תה לבן",
+  "kind": "drinks"
+ },
+ {
+  "id": "chicory-coffee",
+  "name": "קפה עולשין",
+  "kind": "drinks"
+ },
+ {
+  "id": "french-press",
+  "name": "פרנץ׳ פרס",
+  "kind": "drinks"
+ },
+ {
+  "id": "aeropress",
+  "name": "אירופרס",
+  "kind": "drinks"
+ },
+ {
+  "id": "egg-cream",
+  "name": "אג קרים",
+  "kind": "drinks"
+ },
+ {
+  "id": "celery",
+  "name": "סלרי",
+  "kind": "ingredients"
+ },
+ {
+  "id": "broccoli",
+  "name": "ברוקולי",
+  "kind": "ingredients"
+ },
+ {
+  "id": "apricots",
+  "name": "משמש",
+  "kind": "ingredients"
+ },
+ {
+  "id": "apples",
+  "name": "תפוחים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cornstarch",
+  "name": "קורנפלור",
+  "kind": "ingredients"
+ },
+ {
+  "id": "tapioca",
+  "name": "טפיוקה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "agar",
+  "name": "אגר־אגר",
+  "kind": "ingredients"
+ },
+ {
+  "id": "sambusak",
+  "name": "סמבוסק",
+  "kind": "dishes"
+ },
+ {
+  "id": "gefilte-fish",
+  "name": "גפילטע פיש",
+  "kind": "dishes"
+ },
+ {
+  "id": "tagine",
+  "name": "טאג׳ין",
+  "kind": "dishes"
+ },
+ {
+  "id": "bibimbap",
+  "name": "ביבימבאפ",
+  "kind": "dishes"
+ },
+ {
+  "id": "chili-con-carne",
+  "name": "צ׳ילי קון קרנה",
+  "kind": "dishes"
+ },
+ {
+  "id": "lentil-soup",
+  "name": "מרק עדשים",
+  "kind": "dishes"
+ },
+ {
+  "id": "pierogi",
+  "name": "פירוגי",
+  "kind": "dishes"
+ },
+ {
+  "id": "mansaf",
+  "name": "מנסף",
+  "kind": "dishes"
+ },
+ {
+  "id": "basting",
+  "name": "הזלפה",
+  "kind": "techniques"
+ },
+ {
+  "id": "whisking",
+  "name": "הקצפה במטרפה",
+  "kind": "techniques"
+ },
+ {
+  "id": "straining",
+  "name": "סינון",
+  "kind": "techniques"
+ },
+ {
+  "id": "skimming",
+  "name": "קיפוי",
+  "kind": "techniques"
+ },
+ {
+  "id": "tempering-eggs",
+  "name": "השוואת טמפרטורה לביצים",
+  "kind": "techniques"
+ },
+ {
+  "id": "dredging",
+  "name": "ציפוי בקמח",
+  "kind": "techniques"
+ },
+ {
+  "id": "salting-eggplant",
+  "name": "המלחת חציל",
+  "kind": "techniques"
+ },
+ {
+  "id": "oven-rack-position",
+  "name": "מיקום התבנית בתנור",
+  "kind": "techniques"
  }
 ]
