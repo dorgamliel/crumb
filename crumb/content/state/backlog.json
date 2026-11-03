@@ -155,21 +155,6 @@
   "kind": "baking"
  },
  {
-  "id": "honey-cake",
-  "name": "עוגת דבש",
-  "kind": "baking"
- },
- {
-  "id": "baguette",
-  "name": "באגט",
-  "kind": "baking"
- },
- {
-  "id": "basbousa",
-  "name": "בסבוסה",
-  "kind": "baking"
- },
- {
   "id": "kugelhopf",
   "name": "גוגלהופף",
   "kind": "baking"
@@ -190,11 +175,6 @@
   "kind": "science"
  },
  {
-  "id": "convection",
-  "name": "הסעת חום",
-  "kind": "science"
- },
- {
   "id": "induction-cooking",
   "name": "בישול באינדוקציה",
   "kind": "science"
@@ -202,16 +182,6 @@
  {
   "id": "microwave-cooking",
   "name": "בישול במיקרוגל",
-  "kind": "science"
- },
- {
-  "id": "temperature-and-taste",
-  "name": "טמפרטורה וטעם",
-  "kind": "science"
- },
- {
-  "id": "ice-crystals",
-  "name": "גבישי קרח",
   "kind": "science"
  },
  {
@@ -225,23 +195,8 @@
   "kind": "drinks"
  },
  {
-  "id": "earl-grey",
-  "name": "ארל גריי",
-  "kind": "drinks"
- },
- {
   "id": "white-tea",
   "name": "תה לבן",
-  "kind": "drinks"
- },
- {
-  "id": "chicory-coffee",
-  "name": "קפה עולשין",
-  "kind": "drinks"
- },
- {
-  "id": "french-press",
-  "name": "פרנץ׳ פרס",
   "kind": "drinks"
  },
  {
@@ -260,16 +215,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "broccoli",
-  "name": "ברוקולי",
-  "kind": "ingredients"
- },
- {
-  "id": "apricots",
-  "name": "משמש",
-  "kind": "ingredients"
- },
- {
   "id": "apples",
   "name": "תפוחים",
   "kind": "ingredients"
@@ -285,11 +230,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "agar",
-  "name": "אגר־אגר",
-  "kind": "ingredients"
- },
- {
   "id": "sambusak",
   "name": "סמבוסק",
   "kind": "dishes"
@@ -300,11 +240,6 @@
   "kind": "dishes"
  },
  {
-  "id": "tagine",
-  "name": "טאג׳ין",
-  "kind": "dishes"
- },
- {
   "id": "bibimbap",
   "name": "ביבימבאפ",
   "kind": "dishes"
@@ -312,11 +247,6 @@
  {
   "id": "chili-con-carne",
   "name": "צ׳ילי קון קרנה",
-  "kind": "dishes"
- },
- {
-  "id": "lentil-soup",
-  "name": "מרק עדשים",
   "kind": "dishes"
  },
  {
@@ -332,11 +262,6 @@
  {
   "id": "basting",
   "name": "הזלפה",
-  "kind": "techniques"
- },
- {
-  "id": "whisking",
-  "name": "הקצפה במטרפה",
   "kind": "techniques"
  },
  {

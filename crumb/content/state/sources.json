@@ -3008,5 +3008,138 @@
   "https://en.wikipedia.org/wiki/Dunking_(biscuit)": {
     "ok": true,
     "checkedAt": "2026-11-02"
+  },
+  "https://en.wikipedia.org/wiki/Apricot": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Honey_cake": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Dried_apricot": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Qamar_al-Din": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Lekach": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Thermal_taste": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Serving_temperature": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Wine_tasting": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/09/15/honey-cake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Tajine": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/TRPM8": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Beer": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Tunisian_tajine": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Basbousa": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Tunisian_tagine": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Earl_Grey_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Lentil_soup": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Bergamot_orange": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Revani": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/French_press": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Ezogelin_soup": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Whisk": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Chicory": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Coffee_substitute": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Indian_filter_coffee": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Broccolini": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://www.themediterraneandish.com/basbousa-recipe/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Convection": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Ice_crystal": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Ice": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Ostwald_ripening": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
+  },
+  "https://www.196flavors.com/basbousa/": {
+    "ok": true,
+    "checkedAt": "2026-11-03"
   }
 }
