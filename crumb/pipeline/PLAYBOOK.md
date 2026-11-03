@@ -47,8 +47,11 @@ If a writer fails or times out, continue with whatever topics exist.
 
 ## 3. Photos
 
-For each new topic, and then for up to 10 older topics listed by
-`node scripts/content/image.mjs pending`:
+For each new topic, and then for up to 30 older topics listed by
+`node scripts/content/image.mjs pending` (every topic without a photo shows less often, so
+clearing this list matters). The search tries Openverse first and fills from Wikimedia Commons
+when Openverse is throttled or has too few results; a query that found nothing is retried on
+the next run. Search in specific English words (e.g. "broccoli head", not the Hebrew name):
 
 ```sh
 node scripts/content/image.mjs search "<specific english query>"
