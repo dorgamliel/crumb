@@ -3141,5 +3141,143 @@
   "https://www.196flavors.com/basbousa/": {
     "ok": true,
     "checkedAt": "2026-11-03"
+  },
+  "https://en.wikipedia.org/wiki/Food_pairing": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Apple_strudel": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Apple": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Ingredient-flavor_network": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Bread_pudding": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://flavourjournal.biomedcentral.com/articles/10.1186/s13411-017-0053-0": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Cooking_apple": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Bread_and_butter_pudding": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Bramley_apple": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Ethylene_as_a_plant_hormone": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Affogato": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://it.wikipedia.org/wiki/Affogato": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Corn_starch": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Gelato": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Sambusak": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Samosa": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%9E%D7%91%D7%95%D7%A1%D7%A7": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/White_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Bibimbap": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Baihao_Yinzhen": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Nurungji": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Namul": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/AeroPress": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Celery": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Strainer": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Chinois": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Cheesecloth": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://www.kingarthurbaking.com/blog/2019/03/05/bread-pudding": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Hexanal": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Oobleck": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Cornflour_slime": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Whole-wheat_flour": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Linseed_oil": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Microwave_oven": {
+    "ok": true,
+    "checkedAt": "2026-11-04"
   }
 }
