@@ -3279,5 +3279,180 @@
   "https://en.wikipedia.org/wiki/Microwave_oven": {
     "ok": true,
     "checkedAt": "2026-11-04"
+  },
+  "https://en.wikipedia.org/wiki/Lemon_tart": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/%C3%89clair": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Panettone": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Chocolate_bloom": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Bay_leaf": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Fruit_curd": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Turkish_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Rize_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Flat_white": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Casein": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Whey_protein": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Milk": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Frappé_coffee": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Processed_cheese": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Melting_cheese": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Casein_micelle": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Bell_pepper": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Capsicum": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Capsicum_annuum": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Whey": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Ricotta": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Paneer": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Fondue": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/2-Isobutyl-3-methoxypyrazine": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://nchfp.uga.edu/how/can_04/peppers.html": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://he.wikipedia.org/wiki/דפנה_אצילית": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Laurus_nobilis": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Oat": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Rolled_oats": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Oatmeal": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Oat_beta-glucan": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Pierogi": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Kofta": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Lecso": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Meatball": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Myosin": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Sausage_making": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Sausage": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Ground_meat": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://he.wikipedia.org/wiki/קבב": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Grater": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Oroshigane": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Wasabi": {
+    "ok": true,
+    "checkedAt": "2026-11-05"
   }
 }

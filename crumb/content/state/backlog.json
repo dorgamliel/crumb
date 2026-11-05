@@ -5,11 +5,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "bell-peppers",
-  "name": "פלפלים",
-  "kind": "ingredients"
- },
- {
   "id": "cream",
   "name": "שמנת",
   "kind": "ingredients"
@@ -17,11 +12,6 @@
  {
   "id": "anchovies",
   "name": "אנשובי",
-  "kind": "ingredients"
- },
- {
-  "id": "bay-leaves",
-  "name": "עלי דפנה",
   "kind": "ingredients"
  },
  {
@@ -110,16 +100,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "oats",
-  "name": "שיבולת שועל",
-  "kind": "ingredients"
- },
- {
-  "id": "kofta",
-  "name": "קציצות קבב",
-  "kind": "dishes"
- },
- {
   "id": "musakhan",
   "name": "מוסח׳ן",
   "kind": "dishes"
@@ -137,11 +117,6 @@
  {
   "id": "en-papillote",
   "name": "בישול בשקית נייר",
-  "kind": "techniques"
- },
- {
-  "id": "grating",
-  "name": "פומפייה",
   "kind": "techniques"
  },
  {
@@ -180,11 +155,6 @@
   "kind": "dishes"
  },
  {
-  "id": "pierogi",
-  "name": "פירוגי",
-  "kind": "dishes"
- },
- {
   "id": "mansaf",
   "name": "מנסף",
   "kind": "dishes"
@@ -218,5 +188,110 @@
   "id": "oven-rack-position",
   "name": "מיקום התבנית בתנור",
   "kind": "techniques"
+ },
+ {
+  "id": "apple-pie",
+  "name": "פאי תפוחים",
+  "kind": "baking"
+ },
+ {
+  "id": "danish-pastry",
+  "name": "מאפה דני",
+  "kind": "baking"
+ },
+ {
+  "id": "cannoli",
+  "name": "קנולי",
+  "kind": "baking"
+ },
+ {
+  "id": "linzer-cookies",
+  "name": "עוגיות לינצר",
+  "kind": "baking"
+ },
+ {
+  "id": "frangipane",
+  "name": "קרם שקדים",
+  "kind": "baking"
+ },
+ {
+  "id": "angel-food-cake",
+  "name": "עוגת מלאכים",
+  "kind": "baking"
+ },
+ {
+  "id": "oatmeal-cookies",
+  "name": "עוגיות שיבולת שועל",
+  "kind": "baking"
+ },
+ {
+  "id": "invert-sugar",
+  "name": "סוכר אינוורטי",
+  "kind": "science"
+ },
+ {
+  "id": "humidity-and-baking",
+  "name": "לחות ואפייה",
+  "kind": "science"
+ },
+ {
+  "id": "lactose",
+  "name": "לקטוז",
+  "kind": "science"
+ },
+ {
+  "id": "acid-and-vegetables",
+  "name": "חומצה וירקות",
+  "kind": "science"
+ },
+ {
+  "id": "dough-temperature",
+  "name": "טמפרטורת הבצק",
+  "kind": "science"
+ },
+ {
+  "id": "ethylene-ripening",
+  "name": "הבשלה באתילן",
+  "kind": "science"
+ },
+ {
+  "id": "salt-in-baking",
+  "name": "מלח באפייה",
+  "kind": "science"
+ },
+ {
+  "id": "barley-tea",
+  "name": "תה שעורה",
+  "kind": "drinks"
+ },
+ {
+  "id": "genmaicha",
+  "name": "גנמאיצ׳ה",
+  "kind": "drinks"
+ },
+ {
+  "id": "cortado",
+  "name": "קורטדו",
+  "kind": "drinks"
+ },
+ {
+  "id": "sharbat",
+  "name": "שרבת",
+  "kind": "drinks"
+ },
+ {
+  "id": "ginger-tea",
+  "name": "תה ג׳ינג׳ר",
+  "kind": "drinks"
+ },
+ {
+  "id": "cascara",
+  "name": "קסקרה",
+  "kind": "drinks"
+ },
+ {
+  "id": "cafe-au-lait",
+  "name": "קפה או לה",
+  "kind": "drinks"
  }
 ]
