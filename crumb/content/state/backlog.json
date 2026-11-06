@@ -1,10 +1,5 @@
 [
  {
-  "id": "quinoa",
-  "name": "קינואה",
-  "kind": "ingredients"
- },
- {
   "id": "cream",
   "name": "שמנת",
   "kind": "ingredients"
@@ -90,26 +85,6 @@
   "kind": "ingredients"
  },
  {
-  "id": "kohlrabi",
-  "name": "קולרבי",
-  "kind": "ingredients"
- },
- {
-  "id": "barley",
-  "name": "גרעיני שעורה",
-  "kind": "ingredients"
- },
- {
-  "id": "musakhan",
-  "name": "מוסח׳ן",
-  "kind": "dishes"
- },
- {
-  "id": "quiche",
-  "name": "קיש",
-  "kind": "dishes"
- },
- {
   "id": "proofing-dough",
   "name": "התפחת בצק",
   "kind": "techniques"
@@ -117,11 +92,6 @@
  {
   "id": "en-papillote",
   "name": "בישול בשקית נייר",
-  "kind": "techniques"
- },
- {
-  "id": "rolling-dough",
-  "name": "רידוד בצק",
   "kind": "techniques"
  },
  {
@@ -190,23 +160,8 @@
   "kind": "techniques"
  },
  {
-  "id": "apple-pie",
-  "name": "פאי תפוחים",
-  "kind": "baking"
- },
- {
   "id": "danish-pastry",
   "name": "מאפה דני",
-  "kind": "baking"
- },
- {
-  "id": "cannoli",
-  "name": "קנולי",
-  "kind": "baking"
- },
- {
-  "id": "linzer-cookies",
-  "name": "עוגיות לינצר",
   "kind": "baking"
  },
  {
@@ -223,11 +178,6 @@
   "id": "oatmeal-cookies",
   "name": "עוגיות שיבולת שועל",
   "kind": "baking"
- },
- {
-  "id": "invert-sugar",
-  "name": "סוכר אינוורטי",
-  "kind": "science"
  },
  {
   "id": "humidity-and-baking",
@@ -250,33 +200,8 @@
   "kind": "science"
  },
  {
-  "id": "ethylene-ripening",
-  "name": "הבשלה באתילן",
-  "kind": "science"
- },
- {
-  "id": "salt-in-baking",
-  "name": "מלח באפייה",
-  "kind": "science"
- },
- {
   "id": "barley-tea",
   "name": "תה שעורה",
-  "kind": "drinks"
- },
- {
-  "id": "genmaicha",
-  "name": "גנמאיצ׳ה",
-  "kind": "drinks"
- },
- {
-  "id": "cortado",
-  "name": "קורטדו",
-  "kind": "drinks"
- },
- {
-  "id": "sharbat",
-  "name": "שרבת",
   "kind": "drinks"
  },
  {

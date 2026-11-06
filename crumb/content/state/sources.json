@@ -777,7 +777,7 @@
   "https://en.wikipedia.org/wiki/Docking_(dough)": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-06"
   },
   "https://en.wikipedia.org/wiki/Olive": {
     "ok": true,
@@ -3454,5 +3454,157 @@
   "https://en.wikipedia.org/wiki/Wasabi": {
     "ok": true,
     "checkedAt": "2026-11-05"
+  },
+  "https://en.wikipedia.org/wiki/Kohlrabi": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Quinoa": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Apple_pie": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Genmaicha": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Cortado": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Saponin": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Sharbat_(drink)": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Barley": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Baker_percentage": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Tuscan_bread": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Roasted_grain_drink": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Bancha": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://extension.illinois.edu/blogs/simply-nutritious-quick-and-delicious/2019-03-04-quinoa": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Pectin_methylesterase": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Cannoli": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://it.wikipedia.org/wiki/Cannolo_siciliano": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Linzer_torte": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://de.wikipedia.org/wiki/Linzer_Torte": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://de.wikipedia.org/wiki/Linzer_Augen": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Invertase": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Golden_syrup": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Musakhan": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Climacteric_(botany)": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Taboon_bread": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Ripening": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Rolling_pin": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://www.canr.msu.edu/news/all-fruit-and-vegetables-are-not-created-equal-when-it-comes-to-proper-storage-conditions": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://www.kingarthurbaking.com/blog/2018/11/20/how-to-roll-out-pie-crust": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-06"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/11/04/how-to-roll-pie-crust": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-06"
+  },
+  "https://www.kingarthurbaking.com/blog/2019/11/19/pie-crust-tips": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-06"
+  },
+  "https://www.kingarthurbaking.com/blog/2016/11/23/rolling-pie-crust": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-06"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/11/16/pie-crust-shrinking": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Dough_sheeter": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-06"
+  },
+  "https://he.wikipedia.org/wiki/קינואה": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Gluten": {
+    "ok": true,
+    "checkedAt": "2026-11-06"
+  },
+  "https://wholegrainscouncil.org/whole-grains-101/easy-ways-enjoy-whole-grains/grain-month-calendar/quinoa-may-grain-month": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-06"
   }
 }
