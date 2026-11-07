@@ -41,7 +41,7 @@
   },
   "https://en.wikipedia.org/wiki/Pretzel": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-11-07"
   },
   "https://en.wikipedia.org/wiki/Chickpea": {
     "ok": true,
@@ -1054,7 +1054,7 @@
   "https://www.compoundchem.com/2014/10/16/vegetablecolours/": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-07"
   },
   "https://en.wikipedia.org/wiki/Polenta": {
     "ok": true,
@@ -1087,12 +1087,12 @@
   "https://www.scienceofcooking.com/vegetables_cooking_science.htm": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-07"
   },
   "https://www.scienceofcooking.com/chemistry/vegetable_color.htm": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-07"
   },
   "https://en.wikipedia.org/wiki/Cauliflower": {
     "ok": true,
@@ -3606,5 +3606,364 @@
     "ok": false,
     "status": 404,
     "checkedAt": "2026-11-06"
+  },
+  "https://en.wikipedia.org/wiki/Watermelon": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Danish_pastry": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Knafeh": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Anthoxanthin": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Nabulsi_cheese": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Kadayıf": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Bean": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%98%D7%99%D7%97": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://extension.umn.edu/vegetables/growing-melons": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Boiling_(cooking)": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Hemicellulose": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://extension.umn.edu/vegetables/growing-melons-and-watermelons": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/בייגלה": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.watermelon.org/selecting-storing/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://hgic.clemson.edu/factsheet/watermelon/": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://extension.usu.edu/yardandgarden/research/when-to-harvest-watermelon": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Lye_roll": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Yolk": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Boiled_egg": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Lahmajun": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Fried_rice": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Haugh_unit": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Egg_as_food": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Briouat": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%92%D7%A8_(%D7%9E%D7%90%D7%9B%D7%9C)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Warqa": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%92%D7%A8_%D7%9E%D7%A8%D7%95%D7%A7%D7%90%D7%99": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%92%D7%A8%D7%99%D7%9D_%D7%9E%D7%A8%D7%95%D7%A7%D7%90%D7%99%D7%9D": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%95%D7%95%D7%90%D7%98": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%92%D7%A8%D7%99%D7%9D_(%D7%9E%D7%90%D7%9B%D7%9C)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%95%D7%90%D7%98": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Israeli_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Moroccan_Jewish_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/blog/2023/04/14/how-to-measure-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/learn/guides/how-to-measure-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/blog/2023/10/06/how-to-measure-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/blog/2015/11/30/flour-weight-volume": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/learn/ingredient-weight-chart": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Cooking_weights_and_measures": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://extension.umn.edu/nutrition-and-healthy-eating/measuring-ingredients": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Flavones": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Mushy_peas": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Middle_lamella": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/03/30/how-to-measure-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/pro/reference/measuring-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/learn/guides/measuring": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/blog/2022/03/03/how-to-measure-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://extension.oregonstate.edu/food/preservation/how-measure-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/learn/resources/how-to-measure-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/learn/resources/measuring": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/blog/2016/05/04/measuring-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/blog/2018/04/16/measuring-flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.kingarthurbaking.com/learn/guides/flour": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Kitchen_scale": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Hōjicha": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Kukicha": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Aloysia": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://he.wikipedia.org/wiki/לואיזה_לימונית": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Gram_flour": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Burmese_tofu": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Farinata": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Chocolate_milk": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Carrageenan": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://foodcrumbles.com/science-chocolate-milk-prevent-sedimentation/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://www.americastestkitchen.com/articles/4374-why-you-should-add-acid-to-your-vegetables": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://foodcrumbles.com/chocolate-milk-sedimentation-science/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Sedimentation": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Stokes%27_law": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Kaday%C4%B1f": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/?term=pectin+beta-elimination+pH+vegetable+texture+cooking": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Baked_beans": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Refried_beans": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Potato_salad": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Pinto_bean": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Kidney_bean": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Chili_con_carne": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Pickling": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Navy_bean": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Dal": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Chana_masala": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Cassoulet": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Sauerkraut": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Pickled_onion": {
+    "ok": true,
+    "checkedAt": "2026-11-07"
   }
 }

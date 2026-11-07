@@ -160,11 +160,6 @@
   "kind": "techniques"
  },
  {
-  "id": "danish-pastry",
-  "name": "מאפה דני",
-  "kind": "baking"
- },
- {
   "id": "frangipane",
   "name": "קרם שקדים",
   "kind": "baking"
@@ -187,11 +182,6 @@
  {
   "id": "lactose",
   "name": "לקטוז",
-  "kind": "science"
- },
- {
-  "id": "acid-and-vegetables",
-  "name": "חומצה וירקות",
   "kind": "science"
  },
  {
@@ -218,5 +208,60 @@
   "id": "cafe-au-lait",
   "name": "קפה או לה",
   "kind": "drinks"
+ },
+ {
+  "id": "english-muffins",
+  "name": "מאפינס אנגליים",
+  "kind": "baking"
+ },
+ {
+  "id": "mille-feuille",
+  "name": "מילפיי",
+  "kind": "baking"
+ },
+ {
+  "id": "sugar-in-dough",
+  "name": "סוכר בבצק",
+  "kind": "science"
+ },
+ {
+  "id": "fat-in-dough",
+  "name": "שומן בבצק",
+  "kind": "science"
+ },
+ {
+  "id": "glass-transition",
+  "name": "מעבר זגוגי",
+  "kind": "science"
+ },
+ {
+  "id": "mulled-wine-spices",
+  "name": "תבלינים לחליטה חמה",
+  "kind": "drinks"
+ },
+ {
+  "id": "date-paste",
+  "name": "ממרח תמרים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "pistachio-paste",
+  "name": "ממרח פיסטוקים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "peeling-garlic",
+  "name": "קילוף שום",
+  "kind": "techniques"
+ },
+ {
+  "id": "chiffonade",
+  "name": "חיתוך צ׳יפונד",
+  "kind": "techniques"
+ },
+ {
+  "id": "sfenj",
+  "name": "ספינג׳",
+  "kind": "dishes"
  }
 ]

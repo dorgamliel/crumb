@@ -15,5 +15,13 @@
       "The Cumin source only lists substituted (methoxy/ethoxy) pyrazines among aroma compounds of toasted cumin; it does not say they are formed by toasting, absent from raw cumin, or roast and nutty smelling. These alkoxypyrazines are typically natural green and earthy compounds. The dek, paragraph 2, a fact, the quiz answer and the cumin relation all rest on this claim, so fixing it would mean a rewrite.",
       "Garam masala being toasted before grinding, and briefly toasting already-ground blends, are not in any listed source (Tempering page mentions only dry-roasting whole spices)."
     ]
+  },
+  "kanafeh": {
+    "date": "2026-11-07",
+    "name": "כנאפה",
+    "reasons": [
+      "Headline, dek and a fact present 'no cheese kanafeh before the 19th century' as settled fact, but the cited Wikipedia page says the 13th-century Maghreb-Andalus cookbook has knafeh recipes layered with fresh cheese; the claim is only Mary Isin's view and the whole angle would need rewriting.",
+      "Body juxtaposes the 13th-century pancake with Isin's claim without mentioning the cheese layering, which misleads."
+    ]
   }
 }
