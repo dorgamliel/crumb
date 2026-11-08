@@ -75,11 +75,6 @@
   "kind": "techniques"
  },
  {
-  "id": "mustard",
-  "name": "חרדל",
-  "kind": "ingredients"
- },
- {
   "id": "preserved-lemons",
   "name": "לימון כבוש",
   "kind": "ingredients"
@@ -110,18 +105,8 @@
   "kind": "drinks"
  },
  {
-  "id": "tapioca",
-  "name": "טפיוקה",
-  "kind": "ingredients"
- },
- {
   "id": "gefilte-fish",
   "name": "גפילטע פיש",
-  "kind": "dishes"
- },
- {
-  "id": "chili-con-carne",
-  "name": "צ׳ילי קון קרנה",
   "kind": "dishes"
  },
  {
@@ -150,11 +135,6 @@
   "kind": "techniques"
  },
  {
-  "id": "salting-eggplant",
-  "name": "המלחת חציל",
-  "kind": "techniques"
- },
- {
   "id": "oven-rack-position",
   "name": "מיקום התבנית בתנור",
   "kind": "techniques"
@@ -162,11 +142,6 @@
  {
   "id": "frangipane",
   "name": "קרם שקדים",
-  "kind": "baking"
- },
- {
-  "id": "angel-food-cake",
-  "name": "עוגת מלאכים",
   "kind": "baking"
  },
  {
@@ -180,44 +155,9 @@
   "kind": "science"
  },
  {
-  "id": "lactose",
-  "name": "לקטוז",
-  "kind": "science"
- },
- {
-  "id": "dough-temperature",
-  "name": "טמפרטורת הבצק",
-  "kind": "science"
- },
- {
   "id": "barley-tea",
   "name": "תה שעורה",
   "kind": "drinks"
- },
- {
-  "id": "ginger-tea",
-  "name": "תה ג׳ינג׳ר",
-  "kind": "drinks"
- },
- {
-  "id": "cascara",
-  "name": "קסקרה",
-  "kind": "drinks"
- },
- {
-  "id": "cafe-au-lait",
-  "name": "קפה או לה",
-  "kind": "drinks"
- },
- {
-  "id": "english-muffins",
-  "name": "מאפינס אנגליים",
-  "kind": "baking"
- },
- {
-  "id": "mille-feuille",
-  "name": "מילפיי",
-  "kind": "baking"
  },
  {
   "id": "sugar-in-dough",
@@ -243,25 +183,5 @@
   "id": "date-paste",
   "name": "ממרח תמרים",
   "kind": "ingredients"
- },
- {
-  "id": "pistachio-paste",
-  "name": "ממרח פיסטוקים",
-  "kind": "ingredients"
- },
- {
-  "id": "peeling-garlic",
-  "name": "קילוף שום",
-  "kind": "techniques"
- },
- {
-  "id": "chiffonade",
-  "name": "חיתוך צ׳יפונד",
-  "kind": "techniques"
- },
- {
-  "id": "sfenj",
-  "name": "ספינג׳",
-  "kind": "dishes"
  }
 ]

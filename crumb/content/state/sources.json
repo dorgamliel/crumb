@@ -1,7 +1,7 @@
 {
   "https://en.wikipedia.org/wiki/Garlic": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-11-08"
   },
   "https://en.wikipedia.org/wiki/Brioche": {
     "ok": true,
@@ -1087,7 +1087,7 @@
   "https://www.scienceofcooking.com/vegetables_cooking_science.htm": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-08"
   },
   "https://www.scienceofcooking.com/chemistry/vegetable_color.htm": {
     "ok": false,
@@ -3965,5 +3965,242 @@
   "https://en.wikipedia.org/wiki/Pickled_onion": {
     "ok": true,
     "checkedAt": "2026-11-07"
+  },
+  "https://en.wikipedia.org/wiki/Ginger_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Sfenj": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Caf%C3%A9_au_lait": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Chili_powder": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Pistachio_paste": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/English_muffin": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Nut_butter": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Mille-feuille": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Scalded_milk": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Dubai_chocolate": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/White_coffee": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://fr.wikipedia.org/wiki/Mille-feuille": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Peanut_butter": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Almond_paste": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Cascara_(beverage)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Lactose": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Bronte_pistachio": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Coffee_cherry_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Qishr": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Pistacchio_verde_di_Bronte": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Pistachio_ice_cream": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Dulce_de_leche": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Reducing_sugar": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Bronte,_Sicily": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Coffee_bean": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Milk_bread": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Mustard_(condiment)": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.kingarthurbaking.com/blog/2024/02/06/desired-dough-temperature": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Tapioca": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.kingarthurbaking.com/pro/reference/desired-dough-temperature": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.theperfectloaf.com/the-importance-of-dough-temperature-in-baking/": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.kingarthurbaking.com/blog/2018/05/24/desired-dough-temperature": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.kingarthurbaking.com/recipes/english-muffins-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Crumpet": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Garlic_press": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.americastestkitchen.com/articles/1467-the-best-way-to-peel-garlic": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Garlic_peeler": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Black_garlic": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://he.wikipedia.org/wiki/חציל": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Melanzane_alla_parmigiana": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Eggplant_parmesan": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Salting_(food)": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Imam_bay%C4%B1ld%C4%B1": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.americastestkitchen.com/articles/should-you-salt-eggplant": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/how_tos/5645-salting-eggplant": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://www.americastestkitchen.com/articles/how-to-peel-garlic": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Caponata": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Melitzanosalata": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Karn%C4%B1yar%C4%B1k": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Nasu_dengaku": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Berenjenas_con_miel": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Parmigiana": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Eggplant": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Garlic": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Chili_con_Carne": {
+    "ok": true,
+    "checkedAt": "2026-11-08"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Sfenj": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-08"
   }
 }
