@@ -255,7 +255,7 @@
   },
   "https://en.wikipedia.org/wiki/Candy_making": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-11-09"
   },
   "https://en.wikipedia.org/wiki/Glutinous_rice": {
     "ok": true,
@@ -4202,5 +4202,243 @@
     "ok": false,
     "status": 404,
     "checkedAt": "2026-11-08"
+  },
+  "https://en.wikipedia.org/wiki/Cymbopogon_citratus": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Cymbopogon": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Citral": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Filbertone": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Gianduja_(chocolate)": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Churro": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Espresso_tonic": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Tonic_water": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Ginger_ale": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Dried_persimmon": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Mango": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://es.wikipedia.org/wiki/Churro": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://es.wikipedia.org/wiki/Tortilla_de_patatas": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Soda_bread": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Irish_soda_bread": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Siniyah": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/סינייה": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Financier_(cake)": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://fr.wikipedia.org/wiki/Financier_(pâtisserie)": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Siniyeh": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Sinia": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Siniya": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%A0%D7%99%D7%94": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Oleogustus": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%A0%D7%99%D7%94_(%D7%9E%D7%90%D7%9B%D7%9C)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%A0%D7%99%D7%99%D7%94_(%D7%9E%D7%90%D7%9B%D7%9C)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Palestinian_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Lebanese_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Arab_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Fat_substitute": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Tadka": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wiktionary.org/wiki/%D8%B5%D9%8A%D9%86%D9%8A%D8%A9": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Flavor_release": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Fat_washing": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://flavourjournal.biomedcentral.com/articles/10.1186/2044-7248-4-5": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://www.kingarthurbaking.com/blog/2018/07/16/baking-in-humid-weather": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://www.kingarthurbaking.com/blog/2023/07/14/baking-in-hot-humid-weather": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Humidity": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Divinity_(confectionery)": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Wheat_flour": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Cotton_candy": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Equilibrium_moisture_content": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Humectant": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/%D7%98%D7%97%D7%99%D7%A0%D7%94": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A7%D7%91%D7%91": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%98%D7%91%D7%97_%D7%94%D7%A4%D7%9C%D7%A1%D7%98%D7%99%D7%A0%D7%99": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%98%D7%91%D7%97_%D7%94%D7%93%D7%A8%D7%95%D7%96%D7%99": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A4%D7%98%D7%94": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Rubbing_in": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Crumble": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Pastry_blender": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Streusel": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Fraisage": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Mortar_and_pestle": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Aioli": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
+  },
+  "https://fr.wikipedia.org/wiki/Financier_(p%C3%A2tisserie)": {
+    "ok": true,
+    "checkedAt": "2026-11-09"
   }
 }

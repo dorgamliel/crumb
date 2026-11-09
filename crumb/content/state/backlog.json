@@ -150,11 +150,6 @@
   "kind": "baking"
  },
  {
-  "id": "humidity-and-baking",
-  "name": "לחות ואפייה",
-  "kind": "science"
- },
- {
   "id": "barley-tea",
   "name": "תה שעורה",
   "kind": "drinks"
@@ -183,5 +178,230 @@
   "id": "date-paste",
   "name": "ממרח תמרים",
   "kind": "ingredients"
+ },
+ {
+  "id": "pita-pocket",
+  "name": "הכיס בפיתה",
+  "kind": "baking"
+ },
+ {
+  "id": "pie-crust-lattice",
+  "name": "רשת בצק לפאי",
+  "kind": "baking"
+ },
+ {
+  "id": "dutch-baby",
+  "name": "פנקייק הולנדי אפוי",
+  "kind": "baking"
+ },
+ {
+  "id": "pain-au-chocolat",
+  "name": "פן או שוקולה",
+  "kind": "baking"
+ },
+ {
+  "id": "sablés",
+  "name": "סבלה",
+  "kind": "baking"
+ },
+ {
+  "id": "yeast-cake",
+  "name": "עוגת שמרים",
+  "kind": "baking"
+ },
+ {
+  "id": "baguette-scoring-ears",
+  "name": "האוזן של הלחם",
+  "kind": "baking"
+ },
+ {
+  "id": "caramel-color",
+  "name": "צבע הקרמל",
+  "kind": "science"
+ },
+ {
+  "id": "crystallization-of-fat-in-chocolate-milk",
+  "name": "שומן חלב",
+  "kind": "science"
+ },
+ {
+  "id": "salt-and-boiling-water",
+  "name": "מלח במים רותחים",
+  "kind": "science"
+ },
+ {
+  "id": "sugar-and-browning-in-baking",
+  "name": "למה עוגיות משחימות",
+  "kind": "science"
+ },
+ {
+  "id": "protein-coagulation",
+  "name": "קרישת חלבונים",
+  "kind": "science"
+ },
+ {
+  "id": "emulsifier-mustard",
+  "name": "מייצבי תחליב",
+  "kind": "science"
+ },
+ {
+  "id": "acids-in-baking",
+  "name": "חומצות באפייה",
+  "kind": "science"
+ },
+ {
+  "id": "cold-and-taste-of-sugar",
+  "name": "קור ומתיקות",
+  "kind": "science"
+ },
+ {
+  "id": "ripeness-and-sugar",
+  "name": "הבשלה וסוכר",
+  "kind": "science"
+ },
+ {
+  "id": "pomegranate-juice",
+  "name": "מיץ רימונים",
+  "kind": "drinks"
+ },
+ {
+  "id": "sage-tea",
+  "name": "מרווה בתה",
+  "kind": "drinks"
+ },
+ {
+  "id": "iced-coffee",
+  "name": "קפה קר",
+  "kind": "drinks"
+ },
+ {
+  "id": "tamarind-drink",
+  "name": "משקה תמרהינדי",
+  "kind": "drinks"
+ },
+ {
+  "id": "almond-drink-sharbat",
+  "name": "חלב שקדים עם מי ורדים",
+  "kind": "drinks"
+ },
+ {
+  "id": "cherries",
+  "name": "דובדבנים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "plums",
+  "name": "שזיפים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "pears",
+  "name": "אגסים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "lentil-varieties",
+  "name": "סוגי עדשים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cardoon",
+  "name": "קנרס",
+  "kind": "ingredients"
+ },
+ {
+  "id": "halva",
+  "name": "חלבה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "cashews",
+  "name": "קשיו",
+  "kind": "ingredients"
+ },
+ {
+  "id": "peanuts",
+  "name": "בוטנים",
+  "kind": "ingredients"
+ },
+ {
+  "id": "mujaddara-rice",
+  "name": "אורז עם שעועית",
+  "kind": "dishes"
+ },
+ {
+  "id": "mafrum",
+  "name": "מפרום",
+  "kind": "dishes"
+ },
+ {
+  "id": "khachapuri",
+  "name": "חצ׳פורי",
+  "kind": "dishes"
+ },
+ {
+  "id": "pastilla",
+  "name": "פסטייה",
+  "kind": "dishes"
+ },
+ {
+  "id": "gazpacho-white",
+  "name": "אחו בלנקו",
+  "kind": "dishes"
+ },
+ {
+  "id": "risotto-milanese",
+  "name": "ריזוטו מילנזה",
+  "kind": "dishes"
+ },
+ {
+  "id": "frittata",
+  "name": "פריטטה",
+  "kind": "dishes"
+ },
+ {
+  "id": "lentil-salad",
+  "name": "סלט עדשים",
+  "kind": "dishes"
+ },
+ {
+  "id": "toasting-spices-whole",
+  "name": "קליית תבלינים שלמים",
+  "kind": "techniques"
+ },
+ {
+  "id": "caramelizing-sugar-dry",
+  "name": "קרמול יבש",
+  "kind": "techniques"
+ },
+ {
+  "id": "emulsifying-vinaigrette",
+  "name": "הכנת ויניגרט",
+  "kind": "techniques"
+ },
+ {
+  "id": "cutting-onions",
+  "name": "חיתוך בצל",
+  "kind": "techniques"
+ },
+ {
+  "id": "water-bath-steam-oven",
+  "name": "אדים בתנור הביתי",
+  "kind": "techniques"
+ },
+ {
+  "id": "reverse-creaming",
+  "name": "הקצפה הפוכה",
+  "kind": "techniques"
+ },
+ {
+  "id": "sweating-vegetables",
+  "name": "הזעת ירקות",
+  "kind": "techniques"
+ },
+ {
+  "id": "cooling-cakes",
+  "name": "צינון עוגות",
+  "kind": "techniques"
  }
 ]
