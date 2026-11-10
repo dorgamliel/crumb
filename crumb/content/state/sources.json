@@ -181,7 +181,7 @@
   },
   "https://en.wikipedia.org/wiki/Carryover_cooking": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-11-10"
   },
   "https://en.wikipedia.org/wiki/Mushroom": {
     "ok": true,
@@ -4440,5 +4440,314 @@
   "https://fr.wikipedia.org/wiki/Financier_(p%C3%A2tisserie)": {
     "ok": true,
     "checkedAt": "2026-11-09"
+  },
+  "https://en.wikipedia.org/wiki/Pomegranate_juice": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Pain_au_chocolat": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Punicalagin": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Dutch_baby_pancake": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Khachapuri": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Viennoiserie": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Ellagitannin": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://fr.wikipedia.org/wiki/Pain_au_chocolat": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://ucanr.edu/sites/fruitsandnuts/Pomegranate/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Sulguni": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Imeruli_cheese": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/11052704/": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Ajoblanco": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Chocolate_chip": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Sweating_(cooking)": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Sweat": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Cooling_rack": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/03/01/how-to-cool-cake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Yeast_cake": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://de.wikipedia.org/wiki/Hefekuchen": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Wire_rack": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Baking_rack": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.bettycrocker.com/how-to/tipstechniques/how-to-cool-a-cake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.kingarthurbaking.com/blog/2017/08/14/cool-cake-pan": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://de.wikipedia.org/wiki/Hefeteig": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://extension.illinois.edu/blogs/cooking-and-baking": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Gugelhupf": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Induction_cooking": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Plasticizer": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5079168/": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Butter_cake": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Frosting": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Bundt_cake": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=pomegranate+juice+whole+fruit+pressing+arils+punicalagin+astringency": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Cake": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Baking": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Retrogradation_(starch)": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8304681/": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.uoguelph.ca/foodscience/book-page/ice-cream-structure": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Food_physical_chemistry": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Vitrification": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Freeze-drying": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://he.wikipedia.org/wiki/מרווה_ריחנית": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Salvia_fruticosa": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%95%D7%95%D7%94_%D7%9E%D7%A9%D7%95%D7%9C%D7%A9%D7%AA": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Sage_tea": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Jordanian_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Arab_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Barley_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=roasted+barley+tea+aroma+pyrazines": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Roasted_grain_beverage": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Cherry": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Prunus_cerasus": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Fruit_cracking": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://treefruit.wsu.edu/crop-protection/opm/rain-cracking/": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://extension.usu.edu/planthealth/research/cherry-fruit-cracking": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=sweet+cherry+rain+cracking+water+uptake+review": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8166915/": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6668808/": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Plum": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Epicuticular_wax": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Prune": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Breakfast_cereal": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.uoguelph.ca/foodscience/book-page/freezing-ice-cream": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.uoguelph.ca/foodscience/book-page/ice-cream-storage-and-shelf-life": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://www.uoguelph.ca/foodscience/book-page/ice-cream-ingredients": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/search/?term=glass+transition+food+crispness+review": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/search/?term=%22glass+transition%22+food+review+plasticizer+water+texture": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/search/?term=glass+transition+crispness+cereal+water+plasticization": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC11765248/": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/search/?term=ice+cream+glass+transition+recrystallization+freeze-concentrated": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://en.wikipedia.org/wiki/Moisture_sorption_isotherm": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
+  },
+  "https://he.wikipedia.org/wiki/מעבר_זכוכית": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-10"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC7923164/": {
+    "ok": true,
+    "checkedAt": "2026-11-10"
   }
 }

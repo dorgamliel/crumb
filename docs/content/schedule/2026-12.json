@@ -1,0 +1,49 @@
+{
+  "2026-12-01": {
+    "morning": {
+      "title": "לאט ובטעם.",
+      "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
+      "topics": [
+        "coconut-water",
+        "coconut",
+        "basbousa",
+        "orange-blossom-water",
+        "moroccan-cigars",
+        "scones",
+        "butter",
+        "caramel"
+      ],
+      "quiz": "coconut-water"
+    },
+    "afternoon": {
+      "title": "צהריים במטבח.",
+      "subtitle": "מה קורה בסיר, ולמה זה עובד.",
+      "topics": [
+        "cortado",
+        "cappuccino",
+        "flat-white",
+        "milk-proteins",
+        "lactose",
+        "browning",
+        "jachnun",
+        "halloumi"
+      ],
+      "quiz": "cortado"
+    },
+    "evening": {
+      "title": "הערב במטבח.",
+      "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
+      "topics": [
+        "english-muffins",
+        "cast-iron",
+        "induction-cooking",
+        "muffins",
+        "banana-bread",
+        "walnuts",
+        "baking-powder",
+        "persimmon"
+      ],
+      "quiz": "english-muffins"
+    }
+  }
+}
