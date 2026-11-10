@@ -4,8 +4,9 @@ import { nav } from "../lib/router";
 import { store, useStore } from "../lib/storage";
 import { TopicRow } from "../components/Cards";
 import { useToast } from "../components/Toast";
+import { PalateCard } from "./Palate";
 
-export function Saved() {
+export function Saved({ now }: { now: Date }) {
   const { saved, recent } = useStore();
   const toast = useToast();
   const savedTopics = saved.filter((id) => getTopic(id));
@@ -23,6 +24,8 @@ export function Saved() {
         <h1 className="page-head__title">שמורים</h1>
         <p className="page-head__sub">מה שרציתם לחזור אליו. נשמר במכשיר הזה בלבד, בלי חשבון.</p>
       </header>
+
+      <PalateCard now={now} />
 
       <section aria-labelledby="saved-title">
         <h2 className="section-title" id="saved-title">

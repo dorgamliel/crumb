@@ -106,5 +106,10 @@
   "review": {
     "checkedAt": "2026-11-09",
     "notes": "Both sources support origin dates, berry, sugars, 80% China and Israel yield, astringent types, goma cultivars, ethylene ripening, drying methods; replaced unsupported 'for centuries' with 'traditionally'."
-  }
+  },
+  "season": [
+    10,
+    11,
+    12
+  ]
 }

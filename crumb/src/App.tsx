@@ -1,4 +1,5 @@
-import { useEffect, useLayoutEffect, useRef } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
+import { X } from "lucide-react";
 import { useRoute } from "./lib/router";
 import { useNow } from "./lib/useNow";
 import type { Route, Tab } from "./types";
@@ -69,17 +70,34 @@ export function App() {
         דילוג לתוכן
       </a>
       <main id="main" tabIndex={-1} className="main">
+        <MissingLink route={route} />
         {TABS.map((tab) => (
           <div key={tab} className="view" hidden={articleOpen || route.tab !== tab}>
             {tab === "today" && <Today now={now} visible={!articleOpen && route.tab === "today"} />}
             {tab === "atlas" && <Atlas />}
             {tab === "learn" && <Learn now={now} />}
-            {tab === "saved" && <Saved />}
+            {tab === "saved" && <Saved now={now} />}
           </div>
         ))}
         {articleOpen && <Article key={route.trail.join("/")} route={route} />}
       </main>
       <TabBar route={route} />
     </ToastProvider>
+  );
+}
+
+/** Shown when the address pointed at a topic that does not exist, instead of failing silently. */
+function MissingLink({ route }: { route: Route }) {
+  const [dismissed, setDismissed] = useState<Route | null>(null);
+  if (!route.missing || dismissed === route) return null;
+  return (
+    <div className="notice notice--missing" role="alert">
+      <p>
+        <strong>לא מצאנו את הכתבה הזאת.</strong> אולי הקישור שגוי, או שהכתבה עוד לא פורסמה. בינתיים, הנה מה שיש היום.
+      </p>
+      <button type="button" className="icon-button" onClick={() => setDismissed(route)} aria-label="סגירת ההודעה">
+        <X size={18} aria-hidden="true" />
+      </button>
+    </div>
   );
 }

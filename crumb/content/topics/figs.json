@@ -84,5 +84,10 @@
   "review": {
     "checkedAt": "2026-10-21",
     "notes": "Common fig page supports syconium, wasp, parthenocarpy, Gilgal and dispute, season, 80% water, ripening; removed unsupported 'hundreds of flowers'; fixed alt text (photo shows wedges plus whole fig)."
-  }
+  },
+  "season": [
+    7,
+    8,
+    9
+  ]
 }

@@ -95,5 +95,12 @@
   "review": {
     "checkedAt": "2026-10-23",
     "notes": "All claims match the Salep Wikipedia page; photo matches alt. Fixed headline and opening line that implied the drink is named after the flower (etymology unsupported), hedged 'usually milk', and made the export-ban/substitute causation match the source."
-  }
+  },
+  "season": [
+    11,
+    12,
+    1,
+    2,
+    3
+  ]
 }

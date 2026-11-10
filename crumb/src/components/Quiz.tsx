@@ -1,6 +1,7 @@
-import { useId, useRef } from "react";
+import { useId, useMemo, useRef } from "react";
 import { Check, X, RotateCcw, ArrowLeft } from "lucide-react";
 import { optionLetters } from "../lib/hebrew";
+import { stableOrder } from "../lib/hash";
 import { store, useStore } from "../lib/storage";
 import { nav } from "../lib/router";
 import type { Tab, Topic } from "../types";
@@ -13,11 +14,19 @@ interface Props {
   headingLevel?: 2 | 3;
   kicker?: string;
   showLink?: boolean;
+  /** Where the answer is stored. Defaults to the topic id; recall cards use their own key. */
+  storeKey?: string;
+  /** Asked before the reader has read the story: the answer waits in the article. */
+  pretest?: boolean;
+  /** Text above the question, e.g. when and where the reader met this topic. */
+  context?: string;
 }
 
-export function Quiz({ topic, from, headingLevel = 2, kicker = "שאלה קטנה", showLink = true }: Props) {
-  const id = topic.id;
+export function Quiz({ topic, from, headingLevel = 2, kicker = "שאלה קטנה", showLink = true, storeKey, pretest, context }: Props) {
+  const id = storeKey ?? topic.id;
   const quiz = topic.quiz!;
+  // Shown in a stable shuffled order; answers are still stored as the original option index.
+  const order = useMemo(() => stableOrder(topic.id, quiz.options.length), [topic.id, quiz.options.length]);
   const { answers } = useStore();
   const answer = answers[id];
   const answered = answer !== undefined;
@@ -29,11 +38,13 @@ export function Quiz({ topic, from, headingLevel = 2, kicker = "שאלה קטנ�
   return (
     <section className={`quiz ${answered ? (correct ? "quiz--right" : "quiz--wrong") : ""}`} aria-labelledby={headingId}>
       <p className="eyebrow quiz__kicker">{kicker}</p>
+      {context && <p className="quiz__context">{context}</p>}
       <H className="quiz__question" id={headingId}>
         {quiz.question}
       </H>
       <ol className="quiz__options" role="list">
-        {quiz.options.map((option, i) => {
+        {order.map((i, pos) => {
+          const option = quiz.options[i];
           const isChosen = answer === i;
           const isCorrect = i === quiz.correct;
           const state = !answered ? "" : isCorrect ? "correct" : isChosen ? "chosen-wrong" : "dim";
@@ -42,7 +53,7 @@ export function Quiz({ topic, from, headingLevel = 2, kicker = "שאלה קטנ�
               <button
                 type="button"
                 ref={(el) => {
-                  optionRefs.current[i] = el;
+                  optionRefs.current[pos] = el;
                 }}
                 className={`quiz__option ${state && `quiz__option--${state}`}`}
                 disabled={answered}
@@ -50,7 +61,7 @@ export function Quiz({ topic, from, headingLevel = 2, kicker = "שאלה קטנ�
                 onClick={() => store.answer(id, i)}
               >
                 <span className="quiz__letter" aria-hidden="true">
-                  {optionLetters[i]}
+                  {optionLetters[pos]}
                 </span>
                 <span className="quiz__text">{option}</span>
                 {answered && isCorrect && (
@@ -76,11 +87,11 @@ export function Quiz({ topic, from, headingLevel = 2, kicker = "שאלה קטנ�
             <p className="quiz__verdict">
               {correct ? (
                 <>
-                  <Check size={18} aria-hidden="true" /> נכון, בדיוק.
+                  <Check size={18} aria-hidden="true" /> {pretest ? "ניחוש מצוין." : "נכון, בדיוק."}
                 </>
               ) : (
                 <>
-                  <span aria-hidden="true" className="quiz__verdict-dot" /> לא הפעם. הנה ההסבר.
+                  <span aria-hidden="true" className="quiz__verdict-dot" /> {pretest ? "ניחוש טוב, אבל לא. הנה ההסבר." : "לא הפעם. הנה ההסבר."}
                 </>
               )}
             </p>
@@ -88,7 +99,7 @@ export function Quiz({ topic, from, headingLevel = 2, kicker = "שאלה קטנ�
             <div className="quiz__actions">
               {showLink && (
                 <button type="button" className="link-button" onClick={() => nav.openTopic(topic.id, { from, fresh: true })}>
-                  <span>למה זה קורה? לקריאה על {topic.name}</span>
+                  <span>{pretest ? `הסיפור המלא: ${topic.name}` : `למה זה קורה? לקריאה על ${topic.name}`}</span>
                   <ArrowLeft size={16} aria-hidden="true" className="dir-icon" />
                 </button>
               )}

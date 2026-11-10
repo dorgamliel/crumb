@@ -102,5 +102,9 @@
   "review": {
     "checkedAt": "2026-10-29",
     "notes": "All three sources load and support definition, etymology, history (hedged), molasses hygroscopy/Maillard, Lebkuchen fermentation and Ashkenazi honey cake; fixed awkward 'little men' phrasing and a punning takeaway line."
-  }
+  },
+  "season": [
+    11,
+    12
+  ]
 }

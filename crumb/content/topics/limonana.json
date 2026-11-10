@@ -95,5 +95,12 @@
   "review": {
     "checkedAt": "2026-10-19",
     "notes": "All claims (ad-campaign name origin, Ibn al-Baytar 13th-c. recipe, preparation methods, Israel popularity, arak) match Wikipedia; removed unsupported 'or honey'; photo matches alt."
-  }
+  },
+  "season": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
 }

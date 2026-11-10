@@ -60,6 +60,26 @@ export interface Angles {
   steps?: { title: string; steps: string[] };
 }
 
+export interface RecipeIngredient {
+  /** Quantity for the base number of servings; omitted for "to taste" items. */
+  amount?: number;
+  unit?: string;
+  item: string;
+  /** Optional group heading, e.g. "לרוטב". */
+  group?: string;
+}
+
+export interface Recipe {
+  serves: number;
+  /** Total time in minutes, including passive time. */
+  minutes?: number;
+  ingredients: RecipeIngredient[];
+  steps: string[];
+  note?: string;
+  /** The tested recipe this one is based on. */
+  source?: Source;
+}
+
 export type EditorialStatus = "draft" | "source-linked" | "auto-checked";
 
 /** The light record every topic has in the index: enough for search, lists and the map. */
@@ -76,7 +96,10 @@ export interface TopicCard {
   keywords: string[];
   related: { target: string; kind: RelationKind }[];
   hasQuiz: boolean;
+  hasRecipe?: boolean;
   status: EditorialStatus;
+  /** Date added to the library (YYYY-MM-DD). */
+  added?: string;
 }
 
 /** The full topic, loaded on demand from content/t/<id>.json. */
@@ -90,6 +113,11 @@ export interface Topic extends Omit<TopicCard, "image" | "hasQuiz" | "related"> 
   sources: Source[];
   updatedAt: string;
   quiz?: QuizData;
+  recipe?: Recipe;
+  /** Editorial column, e.g. "מיתוס או אמת". */
+  column?: string;
+  /** Months (1–12) when the topic is in season; scheduling prefers them. */
+  season?: number[];
   angles?: Angles;
   review?: { checkedAt: string; notes?: string };
 }
@@ -124,4 +152,6 @@ export interface Route {
   tab: Tab;
   /** Topics opened from the tab, in order. Empty when the tab itself is showing. */
   trail: string[];
+  /** Set when the address named a topic that does not exist. */
+  missing?: boolean;
 }

@@ -105,5 +105,10 @@
   "review": {
     "checkedAt": "2026-10-31",
     "notes": "Composition, 2x potato starch, ripening, cold storage, skins, scoring, horse chestnut and street food all supported; fixed potato 'fruit' to tuber and softened peeling claim. No image."
-  }
+  },
+  "season": [
+    11,
+    12,
+    1
+  ]
 }

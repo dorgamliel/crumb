@@ -118,5 +118,13 @@
   "review": {
     "checkedAt": "2026-10-28",
     "notes": "All three Wikipedia sources load and support history, 1180 mention, etymology, baker's oven, haminados browning and onion skins; quiz index correct; no edits needed."
-  }
+  },
+  "season": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+  ]
 }

@@ -103,5 +103,12 @@
   "review": {
     "checkedAt": "2026-11-03",
     "notes": "Both sources load and support thickening, history, Apicius, Esau, mourning custom, regional variants and ezogelin; removed unsupported ezogelin ingredients (tomato, paprika, dried mint)."
-  }
+  },
+  "season": [
+    11,
+    12,
+    1,
+    2,
+    3
+  ]
 }

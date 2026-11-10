@@ -91,5 +91,12 @@
   "review": {
     "checkedAt": "2026-10-09",
     "notes": "Verified berry/Solanaceae, two Asian domestications, oil absorption, bitterness/salting, browning, calyx, flame roasting, Greek/Romanian versions without tahini; changed mutabbal tahini from 'sometimes' to 'usually'. Photo OK."
-  }
+  },
+  "season": [
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
 }

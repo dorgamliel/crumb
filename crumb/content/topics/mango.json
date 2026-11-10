@@ -100,5 +100,10 @@
   "review": {
     "checkedAt": "2026-11-09",
     "notes": "Mango and Amba pages support origin, cultivars, stone, weight, etymology, Alphonso volatiles, green mango uses, lassi, amba legend and arrival in Israel; hedged amba etymology."
-  }
+  },
+  "season": [
+    7,
+    8,
+    9
+  ]
 }

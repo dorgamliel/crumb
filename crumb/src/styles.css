@@ -1,10 +1,10 @@
 /* ───────────────────────── Tokens ───────────────────────── */
 
 :root {
-  /* Headings: Rubik, a modern Hebrew sans. Body: Heebo. The token keeps its old name. */
-  --serif: "Rubik Variable", "Rubik", "Heebo Variable", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  /* Editorial text: Frank Ruhl Libre, a classic Hebrew book serif. Interface: Heebo. */
+  --serif: "Frank Ruhl Libre Variable", "Frank Ruhl Libre", "David Libre", "Times New Roman", serif;
   --sans: "Heebo Variable", "Heebo", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
-  --mark: "Rubik Variable", "Rubik", system-ui, sans-serif;
+  --mark: "Frank Ruhl Libre Variable", "Frank Ruhl Libre", Georgia, serif;
 
   --paper: #f5ede0;
   --paper-2: #ece1cd;
@@ -2300,15 +2300,16 @@ h3.lab__title {
   display: grid;
   gap: 18px;
   padding: 26px var(--gutter) 0;
-  font-size: 1.1rem;
-  line-height: 1.85;
-  max-width: 38em;
+  font-family: var(--serif);
+  font-size: 1.22rem;
+  line-height: 1.8;
+  max-width: 34em;
 }
 
 .article__body .lede {
-  font-size: 1.22rem;
-  font-weight: 450;
-  line-height: 1.7;
+  font-size: 1.36rem;
+  font-weight: 500;
+  line-height: 1.65;
 }
 
 .facts {
@@ -2896,4 +2897,621 @@ html[data-period="evening"] .toast {
   margin: 30svh auto 0;
   padding-inline: var(--gutter);
   text-align: center;
+}
+
+/* ───────────────────────── Not found ───────────────────────── */
+
+.notice--missing {
+  margin: 12px var(--gutter) 0;
+}
+
+.notice--missing p {
+  font-weight: 450;
+}
+
+/* ───────────────────────── Quiz context, streak ───────────────────────── */
+
+.quiz__context {
+  margin-block-start: 4px;
+  color: var(--ink-2);
+  font-size: 0.92rem;
+}
+
+.streak {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-block-start: 10px;
+  color: var(--ink-3);
+  font-size: 0.86rem;
+  font-weight: 600;
+}
+
+.streak--lit {
+  color: var(--accent);
+}
+
+.streak__hint {
+  font-weight: 450;
+  color: var(--ink-3);
+}
+
+/* ───────────────────────── Daily game ───────────────────────── */
+
+.game {
+  padding: 20px 18px 18px;
+  border-radius: var(--radius);
+  background: var(--card);
+  box-shadow: var(--shadow);
+}
+
+.game--teaser {
+  padding: 0;
+}
+
+.game__open {
+  display: grid;
+  grid-template-columns: 76px 1fr auto;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 12px;
+  padding-inline-end: 16px;
+  text-align: start;
+}
+
+.game__thumb {
+  display: block;
+  width: 76px;
+  height: 76px;
+  overflow: hidden;
+  border-radius: 14px;
+  background: var(--paper-2);
+}
+
+.game__thumb img,
+.game__frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.9s var(--ease);
+}
+
+.game__teaser-text {
+  display: grid;
+  gap: 1px;
+}
+
+.game__title {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.game__teaser-sub,
+.game__how {
+  color: var(--ink-2);
+  font-size: 0.92rem;
+}
+
+.game__how {
+  margin-block-start: 4px;
+}
+
+.game__arrow {
+  color: var(--accent);
+}
+
+.game__frame {
+  position: relative;
+  aspect-ratio: 1;
+  margin-block-start: 14px;
+  overflow: hidden;
+  border-radius: 14px;
+  background: var(--paper-2);
+}
+
+.game__dots {
+  position: absolute;
+  inset-block-end: 10px;
+  inset-inline: 0;
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  list-style: none;
+}
+
+.game__dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 4px;
+  background: rgba(255, 250, 241, 0.55);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
+}
+
+.game__dot--hit { background: #5a9a3a; }
+.game__dot--near { background: #e2b33c; }
+.game__dot--miss { background: #8b8178; }
+
+.game__clues {
+  display: grid;
+  gap: 8px;
+  margin-block-start: 14px;
+  list-style: none;
+}
+
+.game__clues li {
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--paper-2);
+  font-size: 0.95rem;
+  animation: rise 0.4s var(--ease);
+}
+
+.game__guesses {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-block-start: 12px;
+  list-style: none;
+}
+
+.game__guess {
+  padding: 4px 12px;
+  border-radius: 999px;
+  box-shadow: inset 0 0 0 1px var(--line-strong);
+  font-size: 0.88rem;
+}
+
+.game__input {
+  margin-block-start: 14px;
+}
+
+.game__field {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding-inline: 14px;
+  border-radius: 999px;
+  background: var(--paper);
+  box-shadow: inset 0 0 0 1.5px var(--line-strong);
+  color: var(--ink-3);
+}
+
+.game__field input {
+  flex: 1;
+  min-width: 0;
+  min-height: 48px;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 1.05rem;
+}
+
+.game__field input:focus {
+  outline: none;
+}
+
+.game__field:focus-within {
+  box-shadow: inset 0 0 0 2px var(--focus);
+}
+
+.game__suggestions {
+  display: grid;
+  gap: 2px;
+  margin-block-start: 6px;
+  list-style: none;
+}
+
+.game__suggestion {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 44px;
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  text-align: start;
+}
+
+.game__suggestion:hover,
+.game__suggestion:focus-visible {
+  background: var(--paper-2);
+}
+
+.game__suggestion-kind {
+  color: var(--ink-3);
+  font-size: 0.8rem;
+  font-weight: 450;
+}
+
+.game__legend {
+  margin-block-start: 10px;
+  color: var(--ink-3);
+  font-size: 0.8rem;
+}
+
+.game__done {
+  margin-block-start: 16px;
+}
+
+.game__verdict {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  line-height: 1.4;
+}
+
+.game__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-block-start: 14px;
+}
+
+.game__next {
+  margin-block-start: 12px;
+  color: var(--ink-3);
+  font-size: 0.86rem;
+}
+
+/* ───────────────────────── Ending: cook, teaser ───────────────────────── */
+
+.ending__cook {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  margin-block-start: 22px;
+  padding: 16px 20px;
+  padding-inline-end: 52px;
+  border-radius: var(--radius);
+  background: var(--accent-soft);
+  color: var(--ink);
+  text-align: start;
+}
+
+.ending__cook > span {
+  display: grid;
+}
+
+.ending__cook-name {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.teaser {
+  width: 100%;
+  margin-block-start: 30px;
+  padding: 20px;
+  border-radius: var(--radius);
+  box-shadow: inset 0 0 0 1.5px var(--line-strong);
+  text-align: start;
+}
+
+.teaser__kicker {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.teaser__headline {
+  margin-block-start: 6px;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.45rem;
+  line-height: 1.25;
+}
+
+.teaser__sub {
+  margin-block-start: 6px;
+  color: var(--ink-3);
+  font-size: 0.88rem;
+}
+
+/* ───────────────────────── Recipe ───────────────────────── */
+
+.recipe {
+  margin: 30px var(--gutter) 0;
+  padding: 22px 20px;
+  border-radius: var(--radius);
+  background: var(--card);
+  box-shadow: var(--shadow);
+}
+
+.recipe__title {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.7rem;
+  line-height: 1.15;
+}
+
+.recipe__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-block-start: 10px;
+  color: var(--ink-2);
+  font-size: 0.92rem;
+}
+
+.recipe__meta > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.recipe__serves {
+  padding: 2px;
+  border-radius: 999px;
+  box-shadow: inset 0 0 0 1px var(--line-strong);
+  font-weight: 600;
+}
+
+.recipe__sub {
+  margin-block: 20px 8px;
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.recipe__ingredients {
+  display: grid;
+  gap: 2px;
+  list-style: none;
+}
+
+.recipe__group {
+  margin-block: 10px 2px;
+  color: var(--ink-3);
+  font-size: 0.82rem;
+  font-weight: 650;
+}
+
+.recipe__ing {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 6px 0;
+  cursor: pointer;
+}
+
+.recipe__ing input {
+  width: 20px;
+  height: 20px;
+  margin-block-start: 3px;
+  accent-color: var(--accent);
+}
+
+.recipe__ing--have span {
+  color: var(--ink-3);
+  text-decoration: line-through;
+}
+
+.recipe__amount {
+  font-weight: 650;
+}
+
+.recipe__steps-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.recipe__steps-head .pill-button {
+  min-height: 40px;
+  margin-block-start: 12px;
+  padding: 8px 16px;
+}
+
+.recipe__steps {
+  display: grid;
+  gap: 12px;
+  padding-inline-start: 1.4em;
+  line-height: 1.65;
+}
+
+.recipe__steps li::marker {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.recipe--cooking .recipe__steps {
+  font-size: 1.2rem;
+}
+
+.recipe--cooking .recipe__steps li.done {
+  opacity: 0.45;
+}
+
+.recipe--cooking .recipe__steps li.current {
+  font-weight: 600;
+}
+
+.recipe__step-button {
+  text-align: start;
+  line-height: inherit;
+}
+
+.recipe__cooking-note,
+.recipe__note,
+.recipe__source {
+  margin-block-start: 12px;
+  color: var(--ink-3);
+  font-size: 0.88rem;
+}
+
+/* ───────────────────────── Palate ───────────────────────── */
+
+.palate {
+  margin-block: 18px 34px;
+  padding: 24px 20px;
+  border-radius: var(--radius);
+  background: linear-gradient(160deg, #2a1d14, #1d1714);
+  color: #f4ebdd;
+  --ink-3: #b9a891;
+}
+
+.palate .eyebrow {
+  color: #f0a35a;
+}
+
+.palate__title {
+  margin-block-start: 4px;
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 2.2rem;
+  line-height: 1.1;
+}
+
+.palate__line {
+  margin-block-start: 6px;
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  color: #d6c8b6;
+}
+
+.palate__bars {
+  display: grid;
+  gap: 8px;
+  margin-block-start: 18px;
+  list-style: none;
+}
+
+.palate__bars li {
+  display: grid;
+  grid-template-columns: 6.5em 1fr 2em;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.9rem;
+}
+
+.palate__bar {
+  height: 10px;
+  border-radius: 99px;
+  background: rgba(244, 235, 221, 0.12);
+  overflow: hidden;
+}
+
+.palate__bar span {
+  display: block;
+  height: 100%;
+  border-radius: 99px;
+  background: #f0a35a;
+}
+
+.palate__count {
+  text-align: end;
+  font-weight: 650;
+}
+
+.palate__stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-block: 20px 18px;
+}
+
+.palate__stats dt {
+  color: #b9a891;
+  font-size: 0.78rem;
+}
+
+.palate__stats dd {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+.palate__stats dd .muted {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 450;
+}
+
+.palate .pill-button {
+  background: #f4ebdd;
+  color: #1d1714;
+}
+
+.learn__more {
+  margin-block-start: 16px;
+}
+
+/* ───────────────────────── Artwork (no photo yet) ───────────────────────── */
+
+.pic--art {
+  background:
+    repeating-linear-gradient(135deg, color-mix(in srgb, var(--art-b) 9%, transparent) 0 2px, transparent 2px 14px),
+    linear-gradient(160deg, color-mix(in srgb, var(--art-a) 45%, #fbf6ec), color-mix(in srgb, var(--art-b) 22%, #f5ede0));
+  color: color-mix(in srgb, var(--art-b) 85%, #1f1915);
+  gap: 10px;
+  padding: 12px;
+  text-align: center;
+}
+
+.pic__icon {
+  display: grid;
+  place-items: center;
+  width: clamp(44px, 26cqw, 120px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: color-mix(in srgb, #fffaf1 70%, transparent);
+  box-shadow: 0 0 0 1.5px color-mix(in srgb, var(--art-b) 35%, transparent);
+}
+
+.pic__icon svg {
+  width: 56%;
+  height: 56%;
+}
+
+.pic--art .pic__word {
+  max-width: 90%;
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: clamp(0.95rem, 9cqw, 2.4rem);
+  line-height: 1.1;
+  opacity: 0.9;
+}
+
+.map__img.pic--art .pic__icon,
+.row__pic.pic--art .pic__icon,
+.related__pic.pic--art .pic__icon {
+  width: 60%;
+  box-shadow: none;
+  background: transparent;
+}
+
+/* ───────────────────────── Wide screens: the tab bar becomes a side rail ───────────────────────── */
+
+@media (min-width: 1000px) {
+  .tabbar {
+    inset-block: 50% auto;
+    inset-inline: auto 24px;
+    translate: 0 -50%;
+    max-width: none;
+    width: 92px;
+  }
+
+  .tabbar ul {
+    grid-template-columns: 1fr;
+    grid-auto-rows: 72px;
+    height: auto;
+  }
+
+  .main {
+    padding-block-end: 60px;
+  }
+
+  .toast-region {
+    inset-block-end: 28px;
+  }
 }

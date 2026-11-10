@@ -85,5 +85,12 @@
   "review": {
     "checkedAt": "2026-10-17",
     "notes": "Wikipedia source loads and supports method, 12-24h steep, filtering, concentrate, solubility, pH vs titratable acidity, slow drip and nitro; photo matches alt; no edits needed."
-  }
+  },
+  "season": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
 }

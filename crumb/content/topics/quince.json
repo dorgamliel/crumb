@@ -100,5 +100,10 @@
   "review": {
     "checkedAt": "2026-10-29",
     "notes": "Quince and Quince cheese pages support origin, pectin, anthocyanin reddening, marmelo etymology and brick-red membrillo; removed in-body 'per Wikipedia' and unsupported orange-pink shade claim."
-  }
+  },
+  "season": [
+    10,
+    11,
+    12
+  ]
 }

@@ -90,5 +90,9 @@
   "review": {
     "checkedAt": "2026-10-25",
     "notes": "All claims (etymology, yeast to baking powder, shape theories, fillings, Israeli ranking, egg wash and freezing tip) match Wikipedia; photo matches alt; fixed one awkward Hebrew phrase."
-  }
+  },
+  "season": [
+    2,
+    3
+  ]
 }

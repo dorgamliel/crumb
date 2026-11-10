@@ -102,5 +102,10 @@
   "review": {
     "checkedAt": "2026-11-02",
     "notes": "Asparagus and Asparagine pages verified (earthing up, thickness vs plant age, 24 June, Augustus, tall pots, asparagusic acid, 1806); removed overclaims ('everyone knows' urine smell, French attribution of pots), softened purple turning green."
-  }
+  },
+  "season": [
+    2,
+    3,
+    4
+  ]
 }

@@ -91,5 +91,9 @@
   "review": {
     "checkedAt": "2026-10-22",
     "notes": "Wikipedia supports five grains, 18-minute rule, pricking, 1839 machine, soft matzah, matzah brei; removed 'according to Wikipedia', aligned soft-matzah shelf life with source, fixed headline comma; photo OK."
-  }
+  },
+  "season": [
+    3,
+    4
+  ]
 }

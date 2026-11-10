@@ -224,7 +224,8 @@ test("a new edition replaces an idle feed but waits for an active reader", async
 
   await page.clock.setSystemTime(new Date("2026-10-09T18:58:00"));
   await page.clock.fastForward("00:31");
-  await page.getByRole("link", { name: "לכל עגבנייה אופי משלה." }).click();
+  // Open any story in the afternoon feed (drafts such as tomatoes are no longer published).
+  await page.locator(".feed .card a").first().click();
   await page.clock.fastForward("02:00");
   await page.getByRole("button", { name: "סגירה: חזרה למהדורה" }).click();
   await expect(page.getByRole("heading", { level: 1, name: "הפסקה עם טעם." })).toBeVisible();

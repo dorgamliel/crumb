@@ -4,46 +4,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "coconut-water",
-        "coconut",
-        "basbousa",
-        "orange-blossom-water",
-        "moroccan-cigars",
-        "scones",
-        "butter",
-        "caramel"
+        "apple-strudel",
+        "hot-chocolate",
+        "sahlab",
+        "sufganiyot",
+        "pumpkin",
+        "panettone",
+        "chestnuts",
+        "milk-foam"
       ],
-      "quiz": "coconut-water"
+      "quiz": "milk-foam"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
       "subtitle": "מה קורה בסיר, ולמה זה עובד.",
       "topics": [
-        "cortado",
-        "cappuccino",
-        "flat-white",
-        "milk-proteins",
-        "lactose",
-        "browning",
-        "jachnun",
-        "halloumi"
+        "persimmon",
+        "quince",
+        "french-onion-soup",
+        "lentil-soup",
+        "borscht",
+        "caramel",
+        "pomegranate-juice",
+        "gingerbread"
       ],
-      "quiz": "cortado"
+      "quiz": "caramel"
     },
     "evening": {
       "title": "הערב במטבח.",
       "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
       "topics": [
-        "english-muffins",
-        "cast-iron",
-        "induction-cooking",
-        "muffins",
-        "banana-bread",
-        "walnuts",
-        "baking-powder",
-        "persimmon"
+        "minestrone",
+        "cholent",
+        "braising",
+        "goulash",
+        "star-anise",
+        "chai",
+        "cloves",
+        "ginger"
       ],
-      "quiz": "english-muffins"
+      "quiz": "goulash"
     }
   }
 }

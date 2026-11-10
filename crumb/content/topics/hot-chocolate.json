@@ -96,5 +96,12 @@
   "review": {
     "checkedAt": "2026-10-18",
     "notes": "All claims (Maya drink, Sloane, van Houten 1828, cornstarch, Belgian cafe chips, mocha) match en-wiki; softened 'since then two traditions', replaced an arguably-true quiz distractor; photo matches."
-  }
+  },
+  "season": [
+    11,
+    12,
+    1,
+    2,
+    3
+  ]
 }

@@ -97,5 +97,12 @@
   "review": {
     "checkedAt": "2026-10-20",
     "notes": "The Lemonade, Syrup and Zest pages support the regional styles, the Ibn Jumay/Mamluk/1676/1833 history, the 1:1 syrup and the bitter pith. Fixed the alt text (leaves look like basil, not clearly mint), a plural agreement and the acidity 'why' line."
-  }
+  },
+  "season": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
 }

@@ -107,5 +107,11 @@
   "review": {
     "checkedAt": "2026-10-29",
     "notes": "Sources (en/he Okra, Gumbo) support family, harvest window, disputed origin, mucilage, acid de-sliming, gumbo thickener and etymology; reworded takeaway phrase."
-  }
+  },
+  "season": [
+    6,
+    7,
+    8,
+    9
+  ]
 }

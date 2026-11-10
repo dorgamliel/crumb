@@ -107,5 +107,13 @@
   "review": {
     "checkedAt": "2026-11-01",
     "notes": "Three sources load and support ingredients, etymology, cucina povera, Ligurian pesto variant, soffritto and ribollita; softened soffritto 'always/no browning' wording; rest is standard cookbook knowledge."
-  }
+  },
+  "season": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+  ]
 }

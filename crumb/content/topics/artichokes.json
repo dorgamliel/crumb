@@ -102,5 +102,10 @@
   "review": {
     "checkedAt": "2026-10-30",
     "notes": "Verified all claims against both Wikipedia sources (bud, choke, cardoon, etymology, browning, two-step frying, stem, Mishna name); fixed transliteration ardi shawki to ארדי שוקי."
-  }
+  },
+  "season": [
+    2,
+    3,
+    4
+  ]
 }

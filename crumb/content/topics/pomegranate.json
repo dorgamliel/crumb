@@ -103,5 +103,10 @@
   "review": {
     "checkedAt": "2026-10-19",
     "notes": "Origin, 200-1,400 seeds, 613 tradition, anthocyanins, 500 cultivars, fesenjan, molasses at half volume, grenadine, grenade verified; softened stain causation and unsupported tabbouleh 'instead of tomato' claim; photo fine."
-  }
+  },
+  "season": [
+    9,
+    10,
+    11
+  ]
 }

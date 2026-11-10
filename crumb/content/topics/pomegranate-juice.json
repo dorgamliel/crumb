@@ -112,5 +112,11 @@
   "review": {
     "checkedAt": "2026-11-10",
     "notes": "All claims checked against the Caner juice study (PMC) and Wikipedia; softened dek, which wrongly said tannins change mouthfeel (study found no astringency difference)."
-  }
+  },
+  "season": [
+    9,
+    10,
+    11,
+    12
+  ]
 }

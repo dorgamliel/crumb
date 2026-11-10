@@ -1,11 +1,17 @@
 import { useEffect, useRef, useState } from "react";
-import { Archive, ArrowLeft, Bookmark, Compass, Lock, X } from "lucide-react";
+import { Archive, ArrowLeft, Bookmark, ChefHat, Compass, Flame, Lock, X } from "lucide-react";
 import { editions, periods } from "../data/editions";
 import { getTopic, useEdition, useTopics } from "../lib/content";
 import { formatDate, formatHour } from "../lib/hebrew";
 import { nav, parseHash } from "../lib/router";
-import { currentSlot, isAvailable, isPublished, parseDateKey, parseSlot, sameSlot, slotKey, type Slot } from "../lib/schedule";
+import { addDays, currentSlot, isAvailable, isPublished, parseDateKey, parseSlot, sameSlot, slotKey, type Slot } from "../lib/schedule";
 import { session, useStore } from "../lib/storage";
+import { computeStreak, STREAK_MILESTONES } from "../lib/streak";
+import { useToast } from "../components/Toast";
+import { allTopics } from "../lib/content";
+import { hash } from "../lib/hash";
+import { Game } from "./Game";
+import { Recall } from "./Recall";
 import type { EditionData, EditionMeta, LabId, Topic } from "../types";
 import {
   CompareCard,
@@ -78,7 +84,9 @@ type Module =
   | { type: "feature"; topic: Topic; kicker: string }
   | { type: "note"; topic: Topic }
   | { type: "spotlight"; topic: Topic }
-  | { type: "quiz"; topic: Topic }
+  | { type: "quiz"; topic: Topic; pretest: boolean }
+  | { type: "game" }
+  | { type: "recall" }
   | { type: "lab"; lab: LabId; topic: string }
   | { type: "strip"; topics: Topic[] }
   | { type: "compare"; topic: Topic }
@@ -105,21 +113,51 @@ function layout(topics: Topic[], quizId?: string): Module[] {
   if (rest.length >= 2) out.push({ type: "pair", topics: [rest.shift()!, rest.shift()!] });
   if (steps) out.push({ type: "steps", topic: steps });
   if (note) out.push({ type: "note", topic: note });
-  if (quiz) out.push({ type: "quiz", topic: quiz });
+  // When the edition's question is about its cover story, it is asked before the reader gets
+  // there: guessing first, then reading the answer, is remembered better than reading alone.
+  if (quiz) out.push({ type: "quiz", topic: quiz, pretest: quiz.id === topics[0].id });
   if (spotlight) out.push({ type: "spotlight", topic: spotlight });
   if (compare) out.push({ type: "compare", topic: compare });
   if (labTopic) out.push({ type: "lab", lab: labFor[labTopic.id], topic: labTopic.id });
   if (rest.length >= 3) out.push({ type: "strip", topics: rest.splice(0) });
   else if (rest.length === 2) out.push({ type: "pair", topics: [rest[0], rest[1]] });
   else if (rest.length === 1) out.push({ type: "feature", topic: rest[0], kicker: "לקינוח" });
+  // The daily game sits early; the recall question waits in the middle of the edition.
+  out.splice(Math.min(1, out.length), 0, { type: "game" });
+  out.splice(Math.min(6, out.length), 0, { type: "recall" });
   return out;
 }
 
 const themeColors = { morning: "#f5ede0", afternoon: "#f3efe4", evening: "#1d1714" } as const;
 
+/** Celebrates streak milestones once each, quietly. */
+function useStreakMilestones(count: number) {
+  const toast = useToast();
+  useEffect(() => {
+    if (!STREAK_MILESTONES.includes(count)) return;
+    const key = "streak-celebrated";
+    let last = 0;
+    try {
+      last = Number(localStorage.getItem("crumb:v2:" + key) ?? 0);
+    } catch {
+      /* ignore */
+    }
+    if (last >= count) return;
+    try {
+      localStorage.setItem("crumb:v2:" + key, String(count));
+    } catch {
+      /* ignore */
+    }
+    toast(count >= 7 ? `${count} ימים ברצף. זה כבר הרגל.` : `${count} ימים ברצף. יפה.`);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [count]);
+}
+
 export function Today({ now, visible }: { now: Date; visible: boolean }) {
   const { slot, auto, isManual, pending, choose, dismissPending } = useEditionSlot(now);
-  const { read, answers, saved } = useStore();
+  const { read, answers, saved, days } = useStore();
+  const streak = computeStreak(days, now);
+  useStreakMilestones(streak.today ? streak.count : 0);
   const meta = editions[slot.period];
   const edition = useEdition(slot);
   const { data: topics, error, retry } = useTopics(edition?.topics ?? []);
@@ -263,15 +301,24 @@ export function Today({ now, visible }: { now: Date; visible: boolean }) {
             <bdi>{done}</bdi> מתוך <bdi>{total}</bdi> גילויים
           </span>
         </div>
+        {streak.count >= 2 && (
+          <p className={`streak ${streak.today ? "streak--lit" : ""}`}>
+            <Flame size={15} aria-hidden="true" />
+            <span>
+              <bdi>{streak.count}</bdi> ימים ברצף
+              {!streak.today && <span className="streak__hint"> · עוד כתבה אחת היום כדי לשמור עליו</span>}
+            </span>
+          </p>
+        )}
       </section>
 
       <div className="feed">
         {modules.map((m, i) => (
-          <ModuleView key={`${slot.date}-${slot.period}-${i}`} module={m} />
+          <ModuleView key={`${slot.date}-${slot.period}-${i}`} module={m} now={now} />
         ))}
       </div>
 
-      {ready && <Ending meta={meta} topics={topics} done={done} total={total} savedCount={saved.length} />}
+      {ready && <Ending meta={meta} slot={slot} now={now} topics={topics} done={done} total={total} savedCount={saved.length} streak={streak.count} />}
 
       <ArchiveDialog
         open={archiveOpen}
@@ -287,7 +334,7 @@ export function Today({ now, visible }: { now: Date; visible: boolean }) {
   );
 }
 
-function ModuleView({ module: m }: { module: Module }) {
+function ModuleView({ module: m, now }: { module: Module; now: Date }) {
   switch (m.type) {
     case "pair":
       return (
@@ -303,7 +350,15 @@ function ModuleView({ module: m }: { module: Module }) {
     case "spotlight":
       return <SpotlightCard topic={m.topic} from="today" />;
     case "quiz":
-      return <Quiz topic={m.topic} from="today" />;
+      return m.pretest ? (
+        <Quiz topic={m.topic} from="today" pretest kicker="נחשו לפני שקוראים" context="התשובה מחכה בכתבה הראשית של המהדורה." />
+      ) : (
+        <Quiz topic={m.topic} from="today" />
+      );
+    case "game":
+      return <Game now={now} from="today" compact />;
+    case "recall":
+      return <Recall now={now} from="today" />;
     case "lab":
       return <Lab id={m.lab} from="today" />;
     case "strip":
@@ -315,7 +370,68 @@ function ModuleView({ module: m }: { module: Module }) {
   }
 }
 
-function Ending({ meta, topics, done, total, savedCount }: { meta: EditionMeta; topics: Topic[]; done: number; total: number; savedCount: number }) {
+/** The slot after this one: later today, or tomorrow morning. */
+function nextSlot(slot: Slot): Slot {
+  const i = periods.indexOf(slot.period);
+  return i < periods.length - 1 ? { date: slot.date, period: periods[i + 1] } : { date: addDays(slot.date, 1), period: periods[0] };
+}
+
+/** A question from the next edition's cover, to leave something open until it arrives. */
+function NextTeaser({ slot, now }: { slot: Slot; now: Date }) {
+  const next = nextSlot(slot);
+  const edition = useEdition(next);
+  const cover = edition?.topics[0] ? getTopic(edition.topics[0]) : undefined;
+  if (!cover) return null;
+  const published = isPublished(next, now);
+  const when = next.date === slot.date ? `ב${editions[next.period].name}` : "מחר בבוקר";
+  return (
+    <div className="teaser">
+      <p className="eyebrow teaser__kicker">
+        <Lock size={12} aria-hidden="true" /> {published ? `כבר יצאה: מהדורת ה${editions[next.period].name}` : `${when}, ב־${formatHour(editions[next.period].hour)}`}
+      </p>
+      <p className="teaser__headline">{cover.headline}</p>
+      <p className="teaser__sub">{published ? "אפשר לעבור אליה מלמעלה." : "הסיפור המלא נפתח כאן כשהמהדורה יוצאת."}</p>
+    </div>
+  );
+}
+
+/** One thing to cook: a recipe from this edition, or one from the library. */
+function CookSuggestion({ topics, slot }: { topics: Topic[]; slot: Slot }) {
+  const inEdition = topics.find((t) => t.recipe);
+  const pool = allTopics().filter((t) => t.hasRecipe);
+  const pick = inEdition ?? (pool.length ? pool[hash(slot.date + slot.period) % pool.length] : undefined);
+  if (!pick) return null;
+  return (
+    <button type="button" className="ending__cook" onClick={() => nav.openTopic(pick.id, { from: "today", fresh: true })}>
+      <ChefHat size={20} aria-hidden="true" />
+      <span>
+        <span className="eyebrow">אולי מתחשק לבשל?</span>
+        <span className="ending__cook-name">מתכון: {pick.name}</span>
+      </span>
+      <ArrowLeft size={18} aria-hidden="true" className="ending__onward-arrow" />
+    </button>
+  );
+}
+
+function Ending({
+  meta,
+  slot,
+  now,
+  topics,
+  done,
+  total,
+  savedCount,
+  streak,
+}: {
+  meta: EditionMeta;
+  slot: Slot;
+  now: Date;
+  topics: Topic[];
+  done: number;
+  total: number;
+  savedCount: number;
+  streak: number;
+}) {
   const ids = topics.map((t) => t.id);
   // Suggest one connection that leads outside this edition.
   const onward = topics.flatMap((t) => t.related).find((r) => !ids.includes(r.target) && getTopic(r.target));
@@ -326,10 +442,11 @@ function Ending({ meta, topics, done, total, savedCount }: { meta: EditionMeta; 
       <h2 className="ending__title" id="ending-title">
         זה הכול להפעם.
       </h2>
-      <p className="ending__sub">אולי מתחשק לבשל?</p>
       <p className="ending__status">
         {done === total ? "עברתם על כל המהדורה." : <>עברתם על <bdi>{done}</bdi> מתוך <bdi>{total}</bdi> גילויים. השאר יחכו כאן.</>}
+        {streak >= 2 && <> {streak} ימים ברצף.</>}
       </p>
+      <CookSuggestion topics={topics} slot={slot} />
       <div className="ending__actions">
         {onwardTopic && (
           <button type="button" className="ending__onward" onClick={() => nav.openTopic(onwardTopic.id, { from: "today", fresh: true })}>
@@ -350,6 +467,7 @@ function Ending({ meta, topics, done, total, savedCount }: { meta: EditionMeta; 
           </button>
         </div>
       </div>
+      <NextTeaser slot={slot} now={now} />
       <p className="ending__next">{meta.closing} ועד אז, אפשר גם פשוט לסגור את האפליקציה.</p>
     </section>
   );

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ImageOff } from "lucide-react";
+import { ChefHat, Coffee, Croissant, FlaskConical, ImageOff, Carrot, Soup, type LucideIcon } from "lucide-react";
 import type { ImageRef, Kind } from "../types";
 
 interface Props {
@@ -19,11 +19,23 @@ interface Props {
 
 const base = import.meta.env.BASE_URL;
 
-/** Typographic artwork for topics whose photo is still being sourced. */
+const kindIcons: Record<Kind, LucideIcon> = {
+  baking: Croissant,
+  science: FlaskConical,
+  ingredients: Carrot,
+  dishes: Soup,
+  drinks: Coffee,
+  techniques: ChefHat,
+};
+
+/** Drawn artwork for topics whose photo is still being sourced: a printed-label look, not a gap. */
 function Art({ name, kind, className, heroId }: { name?: string; kind?: Kind; className: string; heroId?: string }) {
+  const Icon = kindIcons[kind ?? "science"];
   return (
     <div className={`pic pic--art pic--art-${kind ?? "science"} ${className}`} data-hero-id={heroId} aria-hidden="true">
-      <span className="pic__letter">{name?.[0] ?? "·"}</span>
+      <span className="pic__icon">
+        <Icon strokeWidth={1.25} />
+      </span>
       <span className="pic__word">{name}</span>
     </div>
   );

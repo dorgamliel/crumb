@@ -113,5 +113,10 @@
   "review": {
     "checkedAt": "2026-11-10",
     "notes": "Production, varieties, wax, prune and brandy facts confirmed on Wikipedia pages; narrowed the Japanese-plum parentage claim to US cultivars and fixed an ambiguous sentence."
-  }
+  },
+  "season": [
+    6,
+    7,
+    8
+  ]
 }

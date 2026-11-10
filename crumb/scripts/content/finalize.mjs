@@ -39,5 +39,41 @@ for (const f of readdirSync(TOPICS_DIR).filter((f) => f.endsWith(".json"))) {
   }
   rmSync(verdictFile);
 }
+// Recipes added to already-published topics wait in `recipeDraft` until their own check passes
+// (content/state/checks/<id>.recipe.json); the published article is untouched meanwhile.
+let recipes = 0;
+for (const f of readdirSync(TOPICS_DIR).filter((f) => f.endsWith(".json"))) {
+  const file = join(TOPICS_DIR, f);
+  const t = readJson(file);
+  if (!t.recipeDraft) continue;
+  const verdictFile = join(CHECKS, `${t.id}.recipe.json`);
+  if (!existsSync(verdictFile)) continue;
+  const v = readJson(verdictFile);
+  if (v.verdict === "pass") {
+    t.recipe = t.recipeDraft;
+    recipes++;
+  } else if (v.verdict === "reject") {
+    rejected[`${t.id}.recipe`] = { date: today, name: `${t.name} (מתכון)`, reasons: v.issues ?? [] };
+  }
+  if (v.verdict === "pass" || v.verdict === "reject") {
+    delete t.recipeDraft;
+    writeJson(file, t);
+  }
+  rmSync(verdictFile);
+}
+// Verdicts on edits to published topics ("edit check"): a rejected edit must be reverted by the run
+// (git checkout of that file); here the verdict files are only cleared and counted.
+let edits = 0;
+const revert = [];
+if (existsSync(CHECKS)) {
+  for (const f of readdirSync(CHECKS).filter((f) => f.endsWith(".json") && !f.endsWith(".recipe.json"))) {
+    const v = readJson(join(CHECKS, f));
+    if (v.verdict === "reject") revert.push(v.id ?? f.replace(/\.json$/, ""));
+    else edits++;
+    rmSync(join(CHECKS, f));
+  }
+}
+if (revert.length) console.log(`finalize: revert these rejected edits with git checkout: ${revert.join(" ")}`);
 writeJson(join(STATE_DIR, "rejected.json"), rejected);
-console.log(`finalize: ${passed} passed, ${dropped} rejected, ${waiting} still waiting for a check`);
+console.log(`finalize: ${edits} edit(s) to published topics passed`);
+console.log(`finalize: ${passed} passed, ${dropped} rejected, ${waiting} still waiting for a check; ${recipes} recipe(s) added`);

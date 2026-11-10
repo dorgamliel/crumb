@@ -65,7 +65,17 @@ node scripts/content/finalize.mjs                 # apply the checker's verdicts
   (ה, ו, ב, ל, מ, ש, כ). Category filters, a connection map that recenters on the
   branch you pick, with a breadcrumb of where you've been, and a list of every topic.
 - **לומדים (Learn)**: 8 quizzes and 3 interactive explanations (dough hydration,
-  emulsions, browning), with no scores or streaks.
+  emulsions, browning), with no scores. Open questions come first, a few at a time.
+- **מה בצלחת? (daily game)**: one mystery dish, ingredient, bake or drink a day, as an extreme
+  close-up that zooms out with each wrong guess while clues add up. Five guesses, and a
+  spoiler-free emoji result to share. On Today (compact) and in Learn.
+- **Habit, gently**: a reading streak that forgives one missed day a week; a recall question
+  about something read 2–14 days ago ("זוכרים?"); a pre-question when the edition's quiz is about
+  its cover story; and a question from the next edition's cover at the end of each edition.
+- **הטעם שלכם**: a palate card in Saved built from what you read, shareable as an image; in
+  December it becomes the year in review.
+- **Recipes**: topics can carry a recipe with servings scaling, ingredient check-off and a cooking
+  mode that keeps the screen awake.
 - **שמורים (Saved)**: saved topics with undo, plus recent reading. Stored on this
   device only.
 - **Articles**: full-page reading view with a morphing hero image (View Transitions,
@@ -114,10 +124,12 @@ are imported once. Malformed or blocked storage falls back to memory.
   rawpixel credits come from the files' own pages. For the Unsplash photos, the
   photographer was not verified, so the credit says so rather than guessing. Licensing
   review is not production-complete.
-- Fonts (Heebo, Frank Ruhl Libre, DM Serif Display) are bundled via Fontsource, so the
-  app makes no runtime requests to Google Fonts.
-- **PWA**: manifest, icons and safe-area handling only. There is no service worker, so
-  offline use is not supported.
+- Fonts (Frank Ruhl Libre for editorial text, Heebo for the interface) are bundled via
+  Fontsource, so the app makes no runtime requests to Google Fonts.
+- **PWA and offline**: a service worker (public/sw.js, finished by scripts/postbuild.mjs) caches
+  the app shell, the index and every topic and photo already opened, so the app opens offline.
+- **Sharing**: each topic has a static page (t/<id>.html) with its own title, description and
+  photo for link previews; it opens the app at the topic.
 - No accounts and no sync between devices.
 - Tested in headless Chromium at 320–1280px. It has not been tested on physical iOS or
   Android devices, or in Safari or Firefox.

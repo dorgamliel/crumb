@@ -1,5 +1,45 @@
 [
  {
+  "id": "latkes",
+  "name": "לביבות",
+  "kind": "dishes"
+ },
+ {
+  "id": "tahini",
+  "name": "טחינה",
+  "kind": "ingredients"
+ },
+ {
+  "id": "chicken-soup",
+  "name": "מרק עוף",
+  "kind": "dishes"
+ },
+ {
+  "id": "roast-chicken",
+  "name": "עוף צלוי",
+  "kind": "dishes"
+ },
+ {
+  "id": "sea-bream",
+  "name": "דניס",
+  "kind": "ingredients"
+ },
+ {
+  "id": "salmon",
+  "name": "סלמון",
+  "kind": "ingredients"
+ },
+ {
+  "id": "meatballs",
+  "name": "קציצות",
+  "kind": "dishes"
+ },
+ {
+  "id": "kebab",
+  "name": "קבב",
+  "kind": "dishes"
+ },
+ {
   "id": "cream",
   "name": "שמנת",
   "kind": "ingredients"

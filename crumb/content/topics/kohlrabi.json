@@ -84,5 +84,12 @@
   "review": {
     "checkedAt": "2026-11-06",
     "notes": "Species, name, taste, size/woodiness, fibrous layers, purple skin, leaves, Cyprus and Kashmir verified on Wikipedia; removed unsupported superlative in dek, softened turnip and cultivar wording, fixed fact phrasing and an unverifiable relation line."
-  }
+  },
+  "season": [
+    11,
+    12,
+    1,
+    2,
+    3
+  ]
 }

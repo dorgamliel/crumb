@@ -92,5 +92,12 @@
   "review": {
     "checkedAt": "2026-11-01",
     "notes": "en.wikipedia Zucchini supports botany, 15-25 cm harvest, 93% water, patting dry before frying, kousa mahshi, medias, Lebanese kusa, Milan origin; fixed awkward 'מוקשית'; quiz index correct."
-  }
+  },
+  "season": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
 }

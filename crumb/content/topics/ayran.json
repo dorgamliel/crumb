@@ -97,5 +97,12 @@
   "review": {
     "checkedAt": "2026-10-30",
     "notes": "Ayran and Syneresis pages support ingredients, regions, Kashgari 11th-century mention, 'to separate' etymology, Iranic waterskin doogh, Susurluk and Yayik foam; quiz correct; no edits needed."
-  }
+  },
+  "season": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
 }

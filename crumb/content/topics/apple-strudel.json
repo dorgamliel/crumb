@@ -95,5 +95,12 @@
   "review": {
     "checkedAt": "2026-11-04",
     "notes": "Both Wikipedia pages support dough (no sugar/yeast, high-gluten flour, flogging, rest, hand stretching, newspaper), national dish, Jewish raisin filling, retes/baklava lineage, 1696 Vienna manuscript, firm tart apples incl. Granny Smith; minor Hebrew fix in paragraph 2."
-  }
+  },
+  "season": [
+    10,
+    11,
+    12,
+    1,
+    2
+  ]
 }

@@ -21,8 +21,8 @@ const MAX_PER_KIND = 3;
 // Topics still waiting for a photo show drawn artwork; an edition may hold only a couple of them.
 const MAX_WITHOUT_PHOTO = 2;
 
-// Only published topics: pipeline drafts wait until the independent check passes them.
-const topics = loadTopics().filter((t) => !(t.origin === "pipeline" && t.status === "draft"));
+// Only published topics: drafts wait until the independent check passes them.
+const topics = loadTopics().filter((t) => t.status !== "draft");
 
 const days = loadSchedule();
 if (REBUILD_FROM) for (const date of Object.keys(days)) if (date >= REBUILD_FROM) delete days[date];
@@ -62,6 +62,13 @@ function pickEdition(date, period, usedToday) {
     // Prefer topics connected to what is already in this edition, for a coherent read.
     if (picked.some((p) => p.related.some((r) => r.target === t.id) || t.related.some((r) => r.target === p.id))) s += 30;
     if (picked.filter((p) => p.kind === t.kind).length >= MAX_PER_KIND) s -= 500;
+    // Seasonal topics (fruit, holidays, hot and cold drinks) appear in their months and wait otherwise.
+    if (Array.isArray(t.season) && t.season.length) {
+      const month = Number(date.slice(5, 7));
+      s += t.season.includes(month) ? 60 : -3000;
+    }
+    // A recipe gives the edition something to cook; one per edition is plenty.
+    if (t.recipe && !picked.some((p) => p.recipe)) s += 25;
     return s + hash(date + period + t.id) * 5;
   };
   const picked = [];

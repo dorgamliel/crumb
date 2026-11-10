@@ -106,5 +106,11 @@
   "review": {
     "checkedAt": "2026-11-07",
     "notes": "All three sources load and support botany, 91%/6%, Sudan/Egypt, non-climacteric, field ripeness signs; removed unsourced Malali/Kfar Malal claim (replaced fact), unsourced thump tip and seed-coat detail; fixed 'second group' phrasing."
-  }
+  },
+  "season": [
+    6,
+    7,
+    8,
+    9
+  ]
 }

@@ -104,5 +104,11 @@
   "review": {
     "checkedAt": "2026-11-10",
     "notes": "Ajoblanco source confirms ingredients, serving, method, Almachar festival; made origin debate neutral (dropped dubious Arabs-brought-almonds claim) and removed unsourced 19th-century gazpacho date; fixed emulsion line."
-  }
+  },
+  "season": [
+    6,
+    7,
+    8,
+    9
+  ]
 }

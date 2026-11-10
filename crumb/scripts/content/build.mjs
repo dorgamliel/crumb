@@ -13,8 +13,13 @@ const writeJson = (p, data) => {
 const OUT = join(ROOT, "public", "content");
 rmSync(OUT, { recursive: true, force: true });
 
-// Pipeline drafts that have not passed the independent check are never published.
-const topics = loadTopics().filter((t) => !(t.origin === "pipeline" && t.status === "draft"));
+// Drafts (from the pipeline or from launch) are never published: only checked, sourced topics.
+// Reading time is measured, not declared: about 200 words a minute, rounded up.
+const words = (t) =>
+  [t.dek, ...t.body, ...(t.facts ?? []), t.takeaway, ...(t.recipe?.steps ?? [])].join(" ").split(/\s+/).filter(Boolean).length;
+const topics = loadTopics()
+  .filter((t) => t.status !== "draft")
+  .map(({ recipeDraft: _unchecked, origin: _o, ...t }) => ({ ...t, minutes: Math.max(1, Math.ceil(words(t) / 200)) }));
 const ids = new Set(topics.map((t) => t.id));
 
 // Oldest first, so tests and tools can sample "the newest" from the end.
@@ -29,6 +34,7 @@ const index = ordered.map((t) => ({
   keywords: t.keywords ?? [],
   related: t.related.filter((r) => ids.has(r.target)).map((r) => ({ target: r.target, kind: r.kind })),
   hasQuiz: Boolean(t.quiz),
+  ...(t.recipe ? { hasRecipe: true } : {}),
   status: t.status,
   added: t.addedAt ?? t.updatedAt,
 }));

@@ -101,5 +101,12 @@
   "review": {
     "checkedAt": "2026-11-02",
     "notes": "Both Wikipedia sources verified (liquid endosperm, 11 mm layers, 6-8 months, pressure spray, dwarf sweetness, niu kafa vs niu vai, nata de coco, vinegar in SE Asia and Goa); softened 'every seed has endosperm' and 'many prefer', smoothed one sentence."
-  }
+  },
+  "season": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
 }

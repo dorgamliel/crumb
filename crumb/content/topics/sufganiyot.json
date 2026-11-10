@@ -91,5 +91,9 @@
   "review": {
     "checkedAt": "2026-10-22",
     "notes": "All history claims match en.wikipedia Sufganiyah (Maimon ben Yosef, Gil Marks 1485 Nuremberg, Polish Jews, Histadrut); removed 'according to Wikipedia' from body, fixed yeast relation implying name origin, fixed quiz explanation attributing ponchki to Yiddish; photo OK."
-  }
+  },
+  "season": [
+    11,
+    12
+  ]
 }

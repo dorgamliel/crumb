@@ -104,5 +104,9 @@
   "review": {
     "checkedAt": "2026-11-03",
     "notes": "All 3 sources load and support botany, frost, Central Asia/China domestication, etymology, Turkey 20% (2023), Malatya, SO2 colour, qamar al-din; removed unsupported 'water so fragile' causal link and softened Ramadan wording; image null."
-  }
+  },
+  "season": [
+    5,
+    6
+  ]
 }

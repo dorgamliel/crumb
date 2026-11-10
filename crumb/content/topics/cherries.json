@@ -98,5 +98,9 @@
   "review": {
     "checkedAt": "2026-11-10",
     "notes": "Botany, etymology, 2020 production and cracking mechanism confirmed in Wikipedia and both PMC papers; changed 'European name' to 'English name' per source."
-  }
+  },
+  "season": [
+    5,
+    6
+  ]
 }

@@ -97,5 +97,12 @@
   "review": {
     "checkedAt": "2026-10-21",
     "notes": "Verified against en.wikipedia (history, La Varenne 1680, Dumas, Les Halles, club, cheeses) and Caramelization; fixed dek and quiz explanation that wrongly said old recipes were only onion, liquid and bread; toned headline; alt adjusted to photo."
-  }
+  },
+  "season": [
+    11,
+    12,
+    1,
+    2,
+    3
+  ]
 }

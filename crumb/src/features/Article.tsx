@@ -1,5 +1,5 @@
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
-import { ArrowLeft, ArrowRight, ChevronLeft, ExternalLink, Lightbulb, X } from "lucide-react";
+import { ArrowLeft, ArrowRight, ChevronLeft, ExternalLink, Lightbulb, Share2, X } from "lucide-react";
 import { getTopic, useTopic } from "../lib/content";
 import { kindLabels, relationLabels } from "../data/relations";
 import { HERO_NAME, nav } from "../lib/router";
@@ -11,6 +11,9 @@ import { Picture } from "../components/Picture";
 import { SaveButton } from "../components/SaveButton";
 import { ConnectionMap } from "../components/ConnectionMap";
 import { Quiz } from "../components/Quiz";
+import { RecipeCard } from "../components/RecipeCard";
+import { useToast } from "../components/Toast";
+import { shareText, topicShareUrl } from "../lib/share";
 
 export const tabLabels: Record<Tab, string> = { today: "היום", atlas: "אטלס", learn: "לומדים", saved: "שמורים" };
 const returnLabels: Record<Tab, string> = {
@@ -109,6 +112,7 @@ export function Article({ route }: { route: Route }) {
             })}
           </ol>
         </nav>
+        <ShareButton id={id} headline={topic.headline} />
         <SaveButton id={id} />
         <button type="button" className="icon-button" onClick={() => nav.close()} aria-label={`סגירה: ${returnLabels[route.tab]}`}>
           <X size={20} aria-hidden="true" />
@@ -129,6 +133,7 @@ export function Article({ route }: { route: Route }) {
         <h1 className="article__title" id="article-title" tabIndex={-1} ref={titleRef}>
           {topic.headline}
         </h1>
+        {full?.column && <p className="eyebrow article__column">{full.column}</p>}
         {full && <p className="article__dek">{full.dek}</p>}
       </header>
 
@@ -161,6 +166,24 @@ export function Article({ route }: { route: Route }) {
   );
 }
 
+function ShareButton({ id, headline }: { id: string; headline: string }) {
+  const toast = useToast();
+  return (
+    <button
+      type="button"
+      className="icon-button"
+      aria-label="שיתוף הכתבה"
+      onClick={async () => {
+        const r = await shareText(headline, topicShareUrl(id), "Crumb");
+        if (r === "copied") toast("הקישור הועתק");
+        if (r === "failed") toast("לא הצלחנו לשתף. נסו שוב");
+      }}
+    >
+      <Share2 size={19} aria-hidden="true" />
+    </button>
+  );
+}
+
 function ArticleBody({ topic, route }: { topic: Topic; route: Route }) {
   const id = topic.id;
   const image = topic.image;
@@ -187,6 +210,8 @@ function ArticleBody({ topic, route }: { topic: Topic; route: Route }) {
           </ul>
         </aside>
       )}
+
+      {topic.recipe && <RecipeCard recipe={topic.recipe} name={topic.name} />}
 
       <aside className="takeaway" aria-labelledby="takeaway-title">
         <h2 id="takeaway-title">

@@ -103,5 +103,12 @@
   "review": {
     "checkedAt": "2026-10-30",
     "notes": "All 3 sources load and support claims (hogweed origin, beet sour added late, betanin pH/heat, Jewish variants, UNESCO 2022, Kuban). Softened dek color claim, fixed braising verb, replaced quiz distractor that was partly true (acid keeps vegetables firm)."
-  }
+  },
+  "season": [
+    11,
+    12,
+    1,
+    2,
+    3
+  ]
 }

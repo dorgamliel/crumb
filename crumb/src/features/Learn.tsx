@@ -5,6 +5,7 @@ import { addDays, currentSlot, isAvailable, type Slot } from "../lib/schedule";
 import { useStore } from "../lib/storage";
 import { Quiz } from "../components/Quiz";
 import { Lab } from "../labs";
+import { Game } from "./Game";
 
 const WEEK = 7;
 
@@ -37,12 +38,20 @@ export function Learn({ now }: { now: Date }) {
   const { data: topics } = useTopics(ids ?? []);
   const quizzes = (ids && topics ? topics : []).filter((t) => t.quiz);
   const answered = quizzes.filter((q) => answers[q.id] !== undefined).length;
+  // A few at a time, open questions first, instead of one very long page.
+  const [shown, setShown] = useState(3);
+  const [firstOpen] = useState(() => new Set(Object.keys(answers)));
+  const ordered = [...quizzes].sort((a, b) => Number(firstOpen.has(a.id)) - Number(firstOpen.has(b.id)));
   return (
     <div className="learn">
       <header className="page-head">
         <h1 className="page-head__title">לומדים</h1>
         <p className="page-head__sub">בלי ציונים ובלי לחץ. שאלה קטנה, הסבר טוב, ואולי גם ניסוי.</p>
       </header>
+
+      <div className="learn__section">
+        <Game now={now} from="learn" />
+      </div>
 
       <section aria-labelledby="quizzes-title" className="learn__section">
         <div className="learn__head">
@@ -61,10 +70,15 @@ export function Learn({ now }: { now: Date }) {
               טוענים שאלות…
             </p>
           )}
-          {quizzes.map((t) => (
+          {ordered.slice(0, shown).map((t) => (
             <Quiz key={t.id} topic={t} from="learn" headingLevel={3} />
           ))}
         </div>
+        {ordered.length > shown && (
+          <button type="button" className="pill-button pill-button--quiet learn__more" onClick={() => setShown((n) => n + 3)}>
+            עוד שאלות ({ordered.length - shown})
+          </button>
+        )}
       </section>
 
       <section aria-labelledby="labs-title" className="learn__section">

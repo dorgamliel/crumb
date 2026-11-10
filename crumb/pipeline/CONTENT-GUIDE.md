@@ -45,6 +45,14 @@ happen, be surprised, and come away with one thing they could try.
     "compare": { "title": "…", "sides": [{ "label": "…", "text": "…" }, { "label": "…", "text": "…" }] },
     "steps":   { "title": "…", "steps": ["…", "…", "…"] }
   },
+  "season": [11, 12, 1],               // optional: months (1–12) when the subject is in season or a holiday is near
+  "recipe": {                          // optional; wanted for dishes and bakes people cook at home (see "Recipes")
+    "serves": 4, "minutes": 40,
+    "ingredients": [{ "amount": 2, "unit": "כפות", "item": "שמן זית", "group": "לרוטב" }],
+    "steps": ["…", "…"],
+    "note": "…",
+    "source": { "title": "…", "publisher": "…", "url": "https://…" }
+  },
   "origin": "pipeline",
   "review": { "checkedAt": "2026-10-10", "notes": "…" }   // written by the pipeline from the checker's verdict
 }
@@ -53,6 +61,55 @@ happen, be surprised, and come away with one thing they could try.
 Relation kinds describe what the *target* is to this topic: `process` (shares a process),
 `explains` (the target explains this), `ingredient`, `technique`, `relative` (close cousin),
 `affects` (changes the outcome), `example` (an example of this in the kitchen).
+
+## Voice: a magazine, not an encyclopedia
+
+Crumb must not read like a translated encyclopedia entry. Every topic needs a point of view: a
+surprising angle, a sharp opinion a good cook would defend, a local detail, a myth to correct.
+Ask: would a curious friend forward this paragraph? If it could appear on any website, rewrite it.
+
+- **Open with the most interesting thing**, never with a definition or "X הוא…". Good openers: a
+  scene ("ביום שישי בבוקר, בשוק הכרמל…"), a contradiction, a number that surprises, a mistake
+  everyone makes.
+- **The Israeli kitchen is home.** When a subject has a local life (שוק, עונה, חג, מסעדה, how
+  it is called or eaten here, "הפוך" for a café au lait), bring it in. Do not force it.
+- **Vary the shape.** Not every topic is three paragraphs and three facts. Use the angles: a myth
+  and its correction, a comparison, a short timeline, a "what goes wrong" list.
+- **Banned openers and tics.** Headlines starting with "למה" are allowed for at most 3 of a
+  night's topics (the validator counts). The takeaway must not start with "בפעם הבאה". Avoid
+  "בדרך כלל" and "בערך" more than once each per topic; hedge precisely or not at all.
+- **Columns.** Give each new topic one of these in `column` (shown as a kicker over time):
+  `"המטבח הישראלי"`, `"מיתוס או אמת"`, `"מעבדה"`, `"מאחורי המנה"`, `"בשוק עכשיו"`, `"טכניקה בדקה"`.
+  A night's batch should cover at least three different columns.
+
+## Sources beyond Wikipedia
+
+Wikipedia is a starting point, not a voice. Every new topic needs at least one source that is not
+Wikipedia: a university or extension service, a national food agency, a museum, a serious food
+publisher (Serious Eats, King Arthur Baking, America's Test Kitchen, Bon Appétit, Ynet/Haaretz
+food sections, Israeli cookbooks' publisher pages), or a peer-reviewed paper. The validator checks.
+
+## Recipes
+
+Dishes and bakes that people make at home should carry a `recipe`. Base it on a tested recipe from
+a reputable publisher you actually opened (set `recipe.source`), rewrite it in your own Hebrew, and
+keep it home-cook friendly: metric units (גרם, מ״ל, כפות, כפיות, כוס), 4–12 ingredients, 3–8 steps,
+each step one action with time and a visual cue ("עד שהבצל שקוף, כ־8 דקות"). `amount` is a number
+for the base `serves` (it is scaled in the app); leave it out for "לפי הטעם". Meat, poultry and fish:
+cook to the temperatures in official guidance and say so in a step. No recipes for canning,
+curing, raw meat or fish, or infused oils.
+
+## Seasons
+
+Set `season` for fruit and vegetables with a clear Israeli season, holiday foods (סופגניות:
+`[11, 12]`), and drinks tied to hot or cold weather. Scheduling shows them in season and holds
+them back otherwise. Leave it out for anything eaten all year.
+
+## Quizzes that teach, not tricks
+
+The right option must not stand out: similar length to the others (the validator rejects a correct
+answer more than 30% longer than the longest wrong one), similar grammar, no "all of the above". The
+app shuffles option order, so write them in any order.
 
 ## Accuracy
 

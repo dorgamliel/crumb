@@ -85,5 +85,9 @@
   "review": {
     "checkedAt": "2026-11-05",
     "notes": "Panettone page supports name, legends, 1599 Pavia record, 1853 recipe, Motta, fat and mixing, upside-down cooling, 12-15 cm, Peru and pudding; fixed dek implying centuries-old shape and a vague brioche relation line."
-  }
+  },
+  "season": [
+    11,
+    12
+  ]
 }

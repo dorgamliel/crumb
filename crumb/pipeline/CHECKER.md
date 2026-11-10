@@ -30,7 +30,12 @@ For each topic:
 4. **Safety.** Nothing that could make someone ill if followed. When unsure, remove it.
 5. **Hebrew.** Natural, idiomatic, plural address, no slashes, no Latin letters except a
    botanical name, no exclamation marks or marketing tone, consistent terms. Fix awkward phrasing.
-6. **Photo.** If `image` is not null, look at `REPO/crumb/public/img/<id>-720.webp`
+6. **Recipe.** If the topic has `recipe` (or `recipeDraft`), open `recipe.source` and check that
+   the quantities, temperatures and times follow it (rewritten, not copied), that the steps are
+   safe (poultry, meat and fish cooked through per official guidance), and that it works as written.
+7. **Voice.** Flag a topic that reads like a translated encyclopedia entry (see "Voice" in the
+   guide): fix the opening yourself if it is a small edit.
+8. **Photo.** If `image` is not null, look at `REPO/crumb/public/img/<id>-720.webp`
    (open it with your file-reading tool). It must clearly show the subject and match its alt text.
 
 You may make small corrections yourself, directly in the topic file: fix Hebrew, soften or delete
@@ -47,6 +52,11 @@ Then write your verdict to `REPO/crumb/content/state/checks/<id>.json`:
 - `pass`: everything is supported and safe, possibly after your small fixes.
 - `reject`: a central claim is false or unsupported, the topic is unsafe, or it would need
   rewriting rather than editing. List the reasons in `issues`. Rejected topics are deleted.
+
+For an "edit check: <id>", the topic is already published and was just polished: check the
+changed quiz, takeaway and source as above, and write a normal verdict. For a recipe added to an already-published topic (you were told "recipe check: <id>"), check only
+`recipeDraft` and write the verdict to `REPO/crumb/content/state/checks/<id>.recipe.json` in the
+same format.
 
 Be strict. Rejecting a decent topic costs little; publishing a wrong one costs trust.
 Your final answer: one line per topic, `<id>: pass|reject — reason`.

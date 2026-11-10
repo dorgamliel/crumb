@@ -18,8 +18,10 @@ interface HistState {
 export function parseHash(hash: string): Route {
   const parts = hash.replace(/^#\/?/, "").split("/").filter(Boolean).map(decodeURIComponent);
   const tab = TABS.includes(parts[0] as Tab) ? (parts[0] as Tab) : "today";
-  const trail = parts.slice(TABS.includes(parts[0] as Tab) ? 1 : 0).filter((id) => getTopic(id));
-  return { tab, trail };
+  const wanted = parts.slice(TABS.includes(parts[0] as Tab) ? 1 : 0);
+  const trail = wanted.filter((id) => getTopic(id));
+  // A link to a topic that does not exist (or a mistyped address) is reported, not silently dropped.
+  return trail.length === wanted.length ? { tab, trail } : { tab, trail, missing: true };
 }
 
 export function toHash(route: Route): string {
@@ -46,7 +48,7 @@ export const HERO_NAME = "topic-hero";
 
 function withTransition(update: () => void, returningTo?: string) {
   const doc = document as Document & {
-    startViewTransition?: (cb: () => void) => { finished: Promise<void> };
+    startViewTransition?: (cb: () => void) => { finished: Promise<void>; ready?: Promise<void>; updateCallbackDone?: Promise<void> };
   };
   if (!doc.startViewTransition || reducedMotion()) {
     update();
@@ -65,7 +67,10 @@ function withTransition(update: () => void, returningTo?: string) {
       }
     }
   });
-  t.finished.finally(() => {
+  // A transition skipped by a newer one rejects `ready`; that is expected, not an error.
+  t.ready?.catch(() => {});
+  t.updateCallbackDone?.catch(() => {});
+  t.finished.catch(() => {}).finally(() => {
     marked.forEach((el) => (el.style.viewTransitionName = ""));
     document.querySelectorAll<HTMLElement>("[data-vt-marked]").forEach((el) => {
       el.style.viewTransitionName = "";

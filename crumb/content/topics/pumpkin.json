@@ -117,5 +117,11 @@
   "review": {
     "checkedAt": "2026-11-02",
     "notes": "All three sources load and support species, 7000-5500 BCE, 92% water, edible parts, seed oil, winter vs summer squash, fesenjan pumpkin; fixed two awkward Hebrew phrases."
-  }
+  },
+  "season": [
+    9,
+    10,
+    11,
+    12
+  ]
 }

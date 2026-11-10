@@ -20,7 +20,13 @@ this session, use that checkout. Otherwise call the `add_repo` tool (claude-code
 refused or reports an access problem, do not stop: do the whole run, and at step 8 a refused push
 falls back to the `crumb-run-<date>` branch, so nothing is lost.
 
+Network: the content scripts use Node's fetch, which uses the session proxy only with
+`NODE_USE_ENV_PROXY=1`. Export it before running `source.mjs` or `image.mjs`. If sources are
+refused with 403 by the proxy, the environment does not allow those sites: stop writing (no topic
+without opened sources), still run schedule, build and tests, and say so in the run log.
+
 ```sh
+export NODE_USE_ENV_PROXY=1
 cd <crumb checkout>   # the dorgamliel/crumb clone; check: git remote get-url origin
 git checkout main && git pull --ff-only origin main
 cd crumb && npm ci
@@ -42,7 +48,28 @@ and Hebrew names, the path to `pipeline/CONTENT-GUIDE.md`, three good existing t
 (e.g. `gluten`, `emulsions`, `tangzhong`), the list of all existing ids plus today's new ids as
 valid relation targets, and these rules: sources only through `scripts/content/source.mjs`;
 `image: null`; `status: "draft"`; `origin: "pipeline"`; `addedAt`/`updatedAt` = today; run
-`node scripts/content/validate.mjs <ids>` and fix errors; write nothing else.
+`node scripts/content/validate.mjs <ids>` and fix errors; write nothing else. Tell them to read the
+"Voice", "Sources beyond Wikipedia", "Recipes", "Seasons" and "Quizzes" sections of the guide
+first: every topic gets a `column`, a non-Wikipedia source, `season` when it has one, and dishes
+and bakes cooked at home get a `recipe`. Across the batch: at least three columns, at most three
+headlines starting with "למה".
+
+### 2a. Polish older topics
+
+Start one writer to improve 10 older topics listed by `node scripts/content/validate.mjs --legacy`
+(quiz answers that give themselves away by length first, then takeaways starting "בפעם הבאה",
+then topics without a non-Wikipedia source). Wording only: balance the quiz options, rewrite the
+takeaway opening, add one opened non-Wikipedia source. In step 5 give each to a checker as
+"edit check: <id>"; if the checker rejects an edit, restore the file with `git checkout -- <file>`.
+
+### 2b. Recipes for existing topics
+
+Start one more writer for recipes: pick 4 published topics of kind `dishes` or `baking` without
+`recipe` (home-cooked first, Israeli first; `node -e` over `content/topics` finds them). For each,
+find a tested recipe from a reputable publisher with `scripts/content/source.mjs`, and add it to
+the topic as `recipeDraft` (same shape as `recipe`, with `source`). Do not touch anything else in
+the file. Validate with `node scripts/content/validate.mjs <ids>`. In step 5, give each of these
+topics to a checker as "recipe check: <id>".
 
 If a writer fails or times out, continue with whatever topics exist.
 
@@ -92,7 +119,7 @@ weeks later. Future editions are locked in the app, so readers never see them ch
 ```sh
 node scripts/content/validate.mjs
 npm run build
-npx playwright test
+npx playwright test     # if the browser download is blocked: CHROMIUM_PATH=<an installed chrome> npx playwright test
 ```
 
 If tests fail: read the failure. If a new topic causes it, move that topic back to draft

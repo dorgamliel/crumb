@@ -58,11 +58,33 @@ const isStringArray = (v: unknown): v is string[] => Array.isArray(v) && v.every
 const isAnswers = (v: unknown): v is Record<string, number> =>
   !!v && typeof v === "object" && !Array.isArray(v) && Object.values(v).every((x) => typeof x === "number");
 
+const isStringRecord = (v: unknown): v is Record<string, string> =>
+  !!v && typeof v === "object" && !Array.isArray(v) && Object.values(v).every((x) => typeof x === "string");
+
+/** One day's guessing game: the guesses made (topic ids) and whether it was solved. */
+export interface GameDay {
+  guesses: string[];
+  solved: boolean;
+}
+const isGames = (v: unknown): v is Record<string, GameDay> =>
+  !!v &&
+  typeof v === "object" &&
+  !Array.isArray(v) &&
+  Object.values(v).every((g) => !!g && typeof g === "object" && isStringArray((g as GameDay).guesses) && typeof (g as GameDay).solved === "boolean");
+
 interface State {
   saved: string[];
   read: string[];
   recent: string[];
   answers: Record<string, number>;
+  /** Local date (YYYY-MM-DD) each topic was first read. Older reads have no date. */
+  readAt: Record<string, string>;
+  /** Local dates on which the reader read, answered or played something. Newest last. */
+  days: string[];
+  /** The daily guessing game, by date. */
+  games: Record<string, GameDay>;
+  /** Local date each question was answered, by answer key. */
+  answeredOn: Record<string, string>;
 }
 
 function migrateLegacy() {
@@ -103,7 +125,21 @@ let state: State = {
   read: read("read", [], isStringArray),
   recent: read("recent", [], isStringArray),
   answers: migrateQuizIds(read("answers", {}, isAnswers)),
+  readAt: read("readAt", {}, isStringRecord),
+  days: read("days", [], isStringArray),
+  games: read("games", {}, isGames),
+  answeredOn: read("answeredOn", {}, isStringRecord),
 };
+
+function localDate(d = new Date()): string {
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+}
+
+/** Records that the reader did something today (reading, answering, playing). */
+function touchToday() {
+  const today = localDate();
+  if (state.days[state.days.length - 1] !== today) set("days", [...state.days.filter((d) => d !== today), today].slice(-400));
+}
 
 const listeners = new Set<() => void>();
 
@@ -137,13 +173,23 @@ export const store = {
   },
   markRead(id: string) {
     if (!state.read.includes(id)) set("read", [...state.read, id]);
+    if (!state.readAt[id]) set("readAt", { ...state.readAt, [id]: localDate() });
     set("recent", [id, ...state.recent.filter((x) => x !== id)].slice(0, 12));
+    touchToday();
   },
   clearRecent() {
     set("recent", []);
   },
   answer(quiz: string, option: number) {
     set("answers", { ...state.answers, [quiz]: option });
+    set("answeredOn", { ...state.answeredOn, [quiz]: localDate() });
+    touchToday();
+  },
+  guess(date: string, topicId: string, solved: boolean) {
+    const g = state.games[date] ?? { guesses: [], solved: false };
+    if (g.solved || g.guesses.includes(topicId)) return;
+    set("games", { ...state.games, [date]: { guesses: [...g.guesses, topicId], solved } });
+    touchToday();
   },
   resetAnswer(quiz: string) {
     const next = { ...state.answers };
