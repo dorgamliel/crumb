@@ -25,9 +25,9 @@ flowchart LR
     B --> D[Deploy<br/>push to main]
   end
 
-  subgraph Repo["GitHub: dorgamliel/ra (main)"]
+  subgraph Repo["GitHub: dorgamliel/crumb (main)"]
     CT[(crumb/content/<br/>topics, schedule, state)]
-    APP[crumb-app/<br/>built site]
+    APP[docs/<br/>built site]
   end
 
   subgraph Free["Free public sources"]
@@ -98,7 +98,7 @@ sequenceDiagram
   R->>R: finalize.mjs → schedule.mjs (21 days ahead)
   R->>R: build + Playwright tests
   alt tests pass
-    R->>GH: commit content + crumb-app/, push
+    R->>GH: commit content + docs/, push
   else tests fail
     R->>R: hold back the offending topics, or skip deploy
     R->>GH: commit only validated content + run log
@@ -160,7 +160,7 @@ crumb/
   scripts/content/            build, validate, schedule, image, source, finalize
   src/                        the app (React + TypeScript + Vite)
   docs/ARCHITECTURE.md        this file
-crumb-app/                    the built site GitHub Pages serves
+docs/                         the built site GitHub Pages serves (main / docs)
 ```
 
 ## Limits worth knowing

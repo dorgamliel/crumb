@@ -22,7 +22,7 @@ import { join } from "node:path";
 import sharp from "sharp";
 import { PUBLIC_IMG, ROOT, STATE_DIR, TOPICS_DIR, loadTopics, readJson, writeJson } from "./lib.mjs";
 
-const UA = "CrumbContentBot/1.0 (educational prototype; https://dorgamliel.github.io/ra/crumb-app/)";
+const UA = "CrumbContentBot/1.0 (educational prototype; https://dorgamliel.github.io/crumb/)";
 const CACHE = join(STATE_DIR, "image-search-cache.json");
 const CANDIDATES = join(ROOT, ".image-candidates");
 const MIN_INTERVAL = { "api.openverse.org": 4000, "upload.wikimedia.org": 1500, default: 1000 };

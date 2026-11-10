@@ -14,7 +14,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { ROOT, STATE_DIR, readJson, writeJson } from "./lib.mjs";
 
-const UA = "CrumbContentBot/1.0 (educational prototype; https://dorgamliel.github.io/ra/crumb-app/)";
+const UA = "CrumbContentBot/1.0 (educational prototype; https://dorgamliel.github.io/crumb/)";
 const CACHE = join(ROOT, ".source-cache");
 const LOG = join(STATE_DIR, "sources.json");
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));

@@ -1,8 +1,8 @@
 # Daily content run
 
 This is what the scheduled Claude routine does every night. Read it fully before starting.
-The repository is `dorgamliel/ra`; the app lives in `crumb/`, and the live site is the build in
-`crumb-app/` on `main` (GitHub Pages). Work directly on `main`.
+The repository is `dorgamliel/crumb`; the app lives in `crumb/`, and the live site is the build in
+`docs/` on `main` (GitHub Pages serves `main` / `docs`, at https://dorgamliel.github.io/crumb/). Work directly on `main`.
 
 **The prime rule: nothing blocks the run.** Every step below is allowed to fail. When a step
 fails, note it for the run log and continue with the next step. A run that adds zero topics but
@@ -13,14 +13,15 @@ Budget: aim for about 15 new topics per run. Prefer fewer, better topics over mo
 
 ## 0. Set up
 
-If the repository is already checked out at `/home/user/ra`, do not request access: the session
-already has it, and pushes from it work. Only when there is no checkout, call the `add_repo` tool
-(claude-code-remote) with `owner: "dorgamliel"`, `repo: "ra"`, `access: "push"`. If that call is
+Crumb used to live inside `dorgamliel/ra` (an unrelated site). It no longer does: never commit to
+or push to `dorgamliel/ra`. If `dorgamliel/crumb` is already checked out and attached for push in
+this session, use that checkout. Otherwise call the `add_repo` tool (claude-code-remote) with
+`owner: "dorgamliel"`, `repo: "crumb"`, `access: "push"` and clone it where that tool says. If that call is
 refused or reports an access problem, do not stop: do the whole run, and at step 8 a refused push
 falls back to the `crumb-run-<date>` branch, so nothing is lost.
 
 ```sh
-cd /home/user/ra   # or wherever the repo is cloned
+cd <crumb checkout>   # the dorgamliel/crumb clone; check: git remote get-url origin
 git checkout main && git pull --ff-only origin main
 cd crumb && npm ci
 ```
@@ -72,7 +73,8 @@ attempt, delete its file and add it back to the end of the backlog.
 
 Group the draft topics (all files with `"origin": "pipeline"` and `"status": "draft"`, including
 leftovers from earlier runs) in threes. For each group, start a **fresh** sub-agent whose prompt is
-the text of `pipeline/CHECKER.md` below its `---` line, followed by the topic ids. Do not add any
+the text of `pipeline/CHECKER.md` below its `---` line, with every `REPO` replaced by the
+absolute path of the checkout, followed by the topic ids. Do not add any
 context about how the topics were written. Run up to 5 checkers in parallel.
 
 Then: `node scripts/content/finalize.mjs`. Passed topics go live; rejected ones are deleted and
@@ -101,10 +103,10 @@ not about content (or you cannot tell), do not deploy; commit only `content/` an
 ## 8. Deploy
 
 ```sh
-# Keep old files in crumb-app/assets: phones that cached the previous page (GitHub caches it
+# Keep old files in docs/assets: phones that cached the previous page (GitHub caches it
 # for 10 minutes) still request the old JS/CSS, and deleting them shows a broken page or 404.
-git rm -r -q --ignore-unmatch ../crumb-app/content && mkdir -p ../crumb-app && cp -r dist/. ../crumb-app/
-cd .. && git add crumb crumb-app
+git rm -r -q --ignore-unmatch ../docs/content && mkdir -p ../docs && cp -r dist/. ../docs/
+cd .. && git add crumb docs
 git commit -m "Crumb content run <date>: <n> new topics"
 git push origin main     # on rejection: git pull --rebase origin main, rebuild if crumb/ changed, push again
 ```
