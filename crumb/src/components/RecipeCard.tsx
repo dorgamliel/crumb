@@ -158,9 +158,10 @@ export function RecipeCard({ recipe, name }: { recipe: Recipe; name: string }) {
         <p className="recipe__source">
           מבוסס על:{" "}
           <a href={recipe.source.url} target="_blank" rel="noreferrer">
-            <bdi>{recipe.source.title}</bdi> <ExternalLink size={12} aria-hidden="true" />
+            <bdi lang={/[֐-׿]/.test(recipe.source.title) ? undefined : "en"}>{recipe.source.title}</bdi>{" "}
+            <ExternalLink size={12} aria-hidden="true" />
           </a>{" "}
-          · {recipe.source.publisher}
+          · <bdi lang={/[֐-׿]/.test(recipe.source.publisher) ? undefined : "en"}>{recipe.source.publisher}</bdi>
         </p>
       )}
     </section>

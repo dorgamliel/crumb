@@ -4,16 +4,16 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "apple-strudel",
-        "hot-chocolate",
-        "sahlab",
+        "kugelhopf",
+        "mulled-wine-spices",
+        "latkes",
         "sufganiyot",
-        "pumpkin",
         "panettone",
-        "chestnuts",
-        "milk-foam"
+        "boiling-point",
+        "moka-pot",
+        "maple-syrup"
       ],
-      "quiz": "milk-foam"
+      "quiz": "kugelhopf"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
@@ -22,28 +22,75 @@
         "persimmon",
         "quince",
         "french-onion-soup",
+        "chestnuts",
         "lentil-soup",
+        "apple-strudel",
         "borscht",
-        "caramel",
-        "pomegranate-juice",
-        "gingerbread"
+        "sahlab"
       ],
-      "quiz": "caramel"
+      "quiz": "lentil-soup"
     },
     "evening": {
       "title": "הערב במטבח.",
       "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
       "topics": [
         "minestrone",
-        "cholent",
-        "braising",
-        "goulash",
-        "star-anise",
-        "chai",
-        "cloves",
-        "ginger"
+        "pomegranate-juice",
+        "pumpkin",
+        "gingerbread",
+        "hot-chocolate",
+        "milk-foam",
+        "coffee",
+        "meringue"
       ],
-      "quiz": "goulash"
+      "quiz": "milk-foam"
+    }
+  },
+  "2026-12-02": {
+    "morning": {
+      "title": "בוקר בלי למהר.",
+      "subtitle": "קצת קפה, משהו לקרוא, ורעיון לקחת למטבח.",
+      "topics": [
+        "kugelhopf",
+        "panettone",
+        "lentil-soup",
+        "sufganiyot",
+        "latkes",
+        "french-onion-soup",
+        "pomegranate-juice",
+        "sahlab"
+      ],
+      "quiz": "latkes"
+    },
+    "afternoon": {
+      "title": "כמה דקות של אוכל.",
+      "subtitle": "בלי מתכון חובה. רק סקרנות.",
+      "topics": [
+        "mulled-wine-spices",
+        "cholent",
+        "borscht",
+        "quince",
+        "persimmon",
+        "pectin",
+        "spherification",
+        "viscosity"
+      ],
+      "quiz": "mulled-wine-spices"
+    },
+    "evening": {
+      "title": "אחרי ארוחת הערב.",
+      "subtitle": "קצת מדע, קצת היסטוריה, הרבה תיאבון.",
+      "topics": [
+        "chestnuts",
+        "gingerbread",
+        "hot-chocolate",
+        "espresso",
+        "tiramisu",
+        "sponge-cake",
+        "madeleines",
+        "emulsions"
+      ],
+      "quiz": "espresso"
     }
   }
 }

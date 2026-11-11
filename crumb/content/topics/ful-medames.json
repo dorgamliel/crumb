@@ -103,5 +103,79 @@
   "review": {
     "checkedAt": "2026-11-02",
     "notes": "Both Wikipedia sources support name, Princess Baths story, Lane 1860, Nazareth beans, Galilee finds, regional versions; fixed dek implying the dish began in Cairo baths, generalized 'bathhouses', and unsupported spread-from-Galilee sentence."
+  },
+  "recipe": {
+    "serves": 4,
+    "minutes": 25,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "שיני",
+        "item": "שום כתושות"
+      },
+      {
+        "amount": 1,
+        "unit": "כף",
+        "item": "שמן זית, ועוד לזילוף"
+      },
+      {
+        "amount": 1,
+        "unit": "כפית",
+        "item": "כמון טחון"
+      },
+      {
+        "amount": 2,
+        "unit": "קופסאות",
+        "item": "פול מבושל, 425 גרם כל אחת, עם הנוזל"
+      },
+      {
+        "amount": 3,
+        "unit": "כפות",
+        "item": "טחינה גולמית"
+      },
+      {
+        "amount": 2,
+        "unit": "כפות",
+        "item": "מיץ לימון, ועוד פלחי לימון להגשה"
+      },
+      {
+        "amount": 1,
+        "unit": "כפית",
+        "item": "פלפל שחור גרוס"
+      },
+      {
+        "item": "מלח"
+      },
+      {
+        "amount": 1,
+        "item": "עגבנייה חתוכה לקוביות של כ־1 ס״מ"
+      },
+      {
+        "amount": 1,
+        "item": "בצל קטן קצוץ דק"
+      },
+      {
+        "amount": 2,
+        "unit": "כפות",
+        "item": "פטרוזיליה קצוצה"
+      },
+      {
+        "amount": 2,
+        "item": "ביצים קשות קצוצות (לא חובה)"
+      }
+    ],
+    "steps": [
+      "בסיר בינוני על אש בינונית חממו את השום, השמן והכמון כ־2 דקות, עד שעולה ריח.",
+      "הוסיפו את הפול עם הנוזל ואת הטחינה, הביאו לבעבוע עדין ובשלו 8–10 דקות, עד שהנוזל מסמיך מעט.",
+      "הורידו מהאש ומיד, כשהפול עוד חם, מעכו אותו במועך פירה עד שרוב הגרגרים נמעכו ונשאר מרקם גס.",
+      "ערבבו פנימה את מיץ הלימון והפלפל, טעמו והוסיפו מלח ופלפל לפי הטעם.",
+      "העבירו לצלחת הגשה, פזרו מעל את העגבנייה, הבצל, הפטרוזיליה והביצים, זלפו שמן זית והגישו מיד עם פלחי לימון."
+    ],
+    "note": "המתכון מספיק ל־4 עד 6 סועדים.",
+    "source": {
+      "title": "Ful Medames",
+      "publisher": "America's Test Kitchen",
+      "url": "https://www.americastestkitchen.com/recipes/14615-ful-medames"
+    }
   }
 }

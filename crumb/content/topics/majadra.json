@@ -102,5 +102,77 @@
   "review": {
     "checkedAt": "2026-10-17",
     "notes": "All claims (name meaning, 1226 al-Baghdadi recipe, Lebanese mjaddara/mudardara, kushari, khichdi, 30-45 min onions) verified on Wikipedia; removed unsupported 'stays crisp' clause, yogurt relation kind set to ingredient; photo matches."
+  },
+  "recipe": {
+    "serves": 4,
+    "minutes": 60,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "כפות",
+        "item": "שמן זית",
+        "group": "למג׳דרה"
+      },
+      {
+        "amount": 2,
+        "item": "בצלים צהובים קצוצים דק",
+        "group": "למג׳דרה"
+      },
+      {
+        "amount": 2,
+        "unit": "כוסות",
+        "item": "אורז מלא עגול",
+        "group": "למג׳דרה"
+      },
+      {
+        "amount": 1,
+        "unit": "כוס",
+        "item": "עדשים חומות",
+        "group": "למג׳דרה"
+      },
+      {
+        "amount": 4,
+        "unit": "כוסות",
+        "item": "מים",
+        "group": "למג׳דרה"
+      },
+      {
+        "amount": 2,
+        "unit": "כפיות",
+        "item": "מלח",
+        "group": "למג׳דרה"
+      },
+      {
+        "amount": 2,
+        "unit": "כפות",
+        "item": "שמן זית",
+        "group": "לבצל המטוגן"
+      },
+      {
+        "amount": 1,
+        "item": "בצל צהוב קצוץ דק",
+        "group": "לבצל המטוגן"
+      },
+      {
+        "amount": 0.5,
+        "unit": "כפית",
+        "item": "מלח",
+        "group": "לבצל המטוגן"
+      }
+    ],
+    "steps": [
+      "בסיר בינוני חממו את 3 כפות השמן על אש בינונית, הוסיפו את שני הבצלים וטגנו 5–7 דקות, עד שהם שקופים ומזהיבים.",
+      "הוסיפו את האורז ובשלו כ־3 דקות תוך ערבוב תכוף, עד שכל הגרגרים מצופים בשמן.",
+      "הוסיפו את המים, העדשים ו־2 כפיות מלח, הביאו לרתיחה והשאירו לרתוח 10 דקות.",
+      "הנמיכו לאש קטנה, כסו את הסיר ובשלו כ־45 דקות, עד שהאורז והעדשים רכים לגמרי.",
+      "בזמן שהמג׳דרה מתבשלת, חממו במחבת את 2 כפות השמן על אש בינונית־גבוהה, הוסיפו את הבצל הנותר וחצי כפית מלח וטגנו עד שהבצל חום־זהוב עמוק.",
+      "הגישו את המג׳דרה חמה, עם הבצל המטוגן מפוזר מלמעלה."
+    ],
+    "note": "המתכון מספיק ל־4 עד 6 סועדים. אורז מלא מתבשל לאט, ולכן זמן הבישול ארוך יחסית. מג׳דרה נשמרת במקרר בכלי סגור 4–5 ימים.",
+    "source": {
+      "title": "Mujadara (Rice With Lentils and Fried Onions)",
+      "publisher": "Jewish Food Society",
+      "url": "https://www.jewishfoodsociety.org/recipes/mujadara-rice-with-lentils-and-fried-onions"
+    }
   }
 }

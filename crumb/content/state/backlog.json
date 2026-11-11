@@ -1,25 +1,5 @@
 [
  {
-  "id": "latkes",
-  "name": "לביבות",
-  "kind": "dishes"
- },
- {
-  "id": "tahini",
-  "name": "טחינה",
-  "kind": "ingredients"
- },
- {
-  "id": "chicken-soup",
-  "name": "מרק עוף",
-  "kind": "dishes"
- },
- {
-  "id": "roast-chicken",
-  "name": "עוף צלוי",
-  "kind": "dishes"
- },
- {
   "id": "sea-bream",
   "name": "דניס",
   "kind": "ingredients"
@@ -40,28 +20,13 @@
   "kind": "dishes"
  },
  {
-  "id": "cream",
-  "name": "שמנת",
-  "kind": "ingredients"
- },
- {
   "id": "anchovies",
   "name": "אנשובי",
   "kind": "ingredients"
  },
  {
-  "id": "amba",
-  "name": "עמבה",
-  "kind": "ingredients"
- },
- {
   "id": "carbonara",
   "name": "קרבונרה",
-  "kind": "dishes"
- },
- {
-  "id": "pho",
-  "name": "פו",
   "kind": "dishes"
  },
  {
@@ -73,16 +38,6 @@
   "id": "kombucha",
   "name": "קומבוצ׳ה",
   "kind": "drinks"
- },
- {
-  "id": "poaching",
-  "name": "בישול עדין",
-  "kind": "techniques"
- },
- {
-  "id": "grilling",
-  "name": "צלייה על האש",
-  "kind": "techniques"
  },
  {
   "id": "smoking",
@@ -110,11 +65,6 @@
   "kind": "techniques"
  },
  {
-  "id": "pressure-cooking",
-  "name": "סיר לחץ",
-  "kind": "techniques"
- },
- {
   "id": "preserved-lemons",
   "name": "לימון כבוש",
   "kind": "ingredients"
@@ -128,16 +78,6 @@
   "id": "en-papillote",
   "name": "בישול בשקית נייר",
   "kind": "techniques"
- },
- {
-  "id": "kugelhopf",
-  "name": "גוגלהופף",
-  "kind": "baking"
- },
- {
-  "id": "egg-cream",
-  "name": "אג קרים",
-  "kind": "drinks"
  },
  {
   "id": "gefilte-fish",
@@ -160,18 +100,8 @@
   "kind": "techniques"
  },
  {
-  "id": "tempering-eggs",
-  "name": "השוואת טמפרטורה לביצים",
-  "kind": "techniques"
- },
- {
   "id": "dredging",
   "name": "ציפוי בקמח",
-  "kind": "techniques"
- },
- {
-  "id": "oven-rack-position",
-  "name": "מיקום התבנית בתנור",
   "kind": "techniques"
  },
  {
@@ -193,11 +123,6 @@
   "id": "fat-in-dough",
   "name": "שומן בבצק",
   "kind": "science"
- },
- {
-  "id": "mulled-wine-spices",
-  "name": "תבלינים לחליטה חמה",
-  "kind": "drinks"
  },
  {
   "id": "date-paste",
