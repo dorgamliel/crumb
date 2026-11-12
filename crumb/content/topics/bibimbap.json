@@ -67,11 +67,17 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Nurungji",
       "supports": "קרום אורז בתחתית הסיר ושמותיו במטבחים שונים"
+    },
+    {
+      "title": "Korean Rice Bowl (Dolsot Bibimbap)",
+      "publisher": "America's Test Kitchen",
+      "url": "https://www.americastestkitchen.com/recipes/8801-korean-rice-bowl-dolsot-bibimbap",
+      "supports": "האבן הלוהטת ושמן השומשום יוצרים קרום אורז פריך בשם נורונגג׳י, ואפשר לקבל אותו גם בסיר רגיל בלי לערבב את השכבה התחתונה"
     }
   ],
   "status": "auto-checked",
   "addedAt": "2026-11-04",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-12",
   "keywords": [
     "ביבימבאפ",
     "ביבימבופ",
@@ -85,9 +91,9 @@
   "quiz": {
     "question": "מה יוצר את הקרום הפריך בתחתית ביבימבאפ בקערת אבן?",
     "options": [
-      "רוטב הצ׳ילי, שמתקרמל על האורז",
-      "האורז שנוגע באבן הלוהטת, שמושחה בשמן שומשום",
-      "ביצה שנשברת על התחתית",
+      "רוטב הצ׳ילי, שמתקרמל על האורז בתחתית",
+      "אורז שמתבשל בשמן שומשום על האבן הלוהטת",
+      "ביצה שנשברת על התחתית ומתקשה בחום",
       "קמח שמפזרים על הקערה לפני ההגשה"
     ],
     "correct": 1,

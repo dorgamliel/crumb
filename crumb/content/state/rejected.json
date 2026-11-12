@@ -14,5 +14,68 @@
       "Headline, dek and a fact present 'no cheese kanafeh before the 19th century' as settled fact, but the cited Wikipedia page says the 13th-century Maghreb-Andalus cookbook has knafeh recipes layered with fresh cheese; the claim is only Mary Isin's view and the whole angle would need rewriting.",
       "Body juxtaposes the 13th-century pancake with Isin's claim without mentioning the cheese layering, which misleads."
     ]
+  },
+  "kebab": {
+    "date": "2026-11-12",
+    "name": "קבב",
+    "reasons": [
+      "Planner skip: overlaps the existing topic kofta (קציצות קבב)."
+    ]
+  },
+  "proofing-dough": {
+    "date": "2026-11-12",
+    "name": "התפחת בצק",
+    "reasons": [
+      "Planner skip: overlaps the existing topic resting-dough."
+    ]
+  },
+  "carbonara": {
+    "date": "2026-11-12",
+    "name": "קרבונרה",
+    "reasons": [
+      "Planner skip: food-safety-sensitive (eggs set only by residual heat)."
+    ]
+  },
+  "kombucha": {
+    "date": "2026-11-12",
+    "name": "קומבוצ׳ה",
+    "reasons": [
+      "Planner skip: food-safety-sensitive (home fermentation)."
+    ]
+  },
+  "smoking": {
+    "date": "2026-11-12",
+    "name": "עישון",
+    "reasons": [
+      "Planner skip: food-safety-sensitive (smoking and curing meat and fish)."
+    ]
+  },
+  "marinating": {
+    "date": "2026-11-12",
+    "name": "השריה בתיבול",
+    "reasons": [
+      "Planner skip: food-safety-sensitive (raw meat handling is the main point)."
+    ]
+  },
+  "confit": {
+    "date": "2026-11-12",
+    "name": "קונפי",
+    "reasons": [
+      "Planner skip: food-safety-sensitive (fat preservation, botulism risk)."
+    ]
+  },
+  "sous-vide": {
+    "date": "2026-11-12",
+    "name": "סו ויד",
+    "reasons": [
+      "Planner skip: food-safety-sensitive (low-temperature cooking of meat)."
+    ]
+  },
+  "preserved-lemons": {
+    "date": "2026-11-12",
+    "name": "לימון כבוש",
+    "reasons": [
+      "Planner skip: food-safety-sensitive (home preservation)."
+    ]
   }
 }
