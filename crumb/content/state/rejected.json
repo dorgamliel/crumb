@@ -77,5 +77,40 @@
     "reasons": [
       "Planner skip: food-safety-sensitive (home preservation)."
     ]
+  },
+  "baguette-scoring-ears": {
+    "date": "2026-11-13",
+    "name": "האוזן של הלחם",
+    "reasons": [
+      "Retired from backlog: overlaps scoring-bread, which already covers the ear."
+    ]
+  },
+  "almond-drink-sharbat": {
+    "date": "2026-11-13",
+    "name": "חלב שקדים עם מי ורדים",
+    "reasons": [
+      "Retired from backlog: overlaps sharbat and almond-milk."
+    ]
+  },
+  "lentil-varieties": {
+    "date": "2026-11-13",
+    "name": "סוגי עדשים",
+    "reasons": [
+      "Retired from backlog: overlaps lentils, which already compares lentil types."
+    ]
+  },
+  "mujaddara-rice": {
+    "date": "2026-11-13",
+    "name": "אורז עם שעועית",
+    "reasons": [
+      "Retired from backlog: overlaps majadra (and the Hebrew name did not match the idea)."
+    ]
+  },
+  "onion-tears": {
+    "date": "2026-11-13",
+    "name": "דמעות מבצל",
+    "reasons": [
+      "Retired from backlog: overlaps the onion topic, which already explains why onions cause tears."
+    ]
   }
 }
