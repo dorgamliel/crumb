@@ -1,6 +1,6 @@
 // Crumb service worker: the app keeps working offline with what it has already seen.
 // Build-specific values are filled in by scripts/postbuild.mjs.
-const VERSION = "20261113022606";
+const VERSION = "20261114024529";
 const SHELL = ["./","./index.html","./manifest.webmanifest","./icon.svg","./icon-192.png","./assets/index-BBrOAO4w.js","./assets/index-CEswG3io.css"];
 const SHELL_CACHE = `crumb-shell-${VERSION}`;
 const DATA_CACHE = "crumb-data";

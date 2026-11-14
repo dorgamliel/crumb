@@ -9,7 +9,7 @@
   },
   "https://en.wikipedia.org/wiki/Challah": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Pita": {
     "ok": true,
@@ -45,15 +45,15 @@
   },
   "https://en.wikipedia.org/wiki/Chickpea": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Maillard_reaction": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Salt": {
     "ok": true,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Risotto": {
     "ok": true,
@@ -141,7 +141,7 @@
   },
   "https://en.wikipedia.org/wiki/Caramelization": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Tahini": {
     "ok": true,
@@ -521,11 +521,11 @@
   },
   "https://en.wikipedia.org/wiki/Taste": {
     "ok": true,
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Menthol": {
     "ok": true,
-    "checkedAt": "2026-10-18"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Mentha": {
     "ok": true,
@@ -598,7 +598,7 @@
   },
   "https://en.wikipedia.org/wiki/Aquafaba": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Limonana": {
     "ok": true,
@@ -711,7 +711,7 @@
   },
   "https://en.wikipedia.org/wiki/Mouthfeel": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Glass_transition": {
     "ok": true,
@@ -970,7 +970,7 @@
   },
   "https://en.wikipedia.org/wiki/Cheesecake": {
     "ok": true,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-14"
   },
   "https://www.americastestkitchen.com/articles/why-green-vegetables-turn-drab": {
     "ok": false,
@@ -979,11 +979,11 @@
   },
   "https://en.wikipedia.org/wiki/Custard": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Bain-marie": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Basque_cheesecake": {
     "ok": true,
@@ -1096,7 +1096,7 @@
   },
   "https://en.wikipedia.org/wiki/Cauliflower": {
     "ok": true,
-    "checkedAt": "2026-10-22"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Sufganiyah": {
     "ok": true,
@@ -1152,11 +1152,11 @@
   },
   "https://en.wikipedia.org/wiki/Cast-iron_cookware": {
     "ok": true,
-    "checkedAt": "2026-10-22"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Seasoning_(cookware)": {
     "ok": true,
-    "checkedAt": "2026-10-22"
+    "checkedAt": "2026-11-14"
   },
   "https://www.npr.org/sections/thesalt/2014/08/11/338850091/for-a-more-ordered-life-organize-like-a-chef": {
     "ok": true,
@@ -1228,7 +1228,7 @@
   },
   "https://en.wikipedia.org/wiki/Masala_chai": {
     "ok": true,
-    "checkedAt": "2026-10-23"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Rose_water": {
     "ok": true,
@@ -1236,7 +1236,7 @@
   },
   "https://en.wikipedia.org/wiki/Etymology_of_tea": {
     "ok": true,
-    "checkedAt": "2026-10-23"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Gazpacho": {
     "ok": true,
@@ -1591,7 +1591,7 @@
   },
   "https://en.wikipedia.org/wiki/Angel_food_cake": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Genoise": {
     "ok": true,
@@ -1891,7 +1891,7 @@
   },
   "https://en.wikipedia.org/wiki/Israeli_salad": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Cucumber_salad": {
     "ok": true,
@@ -2268,7 +2268,7 @@
   "https://slate.com/human-interest/2012/05/caramelize-onions-in-5-minutes-not-a-chance.html": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-10-29"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Ice_cream": {
     "ok": true,
@@ -2495,7 +2495,7 @@
   },
   "https://en.wikipedia.org/wiki/Chiffon_cake": {
     "ok": true,
-    "checkedAt": "2026-10-31"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Mint_julep": {
     "ok": true,
@@ -2507,12 +2507,12 @@
   },
   "https://en.wikipedia.org/wiki/Carob": {
     "ok": true,
-    "checkedAt": "2026-10-31"
+    "checkedAt": "2026-11-14"
   },
   "https://www.kingarthurbaking.com/recipes/classic-chiffon-cake-recipe": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-10-31"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wiktionary.org/wiki/julep": {
     "ok": true,
@@ -3054,7 +3054,7 @@
   },
   "https://en.wikipedia.org/wiki/TRPM8": {
     "ok": true,
-    "checkedAt": "2026-11-03"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Beer": {
     "ok": true,
@@ -3334,7 +3334,7 @@
   },
   "https://en.wikipedia.org/wiki/Processed_cheese": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Melting_cheese": {
     "ok": false,
@@ -3368,11 +3368,11 @@
   },
   "https://en.wikipedia.org/wiki/Paneer": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Fondue": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/2-Isobutyl-3-methoxypyrazine": {
     "ok": true,
@@ -4658,7 +4658,7 @@
   },
   "https://en.wikipedia.org/wiki/Cherry": {
     "ok": true,
-    "checkedAt": "2026-11-10"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Prunus_cerasus": {
     "ok": true,
@@ -4683,11 +4683,11 @@
   },
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8166915/": {
     "ok": true,
-    "checkedAt": "2026-11-10"
+    "checkedAt": "2026-11-14"
   },
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6668808/": {
     "ok": true,
-    "checkedAt": "2026-11-10"
+    "checkedAt": "2026-11-14"
   },
   "https://en.wikipedia.org/wiki/Plum": {
     "ok": true,
@@ -5259,7 +5259,7 @@
   },
   "https://www.kingarthurbaking.com/recipes/classic-challah-recipe": {
     "ok": true,
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-14"
   },
   "https://www.fao.org/fishery/en/culturedspecies/sparus_aurata/en": {
     "ok": true,
@@ -6327,5 +6327,533 @@
   "https://en.wikipedia.org/wiki/Sharbat_(beverage)": {
     "ok": true,
     "checkedAt": "2026-11-13"
+  },
+  "https://www.bbcgoodfood.com/recipes/matbucha": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Matbucha": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://html.duckduckgo.com/html/?q=matbucha+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.jewishfoodsociety.org/recipes/yerushalmi-kugel": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.myjewishlearning.com/the-nosher/yerushalmi-kugel-recipe/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Gazoz": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/גזוז": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.myjewishlearning.com/recipe/israeli-hummus-recipe/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.bbcgoodfood.com/recipes/really-good-hummus": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.splendidtable.org/recipes/maqluba-upside-down-layered-rice-cake-with-vegetables": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/גזוז_(משקה)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://jewishfoodsociety.org/recipes/matbucha": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.myjewishlearning.com/the-nosher/the-best-no-bake-israeli-ice-box-cake/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/משקה_מוגז": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Salted_caramel": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.americastestkitchen.com/recipes/4239-ultimate-hummus": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.saveur.com/article/Recipes/Israeli-Salad": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/?term=Salt+enhances+flavour+by+suppressing+bitterness": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Msabbaha": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://tastecooking.com/fizz-time-forgot/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.nature.com/articles/42388": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://forward.com/food/470506/in-gazoz-israeli-soda-sparkles-to-life": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.irishtimes.com/food/recipes/2024/06/03/kofta-with-tahini": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/ברד_(משקה)": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/?term=Yee+Margolskee+2011+glucose+transporters+T1r3+taste+cells": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Tahini_cookie": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/?term=glucose+transporters+KATP+metabolic+sensors+T1r3-expressing+taste+cells": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ynet.co.il/articles/0,7340,L-4435825,00.html": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ynet.co.il/articles/0,7340,L-5272912,00.html": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.myjewishlearning.com/the-nosher/how-to-make-matbucha-north-african-tomato-and-pepper-dip/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.jewishfoodsociety.org/recipes/matbucha-moroccan-tomato-and-pepper-spread": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.jewishfoodsociety.org/stories/a-matbucha-recipe-from-a-secretive-moroccan-aunt": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3069197/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.npr.org/128195236": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.myjewishlearning.com/the-nosher/video-how-to-make-israeli-salad/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://myjewishlearning.com/recipe/israeli-salad": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://dipsy.pbs.org/food/recipes/hummus-masbacha": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ynetnews.com/articles/0,7340,L-3407987,00.html": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ynetnews.com/articles/0,7340,L-3401347,00.html": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://humus101.com/EN/2007/03/02/hummus-in-israel/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.americastestkitchen.com/articles/7499-can-you-cook-acidic-ingredients-in-cast-iron": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.kingarthurbaking.com/blog/2024/08/05/how-to-keep-cheesecake-from-cracking": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.americastestkitchen.com/articles/1069-kitchen-smarts-how-to-caramelize-onions-in-record-time": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Slush_(beverage)": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.americastestkitchen.com/recipes/10011-caramelized-onions": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://slate.com/human-interest/2012/05/caramelizing-onions-recipes-lie-about-how-long-it-takes.html": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.food.gov.uk/news-alerts/news/summer-slush-warning-glycerol-in-slush-ice-drinks-unsafe-for-children-under-7-and-should-be-limited-for-children-aged-7-to-10": {
+    "ok": false,
+    "status": 410,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.slate.com/articles/life/scocca/2012/05/how_to_cook_onions_why_recipe_writers_lie_and_lie_about_how_long_they_take_to_caramelize_.html": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=oral+tribology+creaminess+mouthfeel+review": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://tastecooking.com/long-take-caramelize-onions/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.smithsonianmag.com/innovation/brain-freezing-science-slurpee-180959750/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC6936954/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ynetnews.com/culture/article/r1jefmv3r": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ynetnews.com/culture/article/b1fx00bqjge": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.myjewishlearning.com/article/the-sweet-story-of-israeli-desserts/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.food.gov.uk/glycerol": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://food.blog.gov.uk/2025/07/21/stakeholder-update-glycerol-in-slush-ice-drinks-warning": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC13421039/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://news.cornell.edu/node/275579": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ars.usda.gov/news-events/news/research-news/1999/orange-cauliflower-may-help-crop-scientists-boost-nutrition/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.myjewishlearning.com/article/challah/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.americastestkitchen.com/recipes/6102-chiffon-cake": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.kingarthurbaking.com/recipes/chiffon-cake-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.americastestkitchen.com/articles/5116-how-to-make-the-ultimate-ice-cream-cake": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.nobelprize.org/prizes/medicine/2021/press-release/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=menthol+shifts+temperature+threshold+TRPM8+warmer": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC2290674/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.saveur.com/guide-to-fondue": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.bbcgoodfood.com/recipes/maqluba": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.sbs.com.au/food/recipe/upside-down-chicken-in-a-pot-maqlooba/l6rkskirv": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.177milkstreet.com/recipes/palestinian-chicken-rice-maqlubeh": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Instant_pudding": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ynet.co.il/articles/0,7340,L-4384151,00.html": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-880b2520088a751006.htm": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Petit-Beurre": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.npr.org/2026/08/23/nx-s1-5935277/for-people-from-south-asia-mornings-are-often-powered-by-chai": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.saveur.com/authentic-chai-a-many-splendored-thing/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/מטבוחה": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/עוגת_ביסקוויטים": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/מסבחה": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/08/26/a-guide-to-aquafaba": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/09/29/how-to-brown-butter": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Beurre_noisette": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.kingarthurbaking.com/search?query=brown%20butter": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=%22brown+butter%22+OR+%22browned+butter%22+aroma": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.bonappetit.com/story/how-to-brown-butter": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.epicurious.com/expert-advice/how-to-make-brown-butter-article": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.americastestkitchen.com/articles/how-to-brown-butter": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/12/14/brown-butter": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.maariv.co.il/news/health/article-1344834": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.thenationalnews.com/lifestyle/food/ramadan-recipe-maqluba-upside-down-lamb-aubergine-and-rice-1.1205813": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.aol.co.uk/news/maqluba-spicy-salad-pickles-sami-100029234.html": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.inkl.com/news/maqluba-spicy-salad-and-pickles-sami-tamimi-s-palestinian-recipes-for-iftar": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/סחוג": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Phytohaemagglutinin": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.epicurious.com/expert-advice/should-you-soak-dried-beans-article": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.bonappetit.com/story/should-you-soak-beans": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Zhug": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.food.gov.uk/safety-hygiene/cooking-your-food-safely": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://extension.usu.edu/preserve-the-harvest/research/dry-beans": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.fda.gov/media/83271/download": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.foodstandards.gov.au/consumer/chemicals/lectins": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.splendidtable.org/recipes/zhug-yemenite-hot-sauce-with-cilantro-and-parsley": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.food.gov.uk/safety-hygiene/dried-beans-and-pulses": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.splendidtable.org/story/zhug-and-how-to-make-it": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=soaking+common+beans+sodium+chloride+cooking+time+hardness": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=hard-to-cook+defect+beans+storage+review": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/?term=soaking+beans+raffinose+oligosaccharides+soaking+water+discarded": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC9474322/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://extension.oregonstate.edu/catalog/pub/sp-50-701-herbs-vegetables-oil": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://essex.cce.cornell.edu/resources/herbs-vegetables-in-oil": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474322/": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.epicurious.com/expert-advice/how-to-cook-dried-beans-article": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://en.wikipedia.org/wiki/Hawaij": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.bonappetit.com/story/how-to-cook-dried-beans": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.bonappetit.com/story/how-to-cook-beans": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.epicurious.com/expert-advice/how-to-soak-beans-article": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.americastestkitchen.com/articles/brining-beans": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/חוואיג'": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.yahoo.com/lifestyle/hawaij-spice-blend-goes-savory-211737878.html": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC1686184": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.biology.ox.ac.uk/node/1156836": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-14"
+  },
+  "https://bionumbers.hms.harvard.edu/bionumber.aspx?id=103348": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://he.wikipedia.org/wiki/חרוב_מצוי": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://sonar.ch/global/documents/219525": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
+  },
+  "https://www.vice.com/en/article/xym9yn/makloubeh": {
+    "ok": true,
+    "checkedAt": "2026-11-14"
   }
 }

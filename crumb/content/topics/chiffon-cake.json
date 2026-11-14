@@ -9,7 +9,7 @@
     "key": "chiffon-cake",
     "width": 1280,
     "height": 853,
-    "alt": "עוגת שיפון גבוהה ואוורירית עם חור במרכז, אפויה בתבנית טבעת",
+    "alt": "עוגת שיפון גבוהה ואוורירית עם חור במרכז, מוגשת על צלחת",
     "credit": {
       "author": "Roozitaa",
       "source": "Wikimedia Commons",
@@ -67,10 +67,16 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Angel_food_cake",
       "supports": "עוגת קצף בתבנית עם צינור, תליה הפוכה עד שהעוגה מתקררת ושמירה על צורת בועות האוויר"
+    },
+    {
+      "title": "How to Make the Best Ice Cream Cake",
+      "publisher": "America's Test Kitchen",
+      "url": "https://www.americastestkitchen.com/articles/5116-how-to-make-the-ultimate-ice-cream-cake",
+      "supports": "עוגת שיפון מבוססת שמן ונשארת רכה גם כשהיא קפואה, ובתבנית לא משומנת העוגה נאחזת בדפנות ולא שוקעת בצדדים"
     }
   ],
   "status": "auto-checked",
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-14",
   "addedAt": "2026-10-31",
   "keywords": [
     "שיפון",
@@ -84,9 +90,9 @@
   "quiz": {
     "question": "למה מצננים עוגת שיפון כשהתבנית הפוכה?",
     "options": [
-      "כדי שהשמן יתנקז מהעוגה",
-      "כדי שהעוגה החמה והעדינה לא תימעך תחת משקלה ובועות האוויר יישמרו",
-      "כדי שהקרום העליון יתקשה",
+      "כדי שהשמן העודף יתנקז מהעוגה החוצה",
+      "כדי שהעוגה החמה לא תימעך תחת משקלה ותשקע",
+      "כדי שהקרום העליון יתקשה ויישאר פריך",
       "כדי שהעוגה תשתחרר מעצמה מהתבנית תוך כמה דקות"
     ],
     "correct": 1,

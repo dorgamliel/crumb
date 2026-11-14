@@ -5,21 +5,6 @@
     "kind": "science"
   },
   {
-    "id": "salt-in-desserts",
-    "name": "מלח בקינוחים",
-    "kind": "science"
-  },
-  {
-    "id": "mouthfeel",
-    "name": "תחושת פה",
-    "kind": "science"
-  },
-  {
-    "id": "menthol-cooling",
-    "name": "הקרירות של המנטה",
-    "kind": "science"
-  },
-  {
     "id": "chocolate-seizing",
     "name": "שוקולד שמתגבש",
     "kind": "science"
@@ -43,21 +28,6 @@
     "id": "waxy-vs-floury-potatoes",
     "name": "תפוחי אדמה קמחיים ושעווניים",
     "kind": "science"
-  },
-  {
-    "id": "dutch-process-cocoa",
-    "name": "קקאו מעובד בבסיס",
-    "kind": "science"
-  },
-  {
-    "id": "gazoz",
-    "name": "גזוז",
-    "kind": "drinks"
-  },
-  {
-    "id": "barad",
-    "name": "ברד",
-    "kind": "drinks"
   },
   {
     "id": "malt-beer",
@@ -98,21 +68,6 @@
     "id": "arak",
     "name": "ערק",
     "kind": "drinks"
-  },
-  {
-    "id": "schug",
-    "name": "סחוג",
-    "kind": "ingredients"
-  },
-  {
-    "id": "hawaij",
-    "name": "חוואיג׳",
-    "kind": "ingredients"
-  },
-  {
-    "id": "carob",
-    "name": "חרובים",
-    "kind": "ingredients"
   },
   {
     "id": "pomelo",
@@ -170,21 +125,6 @@
     "kind": "ingredients"
   },
   {
-    "id": "matbucha",
-    "name": "מטבוחה",
-    "kind": "dishes"
-  },
-  {
-    "id": "israeli-salad",
-    "name": "סלט ירקות קצוץ",
-    "kind": "dishes"
-  },
-  {
-    "id": "msabbaha",
-    "name": "מסבחה",
-    "kind": "dishes"
-  },
-  {
     "id": "tahdig",
     "name": "תהדיג",
     "kind": "dishes"
@@ -220,18 +160,8 @@
     "kind": "dishes"
   },
   {
-    "id": "biscuit-cake",
-    "name": "עוגת ביסקוויטים",
-    "kind": "baking"
-  },
-  {
     "id": "chocolate-balls",
     "name": "כדורי שוקולד",
-    "kind": "baking"
-  },
-  {
-    "id": "tahini-cookies",
-    "name": "עוגיות טחינה",
     "kind": "baking"
   },
   {
@@ -273,16 +203,6 @@
     "id": "krembo",
     "name": "קרמבו",
     "kind": "baking"
-  },
-  {
-    "id": "brown-butter",
-    "name": "חמאה חומה",
-    "kind": "techniques"
-  },
-  {
-    "id": "soaking-beans",
-    "name": "השריית קטניות",
-    "kind": "techniques"
   },
   {
     "id": "rinsing-rice",

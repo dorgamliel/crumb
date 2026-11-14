@@ -112,5 +112,12 @@
     "reasons": [
       "Retired from backlog: overlaps the onion topic, which already explains why onions cause tears."
     ]
+  },
+  "dutch-process-cocoa": {
+    "date": "2026-11-14",
+    "name": "קקאו מעובד בבסיס",
+    "reasons": [
+      "Retired from backlog: overlaps the cocoa topic, which already explains natural vs Dutch-process cocoa."
+    ]
   }
 }
