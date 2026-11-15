@@ -709,46 +709,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "lentil-soup",
-        "soaking-beans",
-        "salt-in-desserts",
-        "chestnuts",
-        "borscht",
-        "apple-strudel",
-        "cholent",
-        "pomegranate-juice"
+        "guava",
+        "pomelo",
+        "ganache",
+        "nigella-seeds",
+        "grape-juice",
+        "roux",
+        "chocolate-seizing",
+        "chocolate-balls"
       ],
-      "quiz": "soaking-beans"
+      "quiz": "guava"
     },
     "afternoon": {
       "title": "רגע לנשום.",
       "subtitle": "קריאה קצרה, שאלה טובה, ובחזרה לעניינים.",
       "topics": [
-        "sufganiyot",
-        "mouthfeel",
-        "menthol-cooling",
         "kohlrabi",
+        "arayes",
+        "dark-vs-light-pans",
         "minestrone",
         "persimmon",
         "quince",
+        "lentil-soup",
         "gingerbread"
       ],
-      "quiz": "mouthfeel"
+      "quiz": "kohlrabi"
     },
     "evening": {
       "title": "אחרי ארוחת הערב.",
       "subtitle": "קצת מדע, קצת היסטוריה, הרבה תיאבון.",
       "topics": [
+        "chestnuts",
+        "tahdig",
+        "rinsing-rice",
+        "cholent",
+        "apple-strudel",
         "pumpkin",
-        "acids-in-baking",
-        "reverse-creaming",
         "panettone",
-        "french-onion-soup",
-        "pomegranate",
-        "tabbouleh",
-        "sahlab"
+        "pomegranate-juice"
       ],
-      "quiz": "pumpkin"
+      "quiz": "tahdig"
     }
   },
   "2026-11-17": {
@@ -756,46 +756,46 @@
       "title": "מתחילים את היום בטעם.",
       "subtitle": "כמה גילויים קטנים לפני שהיום נפתח.",
       "topics": [
-        "borscht",
-        "chraime",
-        "water-bath-steam-oven",
-        "chestnuts",
-        "french-onion-soup",
         "sufganiyot",
-        "hot-chocolate",
-        "sahlab"
+        "malt-beer",
+        "caramel-color",
+        "borscht",
+        "french-onion-soup",
+        "guava",
+        "quince",
+        "persimmon"
       ],
-      "quiz": "borscht"
+      "quiz": "malt-beer"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
       "subtitle": "מה קורה בסיר, ולמה זה עובד.",
       "topics": [
         "lentil-soup",
-        "lecithin",
-        "sweetness",
-        "panettone",
-        "persimmon",
-        "quince",
-        "carob",
-        "minestrone"
+        "air-fryer",
+        "mouthfeel",
+        "sahlab",
+        "hot-chocolate",
+        "pomegranate",
+        "pomegranate-juice",
+        "panettone"
       ],
-      "quiz": "lecithin"
+      "quiz": "air-fryer"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
       "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
       "topics": [
-        "kohlrabi",
-        "plant-cell-walls",
-        "osmosis",
         "apple-strudel",
+        "salt-in-desserts",
+        "sweetness",
         "cholent",
+        "minestrone",
+        "carob",
         "gingerbread",
-        "pomegranate-juice",
-        "pomegranate"
+        "kohlrabi"
       ],
-      "quiz": "kohlrabi"
+      "quiz": "apple-strudel"
     }
   },
   "2026-11-18": {
@@ -803,46 +803,46 @@
       "title": "בוקר בלי למהר.",
       "subtitle": "קצת קפה, משהו לקרוא, ורעיון לקחת למטבח.",
       "topics": [
-        "lentil-soup",
-        "chicory-coffee",
-        "foams",
-        "borscht",
+        "pomelo",
+        "chraime",
+        "menthol-cooling",
         "chestnuts",
+        "borscht",
         "hot-chocolate",
         "sahlab",
         "cholent"
       ],
-      "quiz": "chicory-coffee"
+      "quiz": "pomelo"
     },
     "afternoon": {
       "title": "הפסקה עם טעם.",
       "subtitle": "כמה דקות פנויות? יש מה לגלות.",
       "topics": [
-        "sufganiyot",
-        "heat-capacity",
-        "microwave-cooking",
+        "lentil-soup",
+        "soaking-beans",
+        "acids-in-baking",
         "pumpkin",
         "panettone",
         "minestrone",
         "gingerbread",
-        "pomegranate-juice"
+        "apple-strudel"
       ],
-      "quiz": "heat-capacity"
+      "quiz": "soaking-beans"
     },
     "evening": {
       "title": "משהו טוב לסוף היום.",
       "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
       "topics": [
+        "sufganiyot",
+        "reverse-creaming",
+        "creaming",
+        "pomegranate-juice",
+        "pomegranate",
         "persimmon",
-        "oven-spring",
-        "steam-leavening",
         "quince",
-        "apple-strudel",
-        "kohlrabi",
-        "french-onion-soup",
-        "choux-pastry"
+        "french-onion-soup"
       ],
-      "quiz": "persimmon"
+      "quiz": "reverse-creaming"
     }
   },
   "2026-11-19": {
@@ -856,8 +856,8 @@
         "sahlab",
         "hot-chocolate",
         "quince",
-        "persimmon",
-        "cholent"
+        "guava",
+        "persimmon"
       ],
       "quiz": "collagen"
     },
@@ -865,26 +865,26 @@
       "title": "הפסקה עם טעם.",
       "subtitle": "כמה דקות פנויות? יש מה לגלות.",
       "topics": [
-        "borscht",
-        "sauteing",
-        "heat-transfer",
         "lentil-soup",
+        "oven-spring",
+        "steam-leavening",
+        "chestnuts",
         "pomegranate",
         "pomegranate-juice",
-        "chestnuts",
-        "carob"
+        "borscht",
+        "pomelo"
       ],
-      "quiz": "sauteing"
+      "quiz": "oven-spring"
     },
     "evening": {
       "title": "אור נמוך, סיר חם.",
       "subtitle": "גילויים קטנים לסוף היום.",
       "topics": [
-        "panettone",
+        "kohlrabi",
         "crispiness",
         "fat-crystals",
+        "panettone",
         "fattoush",
-        "kohlrabi",
         "gingerbread",
         "french-onion-soup",
         "minestrone"
@@ -897,14 +897,14 @@
       "title": "בוקר בלי למהר.",
       "subtitle": "קצת קפה, משהו לקרוא, ורעיון לקחת למטבח.",
       "topics": [
-        "lentil-soup",
+        "guava",
         "chlorophyll",
         "volatile-aromas",
+        "quince",
+        "persimmon",
+        "lentil-soup",
         "apple-strudel",
-        "gingerbread",
-        "minestrone",
-        "sahlab",
-        "hot-chocolate"
+        "gingerbread"
       ],
       "quiz": "chlorophyll"
     },
@@ -914,12 +914,12 @@
       "topics": [
         "sufganiyot",
         "blind-baking",
-        "diffusion",
+        "heat-transfer",
+        "carob",
         "pumpkin",
         "cholent",
-        "carob",
-        "persimmon",
-        "french-onion-soup"
+        "sahlab",
+        "hot-chocolate"
       ],
       "quiz": "blind-baking"
     },
@@ -927,16 +927,16 @@
       "title": "עוד דבר אחד לפני השינה.",
       "subtitle": "קצר, טעים, ונגמר בזמן.",
       "topics": [
-        "panettone",
-        "enzymatic-browning",
-        "glazing",
-        "kohlrabi",
-        "chestnuts",
         "borscht",
-        "pomegranate",
-        "pomegranate-juice"
+        "enzymatic-browning",
+        "sauteing",
+        "panettone",
+        "kohlrabi",
+        "minestrone",
+        "chestnuts",
+        "french-onion-soup"
       ],
-      "quiz": "enzymatic-browning"
+      "quiz": "borscht"
     }
   },
   "2026-11-21": {
@@ -944,46 +944,46 @@
       "title": "מתחילים את היום בטעם.",
       "subtitle": "כמה גילויים קטנים לפני שהיום נפתח.",
       "topics": [
-        "pomegranate",
-        "tasting-and-seasoning",
-        "reduction",
-        "pomegranate-juice",
         "lentil-soup",
+        "diffusion",
+        "osmosis",
         "hot-chocolate",
         "sahlab",
-        "cholent"
+        "cholent",
+        "pumpkin",
+        "pomelo"
       ],
-      "quiz": "tasting-and-seasoning"
+      "quiz": "diffusion"
     },
     "afternoon": {
       "title": "רגע לנשום.",
       "subtitle": "קריאה קצרה, שאלה טובה, ובחזרה לעניינים.",
       "topics": [
+        "pomegranate",
+        "glazing",
+        "reduction",
+        "pomegranate-juice",
         "sufganiyot",
-        "smell-and-taste",
-        "roux",
         "carob",
         "panettone",
-        "minestrone",
-        "apple-strudel",
-        "quince"
+        "minestrone"
       ],
-      "quiz": "smell-and-taste"
+      "quiz": "glazing"
     },
     "evening": {
       "title": "הערב במטבח.",
       "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
       "topics": [
-        "pressure-cooking",
+        "quince",
         "altitude-cooking",
-        "tenderizing-enzymes",
-        "gingerbread",
-        "pumpkin",
+        "smell-and-taste",
         "persimmon",
-        "chestnuts",
-        "borscht"
+        "guava",
+        "pressure-cooking",
+        "gingerbread",
+        "apple-strudel"
       ],
-      "quiz": "pressure-cooking"
+      "quiz": "altitude-cooking"
     }
   },
   "2026-11-22": {
@@ -992,45 +992,45 @@
       "subtitle": "חומרי גלם, טכניקות, וקצת מדע לבוקר.",
       "topics": [
         "lentil-soup",
-        "ice-crystals",
-        "sifting",
+        "tenderizing-enzymes",
+        "tasting-and-seasoning",
+        "chestnuts",
         "sahlab",
         "hot-chocolate",
         "persimmon",
-        "quince",
-        "gingerbread"
+        "quince"
       ],
-      "quiz": "ice-crystals"
+      "quiz": "tenderizing-enzymes"
     },
     "afternoon": {
       "title": "באמצע היום.",
       "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
       "topics": [
         "sufganiyot",
-        "creaming",
+        "water-bath-steam-oven",
+        "lecithin",
         "french-onion-soup",
         "pomegranate-juice",
         "pomegranate",
         "pumpkin",
-        "kohlrabi",
-        "minestrone"
+        "kohlrabi"
       ],
-      "quiz": "creaming"
+      "quiz": "water-bath-steam-oven"
     },
     "evening": {
       "title": "אחרי ארוחת הערב.",
       "subtitle": "קצת מדע, קצת היסטוריה, הרבה תיאבון.",
       "topics": [
-        "chestnuts",
         "borscht",
+        "heat-capacity",
+        "microwave-cooking",
         "apple-strudel",
+        "pomelo",
         "panettone",
-        "carob",
-        "cholent",
-        "chicken-soup",
-        "kubaneh"
+        "gingerbread",
+        "carob"
       ],
-      "quiz": "apple-strudel"
+      "quiz": "heat-capacity"
     }
   },
   "2026-11-23": {
@@ -1038,46 +1038,46 @@
       "title": "מתחילים את היום בטעם.",
       "subtitle": "כמה גילויים קטנים לפני שהיום נפתח.",
       "topics": [
+        "quince",
+        "chicory-coffee",
+        "plant-cell-walls",
+        "guava",
+        "kohlrabi",
         "lentil-soup",
         "hot-chocolate",
-        "sahlab",
-        "pomegranate-juice",
-        "pomegranate",
-        "borscht",
-        "panettone",
-        "chestnuts"
+        "sahlab"
       ],
-      "quiz": "hot-chocolate"
+      "quiz": "chicory-coffee"
     },
     "afternoon": {
       "title": "הפסקת צהריים מתוקה.",
       "subtitle": "גילוי קטן בין משימה למשימה.",
       "topics": [
         "sufganiyot",
-        "persimmon",
-        "quince",
+        "ice-crystals",
+        "foams",
         "cholent",
-        "gingerbread",
-        "pumpkin",
-        "french-onion-soup",
-        "minestrone"
+        "persimmon",
+        "pomegranate",
+        "pomegranate-juice",
+        "kubaneh"
       ],
-      "quiz": "cholent"
+      "quiz": "ice-crystals"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
       "subtitle": "קריאה איטית ורעיון אחד ששווה לשמור.",
       "topics": [
+        "minestrone",
+        "sifting",
+        "pumpkin",
+        "borscht",
+        "chestnuts",
         "carob",
-        "kohlrabi",
-        "apple-strudel",
-        "rugelach",
-        "croissant",
-        "viscosity",
-        "spherification",
-        "starch"
+        "panettone",
+        "french-onion-soup"
       ],
-      "quiz": "croissant"
+      "quiz": "minestrone"
     }
   },
   "2026-11-24": {
@@ -1086,30 +1086,30 @@
       "subtitle": "כמה דקות, כמה תשובות, ואולי שאלה חדשה.",
       "topics": [
         "lentil-soup",
+        "gingerbread",
         "carob",
         "sufganiyot",
         "hot-chocolate",
         "sahlab",
-        "gingerbread",
         "persimmon",
         "quince"
       ],
-      "quiz": "sahlab"
+      "quiz": "gingerbread"
     },
     "afternoon": {
       "title": "פינה שקטה בצהריים.",
       "subtitle": "משהו לקרוא, ואולי משהו לנסות הערב.",
       "topics": [
         "pumpkin",
+        "guava",
         "minestrone",
+        "apple-strudel",
         "pomegranate-juice",
         "pomegranate",
         "tabbouleh",
-        "parsley",
-        "apple-strudel",
         "cholent"
       ],
-      "quiz": "minestrone"
+      "quiz": "pumpkin"
     },
     "evening": {
       "title": "אחרי ארוחת הערב.",
@@ -1117,12 +1117,12 @@
       "topics": [
         "kohlrabi",
         "borscht",
+        "pomelo",
         "panettone",
         "chestnuts",
         "french-onion-soup",
-        "onion",
-        "majadra",
-        "caramel"
+        "starch",
+        "malabi"
       ],
       "quiz": "french-onion-soup"
     }
@@ -1138,8 +1138,8 @@
         "pomegranate-juice",
         "pomegranate",
         "carob",
-        "panettone",
-        "gingerbread"
+        "pomelo",
+        "panettone"
       ],
       "quiz": "dry-brining"
     },
@@ -1150,11 +1150,11 @@
         "sufganiyot",
         "baking-soda",
         "quince",
+        "guava",
         "persimmon",
-        "kohlrabi",
+        "gingerbread",
         "minestrone",
-        "cookies-spread",
-        "apple-strudel"
+        "cookies-spread"
       ],
       "quiz": "baking-soda"
     },
@@ -1162,16 +1162,16 @@
       "title": "עוד דבר אחד לפני השינה.",
       "subtitle": "קצר, טעים, ונגמר בזמן.",
       "topics": [
+        "apple-strudel",
         "french-onion-soup",
+        "kohlrabi",
         "sahlab",
         "hot-chocolate",
-        "malabi",
         "borscht",
-        "pumpkin",
-        "cheese",
-        "pepper"
+        "cholent",
+        "pumpkin"
       ],
-      "quiz": "malabi"
+      "quiz": "sahlab"
     }
   },
   "2026-11-26": {
@@ -1180,15 +1180,15 @@
       "subtitle": "משהו מעניין לקרוא עם הכוס הראשונה.",
       "topics": [
         "sufganiyot",
-        "cholent",
         "french-onion-soup",
+        "cholent",
         "quince",
         "persimmon",
-        "kohlrabi",
+        "guava",
         "sahlab",
         "hot-chocolate"
       ],
-      "quiz": "quince"
+      "quiz": "cholent"
     },
     "afternoon": {
       "title": "כמה דקות של אוכל.",
@@ -1196,14 +1196,14 @@
       "topics": [
         "lentil-soup",
         "pumpkin",
+        "pomelo",
         "borscht",
         "apple-strudel",
         "gingerbread",
         "chestnuts",
-        "panettone",
-        "carob"
+        "panettone"
       ],
-      "quiz": "gingerbread"
+      "quiz": "lentil-soup"
     },
     "evening": {
       "title": "לסיים בטעם טוב.",
@@ -1211,14 +1211,14 @@
       "topics": [
         "pomegranate-juice",
         "pomegranate",
+        "carob",
+        "kohlrabi",
         "orange-juice",
         "minestrone",
-        "parmesan",
-        "risotto-milanese",
-        "pectin",
-        "gelatin"
+        "tabbouleh",
+        "pectin"
       ],
-      "quiz": "parmesan"
+      "quiz": "tabbouleh"
     }
   },
   "2026-11-27": {
@@ -1235,37 +1235,37 @@
         "panettone",
         "quince"
       ],
-      "quiz": "lentil-soup"
+      "quiz": "quince"
     },
     "afternoon": {
       "title": "באמצע היום.",
       "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
       "topics": [
         "sufganiyot",
+        "guava",
         "carob",
         "sahlab",
         "hot-chocolate",
         "pomegranate-juice",
         "pomegranate",
-        "borscht",
-        "pumpkin"
+        "borscht"
       ],
-      "quiz": "pomegranate"
+      "quiz": "hot-chocolate"
     },
     "evening": {
       "title": "משהו טוב לסוף היום.",
       "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
       "topics": [
+        "pumpkin",
         "apple-strudel",
+        "pomelo",
+        "rugelach",
+        "croissant",
         "french-onion-soup",
-        "persimmon",
-        "jerusalem-kugel",
-        "pasta",
-        "semolina",
-        "capers",
-        "maamoul"
+        "onion",
+        "tarte-tatin"
       ],
-      "quiz": "jerusalem-kugel"
+      "quiz": "croissant"
     }
   },
   "2026-11-28": {
@@ -1276,13 +1276,13 @@
         "sufganiyot",
         "persimmon",
         "quince",
+        "guava",
         "minestrone",
-        "kohlrabi",
         "apple-strudel",
         "hot-chocolate",
         "sahlab"
       ],
-      "quiz": "sufganiyot"
+      "quiz": "persimmon"
     },
     "afternoon": {
       "title": "פינה שקטה בצהריים.",
@@ -1303,14 +1303,14 @@
       "title": "משהו טוב לסוף היום.",
       "subtitle": "לקרוא בנחת. אולי גם לקבל רעיון למחר.",
       "topics": [
+        "pomelo",
         "cholent",
+        "chicken-soup",
+        "gelatin",
+        "spherification",
         "pomegranate",
         "pomegranate-juice",
-        "chicken-soup",
-        "anthocyanins",
-        "olives",
-        "carrots",
-        "nuts"
+        "anthocyanins"
       ],
       "quiz": "chicken-soup"
     }
@@ -1324,7 +1324,7 @@
         "panettone",
         "chestnuts",
         "quince",
-        "persimmon",
+        "guava",
         "cholent",
         "apple-strudel",
         "gingerbread"
@@ -1336,12 +1336,12 @@
       "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
       "topics": [
         "sufganiyot",
+        "pomelo",
         "hot-chocolate",
         "sahlab",
         "cocoa",
         "carob",
         "pomegranate-juice",
-        "pomegranate",
         "french-onion-soup"
       ],
       "quiz": "cocoa"
@@ -1351,15 +1351,15 @@
       "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
       "topics": [
         "borscht",
+        "pomegranate",
         "kohlrabi",
         "pumpkin",
         "minestrone",
-        "beets",
-        "pickles",
-        "challah",
-        "bread-staling"
+        "pasta",
+        "bourekas",
+        "lamination"
       ],
-      "quiz": "beets"
+      "quiz": "pomegranate"
     }
   },
   "2026-11-30": {
@@ -1370,13 +1370,13 @@
         "lentil-soup",
         "persimmon",
         "quince",
+        "guava",
         "sufganiyot",
         "sahlab",
         "hot-chocolate",
-        "cholent",
-        "chickpeas"
+        "cholent"
       ],
-      "quiz": "chickpeas"
+      "quiz": "sufganiyot"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
@@ -1385,28 +1385,28 @@
         "borscht",
         "pumpkin",
         "kohlrabi",
+        "pomelo",
         "apple-strudel",
         "pomegranate-juice",
-        "pomegranate",
-        "tabbouleh",
-        "kubbeh"
+        "minestrone",
+        "gingerbread"
       ],
-      "quiz": "tabbouleh"
+      "quiz": "pomegranate-juice"
     },
     "evening": {
       "title": "אור נמוך, סיר חם.",
       "subtitle": "גילויים קטנים לסוף היום.",
       "topics": [
         "panettone",
-        "gingerbread",
-        "brown-sugar",
-        "oatmeal-cookies",
         "chestnuts",
-        "french-onion-soup",
-        "minestrone",
-        "carob"
+        "pomegranate",
+        "nuts",
+        "macarons",
+        "coffee",
+        "kubbeh",
+        "stuffed-vegetables"
       ],
-      "quiz": "brown-sugar"
+      "quiz": "nuts"
     }
   }
 }

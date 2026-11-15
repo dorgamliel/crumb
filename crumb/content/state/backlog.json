@@ -1,20 +1,5 @@
 [
   {
-    "id": "caramel-color",
-    "name": "צבע הקרמל",
-    "kind": "science"
-  },
-  {
-    "id": "chocolate-seizing",
-    "name": "שוקולד שמתגבש",
-    "kind": "science"
-  },
-  {
-    "id": "dark-vs-light-pans",
-    "name": "תבנית כהה או בהירה",
-    "kind": "science"
-  },
-  {
     "id": "reactive-pans",
     "name": "סירים שמגיבים לחומצה",
     "kind": "science"
@@ -28,16 +13,6 @@
     "id": "waxy-vs-floury-potatoes",
     "name": "תפוחי אדמה קמחיים ושעווניים",
     "kind": "science"
-  },
-  {
-    "id": "malt-beer",
-    "name": "בירה שחורה",
-    "kind": "drinks"
-  },
-  {
-    "id": "grape-juice",
-    "name": "מיץ ענבים",
-    "kind": "drinks"
   },
   {
     "id": "tonic-water",
@@ -70,23 +45,8 @@
     "kind": "drinks"
   },
   {
-    "id": "pomelo",
-    "name": "פומלה",
-    "kind": "ingredients"
-  },
-  {
     "id": "prickly-pear",
     "name": "צבר",
-    "kind": "ingredients"
-  },
-  {
-    "id": "guava",
-    "name": "גויאבה",
-    "kind": "ingredients"
-  },
-  {
-    "id": "nigella-seeds",
-    "name": "קצח",
     "kind": "ingredients"
   },
   {
@@ -125,23 +85,8 @@
     "kind": "ingredients"
   },
   {
-    "id": "tahdig",
-    "name": "תהדיג",
-    "kind": "dishes"
-  },
-  {
-    "id": "blintzes",
-    "name": "בלינצ׳ס",
-    "kind": "dishes"
-  },
-  {
     "id": "haroset",
     "name": "חרוסת",
-    "kind": "dishes"
-  },
-  {
-    "id": "arayes",
-    "name": "עראיס",
     "kind": "dishes"
   },
   {
@@ -158,16 +103,6 @@
     "id": "matzah-brei",
     "name": "מצה בריי",
     "kind": "dishes"
-  },
-  {
-    "id": "chocolate-balls",
-    "name": "כדורי שוקולד",
-    "kind": "baking"
-  },
-  {
-    "id": "ganache",
-    "name": "גנאש",
-    "kind": "baking"
   },
   {
     "id": "galette",
@@ -205,16 +140,6 @@
     "kind": "baking"
   },
   {
-    "id": "rinsing-rice",
-    "name": "שטיפת אורז",
-    "kind": "techniques"
-  },
-  {
-    "id": "air-fryer",
-    "name": "סיר טיגון באוויר חם",
-    "kind": "techniques"
-  },
-  {
     "id": "broiling",
     "name": "גריל עליון בתנור",
     "kind": "techniques"
@@ -242,6 +167,306 @@
   {
     "id": "stabilizing-yogurt",
     "name": "יוגורט שלא נחתך בבישול",
+    "kind": "techniques"
+  },
+  {
+    "id": "cilantro-soap",
+    "name": "כוסברה בטעם סבון",
+    "kind": "science"
+  },
+  {
+    "id": "egg-float-test",
+    "name": "ביצה שצפה במים",
+    "kind": "science"
+  },
+  {
+    "id": "salting-boiling-water",
+    "name": "מלח במי הבישול",
+    "kind": "science"
+  },
+  {
+    "id": "gluten-free-baking",
+    "name": "אפייה בלי גלוטן",
+    "kind": "science"
+  },
+  {
+    "id": "milk-skin",
+    "name": "קרום על החלב",
+    "kind": "science"
+  },
+  {
+    "id": "popcorn",
+    "name": "פופקורן",
+    "kind": "science"
+  },
+  {
+    "id": "msg",
+    "name": "מונוסודיום גלוטמט",
+    "kind": "science"
+  },
+  {
+    "id": "rice-water-ratio",
+    "name": "כמה מים לאורז",
+    "kind": "science"
+  },
+  {
+    "id": "chewy-vs-crispy-cookies",
+    "name": "עוגיות רכות או פריכות",
+    "kind": "science"
+  },
+  {
+    "id": "irish-coffee",
+    "name": "אייריש קופי",
+    "kind": "drinks"
+  },
+  {
+    "id": "vermouth",
+    "name": "ורמוט",
+    "kind": "drinks"
+  },
+  {
+    "id": "carrot-juice",
+    "name": "מיץ גזר",
+    "kind": "drinks"
+  },
+  {
+    "id": "golden-milk",
+    "name": "חלב כורכום",
+    "kind": "drinks"
+  },
+  {
+    "id": "lapsang-souchong",
+    "name": "תה מעושן",
+    "kind": "drinks"
+  },
+  {
+    "id": "darjeeling",
+    "name": "דרג׳ילינג",
+    "kind": "drinks"
+  },
+  {
+    "id": "hot-cider",
+    "name": "סיידר חם",
+    "kind": "drinks"
+  },
+  {
+    "id": "oat-milk",
+    "name": "משקה שיבולת שועל",
+    "kind": "drinks"
+  },
+  {
+    "id": "ristretto",
+    "name": "ריסטרטו",
+    "kind": "drinks"
+  },
+  {
+    "id": "sangria",
+    "name": "סנגריה",
+    "kind": "drinks"
+  },
+  {
+    "id": "kashkaval",
+    "name": "קשקבל",
+    "kind": "ingredients"
+  },
+  {
+    "id": "clementine",
+    "name": "קלמנטינה",
+    "kind": "ingredients"
+  },
+  {
+    "id": "chard",
+    "name": "מנגולד",
+    "kind": "ingredients"
+  },
+  {
+    "id": "celeriac",
+    "name": "סלרי ראשי",
+    "kind": "ingredients"
+  },
+  {
+    "id": "kumquat",
+    "name": "קומקוואט",
+    "kind": "ingredients"
+  },
+  {
+    "id": "tzfatit",
+    "name": "גבינה צפתית",
+    "kind": "ingredients"
+  },
+  {
+    "id": "garinim",
+    "name": "גרעינים",
+    "kind": "ingredients"
+  },
+  {
+    "id": "barberries",
+    "name": "ברברי",
+    "kind": "ingredients"
+  },
+  {
+    "id": "passion-fruit",
+    "name": "פסיפלורה",
+    "kind": "ingredients"
+  },
+  {
+    "id": "lychee",
+    "name": "ליצ׳י",
+    "kind": "ingredients"
+  },
+  {
+    "id": "white-cheese",
+    "name": "גבינה לבנה",
+    "kind": "ingredients"
+  },
+  {
+    "id": "green-shakshuka",
+    "name": "שקשוקה ירוקה",
+    "kind": "dishes"
+  },
+  {
+    "id": "kreplach",
+    "name": "קרפלך",
+    "kind": "dishes"
+  },
+  {
+    "id": "kubbeh-selek",
+    "name": "קובה סלק",
+    "kind": "dishes"
+  },
+  {
+    "id": "eggplant-mayo-salad",
+    "name": "סלט חצילים במיונז",
+    "kind": "dishes"
+  },
+  {
+    "id": "pashtida",
+    "name": "פשטידה",
+    "kind": "dishes"
+  },
+  {
+    "id": "potato-kugel",
+    "name": "קוגל תפוחי אדמה",
+    "kind": "dishes"
+  },
+  {
+    "id": "shishbarak",
+    "name": "שישברק",
+    "kind": "dishes"
+  },
+  {
+    "id": "orez-shuit",
+    "name": "אורז שעועית",
+    "kind": "dishes"
+  },
+  {
+    "id": "kitchri",
+    "name": "קיצ׳רי",
+    "kind": "dishes"
+  },
+  {
+    "id": "kuku-sabzi",
+    "name": "קוקו סבזי",
+    "kind": "dishes"
+  },
+  {
+    "id": "burnt-cheesecake",
+    "name": "עוגת גבינה בסקית",
+    "kind": "baking"
+  },
+  {
+    "id": "sable-dough",
+    "name": "בצק סבלה",
+    "kind": "baking"
+  },
+  {
+    "id": "craquelin",
+    "name": "קרקלן",
+    "kind": "baking"
+  },
+  {
+    "id": "shrinking-crust",
+    "name": "בצק שמתכווץ בתבנית",
+    "kind": "baking"
+  },
+  {
+    "id": "sourdough-discard",
+    "name": "שאריות מחמצת",
+    "kind": "baking"
+  },
+  {
+    "id": "baba-au-rhum",
+    "name": "באבא או רום",
+    "kind": "baking"
+  },
+  {
+    "id": "marble-cake",
+    "name": "עוגת שיש",
+    "kind": "baking"
+  },
+  {
+    "id": "buttercream",
+    "name": "קרם חמאה",
+    "kind": "baking"
+  },
+  {
+    "id": "alfajores",
+    "name": "אלפחורס",
+    "kind": "baking"
+  },
+  {
+    "id": "oil-cake",
+    "name": "עוגה בחושה",
+    "kind": "baking"
+  },
+  {
+    "id": "reverse-sear",
+    "name": "צריבה הפוכה",
+    "kind": "techniques"
+  },
+  {
+    "id": "knife-sharpening",
+    "name": "השחזת סכין",
+    "kind": "techniques"
+  },
+  {
+    "id": "cold-retard",
+    "name": "התפחה איטית במקרר",
+    "kind": "techniques"
+  },
+  {
+    "id": "spatchcock",
+    "name": "עוף פתוח כפרפר",
+    "kind": "techniques"
+  },
+  {
+    "id": "candied-peel",
+    "name": "קליפות הדרים מסוכרות",
+    "kind": "techniques"
+  },
+  {
+    "id": "blending-hot-soup",
+    "name": "טחינת מרק חם",
+    "kind": "techniques"
+  },
+  {
+    "id": "kitchen-scale",
+    "name": "משקל מטבח",
+    "kind": "techniques"
+  },
+  {
+    "id": "kitchen-thermometer",
+    "name": "מדחום מטבח",
+    "kind": "techniques"
+  },
+  {
+    "id": "vegetable-stock",
+    "name": "ציר ירקות",
+    "kind": "techniques"
+  },
+  {
+    "id": "breadcrumbs",
+    "name": "פירורי לחם",
     "kind": "techniques"
   }
 ]
