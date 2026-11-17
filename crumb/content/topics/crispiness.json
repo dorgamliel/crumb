@@ -62,10 +62,16 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Tempura",
       "supports": "בלילה קרה וערבוב קצר, גלוטן ובלילה בצקית, פנקו"
+    },
+    {
+      "title": "Water Content or Water Activity: What Rules Crispy Behavior in Bread Crust?",
+      "publisher": "Journal of Agricultural and Food Chemistry (אוניברסיטת ואגנינגן)",
+      "url": "https://research.wur.nl/en/publications/water-content-or-water-activity-what-rules-crispy-behavior-in-bre/",
+      "supports": "קרום יבש מאבד את הפריכות כשמים נודדים אליו, והמים משפיעים על הפריכות הנתפסת ועל צלילי השבירה"
     }
   ],
   "status": "auto-checked",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-11-17",
   "addedAt": "2026-10-19",
   "keywords": [
     "פריך",
@@ -80,9 +86,9 @@
   "quiz": {
     "question": "למה צ׳יפס מתרכך כשמחממים אותו במיקרוגל?",
     "options": [
-      "המיקרוגל ממיס את השמן שבצ׳יפס",
+      "המיקרוגל ממיס את השמן שבתוך הצ׳יפס",
       "המיקרוגל מוסיף לאוכל לחות מהאוויר",
-      "המיקרוגל מחמם את המים שבתוכו, והם מרטיבים את השוליים",
+      "המים שבתוכו מתחממים ומרטיבים את השוליים",
       "הקרינה מפרקת את הקרום לאבקה"
     ],
     "correct": 2,
