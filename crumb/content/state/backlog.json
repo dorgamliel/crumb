@@ -5,28 +5,13 @@
     "kind": "drinks"
   },
   {
-    "id": "macchiato",
-    "name": "מקיאטו",
-    "kind": "drinks"
-  },
-  {
     "id": "chamomile-tea",
     "name": "תה קמומיל",
     "kind": "drinks"
   },
   {
-    "id": "sencha",
-    "name": "סנצ׳ה",
-    "kind": "drinks"
-  },
-  {
     "id": "prickly-pear",
     "name": "צבר",
-    "kind": "ingredients"
-  },
-  {
-    "id": "grape-leaves",
-    "name": "עלי גפן",
     "kind": "ingredients"
   },
   {
@@ -40,18 +25,8 @@
     "kind": "ingredients"
   },
   {
-    "id": "dulce-de-leche",
-    "name": "ריבת חלב",
-    "kind": "ingredients"
-  },
-  {
     "id": "haroset",
     "name": "חרוסת",
-    "kind": "dishes"
-  },
-  {
-    "id": "tbit",
-    "name": "טביט",
     "kind": "dishes"
   },
   {
@@ -60,34 +35,9 @@
     "kind": "dishes"
   },
   {
-    "id": "galette",
-    "name": "גאלט",
-    "kind": "baking"
-  },
-  {
-    "id": "poolish",
-    "name": "פוליש",
-    "kind": "baking"
-  },
-  {
     "id": "shaping-bread",
     "name": "עיצוב כיכר",
     "kind": "baking"
-  },
-  {
-    "id": "krembo",
-    "name": "קרמבו",
-    "kind": "baking"
-  },
-  {
-    "id": "wok-hei",
-    "name": "ווק היי",
-    "kind": "techniques"
-  },
-  {
-    "id": "flambe",
-    "name": "פלמבה",
-    "kind": "techniques"
   },
   {
     "id": "plating",
@@ -100,28 +50,13 @@
     "kind": "techniques"
   },
   {
-    "id": "cilantro-soap",
-    "name": "כוסברה בטעם סבון",
-    "kind": "science"
-  },
-  {
     "id": "egg-float-test",
     "name": "ביצה שצפה במים",
     "kind": "science"
   },
   {
-    "id": "salting-boiling-water",
-    "name": "מלח במי הבישול",
-    "kind": "science"
-  },
-  {
     "id": "gluten-free-baking",
     "name": "אפייה בלי גלוטן",
-    "kind": "science"
-  },
-  {
-    "id": "milk-skin",
-    "name": "קרום על החלב",
     "kind": "science"
   },
   {
@@ -200,11 +135,6 @@
     "kind": "ingredients"
   },
   {
-    "id": "clementine",
-    "name": "קלמנטינה",
-    "kind": "ingredients"
-  },
-  {
     "id": "chard",
     "name": "מנגולד",
     "kind": "ingredients"
@@ -248,11 +178,6 @@
     "id": "white-cheese",
     "name": "גבינה לבנה",
     "kind": "ingredients"
-  },
-  {
-    "id": "green-shakshuka",
-    "name": "שקשוקה ירוקה",
-    "kind": "dishes"
   },
   {
     "id": "kreplach",
