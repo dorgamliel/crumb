@@ -45512,5 +45512,62 @@
       "width": 1834,
       "height": 2438
     }
+  ],
+  "clementines fruit bowl": [
+    {
+      "id": "c6a5a616-89a9-4754-bcaa-c93241a2f25f",
+      "url": "https://cdn.stocksnap.io/img-thumbs/960w/6ZSQUGKODD.jpg",
+      "title": "Fresh Orange",
+      "creator": "Foodie Girl",
+      "license": "CC0",
+      "source": "stocksnap",
+      "landing": "https://stocksnap.io/photo/fresh-orange-6ZSQUGKODD",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "id": "9ffc3539-2494-4a1f-9d87-a2f810cce277",
+      "url": "https://pd.w.org/2022/12/850638fab8491ddf8.90130370-2048x1365.jpg",
+      "title": "Fruits bowl",
+      "creator": "Shruti Sona",
+      "license": "CC0",
+      "source": "wordpress",
+      "landing": "https://wordpress.org/photos/photo/850638fab8/",
+      "width": 2048,
+      "height": 1365
+    },
+    {
+      "id": "4e5f876a-9db0-4820-b649-b095ac280e80",
+      "url": "https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxNDU4NzMzLWltYWdlLWt3dnZ1bGVqLmpwZw.jpg",
+      "title": "Free pile clementines image",
+      "creator": null,
+      "license": "CC0",
+      "source": "rawpixel",
+      "landing": "https://www.rawpixel.com/image/5910711/image-public-domain-leaf-plant",
+      "width": 6000,
+      "height": 4000
+    },
+    {
+      "id": "commons-110419474",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/%28Albi%29_Bol_de_fruits_-_1917_-_Suzanne_Valadon_Hscarton.jpg",
+      "title": "(Albi) Bol de fruits - 1917 - Suzanne Valadon Hscarton",
+      "creator": "Didier Descouens",
+      "license": "Public Domain",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/wiki/File:(Albi)_Bol_de_fruits_-_1917_-_Suzanne_Valadon_Hscarton.jpg",
+      "width": 6063,
+      "height": 4865
+    },
+    {
+      "id": "commons-23912179",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Clemenvilla_en_bol.JPG",
+      "title": "Clemenvilla en bol",
+      "creator": "P Reid",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/wiki/File:Clemenvilla_en_bol.JPG",
+      "width": 2560,
+      "height": 1920
+    }
   ]
 }

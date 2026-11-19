@@ -62,10 +62,16 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Caramelization",
       "supports": "בצל מקורמל במרק בצל וזמן הבישול הארוך"
+    },
+    {
+      "title": "Best French Onion Soup",
+      "publisher": "America's Test Kitchen",
+      "url": "https://www.americastestkitchen.com/recipes/4026-best-french-onion-soup",
+      "supports": "הבצל צריך זמן בישול ארוך כדי להשחים, גירוד השכבה החומה מתחתית הסיר עם נוזל, ופרוסות לחם קלוי עם גרוייר שמוזהבות מעל המרק"
     }
   ],
   "status": "auto-checked",
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-11-19",
   "addedAt": "2026-10-21",
   "keywords": [
     "מרק בצל צרפתי",
@@ -81,7 +87,7 @@
     "options": [
       "בימי הביניים, בבתי עשירים",
       "במאה ה־18, בחצר המלוכה בוורסאי",
-      "באמצע המאה ה־19, במסעדות שליד השוק בפריז",
+      "באמצע המאה ה־19, ליד השוק של פריז",
       "במאה ה־20, במסעדות בניו יורק"
     ],
     "correct": 2,

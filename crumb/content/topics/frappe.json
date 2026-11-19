@@ -56,11 +56,17 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Frappé_coffee",
       "supports": "רכיבים ומקור השם, סיפור יריד סלוניקי 1957 והספקות לגביו, דרך ההכנה, קפה נמס בלי שמנים והקצף העמיד, השוואה לקרמה, ניקוז הקצף תוך 2 עד 10 דקות, שייקר ידני, דרגות מתיקות, קש"
+    },
+    {
+      "title": "Effect of dispersed particles on instant coffee foam stability and rheological properties",
+      "publisher": "European Food Research and Technology (Chalmers Research)",
+      "url": "https://research.chalmers.se/en/publication/247385",
+      "supports": "קצף של קפה נמס בנוי מבועות אוויר, מים וחלקיקי קפה זעירים שמשתתפים בייצוב הבועות, והנוזל מתנקז מהקצף עם הזמן"
     }
   ],
   "status": "auto-checked",
   "addedAt": "2026-11-05",
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-19",
   "keywords": [
     "נס קפה",
     "קפה קר",
@@ -73,9 +79,9 @@
   "quiz": {
     "question": "למה הקצף של פראפה עבה ועמיד יותר מהקרמה של אספרסו?",
     "options": [
-      "כי מכינים אותו במים קרים",
-      "כי הסוכר לבדו בונה את הקצף",
-      "כי בקפה הנמס כמעט אין שמנים שמחלישים את הבועות",
+      "כי מכינים אותו במים קרים ולא חמים",
+      "כי הסוכר לבדו בונה ומחזיק את הקצף",
+      "כי בקפה הנמס כמעט אין שמנים",
       "כי הקרח כולא אוויר בתוך הכוס"
     ],
     "correct": 2,

@@ -5,11 +5,6 @@
     "kind": "drinks"
   },
   {
-    "id": "chamomile-tea",
-    "name": "תה קמומיל",
-    "kind": "drinks"
-  },
-  {
     "id": "prickly-pear",
     "name": "צבר",
     "kind": "ingredients"
@@ -60,29 +55,9 @@
     "kind": "science"
   },
   {
-    "id": "popcorn",
-    "name": "פופקורן",
-    "kind": "science"
-  },
-  {
-    "id": "msg",
-    "name": "מונוסודיום גלוטמט",
-    "kind": "science"
-  },
-  {
     "id": "rice-water-ratio",
     "name": "כמה מים לאורז",
     "kind": "science"
-  },
-  {
-    "id": "chewy-vs-crispy-cookies",
-    "name": "עוגיות רכות או פריכות",
-    "kind": "science"
-  },
-  {
-    "id": "irish-coffee",
-    "name": "אייריש קופי",
-    "kind": "drinks"
   },
   {
     "id": "vermouth",
@@ -110,11 +85,6 @@
     "kind": "drinks"
   },
   {
-    "id": "hot-cider",
-    "name": "סיידר חם",
-    "kind": "drinks"
-  },
-  {
     "id": "oat-milk",
     "name": "משקה שיבולת שועל",
     "kind": "drinks"
@@ -132,21 +102,6 @@
   {
     "id": "kashkaval",
     "name": "קשקבל",
-    "kind": "ingredients"
-  },
-  {
-    "id": "chard",
-    "name": "מנגולד",
-    "kind": "ingredients"
-  },
-  {
-    "id": "celeriac",
-    "name": "סלרי ראשי",
-    "kind": "ingredients"
-  },
-  {
-    "id": "kumquat",
-    "name": "קומקוואט",
     "kind": "ingredients"
   },
   {
@@ -180,18 +135,8 @@
     "kind": "ingredients"
   },
   {
-    "id": "kreplach",
-    "name": "קרפלך",
-    "kind": "dishes"
-  },
-  {
     "id": "eggplant-mayo-salad",
     "name": "סלט חצילים במיונז",
-    "kind": "dishes"
-  },
-  {
-    "id": "pashtida",
-    "name": "פשטידה",
     "kind": "dishes"
   },
   {
@@ -220,11 +165,6 @@
     "kind": "dishes"
   },
   {
-    "id": "burnt-cheesecake",
-    "name": "עוגת גבינה בסקית",
-    "kind": "baking"
-  },
-  {
     "id": "sable-dough",
     "name": "בצק סבלה",
     "kind": "baking"
@@ -250,11 +190,6 @@
     "kind": "baking"
   },
   {
-    "id": "marble-cake",
-    "name": "עוגת שיש",
-    "kind": "baking"
-  },
-  {
     "id": "buttercream",
     "name": "קרם חמאה",
     "kind": "baking"
@@ -275,11 +210,6 @@
     "kind": "techniques"
   },
   {
-    "id": "knife-sharpening",
-    "name": "השחזת סכין",
-    "kind": "techniques"
-  },
-  {
     "id": "cold-retard",
     "name": "התפחה איטית במקרר",
     "kind": "techniques"
@@ -297,11 +227,6 @@
   {
     "id": "blending-hot-soup",
     "name": "טחינת מרק חם",
-    "kind": "techniques"
-  },
-  {
-    "id": "kitchen-scale",
-    "name": "משקל מטבח",
     "kind": "techniques"
   },
   {

@@ -141,7 +141,7 @@
   },
   "https://en.wikipedia.org/wiki/Caramelization": {
     "ok": true,
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Tahini": {
     "ok": true,
@@ -370,7 +370,7 @@
   },
   "https://en.wikipedia.org/wiki/Focaccia": {
     "ok": true,
-    "checkedAt": "2026-10-17"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Rye_bread": {
     "ok": true,
@@ -430,7 +430,7 @@
   },
   "https://en.wikipedia.org/wiki/Cookie": {
     "ok": true,
-    "checkedAt": "2026-10-18"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Dolma": {
     "ok": true,
@@ -756,7 +756,7 @@
   },
   "https://en.wikipedia.org/wiki/Sponge_cake": {
     "ok": true,
-    "checkedAt": "2026-10-20"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Anthocyanin": {
     "ok": true,
@@ -987,7 +987,7 @@
   },
   "https://en.wikipedia.org/wiki/Basque_cheesecake": {
     "ok": true,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Kubaneh": {
     "ok": true,
@@ -1082,7 +1082,7 @@
   },
   "https://en.wikipedia.org/wiki/French_onion_soup": {
     "ok": true,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-19"
   },
   "https://www.scienceofcooking.com/vegetables_cooking_science.htm": {
     "ok": false,
@@ -1240,7 +1240,7 @@
   },
   "https://en.wikipedia.org/wiki/Gazpacho": {
     "ok": true,
-    "checkedAt": "2026-10-23"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Pine_nut": {
     "ok": true,
@@ -1511,7 +1511,7 @@
   },
   "https://en.wikipedia.org/wiki/Freezing-point_depression": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Granita": {
     "ok": true,
@@ -1582,7 +1582,7 @@
   },
   "https://en.wikipedia.org/wiki/Chocolate_mousse": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wiktionary.org/wiki/fold_in": {
     "ok": false,
@@ -1591,7 +1591,7 @@
   },
   "https://en.wikipedia.org/wiki/Angel_food_cake": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Genoise": {
     "ok": true,
@@ -1616,7 +1616,7 @@
   },
   "https://en.wikipedia.org/wiki/Frozen_food": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Individually_quick_frozen": {
     "ok": false,
@@ -1633,7 +1633,7 @@
   },
   "https://en.wikipedia.org/wiki/Freezer_burn": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Ghee": {
     "ok": true,
@@ -1792,7 +1792,7 @@
   },
   "https://en.wikipedia.org/wiki/Kreplach": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-19"
   },
   "https://www.kingarthurbaking.com/blog/2017/09/01/sifting-flour": {
     "ok": false,
@@ -2017,7 +2017,7 @@
   },
   "https://en.wikipedia.org/wiki/Chamomile": {
     "ok": true,
-    "checkedAt": "2026-10-28"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Curry": {
     "ok": true,
@@ -2049,11 +2049,11 @@
   },
   "https://en.wikipedia.org/wiki/Knife_sharpening": {
     "ok": true,
-    "checkedAt": "2026-10-28"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Honing_steel": {
     "ok": true,
-    "checkedAt": "2026-10-28"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Deep_frying": {
     "ok": true,
@@ -2969,11 +2969,11 @@
   },
   "https://en.wikipedia.org/wiki/Ful_medames": {
     "ok": true,
-    "checkedAt": "2026-11-02"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Vicia_faba": {
     "ok": true,
-    "checkedAt": "2026-11-02"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Torta_de_aceite": {
     "ok": false,
@@ -3046,7 +3046,7 @@
   "https://www.kingarthurbaking.com/blog/2020/09/15/honey-cake": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-11-03"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Tajine": {
     "ok": true,
@@ -3330,7 +3330,7 @@
   },
   "https://en.wikipedia.org/wiki/Frappé_coffee": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Processed_cheese": {
     "ok": true,
@@ -3692,7 +3692,7 @@
   },
   "https://en.wikipedia.org/wiki/Fried_rice": {
     "ok": true,
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Haugh_unit": {
     "ok": true,
@@ -3770,11 +3770,11 @@
   },
   "https://www.kingarthurbaking.com/learn/ingredient-weight-chart": {
     "ok": true,
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Cooking_weights_and_measures": {
     "ok": true,
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-19"
   },
   "https://extension.umn.edu/nutrition-and-healthy-eating/measuring-ingredients": {
     "ok": false,
@@ -3845,7 +3845,7 @@
   },
   "https://en.wikipedia.org/wiki/Kitchen_scale": {
     "ok": true,
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Hōjicha": {
     "ok": true,
@@ -4493,7 +4493,7 @@
   },
   "https://en.wikipedia.org/wiki/Ajoblanco": {
     "ok": true,
-    "checkedAt": "2026-11-10"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Chocolate_chip": {
     "ok": true,
@@ -4707,7 +4707,7 @@
   },
   "https://www.uoguelph.ca/foodscience/book-page/freezing-ice-cream": {
     "ok": true,
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-19"
   },
   "https://www.uoguelph.ca/foodscience/book-page/ice-cream-storage-and-shelf-life": {
     "ok": true,
@@ -4960,7 +4960,7 @@
   },
   "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html": {
     "ok": true,
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-19"
   },
   "https://en.wikipedia.org/wiki/Ethanol": {
     "ok": true,
@@ -5033,7 +5033,7 @@
   },
   "https://www.americastestkitchen.com/recipes/14615-ful-medames": {
     "ok": true,
-    "checkedAt": "2026-11-11"
+    "checkedAt": "2026-11-19"
   },
   "https://he.wikipedia.org/wiki/לביבה": {
     "ok": true,
@@ -6244,7 +6244,7 @@
   },
   "https://www.americastestkitchen.com/recipes/13747-kibbeh": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-19"
   },
   "https://www.saveur.com/article/Travels/Hearts-of-Syria-": {
     "ok": true,
@@ -6266,7 +6266,7 @@
   },
   "https://www.americastestkitchen.com/articles/7903-how-to-make-maamoul": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-19"
   },
   "https://www.smithsonianmag.com/travel/the-history-of-maamoul-a-middle-eastern-cookie-that-is-a-love-letter-to-our-ancestors-180986827/": {
     "ok": true,
@@ -6930,7 +6930,7 @@
   },
   "https://www.cooksillustrated.com/articles/40-the-perfect-chocolate-chip-cookie": {
     "ok": true,
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-19"
   },
   "https://www.aip.org/inside-science/an-easier-way-to-temper-chocolate": {
     "ok": true,
@@ -7699,7 +7699,7 @@
   },
   "https://www.americastestkitchen.com/recipes/1182-sweet-crepes": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-19"
   },
   "https://cas.wsu.edu/2016/06/22/cooking-the-worlds-oldest-known-curry": {
     "ok": true,
@@ -8864,5 +8864,525 @@
     "ok": false,
     "status": 404,
     "checkedAt": "2026-11-18"
+  },
+  "https://en.wikipedia.org/wiki/Kumquat": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/honey-cake-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/hamantaschen-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/the-nosher/moroccan-cigars/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/banana-bread-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://hort.purdue.edu/newcrop/morton/kumquat.html": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Celeriac": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Chard": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://he.wikipedia.org/wiki/קומקוואט": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://he.wikipedia.org/wiki/סלרי_ראשי": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/glossary/celeriac-glossary": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://he.wikipedia.org/wiki/מנגולד": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%9C%D7%A8%D7%99_%D7%A8%D7%90%D7%A9%D7%99": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://extension.umn.edu/vegetables/growing-swiss-chard": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/glossary/kumquat-glossary": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/glossary/chard-glossary": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/glossary/kumquat": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.npr.org/2006/11/29/6550770/the-vegetable-worlds-ugly-duckling-celeriac": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=swiss+chard+extension+stems+leaves+cook+separately+harvest": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/the-nosher/moroccan-meat-cigars/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/the-nosher/the-best-honey-cake/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://lite.duckduckgo.com/lite/?q=swiss+chard+extension+cooking+stems+leaves": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Rémoulade": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=%22Swiss+chard%22+site%3Aextension.illinois.edu+OR+site%3Ahgic.clemson.edu+OR+site%3Afood.unl.edu": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://web.extension.illinois.edu/veggies/swisschard.cfm": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/articles/7660-make-fried-rice-without-starting-a-day-ahead": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://extension.illinois.edu/veggies/swiss-chard": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/article/rosh-hashanah-seder/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Rosh_Hashanah_seder": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://extension.illinois.edu/vegetables/chard": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://extension.illinois.edu/vegetables/preparing-chard": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://extension.illinois.edu/veggies/chard": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/the-nosher/one-bowl-honey-cake-recipe/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.jewishfoodsociety.org/recipes/moroccan-beef-cigars": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=%22Preparing+Chard%22+Illinois+Extension": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=chard+stems+leaves+cook+separately+americastestkitchen": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=chard+cool+season+crop+extension+bolting+heat+leaves": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.sciencebuddies.org/stem-activities/ice-cream-bag": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbc.co.uk/food/chard": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/recipe/honey-cake-for-rosh-hashanah": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://scienceinthecity.stanford.edu/resources/the-science-of-ice-cream": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://van.physics.illinois.edu/qa/listing.php?id=1580": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://foodsmartcolorado.colostate.edu/recipes/preservation/freezing-food-the-science/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Popcorn": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4387522/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://extension.psu.edu/lets-preserve-freezing-fruits": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/articles/what-makes-some-cookies-chewy-and-some-crisp": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/recipes/17414-light-and-airy-focaccia": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/articles/what-makes-some-cookies-chewy-and-some-crisp": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/w/index.php?title=Cookie&action=raw": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/articles/4179-what-makes-some-cookies-chewy-and-some-crisp": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/how_tos/5570-baking-basics-folding": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/recipes/4026-best-french-onion-soup": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://research.chalmers.se/en/publication/247385": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/recipes/7975-spanish-chilled-almond-and-garlic-soup-white-gazpacho": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/recipes/6061-creamy-gazpacho-andaluz": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%99%D7%93%D7%A8": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Cider": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Apple_cider": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/mulled-cider": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/mulled-apple-juice": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A1%D7%93%D7%A8_%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Irish_coffee": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/irish-coffee": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://flyingboatmuseum.com/irish-coffee/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.thebuenavista.com/irish-coffee-story": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/perfect-popcorn": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/howto/guide/how-make-popcorn": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://he.wikipedia.org/wiki/פשטידה": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Monosodium_glutamate": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Marble_cake": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/marble-cake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Chinese_restaurant_syndrome": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/w/index.php?title=Marble_cake&action=raw": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/marble-cake-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/marble-pound-cake-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/marble-loaf-cake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/search?q=marble+cake": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/chocolate-marble-cake": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/marble-bundt-cake": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://he.wikipedia.org/wiki/%D7%91%D7%91%D7%95%D7%A0%D7%92": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.nccih.nih.gov/health/chamomile": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/?s=marble+cake": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/search?query=marble%20cake": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC2995283/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/the-nosher/easy-marble-cake-recipe/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/the-nosher/marble-pound-cake-recipe/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995283/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.smithsonianmag.com/science-nature/the-science-of-popcorn-180954468/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4387522/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.extension.purdue.edu/extmedia/NCH/NCH-5.html": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/recipes/8386-stovetop-popcorn": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/stovetop-popcorn-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/howto/guide/how-sharpen-knife": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/howto/guide/how-to-sharpen-a-knife": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bonappetit.com/story/honing-rod-vs-knife-sharpener": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/articles/1953-how-to-sharpen-a-knife": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=chamomile+tea+how+to+brew+steep+minutes+flowers+bbcgoodfood+OR+bonappetit+OR+saveur": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.177milkstreet.com/recipes/asparagus-herb-pashtida": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://asif.org/en/recipes/zucchini-pashtida/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.jewishfoodsociety.org/recipes/zucchini-pashtida-casserole": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.americastestkitchen.com/articles/218-how-to-sharpen-kitchen-knives": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.177milkstreet.com/stories/10-2023-why-isnt-my-knife-getting-sharp": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=kreplach+recipe+site%3Amyjewishlearning.com": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=kreplach+recipe+site%3Ajewishfoodsociety.org": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=kreplach+recipe+americastestkitchen+OR+nytimes+OR+saveur+OR+bonappetit": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/the-nosher/how-to-make-kreplach-two-ways/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.myjewishlearning.com/the-nosher/kreplach-recipe-jewish-dumplings-you-can-make-at-home/": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=basque+cheesecake+recipe+bbcgoodfood": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=basque+burnt+cheesecake+recipe+kingarthurbaking+OR+americastestkitchen": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bbcgoodfood.com/recipes/basque-cheesecake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/basque-cheesecake-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/burnt-basque-cheesecake-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=%22basque+cheesecake%22+recipe+site%3Abbcgoodfood.com": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=%22basque+cheesecake%22+site%3Akingarthurbaking.com": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=%22basque+cheesecake%22+site%3Aamericastestkitchen.com": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bing.com/search?q=%22basque+cheesecake%22+site%3Asaveur.com+OR+site%3Abonappetit.com": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.kingarthurbaking.com/recipes/basque-cheesecake-tarta-de-queso-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.bonappetit.com/recipe/basque-burnt-cheesecake": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://hort.purdue.edu/newcrop/med-aro/factsheets/CHAMOMILE.html": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://www.hort.purdue.edu/newcrop/med-aro/factsheets/CHAMOMILE.html": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Glutamate_flavoring": {
+    "ok": true,
+    "checkedAt": "2026-11-19"
   }
 }
