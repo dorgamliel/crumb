@@ -37,7 +37,7 @@
   },
   "https://en.wikipedia.org/wiki/Shortcrust_pastry": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Pretzel": {
     "ok": true,
@@ -113,7 +113,7 @@
   },
   "https://en.wikipedia.org/wiki/Gelatin": {
     "ok": true,
-    "checkedAt": "2026-10-20"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Pectin": {
     "ok": true,
@@ -121,7 +121,7 @@
   },
   "https://en.wikipedia.org/wiki/Honey": {
     "ok": true,
-    "checkedAt": "2026-10-24"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Tea": {
     "ok": true,
@@ -500,7 +500,7 @@
   },
   "https://en.wikipedia.org/wiki/Proofing_(baking_technique)": {
     "ok": true,
-    "checkedAt": "2026-10-18"
+    "checkedAt": "2026-11-20"
   },
   "https://www.kingarthurbaking.com/blog/2023/02/22/cold-butter-cookies": {
     "ok": false,
@@ -715,7 +715,7 @@
   },
   "https://en.wikipedia.org/wiki/Glass_transition": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Tempura": {
     "ok": true,
@@ -797,7 +797,7 @@
   },
   "https://en.wikipedia.org/wiki/Gel": {
     "ok": true,
-    "checkedAt": "2026-10-20"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Collagen": {
     "ok": true,
@@ -805,7 +805,7 @@
   },
   "https://en.wikipedia.org/wiki/Agar": {
     "ok": true,
-    "checkedAt": "2026-10-20"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Lentil": {
     "ok": true,
@@ -1003,7 +1003,7 @@
   },
   "https://en.wikipedia.org/wiki/Fructose": {
     "ok": true,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/TRPM5": {
     "ok": true,
@@ -1049,7 +1049,7 @@
   },
   "https://en.wikipedia.org/wiki/Halloumi": {
     "ok": true,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-20"
   },
   "https://www.compoundchem.com/2014/10/16/vegetablecolours/": {
     "ok": false,
@@ -1188,7 +1188,7 @@
   },
   "https://en.wikipedia.org/wiki/Pasta_filata": {
     "ok": true,
-    "checkedAt": "2026-10-23"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Chocolate_brownie": {
     "ok": true,
@@ -1304,7 +1304,7 @@
   },
   "https://en.wikipedia.org/wiki/Harissa": {
     "ok": true,
-    "checkedAt": "2026-10-24"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Fattoush": {
     "ok": true,
@@ -1407,7 +1407,7 @@
   },
   "https://en.wikipedia.org/wiki/Kugel": {
     "ok": true,
-    "checkedAt": "2026-10-25"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Yerushalmi_Kugel": {
     "ok": true,
@@ -1810,7 +1810,7 @@
   },
   "https://en.wikipedia.org/wiki/Turmeric": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-20"
   },
   "https://he.wikipedia.org/wiki/כורכום_ארוך": {
     "ok": false,
@@ -2359,7 +2359,7 @@
   },
   "https://en.wikipedia.org/wiki/Hazelnut": {
     "ok": true,
-    "checkedAt": "2026-10-30"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Peanut": {
     "ok": true,
@@ -2380,7 +2380,7 @@
   },
   "https://en.wikipedia.org/wiki/Glaze_(cooking_technique)": {
     "ok": true,
-    "checkedAt": "2026-10-30"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Specific_heat_capacity": {
     "ok": true,
@@ -2806,7 +2806,7 @@
   },
   "https://en.wikipedia.org/wiki/Glazed_carrots": {
     "ok": true,
-    "checkedAt": "2026-11-01"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Scalloped_potatoes": {
     "ok": true,
@@ -3027,7 +3027,7 @@
   },
   "https://en.wikipedia.org/wiki/Lekach": {
     "ok": true,
-    "checkedAt": "2026-11-03"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Thermal_taste": {
     "ok": false,
@@ -3046,7 +3046,7 @@
   "https://www.kingarthurbaking.com/blog/2020/09/15/honey-cake": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Tajine": {
     "ok": true,
@@ -3445,15 +3445,15 @@
   },
   "https://en.wikipedia.org/wiki/Grater": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Oroshigane": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Wasabi": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Kohlrabi": {
     "ok": true,
@@ -3968,7 +3968,7 @@
   },
   "https://en.wikipedia.org/wiki/Ginger_tea": {
     "ok": true,
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Sfenj": {
     "ok": true,
@@ -4043,7 +4043,7 @@
   },
   "https://en.wikipedia.org/wiki/Qishr": {
     "ok": true,
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Pistacchio_verde_di_Bronte": {
     "ok": false,
@@ -4217,11 +4217,11 @@
   },
   "https://en.wikipedia.org/wiki/Filbertone": {
     "ok": true,
-    "checkedAt": "2026-11-09"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Gianduja_(chocolate)": {
     "ok": true,
-    "checkedAt": "2026-11-09"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Churro": {
     "ok": true,
@@ -4237,7 +4237,7 @@
   },
   "https://en.wikipedia.org/wiki/Ginger_ale": {
     "ok": true,
-    "checkedAt": "2026-11-09"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Dried_persimmon": {
     "ok": true,
@@ -4731,7 +4731,7 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11765248/": {
     "ok": true,
-    "checkedAt": "2026-11-10"
+    "checkedAt": "2026-11-20"
   },
   "https://pmc.ncbi.nlm.nih.gov/search/?term=ice+cream+glass+transition+recrystallization+freeze-concentrated": {
     "ok": true,
@@ -4748,7 +4748,7 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC7923164/": {
     "ok": true,
-    "checkedAt": "2026-11-10"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Pho": {
     "ok": true,
@@ -4935,7 +4935,7 @@
   },
   "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling": {
     "ok": true,
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-20"
   },
   "https://www.kingarthurbaking.com/recipes/naturally-leavened-brioche-style-kugelhopf-recipe": {
     "ok": true,
@@ -4952,7 +4952,7 @@
   "https://www.kingarthurbaking.com/recipes/potato-latkes-recipe": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-11-11"
+    "checkedAt": "2026-11-20"
   },
   "https://www.bakingmad.com/recipes/kugelhopf": {
     "ok": true,
@@ -4960,7 +4960,7 @@
   },
   "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html": {
     "ok": true,
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Ethanol": {
     "ok": true,
@@ -5013,7 +5013,7 @@
   },
   "https://www.americastestkitchen.com/recipes/7214-crispy-potato-latkes": {
     "ok": true,
-    "checkedAt": "2026-11-11"
+    "checkedAt": "2026-11-20"
   },
   "https://guide.michelin.com/us/en/article/dining-in/recipe-malabi-milk-pudding-nur": {
     "ok": true,
@@ -5340,7 +5340,7 @@
   },
   "https://www.kingarthurbaking.com/recipes/basbousa-syrup-soaked-semolina-cake-recipe": {
     "ok": true,
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-20"
   },
   "https://www.177milkstreet.com/stories/whats-that-white-stuff-on-salmon": {
     "ok": true,
@@ -6739,7 +6739,7 @@
   "https://www.food.gov.uk/safety-hygiene/cooking-your-food-safely": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-11-14"
+    "checkedAt": "2026-11-20"
   },
   "https://extension.usu.edu/preserve-the-harvest/research/dry-beans": {
     "ok": true,
@@ -7286,15 +7286,15 @@
   },
   "https://www.kingarthurbaking.com/sitemap.xml": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-20"
   },
   "https://www.kingarthurbaking.com/sitemap.xml?page=1": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-20"
   },
   "https://www.kingarthurbaking.com/sitemap.xml?page=2": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-20"
   },
   "https://en.wikipedia.org/wiki/Grape_juice": {
     "ok": true,
@@ -7302,11 +7302,11 @@
   },
   "https://www.kingarthurbaking.com/sitemap.xml?page=3": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-20"
   },
   "https://www.kingarthurbaking.com/sitemap.xml?page=4": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-20"
   },
   "https://www.kingarthurbaking.com/blog/2023/02/08/how-to-melt-chocolate": {
     "ok": true,
@@ -8050,15 +8050,15 @@
   },
   "https://www.americastestkitchen.com/sitemap.xml": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-20"
   },
   "https://www.americastestkitchen.com/sitemap/articles.xml": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-20"
   },
   "https://www.americastestkitchen.com/sitemap/how_tos.xml": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-20"
   },
   "https://www.americastestkitchen.com/sitemap/reviews.xml": {
     "ok": true,
@@ -8871,7 +8871,7 @@
   },
   "https://www.kingarthurbaking.com/recipes/honey-cake-recipe": {
     "ok": true,
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   "https://www.kingarthurbaking.com/recipes/hamantaschen-recipe": {
     "ok": true,
@@ -8955,7 +8955,7 @@
   "https://www.myjewishlearning.com/the-nosher/the-best-honey-cake/": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   "https://lite.duckduckgo.com/lite/?q=swiss+chard+extension+cooking+stems+leaves": {
     "ok": true,
@@ -9006,7 +9006,7 @@
   },
   "https://www.myjewishlearning.com/the-nosher/one-bowl-honey-cake-recipe/": {
     "ok": true,
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   "https://www.jewishfoodsociety.org/recipes/moroccan-beef-cigars": {
     "ok": true,
@@ -9035,7 +9035,7 @@
   "https://www.myjewishlearning.com/recipe/honey-cake-for-rosh-hashanah": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   "https://scienceinthecity.stanford.edu/resources/the-science-of-ice-cream": {
     "ok": true,
@@ -9384,5 +9384,1051 @@
   "https://en.wikipedia.org/wiki/Glutamate_flavoring": {
     "ok": true,
     "checkedAt": "2026-11-19"
+  },
+  "https://en.wikipedia.org/wiki/Kashkaval": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/11/03/how-to-prevent-pie-crust-shrinking": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Berberis_vulgaris": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/the-nosher/jachnun-recipe/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://ich.unesco.org/en/RL/harissa-knowledge-skills-and-culinary-and-social-practices-01719": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/story/barberries": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://cooking.nytimes.com/recipes/1017839-jeweled-rice": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/blog/2023/05/17/how-to-keep-pie-crust-from-shrinking": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=barberries+zereshk+americastestkitchen+OR+ottolenghi+OR+saveur+OR+bonappetit": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://bakerbettie.com/?p=9782": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=unesco+harissa+tunisia+intangible+heritage": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://ich.unesco.org/en/RL/harissa-knowledge-skills-and-culinary-and-social-practices-01719?lg=en": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/09/28/how-to-refrigerate-bread-dough-to-bake-later": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=barberries+site%3Aamericastestkitchen.com": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=barberries+site%3A177milkstreet.com": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://html.duckduckgo.com/html/?q=jachnun+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/how_tos/9169-cold-fermentation-and-flavor-in-yeasted-breads": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://lite.duckduckgo.com/lite/?q=harissa+tunisia+chili+olive+oil+caraway+history": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://html.duckduckgo.com/html/?q=barberries+americastestkitchen": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=jachnun+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/?s=jachnun": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/search?q=jachnun": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Bubble_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=harissa+tunisia+site%3Abbcgoodfood.com+OR+site%3Asaveur.com+OR+site%3Anpr.org+OR+site%3Asmithsonianmag.com": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=halloumi+squeak+casein+site%3Ancbi.nlm.nih.gov": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/08/05/how-to-make-candied-citrus-peel": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=site%3Ajewishfoodsociety.org+jachnun": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=site%3Amyjewishlearning.com+jachnun+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://html.duckduckgo.com/html/?q=zereshk+polo+recipe+milk+street": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/story/what-is-halloumi": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/the-nosher/how-to-make-jachnun-yemenite-overnight-shabbat-rolls/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/brown-sugar-boba-milk-tea": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/bubble-tea-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/jachnun-yemenite-jewish-bread-with-slow-cooked-eggs": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://html.duckduckgo.com/html/?q=barberries+ottolenghi+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://lite.duckduckgo.com/lite/?q=barberries+americastestkitchen": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=jewish+food+society+jachnun+dana+schneider": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=America%27s+Test+Kitchen+barberry+rice+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=Milk+Street+barberries+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=Saveur+zereshk+polo": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=nytimes+cooking+barberry+rice": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/sitemap.xml": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://html.duckduckgo.com/html/?q=americastestkitchen+bubble+tea+tapioca+pearls": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=site%3Aamericastestkitchen.com+bubble+tea": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=zereshk%20polo%20recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=barberries%20rice%20recipe%20chicken%20saffron": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=boba+milk+tea+recipe+tapioca+pearls+brown+sugar+syrup": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/jachnun-yemenite-jewish-bread-with-slow-cooked-egg": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/kubaneh-yemenite-overnight-bread": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/kubaneh": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=maamoul+date+cookies+recipe+semolina": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/mahmoul-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/homemade-harissa": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/story/what-is-harissa": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Candied_fruit": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/maamoul-tartlets-date-filled-tartlets": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/תפוז": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.saveur.com/harissa-recipe/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=basbousa+recipe+semolina+cake+syrup": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=ginger+ale+history+Cantrell+Belfast+McLaughlin+Canada+Dry": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=ginger+tea+salabat+saenggang-cha": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=agar+gelatin+melting+setting+temperature+hysteresis": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.maariv.co.il/food/food-recipes/Article-817984": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://plants.ces.ncsu.edu/plants/berberis-vulgaris": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.smithsonianmag.com/arts-culture/a-brief-history-of-bubble-tea-180979966/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/articles/7262-what-is-boba": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/articles/8303-gluten-free-binders-and-leaveners": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://foodsmartcolorado.colostate.edu/recipes/cooking-and-baking/gluten-free-baking": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=bubble+tea+recipe+america%27s+test+kitchen": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=boba+tea+recipe+bon+appetit": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=taiwan+bubble+tea+history+tapioca+pearls+article": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=how+to+cook+tapioca+pearls+boba+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://foodsmartcolorado.colostate.edu/nutrition-and-health/diseases-and-conditions/gluten-free/gluten-free-baking": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/ברברית": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/ברבריס": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Berberis": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/guides/gluten-free/keys-to-successful-gluten-free-baking": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.177milkstreet.com/recipes/persian-jeweled-rice": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/jeweled-rice": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/articles/1692-nailing-the-perfect-ratio-of-water-to-rice": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/how_tos/9395-science-the-secrets-of-cooking-rice": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/articles/6971-how-to-make-perfect-rice-without-a-perfect-lid": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=seriouseats+maamoul": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=americastestkitchen+maamoul": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=bbcgoodfood+maamoul": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=nytimes+cooking+maamoul": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://asif.org/en/recipes/maamoul/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://asif.org/en/recipes/date-maamoul/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.saveur.com/article/recipes/zereshk-polo/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/search?q=barberries": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/search?q=barberries": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/the-nosher/what-are-barberries/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/how_tos/what-are-dried-barberries": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/articles/what-are-dried-barberries": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/recipes/javaher-polo-jeweled-rice": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=%22What+Are+Dried+Barberries%22": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=%22Javaher+Polo%22+jeweled+rice+test+kitchen": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=glazed+carrots+site%3Aamericastestkitchen.com": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=glaze+confectioners+sugar+site%3Akingarthurbaking.com": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=latkes+box+grater+food+processor+site%3Aamericastestkitchen.com": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=skin+hazelnuts+towel+site%3Aamericastestkitchen.com+OR+site%3Akingarthurbaking.com": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Lapsang_souchong": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Stem_rust": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/16248572/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/search?q=potato%20kugel": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/search?q=shishbarak": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/search?q=kitchari%20OR%20khichdi": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/search?q=khichdi": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/search?q=sable%20breton": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/search?q=pate%20sablee": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/article/honey-cake/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16248572&rettype=abstract&retmode=text": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/potato-kugel-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/the-nosher/a-brief-history-of-honey-cake/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/the-nosher/potato-kugel-recipe/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/the-nosher/classic-potato-kugel-recipe/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/potato-kugel": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/potato-kugel": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://bakerpedia.com/ingredients/honey/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://bakerpedia.com/ingredients/fructose/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.saveur.com/recipes/potato-kugel/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.177milkstreet.com/recipes/potato-kugel": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Potato_kugel": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.taiwan.gov.tw/content_2.php": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbc.com/travel/article/20200421-the-taiwanese-drink-that-took-over-the-world": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.npr.org/sections/thesalt/2017/03/26/521307434/bubble-teas-rise-in-the-u-s": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/קוגל": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Shish_barak": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://ottolenghi.co.uk/recipes/shishbarak": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.177milkstreet.com/recipes/shish-barak": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.dib.ie/biography/cantrell-thomas-joseph-a1453": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.saveur.com/recipes/shish-barak/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.biographi.ca/en/bio/mclaughlin_john_james_14E.html": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/shish-barak": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.sbs.com.au/food/recipe/shish-barak": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/shishbarak": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shishbarak": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shishbarak%20recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shishbarak%20yogurt%20dumplings": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shish%20barak%20recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shushbarak": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbcgoodfood.com/recipes/ginger-tea": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/ginger-tea": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbcgoodfood.com/howto/guide/how-make-ginger-tea": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.177milkstreet.com/recipes/ginger-tea": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extlinks&titles=Bubble_tea&ellimit=500&format=json": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shish%20barak%20recipe&first=11": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shish%20barak%20ottolenghi": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shish%20barak%20new%20york%20times": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=shish%20barak%20saveur": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=ginger+tea+recipe+bbc+good+food": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=salabat+filipino+ginger+tea": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=saenggang-cha+korean+ginger+tea": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=%D7%A9%D7%99%D7%A9%D7%91%D7%A8%D7%A7%20%D7%9E%D7%AA%D7%9B%D7%95%D7%9F": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/שישברק": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/שיש_ברכ": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://maureenabood.com/lebanese-shish-barak/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://palestineinadish.com/recipes/shish-barak-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://maureenabood.com/about/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Golden_milk": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extlinks&titles=Turmeric&ellimit=500&format=json": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=korean+ginger+tea+saenggangcha+recipe+jujube+pine+nuts": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbc.com/travel/article/20200623-indias-original-turmeric-latte": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=salabat+site%3Afoodandwine.com": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbcgoodfood.com/recipes/turmeric-latte": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbcgoodfood.com/recipes/golden-milk": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pmc&retmode=json&retmax=8&term=agar+gelatin+gel+melting+gelling+temperature+hysteresis+food": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&retmode=json&id=13703582,13696677,13633557,13626062,13566688,13513680,13468371,13415079": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pmc&retmode=json&retmax=8&term=hazelnut+filbertone+aroma": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&retmode=json&id=12432537,12226203,11904111,11319697,11641094,11567114,11434963,9085359": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC12432537/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC13633557/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12432537": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=13633557": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.cheese.com/kashkaval/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/קשקבל": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extlinks&titles=Kashkaval&ellimit=500&format=json": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/w/api.php?action=query&prop=extlinks&titles=Tzfatit&ellimit=500&format=json": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbcgoodfood.com/recipes/glazed-carrots": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbcgoodfood.com/recipes/honey-glazed-carrots": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/glazed-carrots": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Tzfatit": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.epicurious.com/recipes/food/views/glazed-carrots-232920": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=bon+appetit+fresh+ginger+tea+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=salabat+ginger+tea+philippines+smithsonian+OR+npr+OR+saveur+OR+epicurious": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/adrak-chai": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/masala-chai": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/story/ginger-tea": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bonappetit.com/recipe/ginger-honey-tea": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/גבינה_צפתית": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.saveur.com/article/recipes/salabat-ginger-tea/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/w/api.php?action=query&prop=extlinks&titles=%D7%92%D7%91%D7%99%D7%A0%D7%94_%D7%A6%D7%A4%D7%AA%D7%99%D7%AA&ellimit=500&format=json": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.israel21c.org/for-the-love-of-the-cheese/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.saveur.com/recipes/salabat/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.health.gov.il/Subjects/FoodAndNutrition/food_safety/Pages/default.aspx": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&retmode=json&id=13633557,12432537": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Khichdi": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/kitchri": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/the-nosher/kitchri-iraqi-rice-and-lentils/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/the-nosher/kitchri/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/קיצ׳רי": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/קיצרי": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=kitchri": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=kitchri%20iraqi%20jewish": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bing.com/search?q=kitchri%20recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Iraqi_Jewish_cuisine": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Iraqi_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Kedgeree": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/המטבח_היהודי-עיראקי": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/המטבח_העיראקי": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.yossi-ginossar.co.il/2914-2/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.myjewishlearning.com/?s=kitchri": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.korostej.hu/products/kashkaval": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Caciocavallo": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Mizrahi_Jewish_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Iraqi_Jews": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Jewish_cuisine": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/The_Nine_Days": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/kitchree": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/kichri": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/recipes/kichree-iraqi-rice-and-red-lentils": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.jewishfoodsociety.org/stories/writer-samantha-ellis-cooks-her-way-back-to-the-iraqi-jewish-kitchen": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Iraq": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Icing_(food)": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Sablé": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/סבלה": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/sables-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/french-butter-cookies-sables-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/classic-sables-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://en.wikipedia.org/wiki/Sablé_(biscuit)": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbcgoodfood.com/recipes/sable-biscuits": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.bbcgoodfood.com/recipes/sables": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/sable-cookies-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/french-sables-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/sable-breton-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/salty-sweet-sables-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.kingarthurbaking.com/recipes/lemon-sable-cookies-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/sitemap/recipes.xml": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/how-tos/13319-what-are-dried-barberries": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/recipes/4503-french-butter-cookies-sables": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.americastestkitchen.com/recipes/12513-cast-iron-potato-kugel": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13633557/": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&id=13633557&retmode=json": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
+  },
+  "https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%99%D7%A0%D7%94_%D7%A6%D7%A4%D7%AA%D7%99%D7%AA": {
+    "ok": true,
+    "checkedAt": "2026-11-20"
   }
 }

@@ -1,10 +1,5 @@
 [
   {
-    "id": "bubble-tea",
-    "name": "תה בועות",
-    "kind": "drinks"
-  },
-  {
     "id": "prickly-pear",
     "name": "צבר",
     "kind": "ingredients"
@@ -50,16 +45,6 @@
     "kind": "science"
   },
   {
-    "id": "gluten-free-baking",
-    "name": "אפייה בלי גלוטן",
-    "kind": "science"
-  },
-  {
-    "id": "rice-water-ratio",
-    "name": "כמה מים לאורז",
-    "kind": "science"
-  },
-  {
     "id": "vermouth",
     "name": "ורמוט",
     "kind": "drinks"
@@ -67,16 +52,6 @@
   {
     "id": "carrot-juice",
     "name": "מיץ גזר",
-    "kind": "drinks"
-  },
-  {
-    "id": "golden-milk",
-    "name": "חלב כורכום",
-    "kind": "drinks"
-  },
-  {
-    "id": "lapsang-souchong",
-    "name": "תה מעושן",
     "kind": "drinks"
   },
   {
@@ -100,23 +75,8 @@
     "kind": "drinks"
   },
   {
-    "id": "kashkaval",
-    "name": "קשקבל",
-    "kind": "ingredients"
-  },
-  {
-    "id": "tzfatit",
-    "name": "גבינה צפתית",
-    "kind": "ingredients"
-  },
-  {
     "id": "garinim",
     "name": "גרעינים",
-    "kind": "ingredients"
-  },
-  {
-    "id": "barberries",
-    "name": "ברברי",
     "kind": "ingredients"
   },
   {
@@ -140,23 +100,8 @@
     "kind": "dishes"
   },
   {
-    "id": "potato-kugel",
-    "name": "קוגל תפוחי אדמה",
-    "kind": "dishes"
-  },
-  {
-    "id": "shishbarak",
-    "name": "שישברק",
-    "kind": "dishes"
-  },
-  {
     "id": "orez-shuit",
     "name": "אורז שעועית",
-    "kind": "dishes"
-  },
-  {
-    "id": "kitchri",
-    "name": "קיצ׳רי",
     "kind": "dishes"
   },
   {
@@ -165,18 +110,8 @@
     "kind": "dishes"
   },
   {
-    "id": "sable-dough",
-    "name": "בצק סבלה",
-    "kind": "baking"
-  },
-  {
     "id": "craquelin",
     "name": "קרקלן",
-    "kind": "baking"
-  },
-  {
-    "id": "shrinking-crust",
-    "name": "בצק שמתכווץ בתבנית",
     "kind": "baking"
   },
   {
@@ -210,18 +145,8 @@
     "kind": "techniques"
   },
   {
-    "id": "cold-retard",
-    "name": "התפחה איטית במקרר",
-    "kind": "techniques"
-  },
-  {
     "id": "spatchcock",
     "name": "עוף פתוח כפרפר",
-    "kind": "techniques"
-  },
-  {
-    "id": "candied-peel",
-    "name": "קליפות הדרים מסוכרות",
     "kind": "techniques"
   },
   {
