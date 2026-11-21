@@ -25,44 +25,9 @@
     "kind": "dishes"
   },
   {
-    "id": "shaping-bread",
-    "name": "עיצוב כיכר",
-    "kind": "baking"
-  },
-  {
-    "id": "plating",
-    "name": "הגשה בצלחת",
-    "kind": "techniques"
-  },
-  {
-    "id": "stabilizing-yogurt",
-    "name": "יוגורט שלא נחתך בבישול",
-    "kind": "techniques"
-  },
-  {
     "id": "egg-float-test",
     "name": "ביצה שצפה במים",
     "kind": "science"
-  },
-  {
-    "id": "vermouth",
-    "name": "ורמוט",
-    "kind": "drinks"
-  },
-  {
-    "id": "carrot-juice",
-    "name": "מיץ גזר",
-    "kind": "drinks"
-  },
-  {
-    "id": "darjeeling",
-    "name": "דרג׳ילינג",
-    "kind": "drinks"
-  },
-  {
-    "id": "oat-milk",
-    "name": "משקה שיבולת שועל",
-    "kind": "drinks"
   },
   {
     "id": "ristretto",
@@ -75,39 +40,9 @@
     "kind": "drinks"
   },
   {
-    "id": "garinim",
-    "name": "גרעינים",
-    "kind": "ingredients"
-  },
-  {
-    "id": "passion-fruit",
-    "name": "פסיפלורה",
-    "kind": "ingredients"
-  },
-  {
     "id": "lychee",
     "name": "ליצ׳י",
     "kind": "ingredients"
-  },
-  {
-    "id": "white-cheese",
-    "name": "גבינה לבנה",
-    "kind": "ingredients"
-  },
-  {
-    "id": "eggplant-mayo-salad",
-    "name": "סלט חצילים במיונז",
-    "kind": "dishes"
-  },
-  {
-    "id": "orez-shuit",
-    "name": "אורז שעועית",
-    "kind": "dishes"
-  },
-  {
-    "id": "kuku-sabzi",
-    "name": "קוקו סבזי",
-    "kind": "dishes"
   },
   {
     "id": "craquelin",
@@ -168,5 +103,305 @@
     "id": "breadcrumbs",
     "name": "פירורי לחם",
     "kind": "techniques"
+  },
+  {
+    "id": "carbonation",
+    "name": "פחמון משקאות",
+    "kind": "science"
+  },
+  {
+    "id": "hygroscopy",
+    "name": "סוכר שסופג לחות",
+    "kind": "science"
+  },
+  {
+    "id": "syneresis",
+    "name": "סינרזיס: נוזל שיוצא מג׳ל",
+    "kind": "science"
+  },
+  {
+    "id": "kokumi",
+    "name": "קוקומי",
+    "kind": "science"
+  },
+  {
+    "id": "piperine",
+    "name": "פיפרין: החריפות של פלפל שחור",
+    "kind": "science"
+  },
+  {
+    "id": "retrogradation",
+    "name": "רטרוגרדציה של עמילן",
+    "kind": "science"
+  },
+  {
+    "id": "scoville-scale",
+    "name": "סולם סקוביל",
+    "kind": "science"
+  },
+  {
+    "id": "espresso-crema",
+    "name": "קרמה של אספרסו",
+    "kind": "science"
+  },
+  {
+    "id": "gelatin-bloom",
+    "name": "חוזק ג׳לטין",
+    "kind": "science"
+  },
+  {
+    "id": "pu-erh",
+    "name": "פו־אר",
+    "kind": "drinks"
+  },
+  {
+    "id": "assam",
+    "name": "תה אסאם",
+    "kind": "drinks"
+  },
+  {
+    "id": "piccolo",
+    "name": "פיקולו",
+    "kind": "drinks"
+  },
+  {
+    "id": "dalgona-coffee",
+    "name": "קפה דלגונה",
+    "kind": "drinks"
+  },
+  {
+    "id": "soy-milk",
+    "name": "משקה סויה",
+    "kind": "drinks"
+  },
+  {
+    "id": "hot-toddy",
+    "name": "הוט טודי",
+    "kind": "drinks"
+  },
+  {
+    "id": "vietnamese-coffee",
+    "name": "קפה וייטנאמי",
+    "kind": "drinks"
+  },
+  {
+    "id": "jasmine-tea",
+    "name": "תה יסמין",
+    "kind": "drinks"
+  },
+  {
+    "id": "spritz",
+    "name": "שפריץ",
+    "kind": "drinks"
+  },
+  {
+    "id": "limoncello",
+    "name": "לימונצ׳לו",
+    "kind": "drinks"
+  },
+  {
+    "id": "mahlab",
+    "name": "מחלב",
+    "kind": "ingredients"
+  },
+  {
+    "id": "mastic",
+    "name": "מסטיק",
+    "kind": "ingredients"
+  },
+  {
+    "id": "jameed",
+    "name": "ג׳מיד",
+    "kind": "ingredients"
+  },
+  {
+    "id": "allspice",
+    "name": "פלפל אנגלי",
+    "kind": "ingredients"
+  },
+  {
+    "id": "caraway",
+    "name": "קימל",
+    "kind": "ingredients"
+  },
+  {
+    "id": "rosemary",
+    "name": "רוזמרין",
+    "kind": "ingredients"
+  },
+  {
+    "id": "shallots",
+    "name": "שאלוט",
+    "kind": "ingredients"
+  },
+  {
+    "id": "corn",
+    "name": "תירס",
+    "kind": "ingredients"
+  },
+  {
+    "id": "tofu",
+    "name": "טופו",
+    "kind": "ingredients"
+  },
+  {
+    "id": "dill",
+    "name": "שמיר",
+    "kind": "ingredients"
+  },
+  {
+    "id": "lupini",
+    "name": "תורמוס",
+    "kind": "ingredients"
+  },
+  {
+    "id": "tadka",
+    "name": "טיגון תבלינים בשמן",
+    "kind": "techniques"
+  },
+  {
+    "id": "pan-sauce",
+    "name": "רוטב מחבת",
+    "kind": "techniques"
+  },
+  {
+    "id": "separating-eggs",
+    "name": "הפרדת ביצים",
+    "kind": "techniques"
+  },
+  {
+    "id": "hard-boiled-eggs",
+    "name": "ביצה קשה",
+    "kind": "techniques"
+  },
+  {
+    "id": "scrambled-eggs",
+    "name": "ביצה מקושקשת",
+    "kind": "techniques"
+  },
+  {
+    "id": "macerating",
+    "name": "השריית פירות בסוכר",
+    "kind": "techniques"
+  },
+  {
+    "id": "parboiling",
+    "name": "בישול מקדים",
+    "kind": "techniques"
+  },
+  {
+    "id": "stand-mixer",
+    "name": "מיקסר עומד",
+    "kind": "techniques"
+  },
+  {
+    "id": "clay-pot",
+    "name": "סיר חרס",
+    "kind": "techniques"
+  },
+  {
+    "id": "cutting-board",
+    "name": "קרש חיתוך",
+    "kind": "techniques"
+  },
+  {
+    "id": "kokosh-cake",
+    "name": "עוגת קוקוש",
+    "kind": "baking"
+  },
+  {
+    "id": "flodni",
+    "name": "פלודני",
+    "kind": "baking"
+  },
+  {
+    "id": "clafoutis",
+    "name": "קלפוטי",
+    "kind": "baking"
+  },
+  {
+    "id": "amaretti",
+    "name": "אמרטי",
+    "kind": "baking"
+  },
+  {
+    "id": "palmiers",
+    "name": "אוזני פיל",
+    "kind": "baking"
+  },
+  {
+    "id": "red-velvet",
+    "name": "רד ולווט",
+    "kind": "baking"
+  },
+  {
+    "id": "naan",
+    "name": "נאן",
+    "kind": "baking"
+  },
+  {
+    "id": "speculoos",
+    "name": "ספקולוס",
+    "kind": "baking"
+  },
+  {
+    "id": "lahoh",
+    "name": "לחוח",
+    "kind": "baking"
+  },
+  {
+    "id": "mloukhia",
+    "name": "מלוחייה",
+    "kind": "dishes"
+  },
+  {
+    "id": "lubia",
+    "name": "לוביה",
+    "kind": "dishes"
+  },
+  {
+    "id": "ghormeh-sabzi",
+    "name": "ג׳ורמה סבזי",
+    "kind": "dishes"
+  },
+  {
+    "id": "spanakopita",
+    "name": "ספנקופיטה",
+    "kind": "dishes"
+  },
+  {
+    "id": "mashed-potatoes",
+    "name": "פירה",
+    "kind": "dishes"
+  },
+  {
+    "id": "ribollita",
+    "name": "ריבוליטה",
+    "kind": "dishes"
+  },
+  {
+    "id": "dal",
+    "name": "דאל",
+    "kind": "dishes"
+  },
+  {
+    "id": "caponata",
+    "name": "קפונטה",
+    "kind": "dishes"
+  },
+  {
+    "id": "lecso",
+    "name": "לצ׳ו",
+    "kind": "dishes"
+  },
+  {
+    "id": "pkaila",
+    "name": "פקאלה",
+    "kind": "dishes"
+  },
+  {
+    "id": "fricassee",
+    "name": "פריקסה",
+    "kind": "dishes"
   }
 ]
