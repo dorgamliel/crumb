@@ -46,6 +46,7 @@ async function politeFetch(url, { tries = 5 } = {}) {
     }
     if (res?.ok) return res;
     if (res && res.status !== 429 && res.status < 500) throw new Error(`${res.status} for ${url}`);
+    if (attempt === tries - 1) break; // no point waiting after the last try
     const retryAfter = Number(res?.headers.get("retry-after")) || 0;
     await sleep(Math.max(retryAfter * 1000, 2000 * 2 ** attempt));
   }
@@ -59,6 +60,28 @@ function thumbUrl(url, width) {
   const f = url.match(/^(https:\/\/live\.staticflickr\.com\/.+?)(_[a-z])?\.jpg$/);
   if (f) return `${f[1]}_${width <= 500 ? "n" : "b"}.jpg`;
   return url;
+}
+
+/**
+ * Openverse serves its own copy of every result it indexes (`full` = original size). The
+ * pipeline's network cannot reach Flickr and Wikimedia throttles thumbnails, so Openverse
+ * results are fetched through it first. Commons results (id "commons-…") have no such copy.
+ */
+const openverseThumb = (r, full = false) =>
+  /^[0-9a-f-]{36}$/.test(r.id ?? "") ? `https://api.openverse.org/v1/images/${r.id}/thumb/${full ? "?full_size=true" : ""}` : null;
+
+/** Tries each URL in turn (with its own number of tries); a refused or throttled one moves on to the next. */
+async function fetchFirst(urls, tries) {
+  let last;
+  for (const [i, u] of urls.entries()) {
+    if (!u) continue;
+    try {
+      return await politeFetch(u, { tries: tries[i] });
+    } catch (e) {
+      last = e;
+    }
+  }
+  throw last;
 }
 
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40);
@@ -147,17 +170,21 @@ async function searchOpenverse(query) {
 async function showCandidates(query, results) {
   mkdirSync(CANDIDATES, { recursive: true });
   const tiles = [];
+  const throttled = new Set(); // hosts that gave up: skip their other results, keep the rest
   for (const [i, r] of results.entries()) {
     const key = `${slug(query)}-${i}`;
     const file = join(CANDIDATES, `${r.id}.jpg`); // stable even if a search is repeated
     try {
       if (!existsSync(file)) {
-        const buf = Buffer.from(await (await politeFetch(thumbUrl(r.url, 330), { tries: 3 })).arrayBuffer());
+        const direct = thumbUrl(r.url, 330);
+        const ov = openverseThumb(r);
+        if (!ov && throttled.has(new URL(direct).host)) continue;
+        const buf = Buffer.from(await (await fetchFirst([ov, direct], [2, 1])).arrayBuffer());
         await sharp(buf).resize(300, 300, { fit: "cover" }).jpeg({ quality: 70 }).toFile(file);
       }
       tiles.push({ key, file, r });
     } catch (e) {
-      if (e instanceof RateLimited) break;
+      if (e instanceof RateLimited) throttled.add(new URL(thumbUrl(r.url, 330)).host);
     }
   }
   // Contact sheet: thumbnails in a grid, each labeled with its candidate key.
@@ -197,7 +224,7 @@ async function use(topicId, key, alt) {
   const query = Object.keys(cache).find((q) => slug(q) === m?.[1]);
   const r = query && cache[query][Number(m[2])];
   if (!r) throw new Error(`unknown candidate ${key}; run search first`);
-  const buf = Buffer.from(await (await politeFetch(thumbUrl(r.url, 1280))).arrayBuffer());
+  const buf = Buffer.from(await (await fetchFirst([openverseThumb(r, true), thumbUrl(r.url, 1280)], [3, 3])).arrayBuffer());
   const img = sharp(buf).rotate();
   const meta = await img.metadata();
   if ((meta.width ?? 0) < 700) throw new Error(`image too small (${meta.width}px)`);

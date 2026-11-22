@@ -45,11 +45,6 @@
     "kind": "ingredients"
   },
   {
-    "id": "craquelin",
-    "name": "קרקלן",
-    "kind": "baking"
-  },
-  {
     "id": "sourdough-discard",
     "name": "שאריות מחמצת",
     "kind": "baking"
@@ -57,11 +52,6 @@
   {
     "id": "baba-au-rhum",
     "name": "באבא או רום",
-    "kind": "baking"
-  },
-  {
-    "id": "buttercream",
-    "name": "קרם חמאה",
     "kind": "baking"
   },
   {
@@ -95,11 +85,6 @@
     "kind": "techniques"
   },
   {
-    "id": "vegetable-stock",
-    "name": "ציר ירקות",
-    "kind": "techniques"
-  },
-  {
     "id": "breadcrumbs",
     "name": "פירורי לחם",
     "kind": "techniques"
@@ -130,33 +115,13 @@
     "kind": "science"
   },
   {
-    "id": "retrogradation",
-    "name": "רטרוגרדציה של עמילן",
-    "kind": "science"
-  },
-  {
-    "id": "scoville-scale",
-    "name": "סולם סקוביל",
-    "kind": "science"
-  },
-  {
     "id": "espresso-crema",
     "name": "קרמה של אספרסו",
     "kind": "science"
   },
   {
-    "id": "gelatin-bloom",
-    "name": "חוזק ג׳לטין",
-    "kind": "science"
-  },
-  {
     "id": "pu-erh",
     "name": "פו־אר",
-    "kind": "drinks"
-  },
-  {
-    "id": "assam",
-    "name": "תה אסאם",
     "kind": "drinks"
   },
   {
@@ -172,11 +137,6 @@
   {
     "id": "soy-milk",
     "name": "משקה סויה",
-    "kind": "drinks"
-  },
-  {
-    "id": "hot-toddy",
-    "name": "הוט טודי",
     "kind": "drinks"
   },
   {
@@ -200,11 +160,6 @@
     "kind": "drinks"
   },
   {
-    "id": "mahlab",
-    "name": "מחלב",
-    "kind": "ingredients"
-  },
-  {
     "id": "mastic",
     "name": "מסטיק",
     "kind": "ingredients"
@@ -220,18 +175,8 @@
     "kind": "ingredients"
   },
   {
-    "id": "caraway",
-    "name": "קימל",
-    "kind": "ingredients"
-  },
-  {
     "id": "rosemary",
     "name": "רוזמרין",
-    "kind": "ingredients"
-  },
-  {
-    "id": "shallots",
-    "name": "שאלוט",
     "kind": "ingredients"
   },
   {
@@ -253,11 +198,6 @@
     "id": "lupini",
     "name": "תורמוס",
     "kind": "ingredients"
-  },
-  {
-    "id": "tadka",
-    "name": "טיגון תבלינים בשמן",
-    "kind": "techniques"
   },
   {
     "id": "pan-sauce",
@@ -303,11 +243,6 @@
     "id": "cutting-board",
     "name": "קרש חיתוך",
     "kind": "techniques"
-  },
-  {
-    "id": "kokosh-cake",
-    "name": "עוגת קוקוש",
-    "kind": "baking"
   },
   {
     "id": "flodni",
@@ -372,16 +307,6 @@
   {
     "id": "mashed-potatoes",
     "name": "פירה",
-    "kind": "dishes"
-  },
-  {
-    "id": "ribollita",
-    "name": "ריבוליטה",
-    "kind": "dishes"
-  },
-  {
-    "id": "dal",
-    "name": "דאל",
     "kind": "dishes"
   },
   {
