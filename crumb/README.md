@@ -124,7 +124,7 @@ are imported once. Malformed or blocked storage falls back to memory.
   rawpixel credits come from the files' own pages. For the Unsplash photos, the
   photographer was not verified, so the credit says so rather than guessing. Licensing
   review is not production-complete.
-- Fonts (Frank Ruhl Libre for editorial text, Heebo for the interface) are bundled via
+- The font (Noto Sans Hebrew, for editorial text and the interface alike) is bundled via
   Fontsource, so the app makes no runtime requests to Google Fonts.
 - **PWA and offline**: a service worker (public/sw.js, finished by scripts/postbuild.mjs) caches
   the app shell, the index and every topic and photo already opened, so the app opens offline.

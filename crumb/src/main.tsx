@@ -1,7 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import "@fontsource-variable/heebo/index.css";
-import "@fontsource-variable/frank-ruhl-libre/index.css";
+import "@fontsource-variable/noto-sans-hebrew/index.css";
 import "./styles.css";
 import { loadIndex } from "./lib/content";
 import { reportVisit } from "./lib/visit";

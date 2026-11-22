@@ -1,10 +1,11 @@
 /* ───────────────────────── Tokens ───────────────────────── */
 
 :root {
-  /* Editorial text: Frank Ruhl Libre, a classic Hebrew book serif. Interface: Heebo. */
-  --serif: "Frank Ruhl Libre Variable", "Frank Ruhl Libre", "David Libre", "Times New Roman", serif;
-  --sans: "Heebo Variable", "Heebo", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
-  --mark: "Frank Ruhl Libre Variable", "Frank Ruhl Libre", Georgia, serif;
+  /* One typeface throughout: Noto Sans Hebrew, for editorial text, the interface and the
+     wordmark alike. The three roles stay separate so one can change without touching the rest. */
+  --serif: "Noto Sans Hebrew Variable", "Noto Sans Hebrew", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --sans: "Noto Sans Hebrew Variable", "Noto Sans Hebrew", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  --mark: "Noto Sans Hebrew Variable", "Noto Sans Hebrew", system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
 
   --paper: #f5ede0;
   --paper-2: #ece1cd;

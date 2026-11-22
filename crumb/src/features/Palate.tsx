@@ -62,11 +62,11 @@ async function drawCard(p: Palate, now: Date): Promise<Blob> {
   c.height = H;
   const g = c.getContext("2d")!;
   await Promise.all([
-    document.fonts.load('700 80px "Frank Ruhl Libre Variable"', "אבג"),
-    document.fonts.load('500 40px "Heebo Variable"', "אבג"),
+    document.fonts.load('700 80px "Noto Sans Hebrew Variable"', "אבג"),
+    document.fonts.load('500 40px "Noto Sans Hebrew Variable"', "אבג"),
   ]).catch(() => {});
-  const serif = '"Frank Ruhl Libre Variable", serif';
-  const sans = '"Heebo Variable", sans-serif';
+  const serif = '"Noto Sans Hebrew Variable", sans-serif';
+  const sans = '"Noto Sans Hebrew Variable", sans-serif';
   // Background
   const bg = g.createLinearGradient(0, 0, W, H);
   bg.addColorStop(0, "#2a1d14");
