@@ -30,11 +30,6 @@
     "kind": "science"
   },
   {
-    "id": "ristretto",
-    "name": "ריסטרטו",
-    "kind": "drinks"
-  },
-  {
     "id": "sangria",
     "name": "סנגריה",
     "kind": "drinks"
@@ -45,23 +40,8 @@
     "kind": "ingredients"
   },
   {
-    "id": "sourdough-discard",
-    "name": "שאריות מחמצת",
-    "kind": "baking"
-  },
-  {
-    "id": "baba-au-rhum",
-    "name": "באבא או רום",
-    "kind": "baking"
-  },
-  {
     "id": "alfajores",
     "name": "אלפחורס",
-    "kind": "baking"
-  },
-  {
-    "id": "oil-cake",
-    "name": "עוגה בחושה",
     "kind": "baking"
   },
   {
@@ -75,18 +55,8 @@
     "kind": "techniques"
   },
   {
-    "id": "blending-hot-soup",
-    "name": "טחינת מרק חם",
-    "kind": "techniques"
-  },
-  {
     "id": "kitchen-thermometer",
     "name": "מדחום מטבח",
-    "kind": "techniques"
-  },
-  {
-    "id": "breadcrumbs",
-    "name": "פירורי לחם",
     "kind": "techniques"
   },
   {
@@ -95,34 +65,14 @@
     "kind": "science"
   },
   {
-    "id": "hygroscopy",
-    "name": "סוכר שסופג לחות",
-    "kind": "science"
-  },
-  {
-    "id": "syneresis",
-    "name": "סינרזיס: נוזל שיוצא מג׳ל",
-    "kind": "science"
-  },
-  {
     "id": "kokumi",
     "name": "קוקומי",
-    "kind": "science"
-  },
-  {
-    "id": "piperine",
-    "name": "פיפרין: החריפות של פלפל שחור",
     "kind": "science"
   },
   {
     "id": "espresso-crema",
     "name": "קרמה של אספרסו",
     "kind": "science"
-  },
-  {
-    "id": "pu-erh",
-    "name": "פו־אר",
-    "kind": "drinks"
   },
   {
     "id": "piccolo",
@@ -160,18 +110,8 @@
     "kind": "drinks"
   },
   {
-    "id": "mastic",
-    "name": "מסטיק",
-    "kind": "ingredients"
-  },
-  {
     "id": "jameed",
     "name": "ג׳מיד",
-    "kind": "ingredients"
-  },
-  {
-    "id": "allspice",
-    "name": "פלפל אנגלי",
     "kind": "ingredients"
   },
   {
@@ -287,21 +227,6 @@
   {
     "id": "mloukhia",
     "name": "מלוחייה",
-    "kind": "dishes"
-  },
-  {
-    "id": "lubia",
-    "name": "לוביה",
-    "kind": "dishes"
-  },
-  {
-    "id": "ghormeh-sabzi",
-    "name": "ג׳ורמה סבזי",
-    "kind": "dishes"
-  },
-  {
-    "id": "spanakopita",
-    "name": "ספנקופיטה",
     "kind": "dishes"
   },
   {

@@ -61,11 +61,17 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Matcha",
       "supports": "גידול בצל, כלורופיל ותיאנין, אידוי וטחינה, הגשה במטרפת במבוק והגעה ליפן"
+    },
+    {
+      "title": "Phenotypic Markers Reflecting the Status of Overstressed Tea Plants Subjected to Repeated Shade Cultivation",
+      "publisher": "Frontiers in Plant Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpls.2020.556476/full",
+      "supports": "גידול בצל של שיחי התה לפני הקטיף לייצור מאצ׳ה, ועלים שנעשים ירוקים כהים בזכות יותר כלורופיל"
     }
   ],
   "status": "auto-checked",
   "addedAt": "2026-10-18",
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-11-23",
   "keywords": [
     "תה ירוק",
     "אבקת תה",
@@ -78,10 +84,10 @@
   "quiz": {
     "question": "מה נותן למאצ׳ה איכותית את הצבע הירוק העז שלה?",
     "options": [
-      "מוסיפים לה צבע מאכל בייצור",
+      "מוסיפים לה צבע מאכל ירוק בשלב הייצור",
       "השיחים מוצלים, והעלים בונים יותר כלורופיל",
-      "העלים נקלים על אש לפני הטחינה",
-      "היא עשויה מצמח אחר מהתה הרגיל"
+      "קולים את העלים על אש לפני שטוחנים אותם",
+      "היא עשויה מצמח אחר, לא משיח התה הרגיל"
     ],
     "correct": 1,
     "explanation": "בצל העלים מקבלים פחות אור, ולכן מייצרים יותר כלורופיל. אחרי הקטיף מאדים אותם כדי לעצור את האנזימים שהיו משחימים אותם, כך שהצבע נשמר עד האבקה."

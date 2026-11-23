@@ -56,10 +56,16 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Maghrebi_mint_tea",
       "supports": "המרכיבים, התפוצה, השם אתאי, הגעת התה דרך הבריטים, אסווירה, ההתבססות במרוקו, מים רותחים, העלים בקנקן, המזיגה מגובה ושלוש הכוסות"
+    },
+    {
+      "title": "Pouring Moroccan Mint Tea",
+      "publisher": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/foods/pouring-moroccan-mint-tea",
+      "supports": "תה ירוק מסוג גאנפאודר, נענע וסוכר, מזיגה מגובה שמאווררת את התה, וטעם שונה בכל כוס"
     }
   ],
   "status": "auto-checked",
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-11-23",
   "addedAt": "2026-10-24",
   "keywords": [
     "תה מרוקאי",
@@ -74,9 +80,9 @@
   "quiz": {
     "question": "למה מוזגים את תה הנענע המגרבי מגובה?",
     "options": [
-      "כדי לקרר אותו מהר מספיק לשתייה",
+      "כדי שכוס הזכוכית לא תיסדק מהחום",
       "כדי שהסוכר יימס לגמרי",
-      "כדי שהעלים ירדו לתחתית הכוס והתה יתאוורר",
+      "כדי שהעלים ירדו לתחתית והתה יתאוורר",
       "כדי שהנענע תשחרר יותר צבע"
     ],
     "correct": 2,
