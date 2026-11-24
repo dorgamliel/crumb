@@ -9,7 +9,7 @@
     "key": "nutmeg",
     "width": 1280,
     "height": 960,
-    "alt": "אגוז מוסקט חום ולצדו המעטפת האדומה שלו, המוסקט־פרח, בכף יד",
+    "alt": "אגוז מוסקט חום ולצדו הרשת האדומה שעוטפת אותו, המייס, בכף יד",
     "credit": {
       "author": "Sajith Erattupetta",
       "source": "Wikimedia Commons",
@@ -62,6 +62,12 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Hamin",
       "supports": "אגוז מוסקט בגרסאות מרוקאיות של חמין"
+    },
+    {
+      "title": "Ancient Precursor to Pumpkin Spice Latte? Archaeologists Uncover Earliest Human Use of Nutmeg",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/prehistoric-pumpkin-spice-archaeologists-uncover-earliest-use-nutmeg-180970478/",
+      "supports": "שאריות של אגוז מוסקט בכלי חרס בני כ־3,500 שנה מאחד מאיי בנדה, מוצא העץ באיים, והמייס כעטיפה האדומה של הזרע שטעמה עדין יותר"
     }
   ],
   "status": "auto-checked",
@@ -80,10 +86,10 @@
   "quiz": {
     "question": "מהו המייס?",
     "options": [
-      "אגוז מוסקט שנקלה בתנור",
-      "הרשת האדומה שעוטפת את זרע אגוז המוסקט",
-      "עלה של עץ המוסקט",
-      "שמן שסוחטים מאגוז המוסקט"
+      "אגוז מוסקט טחון שנקלה במחבת",
+      "הרשת האדומה שעוטפת את הזרע",
+      "עלה מיובש של עץ המוסקט",
+      "שמן שסוחטים מזרע אגוז המוסקט"
     ],
     "correct": 1,
     "explanation": "מפרי עץ המוסקט מקבלים שני תבלינים: הזרע הוא אגוז המוסקט, והרשת האדומה שעוטפת אותו מתייבשת והופכת למייס, שטעמו דומה אבל עדין יותר."

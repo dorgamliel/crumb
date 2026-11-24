@@ -65,16 +65,6 @@
     "kind": "science"
   },
   {
-    "id": "kokumi",
-    "name": "קוקומי",
-    "kind": "science"
-  },
-  {
-    "id": "espresso-crema",
-    "name": "קרמה של אספרסו",
-    "kind": "science"
-  },
-  {
     "id": "piccolo",
     "name": "פיקולו",
     "kind": "drinks"
@@ -82,21 +72,6 @@
   {
     "id": "dalgona-coffee",
     "name": "קפה דלגונה",
-    "kind": "drinks"
-  },
-  {
-    "id": "soy-milk",
-    "name": "משקה סויה",
-    "kind": "drinks"
-  },
-  {
-    "id": "vietnamese-coffee",
-    "name": "קפה וייטנאמי",
-    "kind": "drinks"
-  },
-  {
-    "id": "jasmine-tea",
-    "name": "תה יסמין",
     "kind": "drinks"
   },
   {
@@ -115,28 +90,13 @@
     "kind": "ingredients"
   },
   {
-    "id": "rosemary",
-    "name": "רוזמרין",
-    "kind": "ingredients"
-  },
-  {
     "id": "corn",
     "name": "תירס",
     "kind": "ingredients"
   },
   {
-    "id": "tofu",
-    "name": "טופו",
-    "kind": "ingredients"
-  },
-  {
     "id": "dill",
     "name": "שמיר",
-    "kind": "ingredients"
-  },
-  {
-    "id": "lupini",
-    "name": "תורמוס",
     "kind": "ingredients"
   },
   {
@@ -150,11 +110,6 @@
     "kind": "techniques"
   },
   {
-    "id": "hard-boiled-eggs",
-    "name": "ביצה קשה",
-    "kind": "techniques"
-  },
-  {
     "id": "scrambled-eggs",
     "name": "ביצה מקושקשת",
     "kind": "techniques"
@@ -162,11 +117,6 @@
   {
     "id": "macerating",
     "name": "השריית פירות בסוכר",
-    "kind": "techniques"
-  },
-  {
-    "id": "parboiling",
-    "name": "בישול מקדים",
     "kind": "techniques"
   },
   {
@@ -185,11 +135,6 @@
     "kind": "techniques"
   },
   {
-    "id": "flodni",
-    "name": "פלודני",
-    "kind": "baking"
-  },
-  {
     "id": "clafoutis",
     "name": "קלפוטי",
     "kind": "baking"
@@ -197,11 +142,6 @@
   {
     "id": "amaretti",
     "name": "אמרטי",
-    "kind": "baking"
-  },
-  {
-    "id": "palmiers",
-    "name": "אוזני פיל",
     "kind": "baking"
   },
   {
@@ -215,19 +155,9 @@
     "kind": "baking"
   },
   {
-    "id": "speculoos",
-    "name": "ספקולוס",
-    "kind": "baking"
-  },
-  {
     "id": "lahoh",
     "name": "לחוח",
     "kind": "baking"
-  },
-  {
-    "id": "mloukhia",
-    "name": "מלוחייה",
-    "kind": "dishes"
   },
   {
     "id": "mashed-potatoes",
@@ -242,11 +172,6 @@
   {
     "id": "lecso",
     "name": "לצ׳ו",
-    "kind": "dishes"
-  },
-  {
-    "id": "pkaila",
-    "name": "פקאלה",
     "kind": "dishes"
   },
   {
