@@ -119,5 +119,14 @@
     "reasons": [
       "Retired from backlog: overlaps the cocoa topic, which already explains natural vs Dutch-process cocoa."
     ]
+  },
+  "jameed": {
+    "date": "2026-11-25",
+    "name": "ג׳מיד",
+    "reasons": [
+      "Headline, dek, body paragraph 2, quiz and the water-activity relation rest on 'holds months without refrigeration' and 'salt binds the remaining water, hostile to bacteria'; no listed source states shelf life or this mechanism (ICARDA abstract only says salt is used to control acidity during drying; Wikipedia only says drying gives a longer shelf life).",
+      "Preservation and microbial-safety claims need explicit support per the guide; fixing would require rewriting the headline, dek, a body paragraph and the quiz.",
+      "The ICARDA source is framed as showing jameed is microbe-hostile, but its abstract highlights health risks (antibiotic residues in 50.65% of samples) and large variation in dry matter (73-92%), which the topic omits."
+    ]
   }
 }

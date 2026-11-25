@@ -6,7 +6,18 @@
   "kind": "techniques",
   "column": "בשוק עכשיו",
   "minutes": 3,
-  "image": null,
+  "image": {
+    "key": "candied-peel",
+    "width": 1280,
+    "height": 853,
+    "alt": "רצועות קליפת תפוז מסוכרת ושקופה מתייבשות על רשת",
+    "credit": {
+      "author": "Veganbaking.net from USA",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=35717025"
+    }
+  },
   "season": [
     12,
     1,

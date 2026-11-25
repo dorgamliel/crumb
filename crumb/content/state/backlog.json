@@ -40,11 +40,6 @@
     "kind": "ingredients"
   },
   {
-    "id": "alfajores",
-    "name": "אלפחורס",
-    "kind": "baking"
-  },
-  {
     "id": "reverse-sear",
     "name": "צריבה הפוכה",
     "kind": "techniques"
@@ -65,16 +60,6 @@
     "kind": "science"
   },
   {
-    "id": "piccolo",
-    "name": "פיקולו",
-    "kind": "drinks"
-  },
-  {
-    "id": "dalgona-coffee",
-    "name": "קפה דלגונה",
-    "kind": "drinks"
-  },
-  {
     "id": "spritz",
     "name": "שפריץ",
     "kind": "drinks"
@@ -85,18 +70,8 @@
     "kind": "drinks"
   },
   {
-    "id": "jameed",
-    "name": "ג׳מיד",
-    "kind": "ingredients"
-  },
-  {
     "id": "corn",
     "name": "תירס",
-    "kind": "ingredients"
-  },
-  {
-    "id": "dill",
-    "name": "שמיר",
     "kind": "ingredients"
   },
   {
@@ -105,28 +80,13 @@
     "kind": "techniques"
   },
   {
-    "id": "separating-eggs",
-    "name": "הפרדת ביצים",
-    "kind": "techniques"
-  },
-  {
     "id": "scrambled-eggs",
     "name": "ביצה מקושקשת",
     "kind": "techniques"
   },
   {
-    "id": "macerating",
-    "name": "השריית פירות בסוכר",
-    "kind": "techniques"
-  },
-  {
     "id": "stand-mixer",
     "name": "מיקסר עומד",
-    "kind": "techniques"
-  },
-  {
-    "id": "clay-pot",
-    "name": "סיר חרס",
     "kind": "techniques"
   },
   {
@@ -140,18 +100,8 @@
     "kind": "baking"
   },
   {
-    "id": "amaretti",
-    "name": "אמרטי",
-    "kind": "baking"
-  },
-  {
     "id": "red-velvet",
     "name": "רד ולווט",
-    "kind": "baking"
-  },
-  {
-    "id": "naan",
-    "name": "נאן",
     "kind": "baking"
   },
   {
@@ -160,23 +110,318 @@
     "kind": "baking"
   },
   {
-    "id": "mashed-potatoes",
-    "name": "פירה",
-    "kind": "dishes"
-  },
-  {
-    "id": "caponata",
-    "name": "קפונטה",
-    "kind": "dishes"
-  },
-  {
     "id": "lecso",
     "name": "לצ׳ו",
     "kind": "dishes"
   },
   {
-    "id": "fricassee",
-    "name": "פריקסה",
+    "id": "kale",
+    "name": "קייל",
+    "kind": "ingredients"
+  },
+  {
+    "id": "arugula",
+    "name": "רוקט",
+    "kind": "ingredients"
+  },
+  {
+    "id": "jujube",
+    "name": "שיזף",
+    "kind": "ingredients"
+  },
+  {
+    "id": "mulberries",
+    "name": "תותי עץ",
+    "kind": "ingredients"
+  },
+  {
+    "id": "black-garlic",
+    "name": "שום שחור",
+    "kind": "ingredients"
+  },
+  {
+    "id": "buttermilk",
+    "name": "חובצה",
+    "kind": "ingredients"
+  },
+  {
+    "id": "ricotta",
+    "name": "ריקוטה",
+    "kind": "ingredients"
+  },
+  {
+    "id": "chia-seeds",
+    "name": "זרעי צ׳יה",
+    "kind": "ingredients"
+  },
+  {
+    "id": "green-almonds",
+    "name": "שקדים ירוקים",
+    "kind": "ingredients"
+  },
+  {
+    "id": "cucumbers",
+    "name": "מלפפון",
+    "kind": "ingredients"
+  },
+  {
+    "id": "poppy-seeds",
+    "name": "פרג",
+    "kind": "ingredients"
+  },
+  {
+    "id": "etrog",
+    "name": "אתרוג",
+    "kind": "ingredients"
+  },
+  {
+    "id": "kushari",
+    "name": "כושרי",
     "kind": "dishes"
+  },
+  {
+    "id": "fatteh",
+    "name": "פתה",
+    "kind": "dishes"
+  },
+  {
+    "id": "harira",
+    "name": "חרירה",
+    "kind": "dishes"
+  },
+  {
+    "id": "gondi",
+    "name": "גונדי",
+    "kind": "dishes"
+  },
+  {
+    "id": "mac-and-cheese",
+    "name": "מקרוני וגבינה",
+    "kind": "dishes"
+  },
+  {
+    "id": "pasta-alla-norma",
+    "name": "פסטה אלה נורמה",
+    "kind": "dishes"
+  },
+  {
+    "id": "vichyssoise",
+    "name": "מרק כרישה ותפוחי אדמה",
+    "kind": "dishes"
+  },
+  {
+    "id": "tzimmes",
+    "name": "צימעס",
+    "kind": "dishes"
+  },
+  {
+    "id": "kasha-varnishkes",
+    "name": "קשה ורנישקס",
+    "kind": "dishes"
+  },
+  {
+    "id": "huevos-haminados",
+    "name": "ביצים חמינדוס",
+    "kind": "dishes"
+  },
+  {
+    "id": "menemen",
+    "name": "מנמן",
+    "kind": "dishes"
+  },
+  {
+    "id": "florentines",
+    "name": "פלורנטינים",
+    "kind": "baking"
+  },
+  {
+    "id": "tuiles",
+    "name": "טואיל",
+    "kind": "baking"
+  },
+  {
+    "id": "victoria-sponge",
+    "name": "עוגת ויקטוריה",
+    "kind": "baking"
+  },
+  {
+    "id": "whole-wheat-bread",
+    "name": "לחם מקמח מלא",
+    "kind": "baking"
+  },
+  {
+    "id": "ghraybeh",
+    "name": "גריבה",
+    "kind": "baking"
+  },
+  {
+    "id": "mandelbrot",
+    "name": "מנדלברוט",
+    "kind": "baking"
+  },
+  {
+    "id": "milk-bread",
+    "name": "לחם חלב",
+    "kind": "baking"
+  },
+  {
+    "id": "blondies",
+    "name": "בלונדיז",
+    "kind": "baking"
+  },
+  {
+    "id": "ladyfingers",
+    "name": "בישקוטים",
+    "kind": "baking"
+  },
+  {
+    "id": "creme-caramel",
+    "name": "קרם קרמל",
+    "kind": "baking"
+  },
+  {
+    "id": "americano",
+    "name": "אמריקנו",
+    "kind": "drinks"
+  },
+  {
+    "id": "mocha",
+    "name": "מוקה",
+    "kind": "drinks"
+  },
+  {
+    "id": "gyokuro",
+    "name": "גיוקורו",
+    "kind": "drinks"
+  },
+  {
+    "id": "chrysanthemum-tea",
+    "name": "תה חרצית",
+    "kind": "drinks"
+  },
+  {
+    "id": "sherry",
+    "name": "שרי",
+    "kind": "drinks"
+  },
+  {
+    "id": "sake",
+    "name": "סאקה",
+    "kind": "drinks"
+  },
+  {
+    "id": "nitro-cold-brew",
+    "name": "קולד ברו בחנקן",
+    "kind": "drinks"
+  },
+  {
+    "id": "orange-wine",
+    "name": "יין כתום",
+    "kind": "drinks"
+  },
+  {
+    "id": "wheat-beer",
+    "name": "בירת חיטה",
+    "kind": "drinks"
+  },
+  {
+    "id": "negroni",
+    "name": "נגרוני",
+    "kind": "drinks"
+  },
+  {
+    "id": "latent-heat",
+    "name": "חום כמוס",
+    "kind": "science"
+  },
+  {
+    "id": "amylase",
+    "name": "עמילאז",
+    "kind": "science"
+  },
+  {
+    "id": "freezer-burn",
+    "name": "כוויית הקפאה",
+    "kind": "science"
+  },
+  {
+    "id": "carotenoids",
+    "name": "קרוטנואידים",
+    "kind": "science"
+  },
+  {
+    "id": "betalains",
+    "name": "בטלאינים",
+    "kind": "science"
+  },
+  {
+    "id": "cruciferous-aroma",
+    "name": "ריח הכרוב",
+    "kind": "science"
+  },
+  {
+    "id": "surface-area",
+    "name": "שטח פנים",
+    "kind": "science"
+  },
+  {
+    "id": "crunch-sound",
+    "name": "צליל הפריכות",
+    "kind": "science"
+  },
+  {
+    "id": "charring-peppers",
+    "name": "קליית פלפלים על האש",
+    "kind": "techniques"
+  },
+  {
+    "id": "tea-steeping",
+    "name": "חליטת תה",
+    "kind": "techniques"
+  },
+  {
+    "id": "mandoline",
+    "name": "מנדולינה",
+    "kind": "techniques"
+  },
+  {
+    "id": "dutch-oven",
+    "name": "סיר ברזל יצוק",
+    "kind": "techniques"
+  },
+  {
+    "id": "pizza-stone",
+    "name": "אבן אפייה",
+    "kind": "techniques"
+  },
+  {
+    "id": "food-processor",
+    "name": "מעבד מזון",
+    "kind": "techniques"
+  },
+  {
+    "id": "salad-spinner",
+    "name": "מייבש חסה",
+    "kind": "techniques"
+  },
+  {
+    "id": "mantecatura",
+    "name": "מנטקטורה",
+    "kind": "techniques"
+  },
+  {
+    "id": "toasting-flour",
+    "name": "קליית קמח",
+    "kind": "techniques"
+  },
+  {
+    "id": "washing-mushrooms",
+    "name": "שטיפת פטריות",
+    "kind": "techniques"
+  },
+  {
+    "id": "vinaigrette",
+    "name": "ויניגרט",
+    "kind": "techniques"
   }
 ]

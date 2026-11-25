@@ -6,7 +6,18 @@
   "kind": "drinks",
   "column": "מאחורי המנה",
   "minutes": 3,
-  "image": null,
+  "image": {
+    "key": "vietnamese-coffee",
+    "width": 1280,
+    "height": 1707,
+    "alt": "פילטר פין ממתכת מטפטף קפה שחור לכוס מעל שכבת חלב מרוכז, ולידו כוס מלאה קרח",
+    "credit": {
+      "author": "Infrogmation of New Orleans",
+      "source": "Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Vietnamese_Iced_Coffee_Ba_Chi_Canteen.jpg"
+    }
+  },
   "season": [
     5,
     6,

@@ -113,7 +113,7 @@
   },
   "https://en.wikipedia.org/wiki/Gelatin": {
     "ok": true,
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Pectin": {
     "ok": true,
@@ -125,7 +125,7 @@
   },
   "https://en.wikipedia.org/wiki/Tea": {
     "ok": true,
-    "checkedAt": "2026-10-17"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Caramelized_onions": {
     "ok": true,
@@ -287,7 +287,7 @@
   },
   "https://en.wikipedia.org/wiki/Almond": {
     "ok": true,
-    "checkedAt": "2026-11-11"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Flour": {
     "ok": true,
@@ -386,7 +386,7 @@
   },
   "https://en.wikipedia.org/wiki/Paprika": {
     "ok": true,
-    "checkedAt": "2026-10-17"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Osmosis": {
     "ok": true,
@@ -398,7 +398,7 @@
   },
   "https://en.wikipedia.org/wiki/Capsanthin": {
     "ok": true,
-    "checkedAt": "2026-10-17"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Sabich": {
     "ok": true,
@@ -570,7 +570,7 @@
   },
   "https://en.wikipedia.org/wiki/Cacio_e_pepe": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Bread": {
     "ok": true,
@@ -659,19 +659,19 @@
   },
   "https://en.wikipedia.org/wiki/Coffee_extraction": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Brewed_coffee": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Pomegranate": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Hard_water": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Boiling-point_elevation": {
     "ok": true,
@@ -687,7 +687,7 @@
   },
   "https://en.wikipedia.org/wiki/Pomegranate_molasses": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Coffee_preparation": {
     "ok": true,
@@ -744,7 +744,7 @@
   },
   "https://en.wikipedia.org/wiki/Limescale": {
     "ok": true,
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Kettle": {
     "ok": true,
@@ -928,7 +928,7 @@
   },
   "https://en.wikipedia.org/wiki/Cooking": {
     "ok": true,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-25"
   },
   "https://www.kingarthurbaking.com/blog/2017/10/20/bread-scoring-patterns-and-techniques": {
     "ok": false,
@@ -1415,7 +1415,7 @@
   },
   "https://en.wikipedia.org/wiki/Benzaldehyde": {
     "ok": true,
-    "checkedAt": "2026-11-11"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Pad_thai": {
     "ok": true,
@@ -1653,7 +1653,7 @@
   },
   "https://en.wikipedia.org/wiki/Parmigiano_Reggiano": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Tyrosine": {
     "ok": true,
@@ -2392,7 +2392,7 @@
   },
   "https://en.wikipedia.org/wiki/Cell_wall": {
     "ok": true,
-    "checkedAt": "2026-10-30"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Turgor_pressure": {
     "ok": true,
@@ -2404,7 +2404,7 @@
   },
   "https://en.wikipedia.org/wiki/Calcium_chloride": {
     "ok": true,
-    "checkedAt": "2026-10-30"
+    "checkedAt": "2026-11-25"
   },
   "https://it.wikipedia.org/wiki/Ciabatta_(pane)": {
     "ok": true,
@@ -2421,7 +2421,7 @@
   },
   "https://he.wikipedia.org/wiki/רכז_רימונים": {
     "ok": true,
-    "checkedAt": "2026-10-30"
+    "checkedAt": "2026-11-25"
   },
   "https://he.wikipedia.org/wiki/לימון_פרסי": {
     "ok": true,
@@ -2433,7 +2433,7 @@
   },
   "https://en.wikipedia.org/wiki/Fesenjan": {
     "ok": true,
-    "checkedAt": "2026-10-30"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Ghormeh_sabzi": {
     "ok": true,
@@ -2560,7 +2560,7 @@
   },
   "https://en.wikipedia.org/wiki/Panna_cotta": {
     "ok": true,
-    "checkedAt": "2026-10-31"
+    "checkedAt": "2026-11-25"
   },
   "https://sarooibos.co.za/how-to-brew-rooibos/": {
     "ok": false,
@@ -2999,7 +2999,7 @@
   },
   "https://en.wikipedia.org/wiki/Persimmon": {
     "ok": true,
-    "checkedAt": "2026-11-02"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Capillary_action": {
     "ok": true,
@@ -3314,7 +3314,7 @@
   },
   "https://en.wikipedia.org/wiki/Flat_white": {
     "ok": true,
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Casein": {
     "ok": true,
@@ -3409,7 +3409,7 @@
   },
   "https://en.wikipedia.org/wiki/Pierogi": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Kofta": {
     "ok": true,
@@ -3473,7 +3473,7 @@
   },
   "https://en.wikipedia.org/wiki/Cortado": {
     "ok": true,
-    "checkedAt": "2026-11-06"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Saponin": {
     "ok": true,
@@ -3993,7 +3993,7 @@
   },
   "https://en.wikipedia.org/wiki/Nut_butter": {
     "ok": true,
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Mille-feuille": {
     "ok": true,
@@ -4005,7 +4005,7 @@
   },
   "https://en.wikipedia.org/wiki/Dubai_chocolate": {
     "ok": true,
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/White_coffee": {
     "ok": true,
@@ -4017,7 +4017,7 @@
   },
   "https://en.wikipedia.org/wiki/Peanut_butter": {
     "ok": true,
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Almond_paste": {
     "ok": true,
@@ -4162,7 +4162,7 @@
   },
   "https://en.wikipedia.org/wiki/Caponata": {
     "ok": true,
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Melitzanosalata": {
     "ok": true,
@@ -4241,7 +4241,7 @@
   },
   "https://en.wikipedia.org/wiki/Dried_persimmon": {
     "ok": true,
-    "checkedAt": "2026-11-09"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/wiki/Mango": {
     "ok": true,
@@ -5199,7 +5199,7 @@
   },
   "https://en.wikipedia.org/wiki/Jameed": {
     "ok": true,
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-25"
   },
   "https://www.kingarthurbaking.com/recipes/sufganiyot-recipe": {
     "ok": false,
@@ -6743,7 +6743,7 @@
   },
   "https://extension.usu.edu/preserve-the-harvest/research/dry-beans": {
     "ok": true,
-    "checkedAt": "2026-11-14"
+    "checkedAt": "2026-11-25"
   },
   "https://www.fda.gov/media/83271/download": {
     "ok": true,
@@ -6793,7 +6793,7 @@
   },
   "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9474322/": {
     "ok": true,
-    "checkedAt": "2026-11-14"
+    "checkedAt": "2026-11-25"
   },
   "https://www.epicurious.com/expert-advice/how-to-cook-dried-beans-article": {
     "ok": false,
@@ -7977,7 +7977,7 @@
   },
   "https://en.wikipedia.org/wiki/Mashed_potato": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-25"
   },
   "https://en.wikipedia.org/w/api.php?action=parse&page=Laffa&prop=externallinks&format=json": {
     "ok": true,
@@ -8774,7 +8774,7 @@
   },
   "https://www.americastestkitchen.com/articles/5840-how-salty-should-your-pasta-water-be": {
     "ok": true,
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-25"
   },
   "https://he.wikipedia.org/wiki/דולמה": {
     "ok": true,
@@ -10846,7 +10846,7 @@
   },
   "https://www.jewishfoodsociety.org/recipes/laham-bajeen-flatbread-with-meat-and-pomegranate": {
     "ok": true,
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-25"
   },
   "https://he.wikipedia.org/wiki/גזר_(ירק)": {
     "ok": true,
@@ -12127,7 +12127,7 @@
   },
   "https://www.jewishfoodsociety.org/recipes/fesenjan-persian-chicken-with-walnuts-and-pomegranate": {
     "ok": true,
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-25"
   },
   "https://www.jewishfoodsociety.org/recipes/jerusalem-cholent": {
     "ok": true,
@@ -12265,7 +12265,7 @@
   },
   "https://en.wikipedia.org/wiki/Caraway": {
     "ok": true,
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-25"
   },
   "https://search.brave.com/search?q=david+lebovitz+how+to+use+gelatin+sheets+bloom": {
     "ok": true,
@@ -12273,7 +12273,7 @@
   },
   "https://www.kingarthurbaking.com/blog/2022/02/16/how-to-use-gelatin-in-baking-and-desserts": {
     "ok": true,
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-25"
   },
   "https://www.davidlebovitz.com/how-to-use-gelatin/": {
     "ok": true,
@@ -13547,5 +13547,729 @@
     "ok": false,
     "status": 404,
     "checkedAt": "2026-11-24"
+  },
+  "https://en.wikipedia.org/wiki/Loquat": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/basic-omelette": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/recipes/fudge-brownies-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/best-ever-chocolate-brownies-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://hort.purdue.edu/newcrop/morton/japanese_persimmon.html": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Thixotropy": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/recipes/scottish-shortbread-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://cooking.nytimes.com/recipes/1016681-katharine-hepburns-brownies": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Alfajor": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=paprika+smoked+pimenton+la+vera+oak+seriouseats": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/recipes/classic-shortbread-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/recipes/shortbread-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/minestrone-soup": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=parmigiano+reggiano+hammer+test+battitura+consortium": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=pasta+water+starch+emulsify+sauce+seriouseats": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/recipes/alfajores-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/articles/4535-how-to-separate-eggs": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bonappetit.com/recipe/alfajores": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/blog/2020/03/26/how-to-separate-eggs": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/best-ever-shortbread": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.incredibleegg.org/how-to/how-to-separate-eggs/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.epicurious.com/recipes/food/views/alfajores": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bonappetit.com/recipe/dulce-de-leche-alfajores": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/classic-shortbread": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/winter-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=site%3Aseriouseats.com+paprika+pimenton": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/vegetable-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=how+to+separate+eggs+cold+eggs+easier+yolk+whites+fat+three+bowl": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=parmigiano+reggiano+hammer+inspection+expert+wheel+fire+brand": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/recipes/918-classic-minestrone": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/classic-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pmc&retmode=json&retmax=10&term=paprika+capsanthin+color+loss+storage": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=pimenton+de+la+vera+PDO+oak+smoke+drying+official": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=foodswinesfromspain+pimenton+de+la+vera+pdo": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.nigella.com/recipes/minestrone-how-to-eat": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bonappetit.com/recipe/minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.foodswinesfromspain.com/en/products/pimenton-de-la-vera-pdo": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.foodswinesfromspain.com/spanish-foods/products/pimenton-de-la-vera-pdo": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.foodswinesfromspain.com/products/pimenton-de-la-vera-pdo": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://lite.duckduckgo.com/lite/?q=foodswinesfromspain+pimenton+de+la+vera+pdo": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/classic-minestrone-soup": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bing.com/search?q=foodswinesfromspain+pimenton+de+la+vera+pdo": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/easy-minestrone-soup": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.atlasobscura.com/foods/jameed": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pmc&retmode=json&retmax=10&term=%22pimenton+de+la+vera%22": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pmc&retmode=json&retmax=10&term=paprika+seeds+pungency+pericarp+sweet+hot": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&retmode=json&id=12596220,12248926,11954124,11879815,11649527,11675144,10528162,10447457,10379102,10301060": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10301060/": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pmc&retmode=json&id=10301060": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=paprika+sweet+remove+seeds+veins+hot+paprika+extension+university": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ice.edu/blog/ingredient-spotlight-paprika": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.saveur.com/article/Recipes/Minestrone": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=ice.edu+blog+ingredient+spotlight+paprika": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ice.edu/blog/types-of-paprika": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ice.edu/blog/paprika": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ice.edu/blog/ingredient-spotlight-paprika-0": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.saveur.com/recipes/alfajores-de-maicena/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.177milkstreet.com/recipes/alfajores": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=separate+eggs+cold+yolk+fat+whites+whip+site%3Akingarthurbaking.com+OR+site%3Aamericastestkitchen.com+OR+site%3Abonappetit.com+OR+site%3Aexploratorium.edu+OR+site%3Aedu": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.saveur.com/minestrone-soup-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.parmigianoreggiano.com/en-US/faq": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.parmigianoreggiano.com/faq": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/how_tos/5917-easy-egg-separation": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/blog/2018/05/17/meringue-rules": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/articles/1126-kitchen-smarts-how-to-crack-and-separate-eggs": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=americastestkitchen+starchy+pasta+cooking+water+sauce+emulsify": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/recipes/3193-easy-minestrone": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/recipes/14329-alfajores-de-maicena-buttery-cornstarch-cookies-filled-with-dulce-de-leche": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ndsu.edu/agriculture/extension/publications/food-freezing-basics-freezing-dairy-products-eggs-and-other-foods": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/articles/3905-gooey-buttery-alfajores": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/articles/5284-making-your-pasta-water-work-for-you": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/recipes/5030-hearty-minestrone": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=macerate+fruit+sugar+how+long+strawberries+syrup+liqueur+mushy+site%3Abonappetit.com+OR+site%3Akingarthurbaking.com+OR+site%3Aamericastestkitchen.com+OR+site%3Aepicurious.com+OR+site%3Afoodnetwork.com": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=bonappetit+macerated+strawberries+need+2+ingredients+and+0+skills": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/articles/7229-dont-cook-strawberries": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=pierogi+ruskie+ruthenian+not+russian+history+1682+cookbook+culture.pl": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bing.com/search?q=bonappetit.com+macerated+strawberries+2+ingredients+0+skills": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bonappetit.com/story/how-to-macerate-strawberries": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bonappetit.com/story/macerated-strawberries": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://culture.pl/en/article/polands-most-famous-dish-pierogi": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bonappetit.com/story/how-to-fix-sour-berries": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Amaretti_di_Saronno": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Amaretto": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.sbs.com.au/food/recipes/minestrone": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://culture.pl/en/work/polish-food-101-pierogi": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.sunset.com/recipe/vegetable-minestrone": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Clay_pot_cooking": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbc.com/travel/article/20181218-the-dumpling-that-comforts-poland": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=clay+pot+cooking+soak+before+use+cold+oven+thermal+shock+unglazed+flame+tamer+Paula+Wolfert": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/recipes/amaretti-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.latimes.com/archives/la-xpm-2009-oct-28-fo-claypot28-story.html": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://tastecooking.com/inside-the-cult-of-clay-cookware/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.csmonitor.com/World/Middle-East/2023/0530/The-secret-behind-Jordan-s-national-dish-A-yogurt-that-unites": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://craftsmanship.net/paula-wolfert-and-the-clay-pot-mystique/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=natural+nut+butter+oil+separation+stir+no+stabilizer+extension+university": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://inspection.canada.ca/en/food-safety-consumers/fact-sheets/specific-products-and-risks/commonly-occurring-issues-food/separation-oil": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=thixotropic+ketchup+yogurt+honey+food+rheology+shear+thinning+time+dependent+university": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=calcium+chloride+pickles+firm+pectin+extension+university": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.jamieoliver.com/recipes/vegetables-recipes/classic-minestrone": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/easy-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/quick-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/spring-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/minestrone-soup-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/chunky-minestrone-soup": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/summer-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/one-pot-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/storecupboard-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/hearty-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbcgoodfood.com/recipes/autumn-minestrone": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Naan": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/recipes/naan-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC8391245/": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/03/23/naan-guide": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8391245/": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://dairyprocessinghandbook.tetrapak.com/chapter/rheology": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://extension.usu.edu/preserve-the-harvest/research/getting-crisp-home-pickled-vegetables": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://icarda.org/node/18607": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://repo.mel.cgiar.org/items/2f635dc9-fe83-4b8b-a5ae-f2c06885475b": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=hard+water+beans+do+not+soften+calcium+pectin+cooking+time+extension": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Piccolo_latte": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Latte": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://hort.purdue.edu/newcrop/morton/pomegranate.html": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.goodfood.com.au/drinks/what-exactly-is-a-piccolo-latte-20141031-11ew80": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.sbs.com.au/food/article/flat-white-leaving-you-flat-try-this/3lhsres1c": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://extension.psu.edu/herb-garden-plants-dill": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://extension.usu.edu/yardandgarden/research/dill-in-the-garden": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.tastingtable.com/1458889/piccolo-latte-different-coffee-drink-explained/": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://perfectdailygrind.com/2020/02/what-is-a-piccolo-latte/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://he.wikipedia.org/wiki/שמיר_ריחני": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=paprika+color+fades+storage+carotenoid+capsanthin+store+cool+dark+extension": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Dalgona_coffee": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmode=json&term=Influences+of+irradiation+and+storage+on+the+carotenoids+of+sun-dried+and+dehydrated+paprika": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://pubmed.ncbi.nlm.nih.gov/12903955/": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/articles/3369-instant-espresso-whipped-topping-makes-for-delicious-dolloping": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://he.wikipedia.org/wiki/שמיר": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://he.wikipedia.org/wiki/שבת_ריחני": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bing.com/search?q=beans+cooked+in+hard+water+calcium+pectin+cell+walls+longer+cooking+site%3Aedu+OR+site%3Aamericastestkitchen.com+OR+site%3Abonappetit.com+OR+site%3Aexploratorium.edu": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=hard+water+beans+calcium+site%3Aamericastestkitchen.com+OR+site%3Akingarthurbaking.com+OR+site%3Abonappetit.com+OR+site%3Aedu": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ndsu.edu/agriculture/extension/publications/spillin-beans-dry-edible-bean-and-snap-bean-recipes-nutrition-information": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/how_tos/5803-salty-soak-for-beans": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Dill": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://he.wikipedia.org/wiki/קשיות_מים": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%9D_%D7%A7%D7%A9%D7%99%D7%9D": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A7%D7%A9%D7%99%D7%95%D7%AA_%D7%94%D7%9E%D7%99%D7%9D": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/articles/6444-mashed-potatoes-that-break-the-rules": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Tortelli": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://it.wikipedia.org/wiki/Amaretto_(dolce)": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-25"
+  },
+  "https://it.wikipedia.org/wiki/Amaretto": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Tortelli_di_zucca": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://it.wikipedia.org/wiki/Amaretto_(biscotto)": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.saveur.com/article/Recipes/Caponata": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.splendidtable.org/recipes/caponata": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bbc.com/travel/article/20230421-caponata-alla-giudia-sicilian-aubergine-and-vegetable-stew": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.jewishfoodsociety.org/recipes/fricasse-tunisian-tuna-sandwich": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://ottolenghi.co.uk/pages/recipes/fricassee-tuna-melt": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ynet.co.il/articles/0,7340,L-4672212,00.html": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Fricassee": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Fricasse": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.splendidtable.org/recipes/extra-buttery-mashed-potatoes": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.bing.com/search?q=tea+scum+hard+water+calcium+carbonate+film+study": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://lite.duckduckgo.com/lite/?q=tea+scum+hard+water+calcium+carbonate+film+Spiro": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Mashed_potatoes": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.americastestkitchen.com/articles/6521-3-ways-to-make-better-mashed-potatoes": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=tea+scum+hard+water+calcium+carbonate+film+study": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10411494/": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.the-independent.com/life-style/food-and-drink/tea-scum-science-study-b1916123.html": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://search.brave.com/search?q=ETH+Zurich+tea+film+hard+water+calcium+Physics+of+Fluids+2021+news": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://www.eurekalert.org/news-releases/927360": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
+  },
+  "https://hdl.handle.net/20.500.11766/69073": {
+    "ok": true,
+    "checkedAt": "2026-11-25"
   }
 }
