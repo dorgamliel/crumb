@@ -6,7 +6,18 @@
   "kind": "dishes",
   "column": "טכניקה בדקה",
   "minutes": 3,
-  "image": null,
+  "image": {
+    "key": "blintzes",
+    "width": 1280,
+    "height": 960,
+    "alt": "שלושה בלינצ׳ס זהובים מטוגנים במחבת",
+    "credit": {
+      "author": "Andrevan",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 2.5",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=313026"
+    }
+  },
   "season": [
     5,
     6

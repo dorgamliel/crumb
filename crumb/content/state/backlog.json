@@ -115,11 +115,6 @@
     "kind": "dishes"
   },
   {
-    "id": "kale",
-    "name": "קייל",
-    "kind": "ingredients"
-  },
-  {
     "id": "arugula",
     "name": "רוקט",
     "kind": "ingredients"
@@ -135,18 +130,8 @@
     "kind": "ingredients"
   },
   {
-    "id": "black-garlic",
-    "name": "שום שחור",
-    "kind": "ingredients"
-  },
-  {
     "id": "buttermilk",
     "name": "חובצה",
-    "kind": "ingredients"
-  },
-  {
-    "id": "ricotta",
-    "name": "ריקוטה",
     "kind": "ingredients"
   },
   {
@@ -175,18 +160,8 @@
     "kind": "ingredients"
   },
   {
-    "id": "kushari",
-    "name": "כושרי",
-    "kind": "dishes"
-  },
-  {
     "id": "fatteh",
     "name": "פתה",
-    "kind": "dishes"
-  },
-  {
-    "id": "harira",
-    "name": "חרירה",
     "kind": "dishes"
   },
   {
@@ -207,11 +182,6 @@
   {
     "id": "vichyssoise",
     "name": "מרק כרישה ותפוחי אדמה",
-    "kind": "dishes"
-  },
-  {
-    "id": "tzimmes",
-    "name": "צימעס",
     "kind": "dishes"
   },
   {
@@ -250,21 +220,6 @@
     "kind": "baking"
   },
   {
-    "id": "ghraybeh",
-    "name": "גריבה",
-    "kind": "baking"
-  },
-  {
-    "id": "mandelbrot",
-    "name": "מנדלברוט",
-    "kind": "baking"
-  },
-  {
-    "id": "milk-bread",
-    "name": "לחם חלב",
-    "kind": "baking"
-  },
-  {
     "id": "blondies",
     "name": "בלונדיז",
     "kind": "baking"
@@ -285,11 +240,6 @@
     "kind": "drinks"
   },
   {
-    "id": "mocha",
-    "name": "מוקה",
-    "kind": "drinks"
-  },
-  {
     "id": "gyokuro",
     "name": "גיוקורו",
     "kind": "drinks"
@@ -302,11 +252,6 @@
   {
     "id": "sherry",
     "name": "שרי",
-    "kind": "drinks"
-  },
-  {
-    "id": "sake",
-    "name": "סאקה",
     "kind": "drinks"
   },
   {
@@ -335,18 +280,8 @@
     "kind": "science"
   },
   {
-    "id": "amylase",
-    "name": "עמילאז",
-    "kind": "science"
-  },
-  {
     "id": "freezer-burn",
     "name": "כוויית הקפאה",
-    "kind": "science"
-  },
-  {
-    "id": "carotenoids",
-    "name": "קרוטנואידים",
     "kind": "science"
   },
   {
@@ -410,18 +345,8 @@
     "kind": "techniques"
   },
   {
-    "id": "toasting-flour",
-    "name": "קליית קמח",
-    "kind": "techniques"
-  },
-  {
     "id": "washing-mushrooms",
     "name": "שטיפת פטריות",
-    "kind": "techniques"
-  },
-  {
-    "id": "vinaigrette",
-    "name": "ויניגרט",
     "kind": "techniques"
   }
 ]

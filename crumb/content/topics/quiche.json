@@ -73,11 +73,17 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Shortcrust_pastry",
       "supports": "בצק פריך כבסיס לקישים כמו קיש לורן"
+    },
+    {
+      "title": "Why Gentle Heat Guarantees Smooth Custards",
+      "publisher": "America's Test Kitchen (Cook's Illustrated)",
+      "url": "https://www.americastestkitchen.com/cooksillustrated/articles/1667-why-gentle-heat-guarantees-smooth-custards",
+      "supports": "חלבוני הביצה נפרשים ונקשרים לרשת בחום, חום עודף מהדק אותם והם נפרדים מהנוזל, ואמבט מים מאט את הבישול"
     }
   ],
   "status": "auto-checked",
   "addedAt": "2026-11-06",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-26",
   "keywords": [
     "קיש לורן",
     "פשטידה",
@@ -90,10 +96,10 @@
   "quiz": {
     "question": "למה מילוי של קיש שנאפה יותר מדי יוצא מגורען ומימי?",
     "options": [
-      "השמנת נפרדת לחמאה ומים",
-      "חלבוני הביצה מתהדקים יותר מדי ופולטים את הנוזל",
-      "הגבינה נמסה וסופגת את כל הנוזל",
-      "הבצק שואב את הנוזל מהמילוי"
+      "השמנת נפרדת בחום לשומן ולמים",
+      "חלבוני הביצה מתהדקים ופולטים נוזל",
+      "הגבינה נמסה ומשחררת את השומן שלה",
+      "הבצק מתרכך ומשחרר מים לתוך המילוי"
     ],
     "correct": 1,
     "explanation": "בחום, חלבוני הביצה יוצרים רשת שלוכדת את הנוזל לג׳ל רך. חום עודף מהדק את הרשת, והיא נדחסת ומשחררת את הנוזל. כך נוצר מילוי מגורען שיושב בשלולית."

@@ -37,11 +37,11 @@
   },
   "https://en.wikipedia.org/wiki/Shortcrust_pastry": {
     "ok": true,
-    "checkedAt": "2026-11-20"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Pretzel": {
     "ok": true,
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Chickpea": {
     "ok": true,
@@ -300,11 +300,11 @@
   "https://www.cdc.gov/food-safety/foods/flour.html": {
     "ok": false,
     "status": 404,
-    "checkedAt": "2026-10-09"
+    "checkedAt": "2026-11-26"
   },
   "https://www.fda.gov/food/buy-store-serve-safe-food/handling-flour-safely-what-you-need-know": {
     "ok": true,
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Chocolate": {
     "ok": true,
@@ -475,7 +475,7 @@
   },
   "https://www.kingarthurbaking.com/blog/2015/04/27/creaming-butter-and-sugar": {
     "ok": true,
-    "checkedAt": "2026-10-18"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Butter": {
     "ok": true,
@@ -500,7 +500,7 @@
   },
   "https://en.wikipedia.org/wiki/Proofing_(baking_technique)": {
     "ok": true,
-    "checkedAt": "2026-11-20"
+    "checkedAt": "2026-11-26"
   },
   "https://www.kingarthurbaking.com/blog/2023/02/22/cold-butter-cookies": {
     "ok": false,
@@ -574,7 +574,7 @@
   },
   "https://en.wikipedia.org/wiki/Bread": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Schnitzel": {
     "ok": true,
@@ -979,7 +979,7 @@
   },
   "https://en.wikipedia.org/wiki/Custard": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Bain-marie": {
     "ok": true,
@@ -1078,7 +1078,7 @@
   },
   "https://en.wikipedia.org/wiki/Kale": {
     "ok": true,
-    "checkedAt": "2026-10-21"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/French_onion_soup": {
     "ok": true,
@@ -1168,7 +1168,7 @@
   },
   "https://en.wikipedia.org/wiki/Moka_pot": {
     "ok": true,
-    "checkedAt": "2026-11-24"
+    "checkedAt": "2026-11-26"
   },
   "https://he.wikipedia.org/wiki/רוגלך": {
     "ok": true,
@@ -1443,7 +1443,7 @@
   },
   "https://en.wikipedia.org/wiki/Puff_pastry": {
     "ok": true,
-    "checkedAt": "2026-10-25"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Pour-over_coffee": {
     "ok": true,
@@ -1535,7 +1535,7 @@
   },
   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4252450/": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Tea_cream": {
     "ok": false,
@@ -1732,7 +1732,7 @@
   },
   "https://en.wikipedia.org/wiki/Mandelbrot_(cookie)": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Ladyfinger_(biscuit)": {
     "ok": true,
@@ -1835,7 +1835,7 @@
   },
   "https://en.wikipedia.org/wiki/Autolysis_(biology)": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Autolyse": {
     "ok": true,
@@ -1859,7 +1859,7 @@
   },
   "https://en.wikipedia.org/wiki/Pastry": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Strudel": {
     "ok": true,
@@ -1879,7 +1879,7 @@
   },
   "https://en.wikipedia.org/wiki/Vinaigrette": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Salad": {
     "ok": true,
@@ -2162,7 +2162,7 @@
   },
   "https://en.wikipedia.org/wiki/Pound_cake": {
     "ok": true,
-    "checkedAt": "2026-10-29"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Gumbo": {
     "ok": true,
@@ -2234,7 +2234,7 @@
   },
   "https://en.wikipedia.org/wiki/Quince": {
     "ok": true,
-    "checkedAt": "2026-10-29"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Proanthocyanidin": {
     "ok": true,
@@ -2242,7 +2242,7 @@
   },
   "https://en.wikipedia.org/wiki/Quince_cheese": {
     "ok": true,
-    "checkedAt": "2026-10-29"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Maqluba": {
     "ok": true,
@@ -2734,7 +2734,7 @@
   },
   "https://en.wikipedia.org/wiki/Quiche": {
     "ok": true,
-    "checkedAt": "2026-11-01"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Cream_pie": {
     "ok": true,
@@ -2751,7 +2751,7 @@
   },
   "https://en.wikipedia.org/wiki/Gratin_dauphinois": {
     "ok": true,
-    "checkedAt": "2026-11-01"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Royal_icing": {
     "ok": true,
@@ -2759,7 +2759,7 @@
   },
   "https://en.wikipedia.org/wiki/Gratin": {
     "ok": true,
-    "checkedAt": "2026-11-01"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Soffritto": {
     "ok": true,
@@ -2836,7 +2836,7 @@
   },
   "https://en.wikipedia.org/wiki/Potato_starch": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Cake_decorating": {
     "ok": true,
@@ -2908,7 +2908,7 @@
   },
   "https://en.wikipedia.org/wiki/Radish": {
     "ok": true,
-    "checkedAt": "2026-11-02"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Asparagusic_acid": {
     "ok": true,
@@ -3364,7 +3364,7 @@
   },
   "https://en.wikipedia.org/wiki/Ricotta": {
     "ok": true,
-    "checkedAt": "2026-11-05"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Paneer": {
     "ok": true,
@@ -3676,7 +3676,7 @@
   },
   "https://en.wikipedia.org/wiki/Lye_roll": {
     "ok": true,
-    "checkedAt": "2026-11-07"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Yolk": {
     "ok": true,
@@ -4124,7 +4124,7 @@
   },
   "https://en.wikipedia.org/wiki/Black_garlic": {
     "ok": true,
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-26"
   },
   "https://he.wikipedia.org/wiki/חציל": {
     "ok": true,
@@ -4906,7 +4906,7 @@
   },
   "https://www.americastestkitchen.com/cooksillustrated/articles/1667-why-gentle-heat-guarantees-smooth-custards": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-26"
   },
   "https://www.americastestkitchen.com/articles/how-to-temper-eggs": {
     "ok": false,
@@ -4960,7 +4960,7 @@
   },
   "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html": {
     "ok": true,
-    "checkedAt": "2026-11-20"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Ethanol": {
     "ok": true,
@@ -5494,7 +5494,7 @@
   },
   "https://www.kingarthurbaking.com/blog/2018/10/15/making-pretzels-at-home": {
     "ok": true,
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-26"
   },
   "https://learn.genetics.utah.edu/content/basics/ptc/": {
     "ok": true,
@@ -6422,7 +6422,7 @@
   },
   "https://www.irishtimes.com/food/recipes/2024/06/03/kofta-with-tahini": {
     "ok": true,
-    "checkedAt": "2026-11-14"
+    "checkedAt": "2026-11-26"
   },
   "https://he.wikipedia.org/wiki/ברד_(משקה)": {
     "ok": true,
@@ -8406,7 +8406,7 @@
   },
   "https://www.theperfectloaf.com/guides/how-to-autolyse/": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-26"
   },
   "https://www.nfpa.org/education-and-research/home-fire-safety/cooking/cooking-safety-tips": {
     "ok": false,
@@ -9419,7 +9419,7 @@
   },
   "https://www.kingarthurbaking.com/blog/2023/05/17/how-to-keep-pie-crust-from-shrinking": {
     "ok": true,
-    "checkedAt": "2026-11-20"
+    "checkedAt": "2026-11-26"
   },
   "https://www.bing.com/search?q=barberries+zereshk+americastestkitchen+OR+ottolenghi+OR+saveur+OR+bonappetit": {
     "ok": true,
@@ -11345,7 +11345,7 @@
   },
   "https://en.wikipedia.org/wiki/Amylase": {
     "ok": true,
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   "https://en.wikipedia.org/wiki/Pepita": {
     "ok": true,
@@ -12864,7 +12864,7 @@
   },
   "https://www.bbcgoodfood.com/recipes/dauphinoise-potatoes": {
     "ok": true,
-    "checkedAt": "2026-11-24"
+    "checkedAt": "2026-11-26"
   },
   "https://www.bbcgoodfood.com/recipes/banana-bread": {
     "ok": true,
@@ -14271,5 +14271,746 @@
   "https://hdl.handle.net/20.500.11766/69073": {
     "ok": true,
     "checkedAt": "2026-11-25"
+  },
+  "https://en.wikipedia.org/wiki/Koshary": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Harira": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Tzimmes": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Sake": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/lamb-koftas": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/khachapuri": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/classic-buttermilk-pancakes-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/irish-soda-bread": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/beef-koftas": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/georgian-cheese-bread-khachapuri": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/buttermilk-pancakes-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/classic-cornbread-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/khachapuri-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/georgian-cheese-bread-khachapuri-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/recipe/khachapuri": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/kofta-kebabs": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/beef-kofta-kebabs": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/recipe/grilled-lamb-kofta": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=khachapuri+recipe+bbcgoodfood+OR+kingarthurbaking+OR+seriouseats+OR+bonappetit": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=khachapuri+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/khachapuri-georgian-cheese-bread-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=potato+gratin+don%27t+rinse+slices+starch+thickens+cream+serious+eats": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Ghoriba": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Hokkaido_milk_bread": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Caff%C3%A8_mocha": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=gratin+dauphinois+starch+thickens+cream+americastestkitchen+OR+bonappetit+OR+kingarthurbaking+OR+saveur+OR+epicurious": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://extension.umn.edu/vegetables/growing-kale": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/story/how-to-massage-kale": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://extension.psu.edu/kale": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Mocha_coffee": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=kofta+kebab+recipe+seriouseats": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=israeli+kebab+recipe+parsley+onion+grill": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://hort.extension.wisc.edu/articles/ornamental-cabbage-and-kale-brassica-oleracea/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=kofta+kebabs+recipe+bbcgoodfood": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.epicurious.com/expert-advice/how-to-massage-kale-article": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/iraqi-lamb-kofta-kebabs": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bing.com/search?q=ghraybeh+recipe+saveur+OR+%22bon+appetit%22+OR+%22serious+eats%22+OR+%22nyt+cooking%22": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bing.com/search?q=ghraybeh+butter+cookies+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.saveur.com/article/Kitchen/Gratin-Made-Easy": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.epicurious.com/recipes/food/views/gratin-dauphinoise-scalloped-potatoes-395310": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.themediterraneandish.com/egyptian-koshari-recipe/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/recipe/koshari": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bing.com/search?q=site%3Asaveur.com+ghraybeh+OR+ghorayeba+OR+ghribia": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bing.com/search?q=site%3Afood52.com+OR+site%3Abonappetit.com+OR+site%3Atheguardian.com+ghraybeh": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bing.com/search?q=site%3A177milkstreet.com+OR+site%3Akingarthurbaking.com+OR+site%3Aseriouseats.com+ghraybeh+OR+ghorayeba": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.smithsonianmag.com/travel/the-layered-history-of-koshary-egypts-most-beloved-street-food-180988250/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://ich.unesco.org/en/RL/koshary-daily-life-dish-and-practices-associated-with-it-02278": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=ghraybeh+recipe+saveur+OR+food52+OR+guardian+OR+%22milk+street%22": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=ghraybeh+shortbread+recipe+ghee+pistachio+nyt+OR+bon+appetit": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/koshari": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.theguardian.com/food/2021/jan/27/how-to-make-the-perfect-koshari-recipe-felicity-cloake": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=myjewishlearning+kufta+kebab+recipe+nosher": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=roasting+vegetables+don%27t+crowd+the+pan+steam+instead+of+brown+extension+university": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbc.co.uk/food/recipes/turkishkoftakebabswi_71862": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://healthyfamilies.tennessee.edu/recipes/roasted-vegetables/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=ghraybeh+recipe+%22test+kitchen%22": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=ghorayeba+recipe+guardian+ottolenghi+OR+tamimi": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=ghraybeh+saveur+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=roasted+vegetables+single+layer+steam+crowded+site%3Aamericastestkitchen.com+OR+site%3Aextension.umn.edu+OR+site%3Aextension.illinois.edu+OR+site%3Abbcgoodfood.com": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.saveur.com/recipes/koshari/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.americastestkitchen.com/articles/8018-how-to-roast-any-vegetable": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=ghraybeh+ottolenghi+jerusalem+recipe+epicurious+OR+npr+OR+%22food+and+wine%22": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=epicurious+ghraybeh": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=pastry+blender+warm+hands+melt+butter+cut+in+two+knives+kingarthurbaking+OR+americastestkitchen+OR+bbcgoodfood+OR+extension": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.epicurious.com/recipes/food/views/shortbread-rings-ghraybeh-102756": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/harira": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/vegetarian-harira": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.themediterraneandish.com/harira-recipe/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=how+to+cut+butter+into+flour+pastry+blender+fingertips+warm": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.epicurious.com/recipes/food/views/ghorayebah-373609": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://bakefromscratch.com/test-kitchen-technique-cutting-in-butter/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=bakefromscratch+test+kitchen+technique+cutting+in+butter": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.almanac.com/plant/kale": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=king+arthur+baking+blog+cut+butter+into+flour+pastry+blender+fingers+warm+hands": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://hgic.clemson.edu/factsheet/kale/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://bakefromscratch.com/test-kitchen-technique-cutting-butter/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://bakefromscratch.com/how-tos/test-kitchen-technique-cutting-in-butter/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=toasted+flour+baking+king+arthur+OR+%22serious+eats%22+OR+%22bon+appetit%22+OR+%22america%27s+test+kitchen%22": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=toasted+flour+gluten+water+absorption+study": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bakefromscratch.com/test-kitchen-technique-cutting-in-butter/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://tastecooking.com/10th-anniversary-kale-salad-know/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/test-kitchen/how-to/article/how-to-massage-kale": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/blog/2025/01/08/toasted-flour": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/toasted-flour-shortbread-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=radish+glucosinolate+myrosinase+isothiocyanate+pungency+chewing+extension": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=mandelbrot+mandel+bread+recipe+king+arthur+OR+%22jewish+food+society%22+OR+%22america%27s+test+kitchen%22+OR+nosher": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/the-nosher/mandelbrot-almond-bread-recipe/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/blog/2008/09/29/mandelbrot-hold-the-mandel-add-the-chocolate": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://jewishfoodsociety.org/recipes/aunt-roses-mondel-bread": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://he.wikipedia.org/wiki/חרירה": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC9333422/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/story/black-garlic": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/japanese-milk-bread-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/recipe/carrot-tzimmes/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/article/tzimmes/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://toriavey.com/tzimmes/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=smithsonian+magazine+mocha+named+after+birthplace+of+coffee+trade": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=mocha+recipe+bbc+good+food+OR+%22serious+eats%22+OR+%22bon+appetit%22": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.smithsonianmag.com/smart-news/your-mocha-named-after-birthplace-coffee-trade-180965016/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/mocha": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.uoguelph.ca/foodscience/book-page/ricotta-cheese": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.americastestkitchen.com/articles/1873-how-to-make-ricotta": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/blog/2019/01/30/homemade-ricotta": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://extension.psu.edu/making-ricotta-cheese-at-home": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.cheesescience.org/ricotta.html": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Sellou": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Tsampa": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://cheesemaking.com/products/ricotta-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/recipe/homemade-ricotta": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.epicurious.com/recipes/food/views/fresh-ricotta-242001": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/recipe/fresh-ricotta": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=%D7%92%D7%A8%D7%99%D7%91%D7%94+%D7%A2%D7%95%D7%92%D7%99%D7%95%D7%AA+%D7%A2%D7%99%D7%93": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=%D7%A2%D7%95%D7%92%D7%99%D7%95%D7%AA+%D7%A8%D7%99%D7%99%D7%91%D7%94+%D7%95%D7%95%D7%90%D7%9C%D7%94+%D7%90%D7%95%D7%9B%D7%9C": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.ynet.co.il/articles/0,7340,L-3916126,00.html": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.merriam-webster.com/dictionary/tzimmes": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://extension.umn.edu/vegetables/growing-radishes": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=quince+turns+red+pink+when+cooked+anthocyanin+pectin+extension+university": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://search.brave.com/search?q=quince+Cydonia+oblonga+pectin+astringent+cooked+jelly+extension+edu": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Mocha,_Yemen": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Carotenoid": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/recipe/tzimmes": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.epicurious.com/recipes/food/views/tzimmes": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://jamiegeller.com/recipes/carrot-tzimmes/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://herbaria.plants.ox.ac.uk/bol/plants400/Profiles/CD/Cydonia": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Crustacyanin": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Crocin": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals/carotenoids": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Astaxanthin": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://cooking.nytimes.com/recipes/1013257-tzimmes": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/recipe/basic-vinaigrette": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bonappetit.com/story/how-to-make-vinaigrette": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.americastestkitchen.com/articles/2461-the-secret-to-a-better-vinaigrette": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.epicurious.com/recipes/food/views/basic-vinaigrette-51116320": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/classic-vinaigrette": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/recipes/basic-vinaigrette-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%99%D7%9C": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kosher.com/recipe/classic-tzimmes-5422": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://he.wikipedia.org/wiki/צימעס": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/the-nosher/carrot-tzimmes/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/recipe/tzimmes/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.bbcgoodfood.com/recipes/tzimmes": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://he.wikipedia.org/w/api.php?action=query&prop=extlinks&titles=%D7%A6%D7%99%D7%9E%D7%A2%D7%A1&format=json&ellimit=50": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/recipe/classic-tzimmes/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/the-nosher/classic-tzimmes/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/recipe/healthy-tzimmes/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/recipe/carrot-tzimmes-2/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/recipe/thanksgiving-tzimmes/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.myjewishlearning.com/the-nosher/healthy-tzimmes/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/blog/2022/03/09/diastatic-malt-powder": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.kingarthurbaking.com/shop/items/diastatic-malt-powder-16-oz": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basics/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.japansake.or.jp/sake/english/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.gekkeikan.co.jp/english/products/sake/brewing.html": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.gekkeikan.co.jp/english/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.nrib.go.jp/English/sake/index.htm": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.jnto.go.jp/eng/attractions/food/sake.html": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.nrib.go.jp/English/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Koji_(food)": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Aspergillus_oryzae": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/how-sake-is-made/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.nrib.go.jp/English/sake/essentials.htm": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://www.nrib.go.jp/English/sake/sakebook.htm": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/how-is-sake-made/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/what-is-sake/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/10-sake-facts/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/how-to-serve-sake/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/basic09/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/basic-9/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-26"
+  },
+  "https://japansake.or.jp/sake/en/basic/09/": {
+    "ok": true,
+    "checkedAt": "2026-11-26"
   }
 }
