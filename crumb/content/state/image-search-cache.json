@@ -53648,5 +53648,51 @@
     }
   ],
   "bimuelos fritters": [],
-  "chocolate truffles coconut balls": []
+  "chocolate truffles coconut balls": [],
+  "dal lentil curry bowl": [
+    {
+      "id": "f283a52d-291d-4f06-a863-884f5c8b382a",
+      "url": "https://pd.w.org/2025/06/30468412913180db3.45221734-2048x1152.jpg",
+      "title": "A white plate on a metal table featuring a colorful spread of Indian cuisine: red lentil dal, herbed yogurt, brown vegetable curry, crisp white papad, orange jalebi, and vibrant pink-and-white vegetable chaat.",
+      "creator": "Suraj Sutar",
+      "license": "CC0",
+      "source": "wordpress",
+      "landing": "https://wordpress.org/photos/photo/3046841291/",
+      "width": 2048,
+      "height": 1152
+    },
+    {
+      "id": "0b09b24f-154e-47e8-b997-a164ed732428",
+      "url": "https://pd.w.org/2026/06/1536a28f60755f825.71186065-1536x2048.jpg",
+      "title": "Nepali Thakali Dal bhat set. Traditional Nepali staple meal. Contains rice, bean lentils, mutton curry, vegetables, pickles and Mohi (butter-milk) on the side.",
+      "creator": "Utsav Singh Rathour",
+      "license": "CC0",
+      "source": "wordpress",
+      "landing": "https://wordpress.org/photos/photo/1536a28f60/",
+      "width": 1536,
+      "height": 2048
+    },
+    {
+      "id": "6ddb4e8e-5cac-442d-a4f3-542e43655aed",
+      "url": "https://pd.w.org/2026/09/3656aa3f86f4a5989.80973360-1536x2048.jpg",
+      "title": "A traditional Nepali Dal Bhat meal served on white floral plates, consisting of steamed rice, crisp papadum, saag (greens), potato curry, and a bowl of lentil soup.",
+      "creator": "ashimkarki",
+      "license": "CC0",
+      "source": "wordpress",
+      "landing": "https://wordpress.org/photos/photo/3656aa3f86/",
+      "width": 1536,
+      "height": 2048
+    },
+    {
+      "id": "ae5ddead-a09d-4e2a-9371-428695f7a842",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Traditional_Indian_meal.jpg",
+      "title": "Traditional Indian meal",
+      "creator": "ᱤᱧ ᱢᱟᱛᱟᱞ",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=148008464",
+      "width": 3460,
+      "height": 3150
+    }
+  ]
 }

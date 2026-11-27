@@ -15544,5 +15544,42 @@
   "https://www.ag.ndsu.edu/news/columns/prairie-fare/prairie-fare-think-spring-with-more-green-vegetables": {
     "ok": true,
     "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/lahoh": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Florentine_biscuit": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/w/index.php?title=Florentine_biscuit&action=raw": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/recipes/florentines-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/recipes/florentine-cookies-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/recipes/almond-florentines-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/florentines": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/recipes/florentine-lace-cookies": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
   }
 }
