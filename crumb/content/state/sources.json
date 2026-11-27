@@ -15581,5 +15581,14 @@
     "ok": false,
     "status": 404,
     "checkedAt": "2026-11-27"
+  },
+  "https://honestcooking.com/the-truth-about-florentines/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.saveur.com/lahoh-recipe/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
   }
 }
