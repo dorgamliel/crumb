@@ -9419,7 +9419,7 @@
   },
   "https://www.kingarthurbaking.com/blog/2023/05/17/how-to-keep-pie-crust-from-shrinking": {
     "ok": true,
-    "checkedAt": "2026-11-26"
+    "checkedAt": "2026-11-27"
   },
   "https://www.bing.com/search?q=barberries+zereshk+americastestkitchen+OR+ottolenghi+OR+saveur+OR+bonappetit": {
     "ok": true,
@@ -15608,6 +15608,49 @@
     "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/w/index.php?title=Long_black&action=raw": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.theguardian.com/food/2023/may/24/how-to-cook-the-perfect-menemen-recipe-turkish-eggs-breakfast-peppers-felicity-cloake": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/articles/7006-how-to-make-menemen": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://perfectdailygrind.com/2020/08/what-is-a-long-black/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.goodfood.com.au/drinks/the-perfect-long-black-20140411-36j9y": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.myjewishlearning.com/the-nosher/gondi-is-the-persian-jewish-soup-you-need-right-now/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.deliciousisrael.com/blog/lahoh": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/shortcrust-pastry": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://perfectdailygrind.com/2020/03/what-is-an-americano/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://perfectdailygrind.com/2021/05/americano-vs-filter-coffee/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=pie+crust+science+fat+coats+flour+gluten+steam+flaky+extension+edu": {
     "ok": true,
     "checkedAt": "2026-11-27"
   }
