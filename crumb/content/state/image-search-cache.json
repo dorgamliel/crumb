@@ -53694,5 +53694,29 @@
       "width": 3460,
       "height": 3150
     }
+  ],
+  "fruit galette tart": [
+    {
+      "id": "commons-89516371",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Blueberry_galette.jpg",
+      "title": "Blueberry galette",
+      "creator": "Rebecca Siegel",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/wiki/File:Blueberry_galette.jpg",
+      "width": 4000,
+      "height": 3000
+    },
+    {
+      "id": "commons-89558635",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Peach_blueberry_and_alpine_strawberry_galette.jpg",
+      "title": "Peach blueberry and alpine strawberry galette",
+      "creator": "Forest Starr and Kim Starr",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/wiki/File:Peach_blueberry_and_alpine_strawberry_galette.jpg",
+      "width": 5184,
+      "height": 3888
+    }
   ]
 }

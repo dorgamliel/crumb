@@ -4960,7 +4960,7 @@
   },
   "https://www.canada.ca/en/health-canada/services/general-food-safety-tips/safe-internal-cooking-temperatures.html": {
     "ok": true,
-    "checkedAt": "2026-11-26"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Ethanol": {
     "ok": true,
@@ -15589,6 +15589,26 @@
   "https://www.saveur.com/lahoh-recipe/": {
     "ok": false,
     "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Caff%C3%A8_Americano": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Long_black": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=menemen+turkish+eggs+onion+debate+cretan+1923": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/w/index.php?title=Caff%C3%A8_Americano&action=raw": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/w/index.php?title=Long_black&action=raw": {
+    "ok": true,
     "checkedAt": "2026-11-27"
   }
 }
