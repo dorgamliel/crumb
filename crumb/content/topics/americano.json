@@ -65,7 +65,7 @@
       "supports": "חליטה דרך פילטר נייר, הנייר שעוצר חלק מהשמנים, קפה צלול וקליל"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-11-27",
   "addedAt": "2026-11-27",
   "keywords": [
@@ -103,5 +103,9 @@
       ]
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "All 3 sources load and support the OED etymology, the 1:3 to 1:4 ratio and 120-180 ml, long black order/volume/crema, 70C tip, Korea fact and paper-filter oils; headline reworded to match the name-origin story, ratio sentence and takeaway Hebrew clarified."
+  }
 }

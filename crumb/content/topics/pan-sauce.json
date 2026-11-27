@@ -65,7 +65,7 @@
       "supports": "צמצום היין בנפרד מהציר כדי שיותר אלכוהול יתאדה והטעם יתרכז, והמתכון"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-27",
   "updatedAt": "2026-11-27",
@@ -159,5 +159,9 @@
       "publisher": "America's Test Kitchen",
       "url": "https://www.americastestkitchen.com/recipes/7793-red-wine-pan-sauce"
     }
+  },
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "All three ATK sources load and support the claims; recipe matches ATK Red Wine Pan Sauce (120/180/80 ml, 45 g butter). Fixed two Hebrew verbs (sauté, steaming), added a safe-internal-temperature check to step 1, removed an untested wine/herb substitution from the note."
   }
 }

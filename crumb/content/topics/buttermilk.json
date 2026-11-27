@@ -76,7 +76,7 @@
       "supports": "המקור בחיבוץ, לבן ורוויון כחובצות תרבית שמחקות את המוצר המסורתי"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-27",
   "updatedAt": "2026-11-27",
@@ -116,5 +116,9 @@
     ],
     "correct": 0,
     "explanation": "לחלב רגיל חסרה החומציות של החובצה. בלי חומצה הסודה לשתייה לא משחררת מספיק גז, ולכן העוגה תופחת פחות ויוצאת צפופה, וגם הצבע שלה יוצא כהה יותר. בעוגה שמלאה בטעמים אחרים כל תחליף חומצי עובד היטב, אבל לא חלב רגיל."
+  },
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "Verified King Arthur test results, ratios and 1920s date, Wikipedia chemistry, he-wiki leben/rivion; fixed 'spices' to vanilla per KA cake, added non-definition opener, Hebrew fixes in dek and quiz explanation."
   }
 }

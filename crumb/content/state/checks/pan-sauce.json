@@ -1,1 +1,0 @@
-{ "id": "pan-sauce", "verdict": "pass", "notes": "All three ATK sources load and support the claims; recipe matches ATK Red Wine Pan Sauce (120/180/80 ml, 45 g butter). Fixed two Hebrew verbs (sauté, steaming), added a safe-internal-temperature check to step 1, removed an untested wine/herb substitution from the note.", "issues": [] }

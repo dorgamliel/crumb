@@ -65,7 +65,7 @@
       "supports": "היווצרות חומצה פחמתית מפחמן דו־חמצני, חוק הנרי: יותר גז מתמוסס בטמפרטורה נמוכה"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-27",
   "updatedAt": "2026-11-27",
@@ -97,5 +97,9 @@
     ],
     "correct": 1,
     "explanation": "החוקרים מצאו שאנזים בשם קרבוניק אנהידראז 4, שתלוי על פני תאי הטעם החמוץ, פוגש את הפחמן הדו־חמצני ומפעיל אותם. במשקה שנשתה בתא לחץ, שבו הבועות לא מתפוצצות, התחושה נשארת זהה."
+  },
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "All three sources load and support the claims (UCSD 2009 CA-IV release, SodaStream dates and concentrate-after-carbonation, Henry's law). Softened dek to 'in mice, an important part', fixed 'branch' to 'associate', made Soda-Club the 1998 buyer, renamed to the common term הגזת משקאות. Quiz index 1 correct; no image."
   }
 }

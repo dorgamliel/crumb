@@ -65,7 +65,7 @@
       "supports": "מילוי פרג טחון שמבושל עם חלב, סוכר, דבש ומלח על אש נמוכה כחמש דקות עד שמסמיך, ומצונן לפני המילוי"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-27",
   "updatedAt": "2026-11-27",
@@ -104,5 +104,9 @@
     ],
     "correct": 0,
     "explanation": "הטעם של הפרג קשור בשמן שכלוא בגרגר הקטן. הטחינה פותחת את הגרגרים, משחררת את השמנים ואת העמילנים שמסמיכים את המילוי, וגם הגרגרים כבר לא נתקעים בשיניים."
+  },
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "Verified 3,300 seeds/g, 42% fat, mohn dairy/pareve, grinding, white poppy and preservatives, KA filling method; softened 'oldest filling' and flavor-locked claims, fixed ambiguous Hebrew, removed 'bonus' tone."
   }
 }

@@ -65,7 +65,7 @@
       "supports": "החרצית העטורה, שיוכה לשעבר לסוג חרצית והשיוך הנוכחי לסוג אחר, פריחה בישראל מפברואר עד מאי, מרבדי חרציות באביב"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-11-27",
   "addedAt": "2026-11-27",
   "keywords": [
@@ -95,5 +95,9 @@
       "text": "החרציות הצהובות שמכסות את השדות בארץ מפברואר עד מאי הן חרצית עטורה. פעם שייכו אותה לסוג חרצית, אבל היום היא בסוג אחר, והיא לא הפרח של התה."
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "All 3 sources load and support species, 90-95C, refills, Song dynasty, Tongxiang, gukhwa-cha, NCSU hybrid/autumn/edible/mild toxicity, and Glebionis Feb-May; removed unsourced 1-minute and 2-3 minute timings from takeaway, hedged facts, fixed comparatives and dek logic."
+  }
 }

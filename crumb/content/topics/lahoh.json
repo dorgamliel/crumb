@@ -1,7 +1,7 @@
 {
   "id": "lahoh",
   "name": "לחוח",
-  "headline": "את הלחוח לא הופכים, ומתחילים במחבת קרה.",
+  "headline": "את הלחוח לא הופכים, ויש מי שמתחילים במחבת קרה.",
   "dek": "לחם תימני ספוגי שנאפה רק מצד אחד: למטה קרום שחום, למעלה מאות חורים זעירים. החורים הם כל הסיפור, וגם הסיבה שלא ממהרים עם האש.",
   "kind": "baking",
   "column": "המטבח הישראלי",
@@ -65,7 +65,7 @@
       "supports": "המתכון: יציקה למחבת קרה, חימום, קירור תחתית המחבת בין לחוח ללחוח כדי שהבלילה לא תישרף, הגשה עם סחוג"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "updatedAt": "2026-11-27",
   "addedAt": "2026-11-27",
   "keywords": [
@@ -101,12 +101,34 @@
     "serves": 10,
     "minutes": 120,
     "ingredients": [
-      { "amount": 7, "unit": "גרם", "item": "שמרים יבשים פעילים (שקית אחת)" },
-      { "amount": 2, "unit": "כפיות", "item": "סוכר" },
-      { "amount": 1000, "unit": "מ״ל", "item": "מים פושרים" },
-      { "amount": 480, "unit": "גרם", "item": "קמח לבן רגיל" },
-      { "amount": 2.25, "unit": "כפיות", "item": "מלח גס" },
-      { "item": "שמן צמחי, לשימון המחבת" }
+      {
+        "amount": 7,
+        "unit": "גרם",
+        "item": "שמרים יבשים פעילים (שקית אחת)"
+      },
+      {
+        "amount": 2,
+        "unit": "כפיות",
+        "item": "סוכר"
+      },
+      {
+        "amount": 1000,
+        "unit": "מ״ל",
+        "item": "מים פושרים"
+      },
+      {
+        "amount": 480,
+        "unit": "גרם",
+        "item": "קמח לבן רגיל"
+      },
+      {
+        "amount": 2.25,
+        "unit": "כפיות",
+        "item": "מלח גס"
+      },
+      {
+        "item": "שמן צמחי, לשימון המחבת"
+      }
     ],
     "steps": [
       "בקערה גדולה ערבבו את השמרים עם 60 מ״ל מהמים הפושרים וכפית מהסוכר. השאירו כ־5 דקות, עד שמופיע קצף.",
@@ -123,5 +145,9 @@
       "url": "https://www.jewishfoodsociety.org/recipes/lachuch"
     }
   },
-  "origin": "pipeline"
+  "origin": "pipeline",
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "He-Wikipedia, PMC 2023 paper (hole counts 22-57 and 145, starter, 2-5 min under lid, lullaby) and JFS recipe (cups converted correctly, cold pan, cooling pan) all verified. Softened headline: cold-pan start is one family's method, not a rule."
+  }
 }

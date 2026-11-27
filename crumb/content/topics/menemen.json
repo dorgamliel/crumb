@@ -60,7 +60,7 @@
       "supports": "ביצים מקושקשות לא אמורות להיות נוזליות, ומנות עם ביצים מבשלים עד 160 פרנהייט (71 מעלות צלזיוס)"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-27",
   "updatedAt": "2026-11-27",
@@ -163,5 +163,9 @@
       "publisher": "The Guardian",
       "url": "https://www.theguardian.com/food/2023/may/24/how-to-cook-the-perfect-menemen-recipe-turkish-eggs-breakfast-peppers-felicity-cloake"
     }
+  },
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "Wikipedia (poll 437,657 / 50.6%, Cretan origin, Turkish sakshuka), Guardian (Cloake method, Sivrioglu) and FDA (160F, not runny) verified; recipe cooks eggs through rather than Cloake's soft finish. Headline made exact (437 thousand), fixed two non-sequitur 'mikan' connectors, FDA phrasing, added cook-until-firm for unbeaten eggs in note."
   }
 }

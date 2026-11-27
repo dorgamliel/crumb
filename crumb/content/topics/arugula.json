@@ -71,7 +71,7 @@
       "supports": "טעם חריף ופלפלי, קטיף 45 עד 60 יום אחרי זריעה, חום גורם לעלייה בפריחה ולהיחלשות, רגישות לכפור"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-27",
   "updatedAt": "2026-11-27",
@@ -110,5 +110,9 @@
     ],
     "correct": 0,
     "explanation": "רוקט הוא צמח של מזג אוויר קריר. בחום הוא ממהר להצמיח גבעול פרחים, הצמיחה של העלים נעצרת, והעלים מצמח שפרח מרים. ההאדמה של העלים קשורה דווקא לכפור קל."
+  },
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "Verified all 3 sources (en/he Wikipedia, Clemson HGIC; NC State toolbox confirms heat bolting and bitter older leaves); quiz correct; softened frost line and Elisha wording, smoothed takeaway."
   }
 }

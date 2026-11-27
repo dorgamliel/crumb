@@ -65,7 +65,7 @@
       "supports": "המתכון: חומוס שמתחמם עם שום, פיתה קלויה בתנור, יוגורט בשום ולימון, קשיו בחמאה חומה"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-27",
   "updatedAt": "2026-11-27",
@@ -179,5 +179,9 @@
       "publisher": "Bon Appétit",
       "url": "https://www.bonappetit.com/recipe/crispy-pita-with-chickpeas-and-yogurt-fattet-hummus"
     }
+  },
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "All 3 sources load and support etymology, variants, Fatimid/iftar, Helou quotes; BA recipe matches (350F, 8-10 min, 6 Tbsp butter). Softened 'born to save bread' in dek, fixed dangling mansaf sentence, Levant/Lebanon phrasing, 'cookbook author' wording, glossed samneh."
   }
 }

@@ -65,7 +65,7 @@
       "supports": "74 מעלות צלזיוס (165 פרנהייט) לעוף טחון, כולל קציצות, ומדידה במרכז עם מדחום דיגיטלי"
     }
   ],
-  "status": "draft",
+  "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-27",
   "updatedAt": "2026-11-27",
@@ -186,5 +186,9 @@
       "publisher": "Jewish Food Society",
       "url": "https://www.jewishfoodsociety.org/recipes/gondi-persian-chickpea-dumplings"
     }
+  },
+  "review": {
+    "checkedAt": "2026-11-27",
+    "notes": "Wikipedia, JFS and Health Canada load and support origin, etymology, Ghalchi quote and method, 74C for ground poultry; recipe follows JFS with thermometer check added. Removed unsourced kneading time and yield count, fixed 'matriarch' wording."
   }
 }
