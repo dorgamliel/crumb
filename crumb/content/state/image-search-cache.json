@@ -53600,5 +53600,52 @@
       "width": 2048,
       "height": 2048
     }
-  ]
+  ],
+  "alfajores cookies dulce de leche": [
+    {
+      "id": "6f176065-1e8a-4de1-8902-d8ff6d601cb8",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Alfajores-de-maicena-biscuits-recipe.jpg",
+      "title": "Alfajores-de-maicena-biscuits-recipe",
+      "creator": "Sara McCleary",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=103986624",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "id": "5306b9ed-9d6f-4266-b015-ae7769370dee",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Naked_sandwich_Argentine_alfajor.jpg",
+      "title": "Naked sandwich Argentine alfajor",
+      "creator": "Dezastru (talk) 17:47, 22 April 2012 (UTC)",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=25365989",
+      "width": 2324,
+      "height": 1614
+    },
+    {
+      "id": "daa39f43-d32b-4477-ba48-a20b8e955615",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alfajor_de_maicena_and_a_latte.jpg",
+      "title": "Alfajor de maicena and a latte",
+      "creator": "Anina2007",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/w/index.php?curid=10752605",
+      "width": 2592,
+      "height": 1944
+    },
+    {
+      "id": "commons-174521925",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/R%C3%BAstico_Chocolate_artisan_dark_chocolate_alfajor_with_dulce_de_leche.jpg",
+      "title": "Rústico Chocolate artisan dark chocolate alfajor with dulce de leche",
+      "creator": "AsadoExplorer",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "landing": "https://commons.wikimedia.org/wiki/File:R%C3%BAstico_Chocolate_artisan_dark_chocolate_alfajor_with_dulce_de_leche.jpg",
+      "width": 1280,
+      "height": 960
+    }
+  ],
+  "bimuelos fritters": []
 }

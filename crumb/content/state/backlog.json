@@ -55,11 +55,6 @@
     "kind": "techniques"
   },
   {
-    "id": "carbonation",
-    "name": "פחמון משקאות",
-    "kind": "science"
-  },
-  {
     "id": "spritz",
     "name": "שפריץ",
     "kind": "drinks"
@@ -73,16 +68,6 @@
     "id": "corn",
     "name": "תירס",
     "kind": "ingredients"
-  },
-  {
-    "id": "pan-sauce",
-    "name": "רוטב מחבת",
-    "kind": "techniques"
-  },
-  {
-    "id": "scrambled-eggs",
-    "name": "ביצה מקושקשת",
-    "kind": "techniques"
   },
   {
     "id": "stand-mixer",
@@ -100,24 +85,9 @@
     "kind": "baking"
   },
   {
-    "id": "red-velvet",
-    "name": "רד ולווט",
-    "kind": "baking"
-  },
-  {
-    "id": "lahoh",
-    "name": "לחוח",
-    "kind": "baking"
-  },
-  {
     "id": "lecso",
     "name": "לצ׳ו",
     "kind": "dishes"
-  },
-  {
-    "id": "arugula",
-    "name": "רוקט",
-    "kind": "ingredients"
   },
   {
     "id": "jujube",
@@ -127,11 +97,6 @@
   {
     "id": "mulberries",
     "name": "תותי עץ",
-    "kind": "ingredients"
-  },
-  {
-    "id": "buttermilk",
-    "name": "חובצה",
     "kind": "ingredients"
   },
   {
@@ -150,24 +115,9 @@
     "kind": "ingredients"
   },
   {
-    "id": "poppy-seeds",
-    "name": "פרג",
-    "kind": "ingredients"
-  },
-  {
     "id": "etrog",
     "name": "אתרוג",
     "kind": "ingredients"
-  },
-  {
-    "id": "fatteh",
-    "name": "פתה",
-    "kind": "dishes"
-  },
-  {
-    "id": "gondi",
-    "name": "גונדי",
-    "kind": "dishes"
   },
   {
     "id": "mac-and-cheese",
@@ -193,16 +143,6 @@
     "id": "huevos-haminados",
     "name": "ביצים חמינדוס",
     "kind": "dishes"
-  },
-  {
-    "id": "menemen",
-    "name": "מנמן",
-    "kind": "dishes"
-  },
-  {
-    "id": "florentines",
-    "name": "פלורנטינים",
-    "kind": "baking"
   },
   {
     "id": "tuiles",
@@ -235,18 +175,8 @@
     "kind": "baking"
   },
   {
-    "id": "americano",
-    "name": "אמריקנו",
-    "kind": "drinks"
-  },
-  {
     "id": "gyokuro",
     "name": "גיוקורו",
-    "kind": "drinks"
-  },
-  {
-    "id": "chrysanthemum-tea",
-    "name": "תה חרצית",
     "kind": "drinks"
   },
   {
@@ -287,11 +217,6 @@
   {
     "id": "betalains",
     "name": "בטלאינים",
-    "kind": "science"
-  },
-  {
-    "id": "cruciferous-aroma",
-    "name": "ריח הכרוב",
     "kind": "science"
   },
   {

@@ -133,7 +133,7 @@
   },
   "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety": {
     "ok": true,
-    "checkedAt": "2026-11-24"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Edible_mushroom": {
     "ok": true,
@@ -1552,7 +1552,7 @@
   },
   "https://en.wikipedia.org/wiki/Dutch_process_chocolate": {
     "ok": true,
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Carbonated_water": {
     "ok": true,
@@ -1625,7 +1625,7 @@
   },
   "https://en.wikipedia.org/wiki/Red_velvet_cake": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Devil%27s_food_cake": {
     "ok": true,
@@ -1965,7 +1965,7 @@
   },
   "https://en.wikipedia.org/wiki/Glucosinolate": {
     "ok": true,
-    "checkedAt": "2026-10-28"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Egg_white": {
     "ok": true,
@@ -5340,7 +5340,7 @@
   },
   "https://www.kingarthurbaking.com/recipes/basbousa-syrup-soaked-semolina-cake-recipe": {
     "ok": true,
-    "checkedAt": "2026-11-20"
+    "checkedAt": "2026-11-27"
   },
   "https://www.177milkstreet.com/stories/whats-that-white-stuff-on-salmon": {
     "ok": true,
@@ -5872,7 +5872,7 @@
   },
   "https://www.kingarthurbaking.com/recipes/all-butter-pie-crust-recipe": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-27"
   },
   "https://www.kingarthurbaking.com/learn/guides/fruit-pie-thickener": {
     "ok": false,
@@ -5943,7 +5943,7 @@
   },
   "https://www.kingarthurbaking.com/blog/2019/01/28/buttermilk-substitute": {
     "ok": true,
-    "checkedAt": "2026-11-13"
+    "checkedAt": "2026-11-27"
   },
   "https://www.americastestkitchen.com/recipes/13757-chicken-b-stilla": {
     "ok": true,
@@ -6876,7 +6876,7 @@
   },
   "https://www.myjewishlearning.com/the-nosher/moroccan-sfenj-donuts/": {
     "ok": true,
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-27"
   },
   "https://www.bonappetit.com/recipe/tahdig": {
     "ok": false,
@@ -7691,7 +7691,7 @@
   },
   "https://www.americastestkitchen.com/cooksillustrated/how_tos/5551-pan-sauces-101": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-27"
   },
   "https://www.americastestkitchen.com/how_tos/6122-water-baths": {
     "ok": true,
@@ -8875,7 +8875,7 @@
   },
   "https://www.kingarthurbaking.com/recipes/hamantaschen-recipe": {
     "ok": true,
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-27"
   },
   "https://www.myjewishlearning.com/the-nosher/moroccan-cigars/": {
     "ok": false,
@@ -13597,7 +13597,7 @@
   },
   "https://www.kingarthurbaking.com/recipes/shortbread-recipe": {
     "ok": true,
-    "checkedAt": "2026-11-25"
+    "checkedAt": "2026-11-27"
   },
   "https://www.bbcgoodfood.com/recipes/minestrone-soup": {
     "ok": false,
@@ -14304,7 +14304,7 @@
   },
   "https://www.bbcgoodfood.com/recipes/irish-soda-bread": {
     "ok": true,
-    "checkedAt": "2026-11-26"
+    "checkedAt": "2026-11-27"
   },
   "https://www.bbcgoodfood.com/recipes/beef-koftas": {
     "ok": false,
@@ -15012,5 +15012,473 @@
   "https://japansake.or.jp/sake/en/basic/09/": {
     "ok": true,
     "checkedAt": "2026-11-26"
+  },
+  "https://en.wikipedia.org/wiki/Eruca_vesicaria": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/goulash": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/recipes/cinnamon-rolls-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Fatteh": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Gondi_(food)": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Menemen_(food)": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Scrambled_eggs": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/recipes/red-velvet-cake-recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=fatteh+recipe+serious+eats+kassis": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.splendidtable.org/story/2017/10/06/the-evolution-of-red-velvet-cake-an-iconic-american-dessert": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=gondi+recipe+persian+jewish+chicken+chickpea+flour": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=menemen+recipe+turkish+eggs": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/hungarian-goulash": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/moussaka": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/spanish-tortilla": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=king+arthur+baking+what+is+semolina+flour+how+do+I+bake+with+it": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Arugula": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=purdue+newcrop+sesame+alternative+field+crops+manual+shattering": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Aseriouseats.com+hummus+fatteh": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Aseriouseats.com+menemen": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Ajewishfoodsociety.org+gondi": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Amyjewishlearning.com+gondi": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Aseriouseats.com+1001+faces+of+fatteh": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/wiki/בן-חרדל_תרבותי": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/blog/2023/06/20/what-is-semolina-flour-and-how-do-i-bake-with-it": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://hort.purdue.edu/newcrop/afcm/sesame.html": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=king+arthur+baking+rye+flour+amylase+sourdough+acid+starch": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/wiki/בן-חרדל": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=serious+eats+kosher+salt+diamond+crystal+morton+volume+weight": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/easy-moussaka": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.jewishfoodsociety.org/recipes/gondi-persian-chickpea-dumplings": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.jewishfoodsociety.org/recipes/gondi-meatballs-with-chickpea": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/goulash-soup": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/beef-goulash": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=serious+eats+searing+does+not+seal+in+juices+food+lab": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=king+arthur+baking+scones+cold+butter+tips": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/blog/2016/03/23/make-jewish-rye-bread-part-2": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=fatteh+hummus+recipe+chickpeas+yogurt+pita+site%3A177milkstreet.com+OR+site%3Abbcgoodfood.com+OR+site%3Abonappetit.com+OR+site%3Atheguardian.com+OR+site%3Aottolenghi.co.uk": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/blog/2026/10/15/flour-enzymes": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=bbc+fatteh+layered+dish+of+bread+and+yoghurt": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=fsis+safe+minimum+internal+temperature+chart": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Amyjewishlearning.com+gondi+persian+jewish+soup+you+need+right+now": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/articles/5493-the-wrong-kind-of-salt-could-ruin-your-dinner": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bonappetit.com/recipe/crispy-pita-with-chickpeas-and-yogurt-fattet-hummus": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbc.com/travel/article/20230419-fatteh-a-layered-dish-of-bread-and-yoghurt": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/learn/guides/scone": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=searing+meat+seal+in+juices+myth+americastestkitchen": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=searing+seal+in+juices+myth+extension+edu+maillard": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=searing+myth+seal+juices+bbc+science+focus+OR+smithsonian+OR+npr": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Lahoh": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/wiki/לחוח": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/wiki/רוקט": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/recipes/lahoh-recipe": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.myjewishlearning.com/the-nosher/yemenite-lahoh/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bonappetit.com/recipe/lahoh": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/wiki/גרגיר": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://extension.umn.edu/vegetables/growing-arugula": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC10453120/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://extension.usu.edu/vegetableguide/specialty-crops/arugula": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://hgic.clemson.edu/factsheet/arugula/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://extension.psu.edu/arugula": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.almanac.com/plant/arugula": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Buttermilk": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/blog/2021/05/04/buttermilk-substitute": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/blog/2019/05/03/buttermilk-substitutes": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/blog/2014/04/27/buttermilk": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bonappetit.com/story/what-is-buttermilk": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/articles/1532-what-is-buttermilk": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://food.unl.edu/article/buttermilk": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/collection/goulash-recipes": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.theguardian.com/food/goulash": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bbcgoodfood.com/recipes/beef-goulash-soup": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/wiki/חובצה": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.theguardian.com/lifeandstyle/wordofmouth/2011/nov/24/how-to-cook-perfect-goulash": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.epicurious.com/recipes/food/views/hungarian-goulash": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bonappetit.com/recipe/beef-goulash": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Poppy_seed": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/cooksillustrated/how_tos/5699-searing-steak": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bing.com/search?q=mohn+poppy+seed+filling+ashkenazi+jewish+purim+history": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bing.com/search?q=americastestkitchen.com+hungarian+goulash+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=poppy+seed+mohn+jewish+baking+history+article": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=sfenj+moroccan+doughnut+history+sponge+recipe": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=americas+test+kitchen+hungarian+goulash": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=sfenj+hanukkah+jewish+food+society+OR+nosher+OR+tablet": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10453120/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=americastestkitchen.com+recipes+hungarian+beef+stew": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=americastestkitchen.com+recipes+moussaka": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/recipes/13578-simple-hungarian-beef-stew": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/recipes/4514-hungarian-beef-stew": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/recipes/15034-moussaka": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/recipes/5180-layered-eggplant-and-lamb-casserole-moussaka": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/w/index.php?title=%D7%9C%D7%97%D7%95%D7%97&action=raw": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/w/index.php?title=%D7%AA%D7%91%D7%A0%D7%99%D7%AA:%D7%94%D7%90%D7%A8%D7%A5&action=raw": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Aamericastestkitchen.com+perfect+scrambled+eggs": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Aamericastestkitchen.com+pan+sauce": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=site%3Abonappetit.com+scrambled+eggs+low+and+slow": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/articles/79-perfect-scrambled-eggs": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/recipes/6604-perfect-scrambled-eggs": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/articles/578-creamy-french-scrambled-eggs": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/lessons/articles/1269-pan-sauces": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/how_tos/6214-making-pan-sauces-in-a-nonstick-pan": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/recipes/7793-red-wine-pan-sauce": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/articles/8642-how-to-make-chicken-with-pan-sauce": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.americastestkitchen.com/recipes/4657-garlic-and-thyme-pan-sauce": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=menemen+recipe+site%3Abbcgoodfood.com+OR+site%3A177milkstreet.com+OR+site%3Abonappetit.com+OR+site%3Atheguardian.com+OR+site%3Acooking.nytimes.com+OR+site%3Afood52.com": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=sfenj+saveur+OR+atlasobscura+OR+npr+OR+bbc+OR+taste+atlas": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=sfenj+moroccan+doughnut+flour+water+yeast+no+eggs+street+vendors": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/SodaStream": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=menemen+site%3Abbc.co.uk%2Ffood": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Poppy_seed_paste": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/w/index.php?title=Lahoh&action=raw": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.latimes.com/archives/la-xpm-1997-jul-30-fo-17595-story.html": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
   }
 }
