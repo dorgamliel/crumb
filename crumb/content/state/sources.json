@@ -61,7 +61,7 @@
   },
   "https://en.wikipedia.org/wiki/Espresso": {
     "ok": true,
-    "checkedAt": "2026-11-24"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Miso": {
     "ok": true,
@@ -1447,7 +1447,7 @@
   },
   "https://en.wikipedia.org/wiki/Pour-over_coffee": {
     "ok": true,
-    "checkedAt": "2026-10-25"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Baklava": {
     "ok": true,
@@ -15733,6 +15733,35 @@
     "checkedAt": "2026-11-27"
   },
   "https://www.theguardian.com/food/lahoh": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.jewishfoodsociety.org/recipes/lahoh": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.jewishfoodsociety.org/recipes/yemenite-lahoh": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.jewishfoodsociety.org/recipes/lachuch": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.saveur.com/article/recipes/lahoh/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.myjewishlearning.com/the-nosher/lachuch-yemenite-flatbread/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/recipes/lachuch-recipe": {
     "ok": false,
     "status": 404,
     "checkedAt": "2026-11-27"
