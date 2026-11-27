@@ -1427,7 +1427,7 @@
   },
   "https://en.wikipedia.org/wiki/Hamantash": {
     "ok": true,
-    "checkedAt": "2026-10-25"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Rice_noodles": {
     "ok": true,
@@ -15478,6 +15478,22 @@
     "checkedAt": "2026-11-27"
   },
   "https://www.latimes.com/archives/la-xpm-1997-jul-30-fo-17595-story.html": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Carbonation": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://search.brave.com/search?q=taste+of+carbonation+carbonic+anhydrase+sour+cells+Chandrashekar+2009": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3654389/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://biology.ucsd.edu/about/news/article_101509.html": {
     "ok": true,
     "checkedAt": "2026-11-27"
   }
