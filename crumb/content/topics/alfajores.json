@@ -177,7 +177,18 @@
       "url": "https://www.americastestkitchen.com/cooksillustrated/recipes/14329-alfajores-de-maicena-buttery-cornstarch-cookies-filled-with-dulce-de-leche"
     }
   },
-  "image": null,
+  "image": {
+    "key": "alfajores",
+    "width": 1280,
+    "height": 1280,
+    "alt": "אלפחורס ממולאים בדולסה דה לצ׳ה ומגולגלים בקוקוס על רשת צינון",
+    "credit": {
+      "author": "Sara McCleary",
+      "source": "Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/w/index.php?curid=103986624"
+    }
+  },
   "status": "auto-checked",
   "origin": "pipeline",
   "addedAt": "2026-11-25",
