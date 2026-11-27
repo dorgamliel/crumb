@@ -37,7 +37,7 @@
   },
   "https://en.wikipedia.org/wiki/Shortcrust_pastry": {
     "ok": true,
-    "checkedAt": "2026-11-26"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Pretzel": {
     "ok": true,
@@ -53,7 +53,7 @@
   },
   "https://en.wikipedia.org/wiki/Salt": {
     "ok": true,
-    "checkedAt": "2026-11-14"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Risotto": {
     "ok": true,
@@ -89,7 +89,7 @@
   },
   "https://en.wikipedia.org/wiki/Kosher_salt": {
     "ok": true,
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Shakshouka": {
     "ok": true,
@@ -374,7 +374,7 @@
   },
   "https://en.wikipedia.org/wiki/Rye_bread": {
     "ok": true,
-    "checkedAt": "2026-10-17"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Tempering_(spices)": {
     "ok": true,
@@ -1332,7 +1332,7 @@
   },
   "https://en.wikipedia.org/wiki/Quick_bread": {
     "ok": true,
-    "checkedAt": "2026-11-24"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Viscosity": {
     "ok": true,
@@ -1688,7 +1688,7 @@
   },
   "https://en.wikipedia.org/wiki/Scone": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Omelette": {
     "ok": true,
@@ -1696,7 +1696,7 @@
   },
   "https://en.wikipedia.org/wiki/Biscuit_(bread)": {
     "ok": true,
-    "checkedAt": "2026-10-27"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Maple_syrup": {
     "ok": true,
@@ -2297,7 +2297,7 @@
   },
   "https://en.wikipedia.org/wiki/Shortbread": {
     "ok": true,
-    "checkedAt": "2026-10-30"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Colligative_properties": {
     "ok": true,
@@ -3972,7 +3972,7 @@
   },
   "https://en.wikipedia.org/wiki/Sfenj": {
     "ok": true,
-    "checkedAt": "2026-11-08"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Caf%C3%A9_au_lait": {
     "ok": true,
@@ -15652,6 +15652,43 @@
   },
   "https://search.brave.com/search?q=pie+crust+science+fat+coats+flour+gluten+steam+flaky+extension+edu": {
     "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.myjewishlearning.com/the-nosher/lahoh-yemenite-flatbread/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.myjewishlearning.com/the-nosher/yemenite-lahoh-flatbread/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.myjewishlearning.com/the-nosher/lahoh/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.196flavors.com/yemen-lahoh/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikipedia.org/wiki/Chrysanthemum_tea": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.196flavors.com/lahoh/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://en.wikibooks.org/wiki/Cookbook:Lahoh": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.kingarthurbaking.com/recipes/yemenite-lahoh-recipe": {
+    "ok": false,
+    "status": 404,
     "checkedAt": "2026-11-27"
   }
 }
