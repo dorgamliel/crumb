@@ -4257,11 +4257,11 @@
   },
   "https://en.wikipedia.org/wiki/Soda_bread": {
     "ok": true,
-    "checkedAt": "2026-11-09"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Irish_soda_bread": {
     "ok": true,
-    "checkedAt": "2026-11-09"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Siniyah": {
     "ok": false,
@@ -15689,6 +15689,18 @@
   "https://www.kingarthurbaking.com/recipes/yemenite-lahoh-recipe": {
     "ok": false,
     "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://plants.ces.ncsu.edu/plants/chrysanthemum-morifolium/": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/wiki/חרצית": {
+    "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://he.wikipedia.org/wiki/חרצית_עטורה": {
+    "ok": true,
     "checkedAt": "2026-11-27"
   }
 }
