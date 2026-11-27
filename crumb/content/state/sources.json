@@ -49,7 +49,7 @@
   },
   "https://en.wikipedia.org/wiki/Maillard_reaction": {
     "ok": true,
-    "checkedAt": "2026-11-14"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Salt": {
     "ok": true,
@@ -145,7 +145,7 @@
   },
   "https://en.wikipedia.org/wiki/Tahini": {
     "ok": true,
-    "checkedAt": "2026-11-11"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Agaricus_bisporus": {
     "ok": true,
@@ -821,7 +821,7 @@
   },
   "https://en.wikipedia.org/wiki/Sesame": {
     "ok": true,
-    "checkedAt": "2026-10-20"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Potato": {
     "ok": true,
@@ -1455,7 +1455,7 @@
   },
   "https://en.wikipedia.org/wiki/Semolina": {
     "ok": true,
-    "checkedAt": "2026-11-12"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Lassi": {
     "ok": true,
@@ -1641,7 +1641,7 @@
   },
   "https://en.wikipedia.org/wiki/Moussaka": {
     "ok": true,
-    "checkedAt": "2026-10-26"
+    "checkedAt": "2026-11-27"
   },
   "https://en.wikipedia.org/wiki/Clarified_butter": {
     "ok": true,
@@ -15720,6 +15720,21 @@
   },
   "https://plants.ces.ncsu.edu/plants/eruca-vesicaria/": {
     "ok": true,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.saveur.com/recipes/lahoh/": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.bonappetit.com/recipe/yemenite-lahoh": {
+    "ok": false,
+    "status": 404,
+    "checkedAt": "2026-11-27"
+  },
+  "https://www.theguardian.com/food/lahoh": {
+    "ok": false,
+    "status": 404,
     "checkedAt": "2026-11-27"
   }
 }
