@@ -1320,46 +1320,46 @@
       "title": "לאט ובטעם.",
       "subtitle": "בלי לחץ. רק אוכל, ומה שמסתתר מאחוריו.",
       "topics": [
-        "chestnuts",
-        "pan-sauce",
-        "chrysanthemum-tea",
-        "apple-strudel",
-        "pomegranate-juice",
-        "pomegranate",
-        "quince",
-        "panettone"
+        "gyokuro",
+        "chia-seeds",
+        "oat-milk",
+        "macchiato",
+        "garinim",
+        "passion-fruit",
+        "victoria-sponge",
+        "charring-peppers"
       ],
-      "quiz": "pan-sauce"
+      "quiz": "gyokuro"
     },
     "afternoon": {
       "title": "באמצע היום.",
       "subtitle": "עצירה קצרה עם משהו טעים לחשוב עליו.",
       "topics": [
-        "pomelo",
-        "fatteh",
-        "cruciferous-aroma",
-        "clementine",
-        "kumquat",
-        "orange-juice",
-        "gingerbread",
-        "hot-chocolate"
+        "assam",
+        "shallots",
+        "vichyssoise",
+        "orange-wine",
+        "french-onion-soup",
+        "apple-strudel",
+        "pomegranate-juice",
+        "pomegranate"
       ],
-      "quiz": "fatteh"
+      "quiz": "assam"
     },
     "evening": {
       "title": "הערב במטבח.",
       "subtitle": "מה למדנו היום, ומה אפשר לנסות מחר.",
       "topics": [
-        "borscht",
-        "lahoh",
-        "americano",
-        "kale",
-        "arugula",
         "dill",
-        "french-onion-soup",
+        "kasha-varnishkes",
+        "cucumbers",
+        "parsley",
+        "borscht",
+        "panettone",
+        "gingerbread",
         "lentil-soup"
       ],
-      "quiz": "lahoh"
+      "quiz": "kasha-varnishkes"
     }
   },
   "2026-11-30": {
@@ -1367,46 +1367,46 @@
       "title": "מתחילים את היום בטעם.",
       "subtitle": "כמה גילויים קטנים לפני שהיום נפתח.",
       "topics": [
-        "kale",
-        "mandelbrot",
-        "carotenoids",
-        "arugula",
-        "biscotti",
-        "baking-powder",
-        "sponge-cake",
-        "persimmon"
+        "kumquat",
+        "creme-caramel",
+        "latent-heat",
+        "clementine",
+        "pomelo",
+        "sufganiyot",
+        "sahlab",
+        "hot-chocolate"
       ],
-      "quiz": "mandelbrot"
+      "quiz": "creme-caramel"
     },
     "afternoon": {
       "title": "צהריים במטבח.",
       "subtitle": "מה קורה בסיר, ולמה זה עובד.",
       "topics": [
-        "hot-chocolate",
-        "kushari",
-        "mocha",
-        "sahlab",
+        "cholent",
+        "huevos-haminados",
+        "blondies",
         "pumpkin",
         "kohlrabi",
-        "cholent",
-        "nutmeg"
+        "quince",
+        "borscht",
+        "roasting-vegetables"
       ],
-      "quiz": "hot-chocolate"
+      "quiz": "huevos-haminados"
     },
     "evening": {
       "title": "אור נמוך, סיר חם.",
       "subtitle": "גילויים קטנים לסוף היום.",
       "topics": [
-        "ghee",
-        "ghraybeh",
-        "toasting-flour",
+        "chestnuts",
+        "lahoh",
+        "crunch-sound",
+        "arugula",
+        "kale",
         "panettone",
-        "quince",
-        "guava",
         "gingerbread",
-        "minestrone"
+        "starch"
       ],
-      "quiz": "ghraybeh"
+      "quiz": "lahoh"
     }
   }
 }

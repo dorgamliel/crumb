@@ -9,7 +9,7 @@
     "key": "egg-wash",
     "width": 1280,
     "height": 960,
-    "alt": "חלות קלועות ומבריקות מהברשת ביצה על תבנית, ולידן כוס עם ביצה טרופה",
+    "alt": "קליעות בצק מבריקות מהברשת ביצה על תבנית לפני האפייה, ולידן כוס עם ביצה טרופה",
     "credit": {
       "author": "Jeremy Keith from Brighton &amp; Hove, United Kingdom",
       "source": "Wikimedia Commons",
@@ -27,7 +27,7 @@
     "פחות נוזל נותן צבע כהה יותר",
     "מורחים רק לפני האפייה, ורק על מה שנאפה"
   ],
-  "takeaway": "בפעם הבאה שאתם אופים לחמניות, נסו ניסוי קטן לפני שהן נכנסות לתנור: הברישו חצי מהן בביצה שלמה עם מעט מים, ואת החצי השני בחלמון עם כף חלב. כשהן יוצאות, השוו את הצבע והברק.",
+  "takeaway": "אופים לחמניות? נסו ניסוי קטן לפני שהן נכנסות לתנור: הברישו חצי מהן בביצה שלמה עם מעט מים, ואת החצי השני בחלמון עם כף חלב. כשהן יוצאות, השוו את הצבע והברק.",
   "related": [
     {
       "target": "eggs",
@@ -62,10 +62,16 @@
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Glaze_(cooking_technique)",
       "supports": "הברשת חלבון כציפוי מבריק על מאפים"
+    },
+    {
+      "title": "How one plant-based milk became our test kitchen's favorite \"egg\" wash",
+      "publisher": "King Arthur Baking",
+      "url": "https://www.kingarthurbaking.com/blog/2021/11/12/soy-milk-best-vegan-egg-wash",
+      "supports": "הברשת ביצה נותנת ברק וצבע, מדביקה זרעים, חלמון לצבע וחלבון לברק, וחלב צמחי כתחליף"
     }
   ],
   "status": "auto-checked",
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-11-28",
   "addedAt": "2026-10-30",
   "keywords": [
     "הברשה",
