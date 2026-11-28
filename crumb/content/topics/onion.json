@@ -23,11 +23,11 @@
     "בבישול הסיפור מתהפך. בצל הוא בערך 89% מים ויש בו כמה אחוזים של סוכר. בחום נמוך וממושך המים מתאדים, הסוכרים מתרכזים, והבצל משחים לגוון חום עמוק ולטעם מתוק. זה לוקח זמן, בדרך כלל 30 עד 45 דקות, הרבה יותר ממה שמתכונים רבים מבטיחים. ככה מתחיל מרק הבצל הצרפתי."
   ],
   "facts": [
-    "בצל הוא בערך 89% מים",
+    "רוב הבצל הוא מים: כ־89%",
     "באזור השורשים מרוכזות יותר תרכובות הגופרית",
-    "קרמול אמיתי של בצל לוקח בדרך כלל 30 עד 45 דקות"
+    "קרמול אמיתי של בצל לוקח 30 עד 45 דקות"
   ],
-  "takeaway": "בפעם הבאה שאתם מקרמלים בצל, תנו לו זמן: אש בינונית־נמוכה, מעט שמן וערבוב מדי פעם. אם נוצר משקע חום בתחתית, הוסיפו כף מים וגרדו אותו לתוך הבצל. המשקע הזה הוא טעם, לא שריפה.",
+  "takeaway": "מקרמלים בצל? תנו לו זמן: אש בינונית־נמוכה, מעט שמן וערבוב מדי פעם. אם נוצר משקע חום בתחתית, הוסיפו כף מים וגרדו אותו לתוך הבצל. המשקע הזה הוא טעם, לא שריפה.",
   "related": [
     {
       "target": "garlic",
@@ -55,23 +55,23 @@
       "title": "Onion",
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Onion",
-      "supports": "מנגנון הדמעות, חיתוך במים, ריכוז הגופרית בבסיס, תכולת מים וסוכר"
-    },
-    {
-      "title": "Syn-Propanethial-S-oxide",
-      "publisher": "Wikipedia (באנגלית)",
-      "url": "https://en.wikipedia.org/wiki/Syn-Propanethial-S-oxide",
-      "supports": "הגז שמשתחרר מבצל חתוך והאנזימים שיוצרים אותו"
+      "supports": "מנגנון הדמעות, האנזימים והגז שמשתחרר מבצל חתוך, חיתוך במים, ריכוז הגופרית בבסיס, תכולת מים וסוכר"
     },
     {
       "title": "Caramelization",
       "publisher": "Wikipedia (באנגלית)",
       "url": "https://en.wikipedia.org/wiki/Caramelization",
       "supports": "קרמול בצל לוקח 30 עד 45 דקות; מרק בצל צרפתי"
+    },
+    {
+      "title": "How long does it really take to caramelize onions?",
+      "publisher": "Slate",
+      "url": "https://www.slate.com/articles/life/scocca/2012/05/how_to_cook_onions_why_recipe_writers_lie_and_lie_about_how_long_they_take_to_caramelize_.html",
+      "supports": "קרמול בצל לוקח הרבה יותר זמן ממה שמתכונים רבים מבטיחים"
     }
   ],
   "status": "auto-checked",
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-11-28",
   "addedAt": "2026-10-09",
   "keywords": [
     "דמעות",

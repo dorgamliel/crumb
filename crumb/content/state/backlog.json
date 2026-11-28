@@ -100,18 +100,8 @@
     "kind": "ingredients"
   },
   {
-    "id": "chia-seeds",
-    "name": "זרעי צ׳יה",
-    "kind": "ingredients"
-  },
-  {
     "id": "green-almonds",
     "name": "שקדים ירוקים",
-    "kind": "ingredients"
-  },
-  {
-    "id": "cucumbers",
-    "name": "מלפפון",
     "kind": "ingredients"
   },
   {
@@ -130,28 +120,8 @@
     "kind": "dishes"
   },
   {
-    "id": "vichyssoise",
-    "name": "מרק כרישה ותפוחי אדמה",
-    "kind": "dishes"
-  },
-  {
-    "id": "kasha-varnishkes",
-    "name": "קשה ורנישקס",
-    "kind": "dishes"
-  },
-  {
-    "id": "huevos-haminados",
-    "name": "ביצים חמינדוס",
-    "kind": "dishes"
-  },
-  {
     "id": "tuiles",
     "name": "טואיל",
-    "kind": "baking"
-  },
-  {
-    "id": "victoria-sponge",
-    "name": "עוגת ויקטוריה",
     "kind": "baking"
   },
   {
@@ -160,24 +130,9 @@
     "kind": "baking"
   },
   {
-    "id": "blondies",
-    "name": "בלונדיז",
-    "kind": "baking"
-  },
-  {
     "id": "ladyfingers",
     "name": "בישקוטים",
     "kind": "baking"
-  },
-  {
-    "id": "creme-caramel",
-    "name": "קרם קרמל",
-    "kind": "baking"
-  },
-  {
-    "id": "gyokuro",
-    "name": "גיוקורו",
-    "kind": "drinks"
   },
   {
     "id": "sherry",
@@ -187,11 +142,6 @@
   {
     "id": "nitro-cold-brew",
     "name": "קולד ברו בחנקן",
-    "kind": "drinks"
-  },
-  {
-    "id": "orange-wine",
-    "name": "יין כתום",
     "kind": "drinks"
   },
   {
@@ -205,34 +155,14 @@
     "kind": "drinks"
   },
   {
-    "id": "latent-heat",
-    "name": "חום כמוס",
-    "kind": "science"
-  },
-  {
     "id": "freezer-burn",
     "name": "כוויית הקפאה",
-    "kind": "science"
-  },
-  {
-    "id": "betalains",
-    "name": "בטלאינים",
     "kind": "science"
   },
   {
     "id": "surface-area",
     "name": "שטח פנים",
     "kind": "science"
-  },
-  {
-    "id": "crunch-sound",
-    "name": "צליל הפריכות",
-    "kind": "science"
-  },
-  {
-    "id": "charring-peppers",
-    "name": "קליית פלפלים על האש",
-    "kind": "techniques"
   },
   {
     "id": "tea-steeping",
@@ -267,11 +197,6 @@
   {
     "id": "mantecatura",
     "name": "מנטקטורה",
-    "kind": "techniques"
-  },
-  {
-    "id": "washing-mushrooms",
-    "name": "שטיפת פטריות",
     "kind": "techniques"
   }
 ]

@@ -1,0 +1,6 @@
+{
+  "id": "kubbeh",
+  "verdict": "pass",
+  "notes": "Wikipedia and ATK both load and support body, quiz (index 0 correct) and recipe (quantities, 95C/190C, times converted correctly; 71C ground-meat check present). Fixed: definition opener now leads with Aleppo's 17 types, takeaway now allows oiled hands to match the recipe, added 'keep frying and recheck' to the thermometer step. Photo matches.",
+  "issues": []
+}
